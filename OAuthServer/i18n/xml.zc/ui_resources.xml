@@ -2,10 +2,10 @@
 <ui_resources>
   <resource key="common.version" value="Release"/>
   <resource key="common.build" value="Build"/>
-  <resource key="login.username" value="Username"/>
+  <resource key="login.username" value="用户名"/>
   <resource key="login.login_with" value="Login with"/>
-  <resource key="login.password" value="Password"/>
-  <resource key="login.database" value="Database"/>
+  <resource key="login.password" value="密码"/>
+  <resource key="login.database" value="数据库"/>
   <resource key="login.capslock_is_on" value="Caps Lock is On"/>
   <resource key="login.login" value="Login"/>
   <resource key="login.continue" value="Continue"/>
