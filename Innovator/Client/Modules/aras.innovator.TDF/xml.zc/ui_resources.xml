@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ui_resources>
+	<resource key="techdoc.advertising_message" value="Complete Technical Documentation capability including the ability to create XML, HTML and PDF versions requires an additional license!&lt;br/&gt;&lt;a class='arasPlainLink' href='{0}' target='_blank' &gt;{0}&lt;/a&gt;" />
+	<resource key="techdoc.advertising_url" value="http://www.aras.com/services/" />
+	<resource key="initialization.presentationNotFound" value="PresentationConfiguration should be specified for technical document ItemType."/>
+	<resource key="linkeditordialog.incorrecturl" value="The URL provided is incorrect."/>
+	<resource key="linkeditordialog.enterexternalurl" value="Enter external URL..."/>
+
+	<resource key="contextmenu.table" value="Table"/>
+	<resource key="contextmenu.addrow" value="Add Row"/>
+	<resource key="contextmenu.addcolumn" value="Add Column"/>
+	<resource key="contextmenu.row" value="Row"/>
+	<resource key="contextmenu.removerow" value="Remove Row"/>
+	<resource key="contextmenu.removecolumn" value="Remove Column"/>
+	<resource key="contextmenu.merge" value="Merge"/>
+	<resource key="contextmenu.withleftcolumn" value="With Left Column"/>
+	<resource key="contextmenu.withrightcolumn" value="With Right Column"/>
+	<resource key="contextmenu.withrowabove" value="With Row Above"/>
+	<resource key="contextmenu.withrowbelow" value="With Row Below"/>
+	<resource key="contextmenu.unmerge" value="Unmerge"/>
+
+	<resource key="rendering.newdocversionexists" value="New Document version exists"/>
+	<resource key="rendering.itemplaceholder" value="Item placeholder"/>
+	<resource key="rendering.imageplaceholder" value="Image placeholder"/>
+	<resource key="rendering.newitemversionexists" value="New Item version exists"/>
+	<resource key="rendering.wrongnumberofcells" value="The number of cells is incorrect."/>
+	<resource key="rendering.nulltext" value="Text..."/>
+	<resource key="rendering.content_is_blocked" value="Content is blocked"/>
+	<resource key="rendering.is_blocked" value=" is blocked"/>
+
+	<resource key="helper.noaction" value="No Action"/>
+	<resource key="helper.no_viewmodel" value="&quot;ViewModel&quot; parameter should be provided."/>
+	<resource key="helper.no_schemaitem" value="&quot;SchemaItem&quot; parameter should be provided."/>
+	<resource key="helper.unknown_render_object" value="RenderHtml: Unknown object"/>
+	<resource key="helper.insert_out_range" value="insertAt index out of range"/>
+	<resource key="helper.feature_has_no_license" value="You do not have a valid license to use feature {0}."/>
+	<resource key="helper.invalid_schema" value="{0} request is failed: invalid schema."/>
+
+	<resource key="publishing.need2save_item" value="Document should be saved before publishing. Save now?"/>
+	<resource key="publishing.timeout_reached" value="Publishing timeout was reached. Please see your system administrator."/>
+
+	<resource key="action.add" value="Add"/>
+	<resource key="action.addfromtemplate.title" value="From Template"/>
+	<resource key="action.addfromtemplate.contentisblocked" value="You have insufficient permissions to get this document content."/>
+	<resource key="action.addfromtemplate.contentisempty" value="Content is empty"/>
+	<resource key="action.addfromtemplate.schemavalidationfailed" value="Content from Template Document cannot be added due to schema restrictions."/>
+	<resource key="action.insert" value="Insert"/>
+	<resource key="action.remove" value="Remove"/>
+	<resource key="action.group" value="Group"/>
+	<resource key="action.ungroup" value="Ungroup"/>
+	<resource key="action.makeexternal" value="Convert to External"/>
+	<resource key="action.makeexternal_toolbarbutton_tooltip" value="Convert"/>
+	<resource key="action.makeexternal_wrong_type_error" value="Please set another type. This type can be set only for a corresponding root node. For this root node the following types cannot be set: {0}."/>
+	<resource key="action.makeinternal" value="Convert to Internal"/>
+	<resource key="action.changecondition" value="Change Condition"/>
+	<resource key="action.editattributes" value="Edit Attributes"/>
+	<resource key="action.viewattributes" value="View Attributes"/>
+	<resource key="action.copy" value="Copy"/>
+	<resource key="action.cut" value="Cut"/>
+	<resource key="action.paste" value="Paste"/>
+	<resource key="action.undo" value="Undo"/>
+	<resource key="action.redo" value="Redo"/>
+	<resource key="action.viewitem" value="View Item"/>
+	<resource key="action.version" value="Version"/>
+	<resource key="action.refreshcontent" value="Refresh Content"/>
+	<resource key="action.pickitem" value="Add Item"/>
+	<resource key="action.createitem" value="New Item"/>
+	<resource key="action.replacereferenceditem" value="Replace Item"/>
+
+	<resource key="action.cannotaddexternalblock" value="The external Technical Document &quot;{0}&quot; cannot be added due to schema restrictions"/>
+	<resource key="action.externalwithdifferentschema" value="The external Technical Document &quot;{0}&quot; have different schema."/>
+	<resource key="action.linkeditordialog" value="Link Editor Dialog"/>
+	<resource key="action.viewelementcondition" value="View Element Condition"/>
+	<resource key="action.changeelementcondition" value="Change Element Condition"/>
+	<resource key="action.removeelementprocesseeddeletion" value="There are external links on selected elements. Proceed with deletion?"/>
+	<resource key="action.schemarestriction" value="Schema restriction: After deletion, the minimum requirement of &quot;{0}&quot; nodes will not be met."/>
+	<resource key="action.schemarestrictionmakeexternal" value="Schema restriction: After the external document is created, the minimum requirement of &quot;{0}&quot; nodes will not be met."/>
+	<resource key="action.schemarestriction.imagenotfit" value="Schema restriction: Image element can not be inserted at this position."/>
+	<resource key="action.schemarestriction.addelements" value="Schema restriction: After adding, the number of existing &quot;{0}&quot; nodes will exceed the maximum."/>
+	<resource key="action.schemarestriction.mergeelements" value="Schema restriction: After merging, the minimum requirement of &quot;{0}&quot; nodes will not be met."/>
+	<resource key="action.attributesdialog" value="Attributes Dialog"/>
+	<resource key="action.documentview" value="Document View"/>
+	<resource key="action.mergeisinvalid" value="This merge is invalid."/>
+	<resource key="action.couldntapplyforrootblock" value="This action does not apply to the root document node."/>
+	<resource key="action.nocanaddpermissions" value="You do not have adequate permissions to create new Technical Documents."/>
+	<resource key="action.confirmclassification" value="Added element is associated with the &quot;{0}&quot; classification. Do you want to apply the classification to this item?"/>
+	<resource key="action.cannot_table_here" value="A table element can't be placed here."/>
+	<resource key="action.not_unique_error" value="{0} with {1} already exists."/>
+
+	<resource key="documenttype.fill_app_and_save" value="Before populating &quot;Document Classification&quot; property, please fill in &quot;Application&quot; property and save &quot;Document Type&quot; item."/>
+
+	<resource key="viewmodel.wrongsetblocknametointernalblock" value="Changing the root document node name is not permitted."/>
+	<resource key="viewmodel.byreferenceoutofrange" value="by-reference value is out of range"/>
+	<resource key="viewmodel.externalonlyinlineblocks" value="Only external content can be converted to internal."/>
+	<resource key="viewmodel.indexoutofrange" value="The index out of range."/>
+	<resource key="viewmodel.tablecontainsrowsfromexternalblock" value="The table contains rows from an external Technical Document."/>
+	<resource key="viewmodel.rowcannotbeempty" value="The row can't be empty."/>
+	<resource key="viewmodel.tablecannotbeempty" value="The table can't be empty."/>
+	<resource key="viewmodel.nodewasntcreated" value="A new node was not created."/>
+	<resource key="viewmodel.selectionhasmanylinks" value="The selection has more than one link."/>
+	<resource key="viewmodel.linknodenotfound" value="Link node was not found."/>
+	<resource key="viewmodel.positioniswrong" value="Internal error: Invalid string index"/>
+
+	<resource key="viewpaneltitle.filterprefix" value="Filters"/>
+	<resource key="viewpaneltitle.readonly" value="ReadOnly"/>
+
+	<resource key="includes.conversiontypenotsupported" value="This conversion type is currently not supported."/>
+	<resource key="includes.waitfortaskcompletion" value="Please wait for task completion."/>
+	<resource key="includes.publishingdialog" value="Publishing Dialog"/>
+	<resource key="includes.overrideconditions" value="External Document condition overrides currently selected conditions for: &quot;{0}&quot;. Local Document condition for those option families will not be taken in account by Document View filtering. Continue to apply?"/>
+	<resource key="includes.usedforrootblock" value="Used for root document"/>
+	<resource key="includes.usedindocument" value="Used in document"/>
+	<resource key="includes.mustselectoneelement" value="You must select only one element."/>
+	<resource key="includes.nouniqueelementid" value="This Document does not have a unique element ID."/>
+	<resource key="includes.actionwasntimplemented" value="Action not implemented."/>
+
+	<resource key="searchreplace.placeholderText" value="Find"/>
+	<resource key="searchreplace.prevButtonTitle" value="Previous Match"/>
+	<resource key="searchreplace.nextButtonTitle" value="Next Match"/>
+	<resource key="searchreplace.noMatchesLabel" value="No Matches"/>
+	<resource key="searchreplace.replacePlaceholder" value="Replace"/>
+	<resource key="searchreplace.replaceButtonTitle" value="Replace"/>
+	<resource key="searchreplace.replaceAllButtonTitle" value="Replace All"/>
+	<resource key="searchreplace.immutablereason.noteditable" value="Document is not editable"/>
+	<resource key="searchreplace.immutablereason.dynamic" value="Element belongs to dynamic content"/>
+	<resource key="searchreplace.immutablereason.external" value="Element belongs to external content"/>
+	<resource key="searchreplace.immutablereason.itemproperty" value="Match in item property"/>
+	<resource key="searchreplace.immutablereason.inactivecontent" value="Element belongs to inactive content"/>
+	<resource key="searchreplace.modeButtonShowTitle" value="Show Replace"/>
+	<resource key="searchreplace.modeButtonHideTitle" value="Hide Replace"/>
+	<resource key="searchreplace.replcableAllAlert" value="{0} out of {1} matches are non-editable and could not be replaced"/>
+	<resource key="searchreplace.replacelinkconfirmation.title" value="Confirm Replacements"/>
+	<resource key="searchreplace.replacelinkconfirmation.message" value="One or more Links will be removed as a result of the Replace."/>
+	<resource key="schemaform.isValid" value="Schema is valid"/>
+	<resource key="schemaform.isInvalid" value="Schema is invalid"/>
+	<resource key="schemaform.fixXmlBeforeSave" value="Schema xml is not well-formed. Please fix it before save."/>
+	<resource key="schemaform.confirmInvalidSave" value="Schema is invalid. Save with errors?"/>
+	<resource key="schemaform.validationInProgress" value="Validating schema"/>
+
+	<resource key="attributesDialog.close" value="Close"/>
+	<resource key="attributeValidation.isRequired" value="The attribute value is required"/>
+	<resource key="attributeValidation.lengthRestriction" value="Value length should be exactly {0}\nCurrent length: {1}"/>
+	<resource key="attributeValidation.minLengthRestriction" value="Value length should exceed {0}"/>
+	<resource key="attributeValidation.maxLengthRestriction" value="Value length should not exceed {0}"/>
+	<resource key="attributeValidation.notValidType" value="Entered value is not valid for '{0}' type"/>
+	<resource key="attributeValidation.totalDigits" value="Total count of digits should not exceed {0}\nCurrent count: {1}"/>
+	<resource key="attributeValidation.fractionDigits" value="Total count of fraction digits should not exceed {0}\nCurrent count: {1}"/>
+	<resource key="attributeValidation.minInclusive" value="Value must be greater or equal to {0}"/>
+	<resource key="attributeValidation.minExclusive" value="Value must be greater than {0}"/>
+	<resource key="attributeValidation.maxInclusive" value="Value must be less or equal to {0}"/>
+	<resource key="attributeValidation.maxExclusive" value="Value must be less than {0}"/>
+	<resource key="attributeValidation.pattern" value="Value doesn't correspond to the selected pattern: {0}"/>
+
+	<resource key="itemproperty.editortypenotsupported" value="Property editor for '{0}' data type is not supported."/>
+	<resource key="itemproperty.isreadonly" value="Read mode is selected for property."/>
+	<resource key="itemproperty.isitemtypesource" value="Property with 'itemtype' source can not be edited."/>
+	<resource key="itemproperty.nosourceitem" value="Property source item is not found."/>
+	<resource key="itemproperty.noupdatepermission" value="You have insufficient permissions to edit source item."/>
+	<resource key="itemproperty.itemnoteditable" value="Source item is not editable. Please check if it is updated to the latest version."/>
+	<resource key="itemproperty.invalidpropertyname" value="Property name is invalid."/>
+
+	<resource key="dialogitemcreator.dialogtitle" value="New '{0}'"/>
+	<resource key="dialogitemcreator.applybutton" value="OK"/>
+	<resource key="dialogitemcreator.cancelbutton" value="Cancel"/>
+	<resource key="dialogitemcreator.yesbutton" value="Yes"/>
+	<resource key="dialogitemcreator.nobutton" value="No"/>
+	<resource key="dialogitemcreator.formnotfound" value="Item Form was not found."/>
+
+	<resource key="fileuploading.fileuploadfailure" value="File {0} upload failed"/>
+	<resource key="fileuploading.dialog.title" value="Uploading Files"/>
+	<resource key="fileuploading.canceldialog.title" value="Cancel Upload"/>
+	<resource key="fileuploading.canceldialog.message" value="Are you sure you want to cancel?"/>
+	<resource key="fileuploading.uploadprogress" value="{0} of {1} files complete"/>
+	<resource key="fileuploading.uploadfailure" value="Failed to upload all files"/>
+	<resource key="fileuploading.fileuploading" value="Uploading File"/>
+	<resource key="fileuploading.validation.countwarn" value="Selecting several files can take a long time to upload."/>
+	<resource key="fileuploading.validation.counterror" value="The selected files exceed the maximum limit of total number of files."/>
+	<resource key="fileuploading.validation.totalsizewarn" value="Selecting files that have large file size can take a long time to upload."/>
+	<resource key="fileuploading.validation.totalsizeerror" value="The selected files exceed the maximum limit of total file size."/>
+	<resource key="fileuploading.validation.uploadcanceled" value="File uploading is canceled."/>
+	<resource key="fileuploading.validation.continueconfirmation" value="Are you sure you want to continue?"/>
+
+	<resource key="dnd.element.placementcalculation" value="Checking position rules..."/>
+</ui_resources>

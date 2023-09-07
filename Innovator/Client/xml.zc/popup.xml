@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <item index="0" id="popup_messages" width="1" type="popup_message" value="" visible="false" />
+  <item index="1" id="page_status" width="99%" type="both">
+  </item>
+  <item index="2" id="messages" width="1" type="message" value="">
+	<message template=" Messages: {0}"/>
+  </item>
+</xml>

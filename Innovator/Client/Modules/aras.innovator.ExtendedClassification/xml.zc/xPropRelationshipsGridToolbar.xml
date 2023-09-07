@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet buttonsize="26,25">
+    <toolbar id="tb1">
+        <choice width="auto" disabled="true" id="related_option" tooltip="Related Options">
+            <choiceitem>Pick Related</choiceitem>
+            <choiceitem>No Related</choiceitem>
+            <choiceitem>Create Related</choiceitem>
+        </choice>
+        <button disabled="true" image="../images/New.svg" id="new" tooltip="New relationship" text="New relationship"/>
+        <separator/>
+        <button disabled="true" image="../images/Delete.svg" id="delete" tooltip="Delete relationship" text="Delete relationship"/>
+        <separator/>
+        <button image="../images/ExportToExcel.svg" id="export2Excel" tooltip="Export To Excel" text="Export To Excel" disabled="false"/>
+        <button image="../images/ExportToWord.svg" id="export2Word" tooltip="Export To Word" text="Export To Word" disabled="false"/>
+        <separator/>
+        <button image="../images/ViewItem.svg" id="show_item" tooltip="View item" text="View"/>
+        <separator/>
+        <button disabled="true" image="../images/MoveUpActive.svg" id="move_up" tooltip="Move up" text="Move up"/>
+        <button disabled="true" image="../images/MoveDownActive.svg" id="move_down" tooltip="Move down" text="Move down"/>
+    </toolbar>
+</toolbarapplet>

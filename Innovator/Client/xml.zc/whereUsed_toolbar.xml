@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_click="onToolbarButtonClick" on_load="onToolbarLoad" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="tb2">
+		<button state="0" image="../imagesLegacy/layout0.gif" id="ly0"/>
+		<button state="0" image="../imagesLegacy/layout1.gif" id="ly1"/>
+		<button state="0" image="../imagesLegacy/layout2.gif" id="ly2"/>
+		<separator/>
+		<button state="0" image="../imagesLegacy/layout3.gif" id="ly3"/>
+		<button state="0" image="../imagesLegacy/layout4.gif" id="ly4"/>
+		<button state="0" image="../imagesLegacy/layout5.gif" id="ly5"/>
+		<separator/>
+		<button state="0" image="../imagesLegacy/layout6.gif" id="ly6"/>
+		<button state="0" image="../imagesLegacy/layout7.gif" id="ly7"/>
+		<button state="0" image="../imagesLegacy/layout8.gif" id="ly8"/>
+		<separator/>
+		<button state="0" image="../imagesLegacy/layout9.gif" id="ly9"/>
+		<button state="0" image="../imagesLegacy/layout10.gif" id="ly10"/>
+		<button state="0" image="../imagesLegacy/layout11.gif" id="ly11"/>
+	</toolbar>
+</toolbarapplet>

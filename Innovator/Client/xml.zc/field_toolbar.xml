@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_load="onToolbarAppletLoad" on_click="onButtonClick" buttonstyle="windows" buttonsize="26,25">
+  <toolbar id="fieldbar">
+    <button image="../images/Delete.svg" id="delete" tooltip="Delete Selected Field" text="删除字段"/>
+    <separator/>
+    <button image="../images/TextField.svg" id="text" tooltip="新建Text" text="新建Text"/>
+    <button image="../images/Password.svg" id="password" tooltip="新建Password" text="新建Password"/>
+    <button image="../images/TextArea.svg" id="textarea" tooltip="新建Textarea" text="新建Textarea"/>
+    <button image="../images/Dropdown.svg" id="dropdown" tooltip="新建Dropdown" text="新建Dropdown"/>
+    <button image="../images/ListBox.svg" id="listbox single select" tooltip="新建List Box" text="新建List Box"/>
+    <button image="../images/ListBoxMulti.svg" id="listbox multi select" tooltip="新建List Box Multi Select" text="新建List box Multi Select"/>
+    <button image="../images/Checkbox.svg" id="checkbox" tooltip="新的Checkbox" text="新的Checkbox"/>
+    <button image="../images/RadioButton.svg" id="radio button list" tooltip="新建Radio Button List" text="新建Radio Button List"/>
+    <button image="../images/Button.svg" id="button" tooltip="新建Button" text="新建Button"/>
+    <button image="../images/BusinessCalendarYear.svg" id="date" tooltip="新建Date" text="新建Date"/>
+    <button image="../images/Color.svg" id="color" tooltip="新建Color" text="新建Color"/>
+    <button image="../images/Image.svg" id="html" tooltip="新建HTML" text="新建HTML"/>
+    <button image="../images/xClassification.svg" id="xclass" tooltip="New xClass" text="New xClass"/>
+    <separator/>
+    <drop_down_button id="unused_ds" tooltip="未使用的属性字段" text="未使用的属性字段"/>
+    <drop_down_button id="snap-to-grid" tooltip="Snap-to-Grid" text="Snap:" singlecheck="true">
+      <checkitem id="snap-1" checked="true">Off</checkitem>
+      <checkitem id="snap-5">5</checkitem>
+      <checkitem id="snap-10">10</checkitem>
+    </drop_down_button>
+  </toolbar>
+</toolbarapplet>

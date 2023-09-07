@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet buttonsize="26,25">
+  <toolbar id="tb1">
+    <drop_down_button image="" id="actions_menu" text="执行"/>
+    <separator/>
+    <choice width="auto"  disabled="true" id="related_option" tooltip="关联选项">
+      <choiceitem>选择对象</choiceitem>
+      <choiceitem>无对象</choiceitem>
+      <choiceitem>新建对象</choiceitem>
+    </choice>
+    <button disabled="true" image="../images/New.svg" id="new" tooltip="新建" text="新建"/>
+    <separator/>
+    <button disabled="true" image="../images/PickReplace.svg" id="pick_replace" tooltip="替换对象" text="替换对象"/>
+    <button disabled="true" image="../images/Delete.svg" id="delete" tooltip="删除关联" text="删除"/>
+    <separator/>
+    <button image="../images/ExportToExcel.svg" id="export2Excel" tooltip="输出至Excel" text="输出至Excel" disabled="false"/>
+    <button image="../images/ExportToWord.svg" id="export2Word" tooltip="输出至Word" text="输出至Word" disabled="false"/>
+    <separator/>
+    <button disabled="true" image="../images/LockItem.svg" id="lock" tooltip="锁定" text="锁定"/>
+    <button disabled="true" image="../images/UnlockItem.svg" id="unlock" tooltip="解锁" text="解锁"/>
+    <separator/>
+    <button image="../images/Promote.svg" id="promote" tooltip="Promote 对象状态" text="Promote" disabled="true"/>
+    <button image="../images/ExecuteSearch.svg" id="search" tooltip="执行搜索" text="执行搜索"/>
+    <button image="../images/ClearSearchCriteria.svg" id="newsearch" tooltip="清除搜索条件" text="清除搜索条件"/>
+    <button disabled="true" image="../images/StopSearch.svg" id="stop_search" tooltip="停止搜索" text="停止搜索" />
+    <separator/>
+    <choice width="auto"  id="search_mode" tooltip="搜索模式" text="搜索模式">
+    </choice>
+    <choice id="saved_search" tooltip="储存搜索" text="储存搜索" label="储存搜索:">
+    </choice>
+    <separator/>
+    <button image="../images/AddSearchCriteria.svg" id="add_criteria" tooltip="添加条件" text="添加条件" invisible="true" />
+    <button image="../images/SelectAll.svg" id="select_all" tooltip="全选" text="全选"/>
+    <separator/>
+    <button image="../images/ViewItem.svg" id="show_item" tooltip="查看" text="查看"/>
+    <button image="../images/RelationshipType.svg" id="show_relationship" tooltip="查看关联" text="查看关联"/>
+    <separator/>
+    <button image="../images/Copy.svg" id="copy2clipboard" tooltip="复制" text="复制"/>
+    <button image="../images/Paste.svg" id="paste" tooltip="粘贴" text="粘贴"/>
+    <button image="../images/Redline.svg" id="redline" tooltip="开启红线标注" text="红线标注" state="0"/>
+  </toolbar>
+</toolbarapplet>

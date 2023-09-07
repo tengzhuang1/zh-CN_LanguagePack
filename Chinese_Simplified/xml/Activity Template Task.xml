@@ -1,0 +1,467 @@
+﻿<export>
+ <Item type="Activity Template Task" keyed_name="1" config_id="E100B02BE24F48ED9B9CF392381E29B2">
+  <property __name="description" en="Check ECR form for completeness" zc="检查ECR的完整性" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="D48B4C0148754F63A17F4A5D9971A08F">
+  <property __name="description" en="Search for similar ECRs" zc="查询类似的ECRs" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="D8600848BE5A41BC91B749CBA1777DA1">
+  <property __name="description" en="Review Affected Items, add additional if necessary" zc="检查受影响的项目，如有必要增加其他项目" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="4" config_id="981C9E5C32E7435A8777AFC0FCD713CA">
+  <property __name="description" en="Make sure the Assigned Creator is correct" zc="确保所分配的创建者是正确的" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="564E3CA93D1249EEBA3DB989DAACCE61">
+  <property __name="description" en="Update the documents to implement the change" zc="更新文档以实现变更" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="C4CA02DBA13C4BCEB8773C1526EC9998">
+  <property __name="description" en="Check in the updated documents" zc="检入更新的文档" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="BD02B134DB2A49A097FD32F13425247C">
+  <property __name="description" en="Vote &quot;Complete&quot; to send the documents for review" zc="投票“完成”发送文件审核" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="CD7E1FF39FFD4B12A5A7E7D84F125DA2">
+  <property __name="description" en="Fill out the change form and assign affected items" zc="填写更改表单并分配受影响的项目" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="4B9A13403F2048A8804D792A111C4DDE">
+  <property __name="description" en="Attach any supporting documentation on the Attachments tab" zc="在附件选项卡上附加任何支持文档" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="FA814926875E43438F291B2172DAAFCD">
+  <property __name="description" en="Vote Submit to initiate the change or Cancel to reject the Change" zc="提交以发起变革或取消以拒绝变更" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="682C4F17211D43F98D239F7537E8D298">
+  <property __name="description" en="" zc="请审查变更内容是否符合要求." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="5CED0D0F103E4CECB2C8550C5487CEB1">
+  <property __name="description" en="" zc="依审查结果选择退回 或直接发行则送DCC,或 送交主管复审." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="74070AD9BA594B3A9EF707E6A3547176">
+  <property __name="description" en="Plan the implementation of this ECN in relation to others" zc="请审查变更内容是否符合要求." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="6E4B951499A64A6AA78FEA4B1503F87B">
+  <property __name="description" en="Vote &quot;Complete&quot; to complete the planning" zc="依审查结果选择退回 或直接发行则送DCC,或 送交主管复审." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="85DE24DD66054CDD9A3B5EFD2243AF8D">
+  <property __name="description" en="" zc="请修正要求项并重送,或是放弃本单作取消." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="B9B1E7CA74C34103BF170EE4C9EFA5C9">
+  <property __name="description" en="Performed a detailed review of changes made to affected documents" zc="对受影响的文件所做的更改进行了详细的审查" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="0B42253F7E75426A928FBB85874AF7D3">
+  <property __name="description" en="If all documents are ready for release, vote Approve. Otherwise, vote Reject" zc="如果所有的文件都准备好了，请投票批准。否则,投票反对" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="21169933B1D949F7A1842D574CA21CCE">
+  <property __name="description" en="Review the change form for instructions on the changes to be made" zc="查看变更表单以获得有关变更的说明" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="9774D7713AE34A55916D1586D85CE77B">
+  <property __name="description" en="Update all affected items" zc="更新所有受影响对象" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="3D8926196AF54DFABDAE9CE0CDD9B1FD">
+  <property __name="description" en="If review is required vote Submit to Review. Otherwise vote Close Change" zc="如果需要审核，则提交审核。否则投票关闭变更" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="B1240D2A4883496780BB3B7675AAE083">
+  <property __name="description" en="" zc="请审查变更内容是否符合要求!" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="27E9895513FA4446B87BEB4E8E99FF5D">
+  <property __name="description" en="" zc="若审核同意,请选通知DCC." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="B18472BDC6BD44C7947CF671C49454B0">
+  <property __name="description" en="" zc="若内容不符要求请选退回." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="8ABE1914FFDE4768B37A0EC9DDE1E393">
+  <property __name="description" en="" zc="请审查变更内容是否符合要求!" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="9E1EA857341645A3A69D9CECED9C795A">
+  <property __name="description" en="" zc="若可径自发行,则选择直接通知DCC." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="DBDDDB56270E43E6BEA62235422894BC">
+  <property __name="description" en="" zc="若需上级复审,则选送复审" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="4" config_id="09CA57A97D6D458980F43CC6F9033FF9">
+  <property __name="description" en="" zc="若内容不符要求请选退回." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="62CC1DD57FE84D3C88556349DDEB29F2">
+  <property __name="description" en="Review the change form for instructions on the changes to be made" zc="查看更改表单以获得有关更改的说明" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="6414FE534D0248D99127FA386371FC70">
+  <property __name="description" en="Make changes to the new revisions of affected documents" zc="对受影响文件的新修订进行更改" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="A0CE06A64C6C4F1AA581DFD7B0F62DA1">
+  <property __name="description" en="Once your updates are finished, vote Complete to mark your work as done" zc="一旦你的更新完成，投票完成标记你的工作已经完成" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="3403E67F4CD346C6BB1190A74FD9351D">
+  <property __name="description" en="Review the change form for details of the changes to be made" zc="查看变更表单，了解要进行变更的详细信息" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="96B49CA9BC574D3E86E141AD374697FA">
+  <property __name="description" en="Update your affected items to reflect the desired change" zc="更新受影响的项以反映所需的更改" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="DE107C74A53A457883A13091B31A5974">
+  <property __name="description" en="Vote Complete to indicate that your work is done" zc="投票&quot;完成&quot;表示您的工作已经完成" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="75C6DC2156AF4FD4929831DE95A959E2">
+  <property __name="description" en="Check Deviation for completeness" zc="检查偏差是否完整" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="ADDC4587E4E24A86B1A1475F3F791A15">
+  <property __name="description" en="Vote &quot;Approve&quot; to send the Deviation for approval or &quot;Reject&quot; if the Deviation should be rejected" zc="投票&quot;批准&quot;将偏差发送给批准，或投票&quot;拒绝&quot;如果偏差应该被拒绝" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="AA0280BB860B4DE9A1BD522C14C5CC4A">
+  <property __name="description" en="Review the ECR and disposition" zc="检查ECR和配置" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="7371ACB47D8344EC997310969BCE81C2">
+  <property __name="description" en="Check the PR for completeness (Title, Application Environment, Sequence of Events, Description, Affected Part/Document, Priority and Basis should be filled at this time)" zc="检查PR是否完整(标题、应用环境、事件顺序、描述、受影响部分/文件、优先级和依据)" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="10B0BA0BA93E4A889E0E3F92D30227EE">
+  <property __name="description" en="Check for duplicate PRs " zc="检查PRs副本 " />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="7F28BC8691F448A784BD497A9F50626C">
+  <property __name="description" en="Assign a Creator for the PR" zc="为PR指定一个创建者" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="4" config_id="294A0F9CAC4A49A4A48B6C7731FC23B9">
+  <property __name="description" en="Vote &quot;Reject&quot; to reject the PR outright or &quot;Verify&quot; to send it for verification" zc="投票&quot;拒绝&quot;直接拒绝PR或&quot;验证&quot;发送它进行验证" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="073DB04BB1F246E7BAAC74F5F64FC9DF">
+  <property __name="description" en="" zc="确认窗体填写完整,且附挂正确变更的对象" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="EFF2596E25C9414580C4C3919AA38F40">
+  <property __name="description" en="" zc="请审查变更内容是否符合要求." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="6B09165B2AF648D7AF4D1DA199FD03E3">
+  <property __name="description" en="" zc="依审查结果选择退回 或同意内容则送DCC发行." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="C453E8DDC5674580BCCAE4D2EBA71E27">
+  <property __name="description" en="" zc="确认窗体填写完整,且附挂正确变更的图文" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="B5AC089C036242F2901C932FDB738C35">
+  <property __name="description" en="Assess change impact" zc="评估变更的影响" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="C7D444D93B844D70B5FFE91934808AA7">
+  <property __name="description" en="Get input from other creators" zc="从其他创建者获得输入" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="17356A7AC546488499B9155196550DD1">
+  <property __name="description" en="Make technical recommendations" zc="提出技术建议" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="CE423606261B48E4ACFE285BAB63FBD9">
+  <property __name="description" en="Review all changes to the affected items" zc="检查对受影响项目的所有更改" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="DF326956D3F04E30A8CCB3E92BB51AD2">
+  <property __name="description" en="If the changes do not match the requirements, vote Reject to have updates made" zc="如果更改不符合要求，则投票&quot;否决更新&quot;" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="3071884D254846C78FB691AF164969B8">
+  <property __name="description" en="If the changes meet the Fast Track criteria, vote Fast Track Approve" zc="如果更改符合快速通道标准，则投票通过快速通道" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="4" config_id="24444146B2E946EDB15EDBFF7D6E813E">
+  <property __name="description" en="For a detailed review, vote Full Review" zc="对于详细的审查，投票全面审查" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="8E222C740A45490AA52591FFB4E75F11">
+  <property __name="description" en="" zc="请修正要求项并重送,或是放弃本单作取消." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="9815C33D7A7D4C86B1C1926EC30C766B">
+  <property __name="description" en="" zc="完成发行作业,若有需要请在结束节点指派通知成员." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="10" config_id="72943E0BDBB6442A9045314F58ED3A37">
+  <property __name="description" en="Review the ECO content and check the implementation of change actions" zc="评审ECO内容并检查变更操作的执行情况" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="20" config_id="F0A03CF8B4004C0E8171FBBD3F12A5F8">
+  <property __name="description" en="Vote to approve or rework the ECO changes" zc="投票批准或返工ECO变更" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="DAE5398EFC514798AC72C3AC713B1E4F">
+  <property __name="description" en="Plan the implementation of this ECN in relation to others" zc="计划本ECN的实施" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="65F92B43F20447048C0C5F21F5D99E54">
+  <property __name="description" en="Set the effectivity date" zc="设置生效日期" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="F4AD3963E74540DA8B54F065E2B2222D">
+  <property __name="description" en="Vote &quot;Complete&quot; to complete the planning" zc="投票&quot;完成&quot;完成计划" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="D178908567274175AF48FEEB7761DC4C">
+  <property __name="description" en="Check Waiver for completeness" zc="检查豁免书的完整性" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="80E2E408F7454E0EA8426628EF5E49E0">
+  <property __name="description" en="Vote &quot;Approve&quot; to send the Waiver for approval or &quot;Reject&quot; if the Waiver should be rejected" zc="投票“批准”发送弃权书以获得批准，或投票“拒绝”(如果该弃权书应被拒绝)" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="25A3D6E045CC4AE6BADA480422BA8683">
+  <property __name="description" en="" zc="Review the Purge Notice for completeness" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="E2440574F4FE455F93778C3F51DAF0D1">
+  <property __name="description" en="" zc="Vote to Approve or Reject. Or Vote Rework if more information is required" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="5ED182381BE84527B618BB3272A4073B">
+  <property __name="description" en="Review ECR details" zc="审批ECR详细" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="2F830E3FE56247D6B99D6C1817F8BB15">
+  <property __name="description" en="Approve, disapprove or invetigate further" zc="批准，不批准或进一步调查" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="0375AE9FDBC64A48837EFB1B2FD8CB08">
+  <property __name="description" en="Attach known Affected Items" zc="附上已知的受影响对象" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="044AE3E2DE80486CB2F054BF48CEFDA8">
+  <property __name="description" en="Ensure the ECR is ready for initial review" zc="确保ECR已准备好进行初步审核" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="746A798CAC6E4E748BCF1D959331613C">
+  <property __name="description" en="Perform an impact analysis and ensure that each change action is set" zc="执行影响分析，并确保每个更改操作都已设置好" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="C7B47D9C10AF4D9CBC64F0DB8E01670F">
+  <property __name="description" en="Set the effective date for the ECO" zc="为ECO设定生效日期" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="70217E133AD540DE96DD8FD24C3F3879">
+  <property __name="description" en="If review is required, vote Submit to Plan Review. Otherwise, vote Start Work." zc="如果需要审核，投票提交计划审核。否则，投票开始工作." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="17AA10873F514A78A79BD9E97B83EDB5">
+  <property __name="description" en="Ensure the Deviation is ready for initial review" zc="确保偏差已准备好进行初始评审" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="10" config_id="625774248DAC4EAEB6CD7424F1EE6398">
+  <property __name="description" en="Verify the ECO, including the impact matrix and effective date" zc="验证ECO,包括影响对象和生效日期" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="20" config_id="E221DD6AB8984A19A94F53477E2E3ADA">
+  <property __name="description" en="Vote to approve or rework the plan" zc="投票赞成或重做计划" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="06BFA853201C49A2B54FCB42262D5252">
+  <property __name="description" en="Identify all affected items and specify change actions" zc="标识所有受影响的项并指定更改操作" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="B744D52CD11C44E8B401B191CACCD90B">
+  <property __name="description" en="Submit the ECO to implementation planning" zc="将ECO提交实施计划" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="15878908F4574401947B658354B35010">
+  <property __name="description" en="Check Rework Order for completeness" zc="检查返工单的完整性" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="1C7CC883B71E46D4B64362DBC39C9D92">
+  <property __name="description" en="Vote &quot;Approve&quot; to send the Rework Order for approval or &quot;Reject&quot; if the Rework Order should be rejected" zc="投票&quot;批准&quot;发送返工单，如果返工单需要被拒绝，投票&quot;拒绝&quot;返工单" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="9568478C39C243D4BC355BD5F18D9861">
+  <property __name="description" en="" zc="请完成新版图文变更后送审." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="F2D442DA1B404CDEB3532985D11E34B7">
+  <property __name="description" en="" zc="请审查建单者变更原由与附挂待变更的图文是否正确! 若不正确请退回!" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="A2E4AF50BF0241D0893F03C70A7EA954">
+  <property __name="description" en="Fill out the change form and assign the affected document" zc="填写更改表格并分配受影响的文件" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="330E6F1A103F45C08478459F432D2A06">
+  <property __name="description" en="Perform impact analysis and include any other affected documents" zc="执行影响分析，包括任何其他受影响的文件" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="6E64A6F6A20E4AE1BE9642554D6D9842">
+  <property __name="description" en="Define change actions" zc="定义变更操作" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="4" config_id="D85C35B9876F4621AF88BAB380C3F0C2">
+  <property __name="description" en="Attach any supporting documentation" zc="附上任何证明文件" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="5" config_id="A9E13AACF71145009A2F741A0C8492D7">
+  <property __name="description" en="Vote Submit to Authors to begin work or Cancel to stop the change" zc="投票提交给作者开始工作或取消停止更改" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="037EE91D648D49EAB3E2465809DBD765">
+  <property __name="description" en="Prepare CRB agenda" zc="准备CRB议程" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="D80913CA96844E2AB6C32E99E533C40F">
+  <property __name="description" en="Review atendee list" zc="Review atendee list" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="1DC3F5FE11844C8B9C40E315409EA1D6">
+  <property __name="description" en="Choose online CRB or meeting" zc="选择在线CRB或会议" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="BBD71A68A96342258EF2387EDB6F3C58">
+  <property __name="description" en="" zc="请审查变更规划内容是否正确." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="F0D3133552D546B1AD2B205EAA30202E">
+  <property __name="description" en="" zc="Review the Hold Notice for completeness" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="1ED7AE79070349528A554F6EACE127BA">
+  <property __name="description" en="" zc="Vote to Approve or Reject. Or Vote Rework if more information is required" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="D13D5F2EF54246CFBEC56AA3A533A41D">
+  <property __name="description" en="Review the change form for instructions on the changes to be made" zc="查看更改表单以获得有关更改的说明" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="4F1239377626491FA60C07E286F6F7DB">
+  <property __name="description" en="Make changes to the new revisions of affected documents" zc="对受影响文件的新修订进行更改" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="421EE905752547BDB3367C357EC03716">
+  <property __name="description" en="Once your updates are finished, vote Complete to mark your work as done" zc="一旦你的更新完成，投票完成标记你的工作已经完成" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="1540A8C413D447C686DCE7C4E9EED266">
+  <property __name="description" en="Check the ECN form for completeness" zc="确认窗体填写完整,且附挂正确变更的零部件" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="9706F20C1A6A45208ED6B602B19DFA7F">
+  <property __name="description" en="" zc="Review the NCR for completeness" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="E5066EE21CE344F68D475BFBC227036A">
+  <property __name="description" en="" zc="Vote to Approve or Reject. Or Vote Rework if more information is required" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="AE26D27F21F24122866BE563517739C9">
+  <property __name="description" en="" zc="Complete the NCR" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="2B6E9DEB64964BA9BC3807EDFD079F9E">
+  <property __name="description" en="" zc="Submit for Review" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="5F3646AC4DA7451B8045FC8E73F39AB7">
+  <property __name="description" en="Review all changes to the affected documents" zc="审批所有受影响文件的变更" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="3E1CD773646642CDBC7C6B78E9A5B289">
+  <property __name="description" en="If any affected documents were not updated properly, vote Rework" zc="如果任何受影响的文件没有正确更新，投票返工" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="D96F2B2FC4D4468FB19B19656F663564">
+  <property __name="description" en="If a detailed review of the changes to the documents is required, vote Full Review" zc="如果需要对文件的更改进行详细审查，请投票进行全面审查" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="4" config_id="E8F4851CAE784D48BBFFB0B56E59DBC9">
+  <property __name="description" en="If the changes meet the Fast Track criteria, vote Fast Approve" zc="如果变更符合快速通道标准，则快速通过投票" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="68DAA7E0D7E0470D87F176D2B93C91B3">
+  <property __name="description" en="" zc="Complete the Hold Notice" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="E827C0CE7ECB459BBF4CE51D1EE1C942">
+  <property __name="description" en="" zc="Submit for Review" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="48160A5A31A74973B8FFBD6440AFF02F">
+  <property __name="description" en="" zc="Investigate possible causes of the problem, analyze causes and effects" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="70C26991664843FFB312D12435AE07A3">
+  <property __name="description" en="" zc="Attach Investigation Files" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="7FE4A5D0974D4445B92A1C8C942797C8">
+  <property __name="description" en="" zc="Attach Cause Item(s)" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="B2B5C05EB9D844A4A9F8DC00A7029090">
+  <property __name="description" en="" zc="执行变更,请修订新版对象内容." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="BDEBF1BC651E418481FF2BB0B72BD0EC">
+  <property __name="description" en="Review the documents to ensure the change has been implemented properly" zc="完成发行作业,若有需要请在结束节点指派通知成员." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="C0C1E9CC37D94860A6B8074643ED82F7">
+  <property __name="description" en="Check the PR for completeness" zc="检查PR的完整性" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="330FC8E1EF684C33819B18E8488E8506">
+  <property __name="description" en="Vote &quot;Approve&quot; to signify that the PR is complete and verified" zc="投票“批准”，以表示PR是完整和经过验证的" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="C6200EA291014C0DAD6F11847308230F">
+  <property __name="description" en="Schedule CRB Meeting" zc="安排CRB会议" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="0674741DCDEE4A2EB03B4A1098D9FCC8">
+  <property __name="description" en="Chair CRB meeting" zc="主持CRB会议" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="86FBE06D287A40C2A4F0DD3ACB0D1AA6">
+  <property __name="description" en="Record meeting results" zc="记录会议的结果" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="4" config_id="8FA8277ECFCA471A9778BEDA50FC3939">
+  <property __name="description" en="Disposition ECR" zc="处理ECR" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="D4E2D35C1DD044C987B1235E6F09DF7E">
+  <property __name="description" en="Review comments" zc="评审意见" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="C2DA2CBD98D34974BA92FBB2F4AFA559">
+  <property __name="description" en="Modify the ECR and resubmit or cancel the ECR" zc="修改ECR并重新提交或取消ECR" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="546BCF6045CA464C9EFE4C170EA902C9">
+  <property __name="description" en="Check the ECN form for completeness" zc="检查ECN的完整性" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="C951E3D3CB2F41C2A0CC7DB2D6CCE8C8">
+  <property __name="description" en="Ensure all Affected Items are attached" zc="确保所有受影响的项目都已附上" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="1CC3CC9756754BD9A740131B9C35EC0C">
+  <property __name="description" en="Submit the ECN for implementation planning" zc="提交ECN进行实施计划" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="9C063B3EC7D242269E50A38B5665ABB3">
+  <property __name="description" en="" zc="完成发行作业,若有需要请在结束节点指派通知成员." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="2EECF53F97264A12BF2A5E7A08A31984">
+  <property __name="description" en="" zc="Complete the Purge Notice" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="9D7FC954BD344701A8C400E1D3A3612B">
+  <property __name="description" en="" zc="Submit for Review" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="542B33A44349401AAB3D28EF7E841A63">
+  <property __name="description" en="Perform a CCB review of the changes" zc="执行变更控制委员会对变更的评审" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="8FD7371B2795432F9F861262173D23A4">
+  <property __name="description" en="Vote Reject to send the change back for updates or Approve to release the change" zc="投票否决将更改发回以获取更新或批准发布更改" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="DB2ECC1711CF4F05AC732DEF252076AE">
+  <property __name="description" en="Confirm the ECN has been implemented in accordance with the plan" zc="确认ECN已经按照计划实施" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="C008BEB6314F4691A93B98845895D482">
+  <property __name="description" en="Vote &quot;Complete&quot; to release the ECN" zc="投票完成以发布ECN" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="D5E03CB7CFF649BD9D07A427D8AAA7C6">
+  <property __name="description" en="Review all changes to the affected documents" zc="审核所有受影响文件的变更" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="7E678309DEAD4D6E81BC909EDEF2C802">
+  <property __name="description" en="If any affected documents were not updated properly, vote Rework" zc="如果任何受影响的文件没有正确更新，投票返工" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="F817E8A1D59243B3A74178653977C1E8">
+  <property __name="description" en="If a detailed review of the changes to the documents is required, vote Full Review" zc="如果需要对文件的变更进行详细审查，请投票进行全面审查" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="4" config_id="F3E0CCECA2D147D2AEC9DB5C95708732">
+  <property __name="description" en="If the changes meet the Fast Track criteria, vote Fast Approve" zc="如果变更符合快速通道标准，则快速通过投票" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="B449FC22F1404975AAB28601063646DB">
+  <property __name="description" en="Review technical recommendations" zc="审批技术建议" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="67A49BC2C5744DB694DC8EF747105D67">
+  <property __name="description" en="Prepare Cost Estimate" zc="准备成本估算" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="3901742619FA4AD3973F6B809C958307">
+  <property __name="description" en="Route the ECR" zc="ECR的线路" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="06CF012D54684607B2C65400188BDF41">
+  <property __name="description" en="" zc="Review the Root Cause Analysis for completeness" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="29CEC1A8F3FA48FEB44D7C2A74EF55BD">
+  <property __name="description" en="" zc="Vote &quot;Approve&quot; to approve the Root Cause Analysis or &quot;Rework&quot; if rework is required" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="9D31BDEAB23E4E53A1CC676054885432">
+  <property __name="description" en="Review changes to the affected items and make sure they conform to the change description" zc="检查对受影响项目的更改，并确保它们符合更改描述" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="313412FE7CCB4C1BA80FB69B59D2105F">
+  <property __name="description" en="Vote Reject to have updates made or Approve to send to CCB" zc="投票拒绝更新或批准发送给CCB" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="B6C9C7ECC0354C1F91BA2F1E64DCC273">
+  <property __name="description" en="Ensure the Waiver is ready for Initial Review" zc="确保豁免书已准备好进行初步审核" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="E98DD631A68B4D1A8F1E29ED4B2CF4D9">
+  <property __name="description" en="" zc="Review the Stop Ship Notice for completeness" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="0A23103DFBEC4FD9BA652D0D9DB390DA">
+  <property __name="description" en="" zc="Vote to Approve or Reject. Or Vote Rework if more information is required" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="9C55B5C49BCD4DC2A5ABB364F6D11ABE">
+  <property __name="description" en="Review the documents to ensure the change has been implemented properly" zc="检查文档以确保更改已正确执行" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="A93E4D70C8D24A5B85177D3E345E85BA">
+  <property __name="description" en="Vote to either &quot;Approve&quot; or &quot;Reject&quot; the changes" zc="投票“批准”或“否决”这些变化" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="31901C58487444FD8F3904A6EB2E4049">
+  <property __name="description" en="Performed a detailed review of changes made to affected documents" zc="对受影响的文件所做的更改进行了详细的审查" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="46ECA7A9088348739341A2DE28FD5210">
+  <property __name="description" en="If all documents are ready for release, vote Approve. Otherwise, vote Reject" zc="如果所有的文件都准备好了，请投票批准。否则,投票反对" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="8775261718A94EDB90685022712D9B6F">
+  <property __name="description" en="Ensure that the Rework Order is ready for Review" zc="确保返工单已准备好待审核" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="94E700F8E524452B93A57A278DACFE57">
+  <property __name="description" en="Attach Rework Order Instructions" zc="附上返工单指示" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="22C0A143039446ABA5AD1441EB2BE474">
+  <property __name="description" en="Confirm the ECN has been implemented in accordance with the plan" zc="确认表单已经按照计划实施" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="A27186BE38AF48679F520DF3C9C2EE16">
+  <property __name="description" en="Vote &quot;Complete&quot; to release the ECN" zc="投票完成以发布表单" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="6FE2DC0EBB7D4F968E2AFCFDC101FD88">
+  <property __name="description" en="Attempt to verify the problem as described" zc="尝试验证所描述的问题" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="6DA2453CD2DB4F85AA6BDB5B15A743E8">
+  <property __name="description" en="Complete the Problem Verification, Phase Caused, Phase Found, Ramifications and Severity fields" zc="完成问题验证, 阶段导致，阶段发现，分支和严重领域" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="2C8EA95879274FBB950ADA11EFA4B278">
+  <property __name="description" en="Vote &quot;Verified&quot; to send the PR for approval or &quot;Not Verified&quot; if unverifiable" zc="投票&quot;验证&quot;发送PR请求批准或&quot;未验证&quot;(如果无法验证)" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="2D94D5011B1B4B2FB749149D538AF04F">
+  <property __name="description" en="" zc="Complete the Stop Ship Notice" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="9760DD38FCBF4FE285A087725344FFE4">
+  <property __name="description" en="" zc="Submit for Review" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="CCB9FCDC82D74316A53C263C01E0D31B">
+  <property __name="description" en="Update the documents to implement the change" zc="请审查变更内容是否符合要求." />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="D835D5F41A204DA0A9FC3BDC2CC0F2DA">
+  <property __name="description" en="Check in the updated documents" zc="依审查结果选择退回 或同意内容则送DCC发行." />
+ </Item>
+</export>

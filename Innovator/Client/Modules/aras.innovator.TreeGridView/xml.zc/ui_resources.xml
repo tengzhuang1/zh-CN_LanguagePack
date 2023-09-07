@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ui_resources>
+	<resource key="tgvd_already_activated" value="'{0}' Tree Grid View is already activated for '{1}' ItemType.\r\nSee '{2}' RelationshipType to make further edits." />
+	<resource key="tgvd_activate_wizard.form_title" value="Set Tree Grid View Usage" />
+	<resource key="tgvd_activate_wizard.form_btn_generate_label" value="Generate" />
+	<resource key="tgvd_activate_wizard.conditions_header_label" value="Define Starting Conditions" />
+	<resource key="tgvd_activate_wizard.conditions_select_property_placeholder" value="Select Property" />
+	<resource key="tgvd_activate_wizard.conditions_property_label" value="Property" />
+	<resource key="tgvd_activate_wizard.conditions_query_item_label" value="Query Item" />
+	<resource key="tgvd_activate_wizard.conditions_query_item_label_on_summary_form" value="Query Item" />
+	<resource key="tgvd_activate_wizard.none" value="None" />
+	<resource key="tgvd_usage_error" value="Tree Grid View Usage cannot be setup without saving. Please, save it first." />
+	<resource key="initilize.bad_parameters" value="Some parameters were removed from the Query Definition. Please, open Parameters Dialog to remove invalid items" />
+	<resource key="view.tree_grid_definition_error" value="Tree Grid Definition Error. Content is not available. Please, contact admin for more details." />
+	<resource key="viewer.wrong_format_start_condition_provider" value="Wrong format of startConditionProvider. Example: parent.CustomStartConditionProvider(&quot;someStringValue or JSON string&quot;) or ItemDefault({&quot;id&quot;:&quot;id&quot;, &quot;name&quot;: &quot;name&quot;})" />
+	<resource key="viewer.wrong_format_parameters_provider" value="Wrong format of parametersProvider. Example: parent.CustomParametersProvider(&quot;someStringValue or JSON string&quot;)" />
+	<resource key="parameters_toolbar.toolbarbutton_apply_tooltip" value="Apply" />
+	<resource key="parameters_toolbar.toolbarbutton_cancel_tooltip" value="Cancel" />
+	<resource key="configurator.context_menu_show_cell_details" value="Cell Display Settings" />
+	<resource key="configurator.context_menu_change_icon" value="Change icon" />
+	<resource key="configurator.context_menu_show_data_template" value="Data Template" />
+	<resource key="configurator.context_menu_addColumn" value="Add New Column" />
+	<resource key="configurator.context_menu_rename_column" value="Change Column Label" />
+	<resource key="configurator.context_menu_remove_column" value="Remove Column" />
+	<resource key="configurator.context_menu_show_unmap" value="Show Unmapped Elements" />
+	<resource key="configurator.context_menu_hide_unmapped" value="Hide Unmapped Elements" />
+	<resource key="configurator.context_menu_map_element" value="Map Element" />
+	<resource key="configurator.context_menu_multiple_map_element" value="Map Element" />
+	<resource key="configurator.context_menu_unmap_element" value="Unmap Element" />
+	<resource key="configurator.context_menu_multiple_unmap_element" value="Unmap Element" />
+	<resource key="configurator.context_menu_combine" value="Combine" />
+	<resource key="configurator.context_menu_decombine" value="Separate" />
+	<resource key="configurator.context_menu_expand_tree" value="Expand Tree Grid View" />
+	<resource key="configurator.context_menu_collapse_tree" value="Collapse Tree Grid View" />
+	<resource key="configurator.connected_id_not_found" value="DOM node for configurator grid doesn\'t have id attribute." />
+	<resource key="configurator.combining_confirm" value="Combining will remove all content from the cells of selected Query Elements. Do you want to continue?" />
+	<resource key="configurator.decombining_confirm" value="Separating will remove all content from the cells of selected Query Elements. Do you want to continue?" />
+	<resource key="configurator.unmapping_confirm" value="Unmapping will remove all content from the cells of selected Query Elements. Do you want to continue?" />
+	<resource key="configurator.group_create_dialog" value="Please, enter the group name" />
+	<resource key="configurator.group_create_label" value="Create group" />
+	<resource key="configurator.new_column_header" value="New column" />
+	<resource key="configurator.should_be_at_least_one_column" value="There should be at least one Column Definition to calculate layout." />
+	<resource key="configurator.anavailable_query_items" value="Some rows have references to Items that are not available. The following Tree Row Ref Ids and Query Item Ref Ids are affected:" />
+	<resource key="configurator.rename_column_dialog.title" value="Change Column Label" />
+	<resource key="configurator.some_cell_templates_are_invalid" value="Some cell templates are invalid. Please see more details in the editor." />
+	<resource key="form.linked_toolbar_context_menu" value="Linked Toolbar/Context Menu" />
+	<resource key="map_parameters_form_title" value="Map Parameters" />
+	<resource key="parameters" value="Parameters" />
+	<resource key="remove_btn" value="Remove" />
+	<resource key="title_deactivate_dialog" value="Remove Tree Grid View Usage" />
+	<resource key="icon-template_label" value="Icon Template" />
+	<resource key="filter-viewer_title" value="Display Settings" />
+	<resource key="filter-viewer_field-label" value="Max Visible Children on Expand" />
+	<resource key="filter-viewer_apply" value="Apply" />
+	<resource key="filter-viewer_cancel" value="Cancel" />
+	<resource key="expandAll_processing_label" value="Processing" />
+	<resource key="expandAll_processing_button" value="Cancel" />
+	<resource key="expandAll_depth_error" value="Invalid Grow Depth Value. Use a positive number to set specific value. Default value is 2." />
+	<resource key="expandAll_childNumber_error" value="Invalid Max Visible Children on Expand Value. Use empty value to remove limit or positive number to set specific value." />
+	<resource key="icon-template_helper" value="Helper" />
+</ui_resources>

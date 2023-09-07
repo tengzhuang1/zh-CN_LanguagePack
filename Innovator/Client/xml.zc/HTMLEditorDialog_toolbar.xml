@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_click="onTbItemClick" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="tn1">
+		<button image="../images/Checkmark.svg" id="ready_btn" tooltip="OK"/>
+		<button image="../images/Delete.svg" id="set_nothing" tooltip="Clear Selection"/>
+	</toolbar>
+</toolbarapplet>

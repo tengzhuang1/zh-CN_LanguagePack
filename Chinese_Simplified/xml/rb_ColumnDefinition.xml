@@ -1,0 +1,200 @@
+﻿<export>
+ <Item type="rb_ColumnDefinition" keyed_name="2FA8507358BF4AA79C332492144D69EC" config_id="2FA8507358BF4AA79C332492144D69EC">
+  <property __name="header" en="Revision" zc="版本" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="42B3F58E249E40D78F2A4A3F24356433" config_id="42B3F58E249E40D78F2A4A3F24356433">
+  <property __name="header" en="Name" zc="名称" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="72CDB6B756464A26903F0D1334573564" config_id="72CDB6B756464A26903F0D1334573564">
+  <property __name="header" en="State" zc="状态" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="76508374091B491FB5F41EFBC33185DD" config_id="76508374091B491FB5F41EFBC33185DD">
+  <property __name="header" en="Quantity" zc="数量" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="8B2509B5DB3C4852A78D5736E14EAB61" config_id="8B2509B5DB3C4852A78D5736E14EAB61">
+  <property __name="header" en="Sequence" zc="序列" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="A08C3041A8B3452AA0F72FF094E3EE22" config_id="A08C3041A8B3452AA0F72FF094E3EE22">
+  <property __name="header" en="Effectivity" zc="有效日期" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="C20F60BA9C1A4D01A0D5C6CEED2C9B94" config_id="C20F60BA9C1A4D01A0D5C6CEED2C9B94">
+  <property __name="header" en="Claimed By" zc="锁定人" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="D366290D9D0243F9B257FC11FBE0E5C7" config_id="D366290D9D0243F9B257FC11FBE0E5C7">
+  <property __name="header" en="Part Number" zc="零件编码" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="F27AC73373744008AC411DFB804C8808" config_id="F27AC73373744008AC411DFB804C8808">
+  <property __name="header" en="Reference Designator" zc="参考设计" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="174F8D87DFBD46169343C9BACE6FB6F7" config_id="174F8D87DFBD46169343C9BACE6FB6F7">
+  <property __name="header" en="" zc="图纸名称" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="3D17BC773F7B48099CDE57F8DC425EEC" config_id="3D17BC773F7B48099CDE57F8DC425EEC">
+  <property __name="header" en="" zc="大版本" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="D0823AED6EDB4D008B351DEE143528AD" config_id="D0823AED6EDB4D008B351DEE143528AD">
+  <property __name="header" en="" zc="图号" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="EC7E3B049E534C81B14B2F8E72F96FF1" config_id="EC7E3B049E534C81B14B2F8E72F96FF1">
+  <property __name="header" en="" zc="图纸类型" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="912D0FC290A74726AA9E041E3CD2E465" config_id="912D0FC290A74726AA9E041E3CD2E465">
+  <property __name="header" en="Title" zc="标题" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="A291636AD3EF41D59CB63ECBB3AD0F74" config_id="A291636AD3EF41D59CB63ECBB3AD0F74">
+  <property __name="header" en="Number" zc="编码" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="D052FB08BDAB4E58A7E76D560C4A924C" config_id="D052FB08BDAB4E58A7E76D560C4A924C">
+  <property __name="header" en="State" zc="状态" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="D8D21C90B1F74A3CA9E4BE1B8896CA40" config_id="D8D21C90B1F74A3CA9E4BE1B8896CA40">
+  <property __name="header" en="Type" zc="类型" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="39832B9C3FD19EE207EA38F0D0163FDD" config_id="39832B9C3FD19EE207EA38F0D0163FDD">
+  <property __name="header" en="Cost" zc="成本" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="39832B9C3FD19EE21F8FF7305DF186EE" config_id="39832B9C3FD19EE21F8FF7305DF186EE">
+  <property __name="header" en="State" zc="状态" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="39832B9C3FD19EE22DE88743CE23B8AB" config_id="39832B9C3FD19EE22DE88743CE23B8AB">
+  <property __name="header" en="Part Number" zc="零件编码" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="39832B9C3FD19EE23808165F6BDF5534" config_id="39832B9C3FD19EE23808165F6BDF5534">
+  <property __name="header" en="Changes" zc="变更中" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="39832B9C3FD19EE25F3568D4E4CD4924" config_id="39832B9C3FD19EE25F3568D4E4CD4924">
+  <property __name="header" en="Name" zc="名称" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="39832B9C3FD19EE2636994BB711EB381" config_id="39832B9C3FD19EE2636994BB711EB381">
+  <property __name="header" en="Claimed By [...]" zc="认领者 [...]" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="39832B9C3FD19EE28EDA773F141EBFC4" config_id="39832B9C3FD19EE28EDA773F141EBFC4">
+  <property __name="header" en="Type" zc="类型" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="39832B9C3FD19EE2A197CF497F14D2E1" config_id="39832B9C3FD19EE2A197CF497F14D2E1">
+  <property __name="header" en="Revision" zc="版本" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="4B937822AE7B4206BEEBF3B28526AEA1" config_id="4B937822AE7B4206BEEBF3B28526AEA1">
+  <property __name="header" en="" zc="图号" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="50B6A54CBFAB4DF0865540CC555C9738" config_id="50B6A54CBFAB4DF0865540CC555C9738">
+  <property __name="header" en="" zc="状态" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="566758031ABF4DDAAB1EE4DA979D601D" config_id="566758031ABF4DDAAB1EE4DA979D601D">
+  <property __name="header" en="" zc="标准件" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="78B20921646C407C80FE7F443A569914" config_id="78B20921646C407C80FE7F443A569914">
+  <property __name="header" en="" zc="图纸名称" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="AE6BFBB41D434D379F3950607DD31798" config_id="AE6BFBB41D434D379F3950607DD31798">
+  <property __name="header" en="" zc="大版本" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="B9BB5E0C305244E7818303A9FE52B9C0" config_id="B9BB5E0C305244E7818303A9FE52B9C0">
+  <property __name="header" en="" zc="序号" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="ED445DDB773F4DA2A6233CF321B6DC03" config_id="ED445DDB773F4DA2A6233CF321B6DC03">
+  <property __name="header" en="" zc="图纸类型" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="3E52DD4A76A649F49A754FE6298EA754" config_id="3E52DD4A76A649F49A754FE6298EA754">
+  <property __name="header" en="" zc="物料" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="7D74FD45E5564D6C8B2C79F45B070620" config_id="7D74FD45E5564D6C8B2C79F45B070620">
+  <property __name="header" en="" zc="版本" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="D8C9A78850C048199C501F7FDB22E424" config_id="D8C9A78850C048199C501F7FDB22E424">
+  <property __name="header" en="" zc="状态" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="3195F24C2EA8445BA0D89F6B71ED98C5" config_id="3195F24C2EA8445BA0D89F6B71ED98C5">
+  <property __name="header" en="" zc="相关项目任务" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="BDD7E814E715640404DCAAE9A04F5897" config_id="BDD7E814E715640404DCAAE9A04F5897">
+  <property __name="header" en="Authoring Tool" zc="编辑工具" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="BDD7E814E71564041CBF7EFC8DF54B9B" config_id="BDD7E814E71564041CBF7EFC8DF54B9B">
+  <property __name="header" en="Standard" zc="标准" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="BDD7E814E71564041F8FF7305DF186EE" config_id="BDD7E814E71564041F8FF7305DF186EE">
+  <property __name="header" en="State" zc="状态" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="BDD7E814E715640421031199415F21A4" config_id="BDD7E814E715640421031199415F21A4">
+  <property __name="header" en="Viewable File [...]" zc="浏览文件 [...]" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="BDD7E814E71564042DE88743CE23B8AB" config_id="BDD7E814E71564042DE88743CE23B8AB">
+  <property __name="header" en="Document Number" zc="文档编码" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="BDD7E814E71564043808165F6BDF5534" config_id="BDD7E814E71564043808165F6BDF5534">
+  <property __name="header" en="Changes" zc="变更中" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="BDD7E814E7156404434B137DE6B52A2F" config_id="BDD7E814E7156404434B137DE6B52A2F">
+  <property __name="header" en="Native File [...]" zc="原始文件 [...]" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="BDD7E814E71564045F3568D4E4CD4924" config_id="BDD7E814E71564045F3568D4E4CD4924">
+  <property __name="header" en="Name" zc="名称" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="BDD7E814E7156404636994BB711EB381" config_id="BDD7E814E7156404636994BB711EB381">
+  <property __name="header" en="Claimed By [...]" zc="认领者 [...]" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="BDD7E814E7156404829372947D297906" config_id="BDD7E814E7156404829372947D297906">
+  <property __name="header" en="Gen" zc="版次" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="BDD7E814E71564048EDA773F141EBFC4" config_id="BDD7E814E71564048EDA773F141EBFC4">
+  <property __name="header" en="Type" zc="类型" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="BDD7E814E7156404A197CF497F14D2E1" config_id="BDD7E814E7156404A197CF497F14D2E1">
+  <property __name="header" en="Revision" zc="版本" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="BDD7E814E7156404D60CA6761A32E1DA" config_id="BDD7E814E7156404D60CA6761A32E1DA">
+  <property __name="header" en="Template" zc="模板" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="E79808509E1E5E5A1F8FF7305DF186EE" config_id="E79808509E1E5E5A1F8FF7305DF186EE">
+  <property __name="header" en="State" zc="状态" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="E79808509E1E5E5A2D31655F8E5BC64B" config_id="E79808509E1E5E5A2D31655F8E5BC64B">
+  <property __name="header" en="Unit" zc="单位" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="E79808509E1E5E5A2DE88743CE23B8AB" config_id="E79808509E1E5E5A2DE88743CE23B8AB">
+  <property __name="header" en="Part Number" zc="零件编码" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="E79808509E1E5E5A48F8013EB9A67C3C" config_id="E79808509E1E5E5A48F8013EB9A67C3C">
+  <property __name="header" en="Unit Price" zc="单价" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="E79808509E1E5E5A4B1DE7EC620FC40E" config_id="E79808509E1E5E5A4B1DE7EC620FC40E">
+  <property __name="header" en="Files" zc="文件" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="E79808509E1E5E5A5F3568D4E4CD4924" config_id="E79808509E1E5E5A5F3568D4E4CD4924">
+  <property __name="header" en="Name" zc="名称" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="E79808509E1E5E5A636994BB711EB381" config_id="E79808509E1E5E5A636994BB711EB381">
+  <property __name="header" en="Claimed By [...]" zc="认领者 [...]" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="E79808509E1E5E5AB794ED679FAC73E8" config_id="E79808509E1E5E5AB794ED679FAC73E8">
+  <property __name="header" en="Description" zc="描述" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="F009F23D7BE6718A07EA38F0D0163FDD" config_id="F009F23D7BE6718A07EA38F0D0163FDD">
+  <property __name="header" en="Cost" zc="成本" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="F009F23D7BE6718A1F8FF7305DF186EE" config_id="F009F23D7BE6718A1F8FF7305DF186EE">
+  <property __name="header" en="State" zc="状态" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="F009F23D7BE6718A2DE88743CE23B8AB" config_id="F009F23D7BE6718A2DE88743CE23B8AB">
+  <property __name="header" en="Part Number" zc="零件编码" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="F009F23D7BE6718A3808165F6BDF5534" config_id="F009F23D7BE6718A3808165F6BDF5534">
+  <property __name="header" en="Changes" zc="变更中" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="F009F23D7BE6718A5F3568D4E4CD4924" config_id="F009F23D7BE6718A5F3568D4E4CD4924">
+  <property __name="header" en="Name" zc="名称" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="F009F23D7BE6718A636994BB711EB381" config_id="F009F23D7BE6718A636994BB711EB381">
+  <property __name="header" en="Claimed By [...]" zc="认领者 [...]" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="F009F23D7BE6718A829372947D297906" config_id="F009F23D7BE6718A829372947D297906">
+  <property __name="header" en="generation" zc="版次" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="F009F23D7BE6718A8EDA773F141EBFC4" config_id="F009F23D7BE6718A8EDA773F141EBFC4">
+  <property __name="header" en="Type" zc="类型" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="F009F23D7BE6718AA197CF497F14D2E1" config_id="F009F23D7BE6718AA197CF497F14D2E1">
+  <property __name="header" en="Revision" zc="版本" />
+ </Item>
+</export>

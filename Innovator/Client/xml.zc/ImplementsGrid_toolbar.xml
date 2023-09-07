@@ -1,0 +1,5 @@
+﻿<toolbarapplet on_click="treeGrid1_onToolbarClick" on_load="toobarStart" buttonstyle="windows"  buttonsize="26,25" font="Arial-bold-10">
+	<toolbar id="toolbar">
+		<button text="Reload" id="reload" image="../images/Refresh.svg" tooltip="Re-Load Matrix" disabled="false" />
+	</toolbar>
+</toolbarapplet>

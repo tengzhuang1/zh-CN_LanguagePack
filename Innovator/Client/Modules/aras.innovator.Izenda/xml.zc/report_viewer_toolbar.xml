@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<toolbarapplet on_load="onToolbarAppletLoad" on_click="onButtonClick" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="viewerbar">
+		<button image="../images/New.svg" id="new_report" tooltip="New Report"/>
+		<button image="../images/EditItem.svg" id="edit_report" tooltip="Edit Report" />
+		<button image="../images/SaveAs.svg" id="save_as_report" tooltip="Save Report as..." />
+		<button image="../images/Delete.svg" id="delete_report" tooltip="Delete Report" />
+		<separator/>
+		<button image="../images/Print.svg" id="print_report" tooltip="Print"/>
+		<separator/>
+		<button image="../images/PDF.svg" id="export_pdf" tooltip="Export to PDF" />
+		<button image="../images/ExportToExcel.svg" id="export_excel" tooltip="Export to Excel" />
+		<button image="../images/ExportToWord.svg" id="export_word" tooltip="Export to Word" />
+		<button image="../images/CSV.svg" id="export_csv" tooltip="Export to CSV" />
+		<button image="../images/XML.svg" id="export_xml" tooltip="Export to XML" />
+		<separator/>
+		<choice width="auto" id="results" tooltip="Maximum number of results" text="Results">
+			<choiceitem id="1">1 Result</choiceitem>
+			<choiceitem id="10">10 Results</choiceitem>
+			<choiceitem id="100">100 Results</choiceitem>
+			<choiceitem id="1000">1000 Results</choiceitem>
+			<choiceitem id="10000">10000 Results</choiceitem>
+			<choiceitem id="-1">All Results</choiceitem>
+		</choice>
+	</toolbar>
+</toolbarapplet>

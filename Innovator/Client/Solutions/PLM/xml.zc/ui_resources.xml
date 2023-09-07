@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ui_resources>
+  <!-- +++++ PLM\Import\Methods\checkAffectedType.xml +++++ -->
+  <resource key="checkaffectedtype.can_not_get" value="Can not get 'Change Controlled Item' with id='{0}'"/>
+  <resource key="checkaffectedtype.same_affected_superseding_numbers" value="Type of Affected Number item is '{0}', and type of Superseding Number item is '{1}', but they should be the same"/>
+  <!--       PLM\Import\Methods\checkAffectedType.xml       -->
+  
+  <!-- +++++ PLM\Import\Methods\checkAffectedTypeOnForm.xml +++++ -->
+  <resource key="checkaffectedtypeonform.same_affected_superseding_types" value="Type of Affected Number item is '{0}', and type of Superseding Number item is '{1}', but they should be the same"/>
+  <!--       PLM\Import\Methods\checkAffectedTypeOnForm.xml       -->
+  
+  <!-- +++++ PLM\Import\Methods +++++ -->
+  <resource key="launch_aml_editor.related_part_is_empty" value="Related Part is empty for the selected relationship."/>
+  <resource key="launch_aml_editor.no_parts_found" value="找不到零部件."/>
+  <resource key="launch_aml_editor.saved_successfully" value="Saved Successfully."/>
+  <!--       PLM\Import\Methods       -->
+  
+	<!-- +++++ PLM\Client\scripts\ReverseGrid\ +++++ -->
+	<resource key="plm_reversegrid.invalidreverseproperty" value="Invalid reverse property name or data source"/>
+	<resource key="plm_reversegrid.invalidqueryparameters" value="reversePropertyName or reverseRelationshipName should be specified in parameters for RelationshipView page"/>
+	<!--			 PLM\Client\scripts\ReverseGrid\ 	 -->
+	
+	<resource key="affecteditem.invaliditemtype_for_relationshipitem" value="Invalid item was selected for current relationship type: RelationshipType '{0}' couldn't contain '{1}' item"/>
+	<resource key="affecteditem.add_not_saved_item" value="Please, save '{0}', unsaved item can't be added to Change item"/>
+	
+	<resource key="createnewrevision.confirm" value="Create New Revision?"/>
+	
+	<resource key="changeitem.saveit" value="Item must be saved first. Save now?"/>
+	<resource key="changeitem.completenesschecksucceeded" value="Completeness Check succeeded. {0} is ready to move forward."/>
+	
+	<!-- +++++ Impact Matrix +++++ -->
+	<resource key="impactmatrix.contextmenu.action_add_item" value="Add Item"/>
+	<resource key="impactmatrix.contextmenu.action_delete_row" value="Delete Row"/>
+	<resource key="impactmatrix.contextmenu.action_release" value="Release"/>
+	<resource key="impactmatrix.contextmenu.action_revise" value="Revise"/>
+	<resource key="impactmatrix.contextmenu.action_renumber" value="Renumber"/>
+	<resource key="impactmatrix.contextmenu.action_supersede" value="Supersede"/>
+	<resource key="impactmatrix.contextmenu.action_obsolete" value="Obsolete"/>
+	<resource key="impactmatrix.contextmenu.action_none" value="None"/>
+	<resource key="impactmatrix.contextmenu.action_review" value="Review"/>
+	<resource key="impactmatrix.contextmenu.action_add_relationship" value="Add Relationship"/>
+	<resource key="impactmatrix.contextmenu.action_change_relationship" value="Change Relationship"/>
+	<resource key="impactmatrix.contextmenu.action_delete_relationship" value="Delete Relationship"/>
+	
+	<resource key="impactmatrix.message.search_released" value="Select new released item which should replace old item"/>
+	<resource key="impactmatrix.message.should_be_released" value="Selected item should be in Released state"/>
+	<resource key="impactmatrix.message.affected_item_exists" value="Selected item exist in Affected Item"/>
+	<resource key="impactmatrix.message.not_supported_state" value="State '{0}' is not supported. Please select item in 'Preliminary', 'Released' or 'Superseded' states"/>
+	<resource key="impactmatrix.message.check_allowed_relationship_for_item" value="For '{0}' isn't allowed to add: {1}"/>
+	<resource key="impactmatrix.message.validation_error" value="Value of a property in Impact Matrix is invalid."/>
+	
+	<resource key="impactmatrix.select_relationship.title" value="Select Relationship Type"/>
+	<resource key="impactmatrix.select_relationship.relationship_header" value="Relationship Type:"/>
+	<!-- 			 Impact Matrix  		 -->
+	
+	<!-- Show Class Specific Fields Part and Document Form    -->
+	<resource key="class_spec_field.Part_Software" value="Software 特有栏位"/>
+	<resource key="class_spec_field.Part_Material" value="Material 特有栏位"/>
+	<resource key="class_spec_field.Part_Component" value="Component 特有栏位"/>
+	<resource key="class_spec_field.Part_Assembly" value="Assembly  特有栏位"/>
+	<resource key="class_spec_field.Document_Software" value="Software 特有栏位"/>
+	<resource key="class_spec_field.Document_Drawing" value="Drawing 特有栏位"/>
+	<resource key="class_spec_field.Document_CAD_Model" value="CAD Model 特有栏位"/>
+	<resource key="class_spec_field.Document_Specification" value="Specification 特有栏位"/>
+	<resource key="class_spec_field.Document_Miscellaneous" value="Miscellaneous 特有栏位"/>
+	<!-- Show Class Specific Fields Part and Document Form    -->
+	
+	<!-- Product Engineering Change Management Options    -->
+	<resource key="pe_change_management.locked_by_another" value="Item '{0}' is locked by another user."/>
+	<resource key="pe_change_management.create_new" value="Create new"/>
+	<resource key="pe_change_management.search" value="Search..."/>
+	<resource key="pe_change_management.onlyone_affected_item" value="Only one item may be added to a PR. Please select a single row."/>
+	<resource key="pe_change_management.affected_item_already_exist" value="Affected Item property already has value."/>
+	<resource key="pe_change_management.affected_item_cannot_be_added_due_to_change_item_state" value="Item(s) cannot be added to a '{0}' {1}."/>
+	<resource key="pe_change_management.choose_cm_options" value="Choose CM Options"/>
+	<!-- Product Engineering Change Management Options    -->
+	
+</ui_resources>

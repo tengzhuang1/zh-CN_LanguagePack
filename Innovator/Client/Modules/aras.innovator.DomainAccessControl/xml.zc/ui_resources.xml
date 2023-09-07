@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ui_resources>
+    <resource key="destination_path" value="Destination Path"/>
+    <resource key="derived_relationship" value="Derived Relationship"/>
+    <resource key="persistence_status" value="Persistence Status"/>
+    <resource key="persistence_complete" value="Departure Items Persisted"/>
+    <resource key="persistence_items" value="Departure Items Total Count"/>
+    <resource key="persistence_start" value="Start"/>
+    <resource key="persistence_end" value="End"/>
+    <resource key="persistence_errors" value="Errors"/>
+    <resource key="remediation_form_title" value="Departures to Remediate"/>
+    <resource key="remediation_form.all_option" value="All"/>
+    <resource key="remediation_form.particular_option" value="Particular Departures"/>
+    <resource key="unused_derived_relationships_error_msg" value="Some Derived Relationships are unused. You should either map them in the Tree Grid Editor or remove them. The unused Derived Relationships are: {0}."/>
+</ui_resources>

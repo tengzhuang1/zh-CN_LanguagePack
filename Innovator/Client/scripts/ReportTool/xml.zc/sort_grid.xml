@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<table
+  oneditcell="onEditCell"
+  onmenuinit="onMenuInit"
+  onmenuclick="onMenuClick"
+  ondoubleclick="onDoubleClick"
+  draw_grid="true"
+  treelines="1"
+  editable="true"
+  noheader="false">
+      
+  <thead>
+    <th>Property</th>
+    <th>Order</th>
+    <th>Case Order</th>
+    <th>Data Type</th>
+  </thead>
+
+  <columns>
+    <column width="25%" edit="NOEDIT" align="l" order="0"/>
+    <column width="25%" edit="EDIT"   align="l" order="1"/>
+    <column width="25%" edit="EDIT"   align="l" order="2"/>
+    <column width="25%" edit="EDIT"   align="l" order="3"/>
+  </columns>
+      
+  <list id="1">    
+  </list>
+</table>

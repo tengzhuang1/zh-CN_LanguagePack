@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <item index="0" id="status" type="both" width="15%" value="Ready">
+	<font family="Arial" size="8" bold="1" italic="0"/>
+  </item>
+  <item index="1" id="page_status" width="70%" type="both">
+	<font family="Arial" size="8" bold="0" italic="0"/>
+  </item>
+  <item index="2" id="branding" width="15%" type="both" value="Aras Innovator">
+	<font family="Arial" size="8" bold="0" italic="0"/>
+  </item>
+</xml>
+

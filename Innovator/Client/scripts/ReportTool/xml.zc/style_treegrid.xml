@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+'
+' (c) Copyright by Aras Corporation, 2004-2007.
+'
+-->
+<table
+  oneditcell="onEditCell"
+  onmenuinit="onMenuInit"
+  onmenuclick="onMenuClick"
+  ondoubleclick="onDoubleClick"
+  draw_grid="true"
+  treelines="0"
+  editable="true"
+  noheader="false">
+      
+  <thead>
+    <th>Property</th>
+    <th>Value</th>
+  </thead>
+
+  <columns>
+    <column width="50%" edit="EDIT" align="l" order="0"/>
+    <column width="50%" edit="EDIT" align="l" order="1"/>
+  </columns>
+      
+  <list id="1">
+  </list>
+</table>

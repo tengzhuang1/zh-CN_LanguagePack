@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ui_resources>
+	<resource key="tree.empty_root" value="Empty Query Definition"/>
+	<resource key="error_wrong_configuration_qry_def" value="Invalid Query Definition Configuration"/>
+	<resource key="parameters_dialog_title" value="Query Parameters"/>
+	<resource key="item.action.execute_in_tearoff.warning" value="This action should be executed from the Item Window Actions Menu. It cannot be executed from the Main Window."/>
+	<!-- Actions -->
+	<resource key="action.add" value="Add Related Item"/>
+	<resource key="action.manage" value="Edit Query Element"/>
+	<resource key="action.changename" value="Change Alias"/>
+	<resource key="action.reuse" value="Reuse Query Element Definition"/>
+	<resource key="action.removeitem" value="Remove Item"/>
+	<resource key="action.removeitem_confirm" value="Do you want to delete &quot;{0}&quot; and all Child Query Elements?"/>
+	<!-- Execution -->
+	<resource key="execution.start" value="Start Execution..."/>
+	<resource key="execution.submit_btn" value="Execute"/>
+	<resource key="execution.exit" value="Cancel"/>
+	<resource key="execution.title_checking_dialog" value="Start Execution..."/>
+	<resource key="execution.title_query_result_dialog" value="Query Result"/>
+	<resource key="execution.processing" value="Processing..."/>
+	<resource key="execution.resultAsFile" value="Result as File"/>
+	<resource key="execution.outputFormat" value="Output format"/>
+	<resource key="execution.structuredFormat" value="Structured"/>
+	<resource key="execution.flatFormat" value="Flat"/>
+	<!-- Add -->
+	<resource key="action.add.property" value="Using Item Property..."/>
+	<resource key="action.add.property.in.dialog" value="Add Related Item Using Item Property"/>
+	<resource key="action.add.relationship" value="Using Relationship..."/>
+	<resource key="action.add.relationship.in.dialog" value="Add Related Item Using Relationship"/>
+	<resource key="action.add.whereused" value="Using Referencing Item..."/>
+	<resource key="action.add.whereused.in.dialog" value="Add Related Item Using Referencing Item"/>
+	<resource key="action.add.reuse_button" value="Add"/>
+	<resource key="action.add.include_related" value="Include Related"/>
+	<!-- Manage -->
+	<resource key="action.manage.selectedprops" value="Selected Properties..."/>
+	<resource key="action.manage.selectedprops_title" value="Properties"/>
+	<resource key="action.manage.condition" value="Condition..."/>
+	<resource key="action.manage.sortorder" value="Sort Order..."/>
+	<resource key="action.manage.sortorder_order" value="Order"/>
+	<resource key="action.manage.sortorder_property" value="Property"/>
+	<resource key="action.manage.sortorder_direction" value="Direction"/>
+	<resource key="action.manage.sortorder_asc" value="(Ascending)"/>
+	<resource key="action.manage.sortorder_desc" value="(Descending)"/>
+	<resource key="action.manage.add_property" value="Add Property"/>
+	<!-- Condition Editor -->
+	<resource key="condition_editor.reference_path_from" value="Reference Path Through {0} ({1})"/>
+	<resource key="condition_editor.reference_id_from" value="Reference Id From {0} ({1})"/>
+	<resource key="condition_editor.save" value="Save"/>
+	<resource key="condition_editor.cancel" value="Cancel"/>
+	<resource key="condition_editor.join_condition_title" value="Join Condition"/>
+	<resource key="condition_editor.where_condition_title" value="Where Condition"/>
+	<resource key="condition_editor.invalid_property_name" value="Invalid property name: {0}"/>
+	<resource key="condition_editor.invalid_method_name" value="Invalid method name: {0}"/>
+	<resource key="condition_editor.invalid_method_arguments_count" value="Invalid number of method arguments"/>
+	<resource key="condition_editor.invalid_method_argument_type" value="Invalid method argument type: {0}"/>
+	<!-- Select Item Dialog -->
+	<resource key="error_nothing_selected" value="Nothing selected."/>
+	<resource key="property_search_label" value="Find property to add:"/>
+	<resource key="referencing_item_search_label" value="Find referencing item to add:"/>
+	<!--Validation-->
+	<resource key="broken_references.qry_reference" value="A row with Alias '{0}' cannot be shown because it has invalid properties. The invalid Properties: '{1}'."/>
+	<resource key="broken_references.property" value="A row with Alias '{0}' has broken reference(s) in Properties list. The broken Reference Id(s): '{1}'."/>
+	<resource key="broken_references.order" value="A row with Alias '{0}' has broken reference(s) in Orders list. The broken Reference Id(s): '{1}'."/>
+	<resource key="broken_references.condition" value="A row with Alias '{0}' has broken reference(s) in Condition list. The broken Reference Id(s): '{1}'."/>
+	<resource key="invalid_item_property" value="Some properties are invalid. Please see more details in the editor."/>
+</ui_resources>

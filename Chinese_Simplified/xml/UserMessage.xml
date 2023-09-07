@@ -1,0 +1,2072 @@
+﻿<export>
+ <Item type="UserMessage" keyed_name="UpdateItemEx_BehaviorPropInvalid" config_id="00074164031848CB88C15672A28DA74A">
+  <property __name="text" en="The value of the behavior property specified for the {0} is invalid." zc="为{0}指定的行为属性的值无效。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="BeforeItemTypeUpdate_InternalErrorRenameFailed" config_id="00D7F019AE134B07989EF4837E14D1BB">
+  <property __name="text" en="Internal Error: renaming failed." zc="内部错误：重命名失败。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_NotSupportedIsMemberOfIdentity" config_id="01F13AAF3B5D457D93B0CD4C3FB863AF">
+  <property __name="text" en="The &quot;{0}&quot; value is an incorrect argument for CurrentUser.IsMemberOf() method. The CurrentUser.IsMemberOf() doesn't support Identities with &quot;System&quot; or &quot;Team&quot; classification." zc="{0}”值对于CurrentUser是不正确的参数。IsMemberOf（）方法。当前用户。IsMemberOf（）不支持带有“系统”或“团队”分类的标识。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedUnsubscribeFromForum" config_id="021CABA6CE224BBFAF1FE402CFCB7939">
+  <property __name="text" en="Failed to unsubscribe from forum: {0}" zc="无法从论坛取消订阅：{0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.RequiredPropertiesNotSpecified" config_id="0284E0D59A594810AC8DFA21794D6C4C">
+  <property __name="text" en="The following properties are required:{0}{1}" zc="需要以下属性：{0}{1}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="DeleteUsers_InternalError" config_id="0422BEE2959747DEA32C62EB2B70EB37">
+  <property __name="text" en="An internal error has occured." zc="发生内部错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedGetUserIsAlias" config_id="04309DF1ED454E9EBD64BA5DA1B39766">
+  <property __name="text" en="Failed to get user isAlias identity: {0}" zc="无法获取用户isAlias标识：{0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_UpdatingCharacteristicsIsNotSupported" config_id="049EBBE5407B4F0988F3CDC840C53CE1">
+  <property __name="text" en="Updating characteristics is not supported! Use delete/add actions instead." zc="不支持更新特征！改为使用删除/添加操作。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="effs_ItemTypeWithOtherName" config_id="04BBDF47D751496490568B771E204F4B">
+  <property __name="text" en="Name '{0}' cannot be applied. Effectivity Expression ItemType with name '{1}' for '{2}' ItemType is already created. Do not populate name property." zc="无法应用名称“{0}”。已为{2}ItemType创建名为{1}的有效性表达式ItemType。不要填充name属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddRelationshipEx_RelatedShouldBeOnlyOne" config_id="04EFBD7E49664C16ABE02B66163C92A5">
+  <property __name="text" en="A single related item has to be specified." zc="必须指定一个相关项目。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.AttributeIdIsMissingException" config_id="05459CA1128740629E7CEC86DC61430C">
+  <property __name="text" en="The id attribute on tag &lt;Item&gt; is missing." zc="标签&lt;Item&gt;上的id属性缺失。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_InternalError" config_id="05E86C001A6345E8927DB77E01AE07F3">
+  <property __name="text" en="An internal error has occured." zc="发生内部错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DeletedIT" config_id="0658D17912A44DBA9F8FC67F074065AF">
+  <property __name="text" en="Deleted item type: {0}, config_id: {1}." zc="已删除的项目类型：{0}，配置id:{1}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateWorkflowMap_InternalError" config_id="06BFED2F1F864B1DA0CCA881CCAE6EB7">
+  <property __name="text" en="An internal error has occured." zc="发生内部错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xProperty_DataSourceNotSpecified" config_id="06D13F3C7996452982C67920CFA03556">
+  <property __name="text" en="The data source of the &quot;{0}&quot; property is not specified." zc="未指定“{0}”属性的数据源。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FilterInvalidFormatTypeNotSM" config_id="06F086657393469C83D6F88A28AF76F4">
+  <property __name="text" en="'filter' item property has invalid format: 'type' attribute should be 'SecureMessage'" zc="filter”项属性的格式无效：“type”属性应为“SecureMessage" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_WrongDestinationItemtypeIdInDR" config_id="078A01FAA5844DB5B74F8B15BF7C1A59">
+  <property __name="text" en="The Itemtype of the Query Definition Leaf Item should be the same as the destination Itemtype of the derived relationship for &quot;{0}&quot;" zc="查询定义叶项的Itemtype应与“{0}”的派生关系的目标Itemtype相同" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_CanRefuseDisabled" config_id="079615786CCB40B38CB433666850FEAF">
+  <property __name="text" en="Can Refuse is disabled for this activity." zc="此活动禁用了Can拒绝。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tp_RefencedItemsNotSaved" config_id="07BA3CE2E6F846A99FF7980FD47D5A8A">
+  <property __name="text" en="Item changes are not saved:\n{0}" zc="未保存项更改：\n{0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyMethod_actionNameReserved" config_id="0863D09FED3445719ADDCC4FC6929EFB">
+  <property __name="text" en="This action name is reserved. Please choose a different name." zc="此操作名称已保留。请选择其他名称。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_ReverseItems_WrongItemId" config_id="08AC15B809554493B0C5338D03CD0E25">
+  <property __name="text" en="'{0}' is not a valid id. Make sure that 'StartItemId' parameter is set properly." zc="{0}不是有效的id。请确保“StartItemId”参数设置正确。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="innovatorserver_main_dispatch_multipleErrors" config_id="0955608EE3BB43C5BDA181C5AECEE285">
+  <property __name="text" en="Multiple Errors: {1} - {2} {3} - {4}" zc="多个错误：{1}-{2}{3}-{4}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="effs_variableListReferenceIsAbsent" config_id="099B35ED01FB43369C5E24836A7A7AE9">
+  <property __name="text" en="The property &quot;List&quot; is required for the corresponding variable type" zc="相应的变量类型需要属性“List" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tp_SpecifySchemaId" config_id="0A3E292502614995BE511A4BFA7E1B93">
+  <property __name="text" en="Content generation: XML schema ID must be specified." zc="内容生成：必须指定XML架构ID。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="qry_QueryReferencePathPropertyLabel" config_id="0A575309ED824B558C36E0ED979F97E4">
+  <property __name="text" en="Query Reference Path" zc="查询引用路径" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ExecuteMethodByName_methodNotFound" config_id="0A755D94C73D4D6D9AE7ACC8B9E54250">
+  <property __name="text" en="Method {0} was not found." zc="找不到方法{0}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_ResolutionAttributeIsMissing" config_id="0AA19FDD9ED841BCB8118AFF90842D87">
+  <property __name="text" en="Resolution attribute is missing." zc="缺少分辨率属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.AccountIsBlockedByIpAddressForMinutesException" config_id="0AC75FCA319640A58AFD9655AA8F0710">
+  <property __name="text" en="Your account has been blocked for {0} minutes from the ip address {1}." zc="您的帐户已被ip地址{1}阻止{0}分钟。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_WrongServerMethodType" config_id="0B03452D94DA45DBB4831FEF76057CA2">
+  <property __name="text" en="Environment Attribute Get Value Method has wrong method type &quot;{0}&quot;." zc="环境属性Get Value方法具有错误的方法类型“{0}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_NotSupportedFunction" config_id="0B2998168CFA4AE7AAA4A17194CF44D0">
+  <property __name="text" en="GetUsersWithAccessToItems(): The custom function '{0}' used in the active MAC policy is not implemented for this interface." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ConversionRuleNotFound" config_id="0B52CAA4999547B2A56EBB555C44BD1B">
+  <property __name="text" en="ConversionRule 'Aras 3D CAD to PDF Conversion' is not found. Check that Aras.CADConverter3 feature is available." zc="找不到转换规则“Aras 3D CAD到PDF转换”。检查一下阿拉斯。CADConverter3功能可用。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_EnvironmentIncompatibleDataType" config_id="0B55885B92EB43AC85E2310435C4C1D7">
+  <property __name="text" en="The Environment Attribute &quot;{0}&quot; has datatype &quot;{1}&quot; that is incompatible with type &quot;{2}&quot; of &quot;{3}&quot; property." zc="环境属性{0}的数据类型{1}与{3}属性的类型{2}不兼容。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_PropertyTypeCannotBeUsedForInnovatorProperty" config_id="0B5994F8A43041E5A4E8BA0B17CBB231">
+  <property __name="text" en="Error in '{0}' Type: type of '{1}' Property ('{2}') cannot be used for '{3}' Innovator Property." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_DepartureIdDoesNotExist" config_id="0B731024DB094814B688318740548A21">
+  <property __name="text" en="Departure id '{0}' doesn't exist." zc="出发id“{0}”不存在。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_NewVersionFromPreliminary" config_id="0BAFE1A720614AB3AD15CDF2B96D06EA">
+  <property __name="text" en="Cannot create new version of Item in Preliminary state." zc="无法创建处于初始状态的项的新版本。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_CantGetNextSeqValue" config_id="0C08473134284FCABA6722B6A4066207">
+  <property __name="text" en="Could not get the next sequence value for {0} property of the {1} ItemType." zc="无法获取{1}ItemType的{0}属性的下一个序列值。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_TGVError" config_id="0C8F14E17C7949B08BB21B5EC83828B9">
+  <property __name="text" en="Tree Grid View Error." zc="树网格视图错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_IncompatibleFormat" config_id="0CE2CB0529CF43619428C7C216FA06BB">
+  <property __name="text" en="The constant &quot;{0}&quot; has an incompatible format with &quot;{1}&quot; type. Example of correct &quot;{1}&quot; type value: {2}." zc="常量“{0}”的格式与“{1}”类型不兼容。正确的“{1}”类型值示例：{2}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_MasterAndRepFileTypesMismatch" config_id="0D02DC397A7F4C09948A5A4975B1FF86">
+  <property __name="text" en="Master file type and representation file type are mismatched" zc="主文件类型和表示文件类型不匹配" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_FailedDeleteTGVIsUsed" config_id="0DD20C30C6F74366968440F1E7F40068">
+  <property __name="text" en="Tree Grid View with ID = '{0}' cannot be deleted. It is assigned to ItemTypes: {1}." zc="无法删除ID为“{0}”的树网格视图。它被分配给ItemTypes:{1}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SetItemState_FailedGetItemTypeDetail" config_id="0E3D0E3015FB4F4E8C0F8F38D96A9EEA">
+  <property __name="text" en="Failed to get the {0} ItemType: {1}." zc="未能获取{0}项类型：{1}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_AffectedId_RequiresNull_with_param" config_id="0E49AF4B5EA440C69D02F4A2518B95DA">
+  <property __name="text" en="The Old Number field must be blank when Action is set to 'Add'. There should be no 'Old Number' value for {0} {1}." zc="当操作设置为“添加”时，旧数字字段必须为空。{0}{1}不应该有“旧数字”值。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_IsXPropertyDefinedArgumentShouldBeXPropertyName" config_id="0E97AB4FC6A94371878B9A77BEE3AA9C">
+  <property __name="text" en="The argument &quot;{0}&quot; for the method &quot;IsXPropertyDefined()&quot; must be an xProperty name." zc="方法“IsXPropertyDefined（）”的参数“{0}”必须是xProperty名称。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xProperty_CanNotBeInactive" config_id="0EA9EC89796144599D5D9B0B3B8C08B9">
+  <property __name="text" en="Extended Property '{0}' cannot be required with empty default value when it is used as inactive." zc="当扩展属性{0}用作非活动属性时，不能要求其默认值为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_UserCannotHaveMoreThanOneMyBookmarks" config_id="0ED89E5D3FFF46C0B6A1FE03C0F2750E">
+  <property __name="text" en="User cannot have more than one Forum of type 'MyBookmarks'." zc="用户不能有多个“MyBookmarks”类型的论坛。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedRelationship_Is_AffectedRelId_Required" config_id="0F3D7601763F42C3B80D366D42B6CA5C">
+  <property __name="text" en="The Old Rel field is required when Action is set to {0}." zc="当Action设置为{0}时，Old Rel字段是必需的。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_SystemAndTeamIdentity" config_id="103C8E5B80624F46954284FB4C5F1A14">
+  <property __name="text" en="'Default Visibility Identity' property can't be with 'System' or 'Team' classification." zc="默认可见性标识”属性不能为“系统”或“团队”分类。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_MasterFileIsAlreadyRepresentationFile" config_id="10518E0ABCA3417EB1E4AA2F36BCC394">
+  <property __name="text" en="Master file cannot serve as representation for another file" zc="主文件不能作为另一个文件的表示形式" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetIdentityListDbManagementConfiguration_IntervalsCombinationDoesNotMatch" config_id="1057A4280616416D88CCB6212A24DBDD">
+  <property __name="text" en="Combination of parameters DbRecordExpirationInterval and CacheRecordExpirationInterval from IdentityListManagement configuration section does not match. Please contact your administrator." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_UnableToDeleteQueryReferenceUsedInDRF" config_id="1132804062B4401CAB40642EE38482BA">
+  <property __name="text" en="Unable to delete Query Reference used in Derived Relationship Family" zc="无法删除派生关系族中使用的查询引用" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ReAssignActivity_CantReAssignClosedActivity" config_id="11BF9DA08E244FA4820D2B384A036A2F">
+  <property __name="text" en="A closed activity cannot be reassigned." zc="无法重新分配已关闭的活动。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_NewItemId_RequiresNull_OnChange_with_param" config_id="1220F5C6DAD24FC1BA7DB8E2B9A1EB72">
+  <property __name="text" en="The New Number field must be blank when Action is set to 'Change' and the Interchangeable flag is on. There should be no 'New Number' value for {0} {1}." zc="当操作设置为“更改”且可互换标志打开时，新的数字字段必须为空。{0}{1}不应该有“新数字”值。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NoSSVCPresentationConfigurationFound" config_id="126AF79E4B01432A9E95C058234DB801">
+  <property __name="text" en="No items of type SSVCPresentationConfiguration found." zc="未找到SSVCPresentationConfiguration类型的项。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_multiplePlansError" config_id="127A909702634D988B56F361912174D1">
+  <property __name="text" en="" zc="Can't resolve structure for this Part. Several Process Plans were found." />
+ </Item>
+ <Item type="UserMessage" keyed_name="xProperty_InsufficientPermissions" config_id="12AAC5CE9B034A81895A69D745222C15">
+  <property __name="text" en="You have insufficient permissions to perform '{0}' operation for Extended Properties: {1}." zc="您没有足够的权限对扩展属性{1}执行{0}操作。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xClassification_CanNotDeleteRootClass" config_id="12E924AB3799467FB258ACB98885794D">
+  <property __name="text" en="Deleting root class is not allowed" zc="不允许删除根类" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_IdPropertyMustBePresent" config_id="12F77B963C0544D99BC8832CD0917BF8">
+  <property __name="text" en="Error in '{0}' Type: 'id' property must be present." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_EventsChangesForbiddenInActiveOrPersistentDrf" config_id="13502AA05852477489B53B888C50EEF9">
+  <property __name="text" en="Event handler is not allowed to change Items of type &quot;{0}&quot; under Derived Relationship Family in Active or Persisting state" zc="不允许事件处理程序更改处于活动或持久状态的派生关系族下类型为“{0}”的项" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_RepresentationFileIdIsNotSpecified" config_id="13AD1BB164D444C2AA83109CD100CADE">
+  <property __name="text" en="Representation file id is not specified" zc="未指定表示文件id" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_TypeEmpty" config_id="13CBA0FE14BD481C99AE547AF0BB873C">
+  <property __name="text" en="Type cannot be empty." zc="类型不能为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Licensing.FeatureTreeDecryptException" config_id="140F6D8C333F4E2CB938A67E37A7E3BB">
+  <property __name="text" en="Feature Tree initialization failed." zc="功能树初始化失败。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xDeleteItemTypeFromTree" config_id="14150A4F7FBD4450A359FFD53634B9D8">
+  <property __name="text" en="Can't delete relationship between xClassificationTree id={0} and item type {1} until instances with ids={2} has classification from this tree." zc="无法删除xClassificationTree id={0}和项类型{1}之间的关系，直到id={2}的实例具有此树中的分类。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.ItemAnalysisException.RegularUser" config_id="14FF3930F6C1478280D849B99413ACCB">
+  <property __name="text" en="Item Analysis Error. Some Items have incorrect attribute/property values syntax. Please contact your system administrator for more details." zc="项目分析错误。某些项的属性/属性值语法不正确。有关详细信息，请与系统管理员联系。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectorParserFunctionMustBeInTheEnd" config_id="155B44F6412549C1A409566E868E1FBA">
+  <property __name="text" en="Function &quot;{0}&quot; must be in the end of the string!" zc="函数“{0}”必须在字符串的末尾！" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_CollectionListMustContainOnlyTypeProperty" config_id="15934CD52FD04E3FA0740A44831A6C10">
+  <property __name="text" en="Error in '{0}' Type: '{1}' collection must contain only 'Type' property." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_validatePartConfig_invalidItemType" config_id="15DC6ABE7B984D14B6F2B97AC1EB5C01">
+  <property __name="text" en="" zc="Unknown itemtypes: {0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_CheckChangeItemUsage" config_id="163067C833D4453BA3FE964661AFAEE8">
+  <property __name="text" en="This action cannot be performed on {0} '{1}' because it is used on {2} '{3}'" zc="无法在{0}{1}上执行此操作，因为它在{2}{3}上使用" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemSelectionDepthShouldBeGreaterOrEqual" config_id="164891799B9441CFAB9DE43293623C80">
+  <property __name="text" en="Item selection depth should be greater or equal to File selection depth." zc="项目选择深度应大于或等于文件选择深度。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_validatePartConfig_invalidPropertyName" config_id="16ADBEE0FDA9492B9382F02486D83889">
+  <property __name="text" en="" zc="Property with name {0} not found at itemType {1}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_ManualRelease_MustBeInPreliminaryState" config_id="178167C833D4453BA3FE964661AFAEE8">
+  <property __name="text" en="{0} must be in the Preliminary or Manual Change state to perform this action." zc="{0}必须处于初步或手动更改状态才能执行此操作。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_NewItemId_InPreliminaryState" config_id="1795DA2BF0C74172B5124DA700483C62">
+  <property __name="text" en="All New Number items must be in Preliminary State. {0} {1} is in {2} state." zc="所有新编号项目必须处于初始状态。{0}{1}处于{2}状态。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.UnsupportedFilterConditionFederated" config_id="17DF5000B85D4EC3AAD59BC59A1B8552">
+  <property __name="text" en="Unsupported filter condition: the federated property type '{0}' of parent item is not comparable with the federated property type '{1}' of referenced item." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetRevision_FailedGetRevision" config_id="184130DBE1C24B6B8473C78FA1D14FD4">
+  <property __name="text" en="Failed to get the revision {0} for the {1} ItemType." zc="无法获取{1}ItemType的修订版{0}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_CollectionMustContainType" config_id="1AD4D4421EE94CA7B8FEF8BE5548ACFB">
+  <property __name="text" en="Error in '{0}' Type: '{1}' Collection must contain 'Type'." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedCheckIfSSVCEnabled" config_id="1AF09B03349C4EEFBDD0D292B6630977">
+  <property __name="text" en="Failed to check if SSVC is enabled on Item: {0}" zc="无法检查是否对项{0}启用了SSVC" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DeleteFMGGroupTypeNotSet" config_id="1BEC364895A244D69468DCFD63FBFEED">
+  <property __name="text" en="Failed to delete Forum Message Group: 'group_type' property was not set." zc="删除论坛消息组失败：未设置“组类型”属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToGetUserItemById" config_id="1C1AD67260484F9C87B20BC431EA9996">
+  <property __name="text" en="Failed to get user item by id {0}: {1}" zc="无法通过id{0}:{1}获取用户项" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetNextSequence_SequenceNotFound" config_id="1C4CE86BCAAB4AC3B1563054CD30B9E7">
+  <property __name="text" en="The sequence {0} was not found." zc="找不到序列{0}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetMessagesForFMG" config_id="1CAB8898B141436F9DA274CD36DB2385">
+  <property __name="text" en="Failed to get messages for Forum Message Group: {0}" zc="无法获取论坛消息组的消息：{0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyUpdate_InternalError" config_id="1DD1ED529F6E42B98EB25A3B74D85905">
+  <property __name="text" en="An internal error has occured." zc="发生内部错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_PropertyIsNotListPropertySoUsePrimitiveOrItemType" config_id="1DE80EBDBCBB4340875F6BDC436AF2B2">
+  <property __name="text" en="Error in '{0}' Type: '{1}' Property is not List Property, so use Item or supported primitive types instead of '{2}' type." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_noProcessPlanError" config_id="1E5A0B70C3B1438695D50B89C660AA6D">
+  <property __name="text" en="" zc="Not found Process Plans for Part with id:'{0}'" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_ActivityAssignmentNotSpecified" config_id="1EA903B8181545B9972120398B3D31A5">
+  <property __name="text" en="The Activity Assignment is not specified and the Activity is not Automatic." zc="未指定活动分配，且该活动不是自动的。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_NotSupportedItemType" config_id="1ED8A2E7D5E846048C2B797652E68F0A">
+  <property __name="text" en="Derived Relationship Family is not support '{0}' Item Type." zc="派生关系族不支持“{0}”项类型。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xClassificationTree_MultipleCopy" config_id="203AD4386EC64347829D17675061065E">
+  <property __name="text" en="Copying of multiple xClassificationTrees is not allowed" zc="不允许复制多个xClassificationTrees" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_NoDataFound" config_id="20767C4657924B56AB93A91A991B7184">
+  <property __name="text" en="No data found!" zc="没有找到数据！" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedRelationship_Is_AffectedRelationshipProperty_Required" config_id="20A90FE6057B45739B5A21D7880DE97B">
+  <property __name="text" en="At least one affected relationship property must be specified when Action is {0}." zc="当操作为{0}时，必须至少指定一个受影响的关系属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_ListMustContainValues" config_id="20BC3D677EA14EEB968A31C705E119E6">
+  <property __name="text" en="Error in '{0}' List: values must be present." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_PropertyIsNotItemPropertySoUsePrimitiveOrListType" config_id="20E5D33C593F421EADCDEF9129EC5F73">
+  <property __name="text" en="Error in '{0}' Type: '{1}' Property is not Item Property, so use List or supported primitive types instead of '{2}' type." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_PropertiesMustContainTypeSpecified" config_id="20FB207E1D4A4BA18AF60DB919826A4F">
+  <property __name="text" en="Error in '{0}' Type: Properties must contain 'Type' specified." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ServerErrorTest_InternalError" config_id="21A1BD5972944AA8B858315382E5E8AE">
+  <property __name="text" en="An internal error has occured." zc="发生内部错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_ItemTypeCannotBeNullOrEmpty" config_id="21BA9FEED21C4BC8A93687EF502F7947">
+  <property __name="text" en="Error in '{0}' Type: 'ItemType' cannot be null or empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_CollectionAliasesCannotContainSpaces" config_id="2333D7CD65B04A6DB5BBE6CEE1A0993D">
+  <property __name="text" en="Error in '{0}' Type: Collection aliases cannot contain spaces." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_ManualRelease_YouMustBeAMember" config_id="245067C833D4453BA3FE964661AFAEE8">
+  <property __name="text" en="You must be a member of the {0} identity to perform this action." zc="您必须是{0}标识的成员才能执行此操作。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_WrongDestinationItemtypeId" config_id="24556F2F57234D518F9AE33E5FD84F73">
+  <property __name="text" en="Destination ItemType should be the same as ItemType in Relationship Family QueryItem" zc="目标ItemType应与关系族QueryItem中的ItemType相同" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_ForbidFederatedItemTypeUsage" config_id="249819F42789442799936E8CFFF7E3AC">
+  <property __name="text" en="Federated ItemType &quot;{0}&quot; can't be used in Relationship Family" zc="无法在关系族中使用联合项类型“{0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="effs_variableItemReferenceIsAbsent" config_id="25FDBB82AA004BC4BBE8F13FAA2B1C34">
+  <property __name="text" en="The property &quot;ItemType&quot; is required for the corresponding variable type" zc="相应的变量类型需要属性“ItemType" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Server.Permission.NoPermissionsForActionFound" config_id="27174995FE3C4145B0E3E7836055163D">
+  <property __name="text" en="No permissions of type={0} found for the item (type={1}, id={2})" zc="找不到该项的类型为{0}的权限（类型为{1}，id为{2}）" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToCreateFMG" config_id="2732C5A520804F6D84C6070F1BA3F18E">
+  <property __name="text" en="Failed to create ForumMessageGroup for user {0}: {1}" zc="无法为用户{0}:{1}创建ForumMessageGroup" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_ItemTypeNameNotFound" config_id="2759C71B3F7842FDA2C72DCE59F7E282">
+  <property __name="text" en="The name of the ItemType is required." zc="ItemType的名称是必需的。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dac_WrongSortOrderForSubdomainPermission" config_id="278171A173C04F7A9DEA45D34971F1D8">
+  <property __name="text" en="Subdomain Permission with empty Destination Life Cycle State should have lower priority than priority=&quot;{0}&quot; of Subdomain Permission with Destination Life Cycle State=&quot;{1}&quot;" zc="目标生命周期状态为空的子域权限的优先级应低于目标生命周期状态为“{1}”的子域权限的优先级“{0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xPxC_PermissionCheckFailed" config_id="28493F1F09704334B2BE74E2C05A59CB">
+  <property __name="text" en="Permission check has failed" zc="权限检查失败" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tp_SpecifyInputData" config_id="28D7EFC98E254081B26D58B378277BB8">
+  <property __name="text" en="Content generation: Input data must be specified." zc="内容生成：必须指定输入数据。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_CadNotContainFile" config_id="29500678F6BA43C8AECE10333EAEAFD3">
+  <property __name="text" en="CAD does not contain native file to convert to PDF." zc="CAD不包含要转换为PDF的本机文件。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_noDefaultPermission" config_id="298A5C520E124D608BA07B349D5059CD">
+  <property __name="text" en="Cannot add instances of {0} because no default permission has been specified for the {0} ItemType." zc="无法添加{0}的实例，因为没有为{0}ItemType指定默认权限。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ReAssignActivity_FailGetActivity" config_id="2A286C49BA9F477FBA925AAB1E93ED60">
+  <property __name="text" en="Failed to get the Activity." zc="无法获取活动。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_newRevisionAvailableStatus" config_id="2A823870E2014E97AA6F2086C6408FC3">
+  <property __name="text" en="" zc="New Revision Available" />
+ </Item>
+ <Item type="UserMessage" keyed_name="LockItem_SpecificItemCantBeLocked" config_id="2A995BB3D0CB40B6939D0CDF7636BADB">
+  <property __name="text" en="The {0} with ID {1} you are trying to edit is in a Not Lockable lifecycle state." zc="您试图编辑的ID为{1}的{0}处于不可锁定的生命周期状态。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyAML_AMLTagMissing" config_id="2AE92A61840548D0B9AD2A9A0CE9B692">
+  <property __name="text" en="The XML for this operation is malformed: the AML tag is missing." zc="此操作的XML格式不正确：缺少AML标记。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTableDoesNotExist" config_id="2B6425581C3843C3B9DA5A6827D8E71A">
+  <property __name="text" en="Table does not exist" zc="表不存在" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_InvalidReference" config_id="2B91FB7C29A84C5082A9B6F3689CD1CC">
+  <property __name="text" en="Reference in {0} '{1}' is invalid." zc="{0}{1}中的引用无效。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PurgeItemEx2_FailedDeleteIsUsed4params" config_id="2C31ACE1D1224E43BA068DE4A748CD4F">
+  <property __name="text" en="{0} cannot be deleted. It is used in {1} {2} {3}." zc="无法删除{0}。它用于{1} {2} {3}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectorParserWrongCloseBracketPos" config_id="2C4371DB197943D18393ED7E866430C8">
+  <property __name="text" en="Wrong close bracket at position {0} in text: &quot;{1}&quot;" zc="文本“{1}”中位置{0}处的右括号错误" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpo_MassPromotionRecordIsProcessing" config_id="2D6A5973D38A444591435F08F2A81EFC">
+  <property __name="text" en="Item is processing by another request" zc="另一个请求正在处理项" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xProperty_LengthNotSpecified" config_id="2DA74A627F594A9A949B562D7205C6A9">
+  <property __name="text" en="The length of the &quot;{0}&quot; property is not specified." zc="未指定“{0}”属性的长度。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVCNotifications_NotScheduledTimeForDigest" config_id="2E05BEE3D0C947B5A388ED34F1AFCAAB">
+  <property __name="text" en="Scheduled time for Digest email notification has not come." zc="摘要邮件通知的预定时间尚未到来。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_CollectionAliasesCannotHaveDuplicates" config_id="2E75354E1FB0418383FAE5E3783DFA05">
+  <property __name="text" en="Error in '{0}' Type: Collection aliases cannot have duplicates (case insensitive)." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.NeitherTypeNorTypeIdIsSpecifiedException" config_id="2E85D4BF0B85428DA23D498965C5BB7D">
+  <property __name="text" en="Neither type nor typeId attribute is specified on tag &lt;Item&gt;." zc="标记&lt;Item&gt;上既没有指定type属性，也没有指定typeId属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_InvalidRemediationDepartureIds" config_id="2F20096DFE724D1087EFD2FBABBEB77C">
+  <property __name="text" en="Only '*' or comma delimited list of ids is allowed for 'departure_ids' property" zc="离开ID”属性只允许使用“*”或逗号分隔的ID列表" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Licensing.LicenseWasNotConsumedException" config_id="2F7E1E5D474448E8ABFA076B2FE14AA1">
+  <property __name="text" en="The license is not available." zc="许可证不可用。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateVote_InternalError" config_id="300CA803987C46DDA8CC95DF9D0B49DA">
+  <property __name="text" en="An internal error has occured." zc="发生内部错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DisabledMessageCannotBeUpdated" config_id="308644831FEC42EC975B431EFE057705">
+  <property __name="text" en="Disabled message cannot be updated" zc="无法更新已禁用的消息" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xProperty_DefaultValueInvalidLength" config_id="30D31D19C8BF460493A61BEF5D48D920">
+  <property __name="text" en="Invalid length of default value" zc="默认值的长度无效" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedGetForumsNoForumsFound" config_id="312F0BA0ABD241BC83196B5CFDFF2F36">
+  <property __name="text" en="Failed to get forums for user {0}: no forum was found." zc="无法获取用户{0}的论坛：找不到论坛。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_ForbidPolymorphicItemTypeUsage" config_id="314499F5791D4EB3B8BA90183502B492">
+  <property __name="text" en="Polymorphic ItemType &quot;{0}&quot; can't be used in Relationship Family" zc="多态项类型“{0}”不能在关系族中使用" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Conversion_MissedConversionServer" config_id="31C938C63129447B8EC350686D527B30">
+  <property __name="text" en="ConversionTask '{0}' can't be processed, ConversionServer doesn't defined for '{1}' converter type." zc="无法处理ConversionTask“{0}”，未为“{1}”转换器类型定义ConversionServer。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="VersionItem_RevisionsExceeded" config_id="31D8BA1A37A54A10A92C9DC3BC38ABF7">
+  <property __name="text" en="Failed to version the item: revision sequence exceeded." zc="未能对项目进行版本设置：超出了修订顺序。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.PropertiesAreNotUniqueException" config_id="32BCFF533AA340C2AB9098AAFDD4D874">
+  <property __name="text" en="{0} ({1}) with {2} already exists." zc="带有{2}的{0}（{1}）已存在。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemIdEmpty" config_id="341300DC331C4F1F8E663911DC311681">
+  <property __name="text" en="Item Type Id should not be empty." zc="项目类型Id不应为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectorParserCanNotRecognizeOperator" config_id="350F5F358EEE452A9AC8DB495F96EFF9">
+  <property __name="text" en="Can not recognize operator in &quot;{0}&quot;!" zc="无法识别“{0}”中的运算符！" />
+ </Item>
+ <Item type="UserMessage" keyed_name="uvp_NotSupportedIdentity" config_id="35534E5263564803BDC5B2AB156F8045">
+  <property __name="text" en="User Visibility Rule doesn't support system identity &quot;{0}&quot;." zc="用户可见性规则不支持系统标识“{0}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NoDataFound" config_id="359030193540457AB550E5EDB88B9C65">
+  <property __name="text" en="No data found!" zc="没有找到数据！" />
+ </Item>
+ <Item type="UserMessage" keyed_name="LoadProcessInstance_InternalError" config_id="36B278BDB7B744C2961377D726F0B603">
+  <property __name="text" en="An internal error has occured." zc="发生内部错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectorParserParamNameIsEmpty" config_id="373BC95F0A104563AFDD42010720151D">
+  <property __name="text" en="Param name in &quot;{0}&quot; can not be empty!" zc="{0}”中的参数名不能为空！" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_PromoteWithActiveDAC" config_id="37EA535D7A3F4EE2A43188E5FFF11EF6">
+  <property __name="text" en="In order to promote the '{0}' Derived Relationship Family, the '{1}' DAC Definition must not be in the Active state." zc="为了提升{0}派生关系族，{1}DAC定义不能处于活动状态。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.RelationshipTypeNotFoundException" config_id="38164E3D4F0749D29B3C6F8DBC0068DA">
+  <property __name="text" en="RelationshipType with {0}=&quot;{1}&quot; is not found." zc="找不到与{0}=“{1}”的RelationshipType。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.AuthenticationFailedException" config_id="38BBB3FF26FB45BC81360004E72C8736">
+  <property __name="text" en="Authentication failed for {0}" zc="对{0}的身份验证失败" />
+ </Item>
+ <Item type="UserMessage" keyed_name="itemtype_onbeforesetisrelationship_polymorphic" config_id="394E0186EA5445FDA62CC7E1EC4128A5">
+  <property __name="text" en="The Poly Item can't be is Relationship." zc="多边形项不能是关系。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_NewItemId_RequiresNull_OnChange" config_id="395D2A17B2DF4870A7CDEFA0890E224A">
+  <property __name="text" en="The New Number field must be blank when Action is set to 'Change' and the Interchangeable flag is on." zc="当操作设置为“更改”且可互换标志打开时，新的数字字段必须为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedDefineUserIdNotSet" config_id="39AED3E2F6FA42BC86FB4A336F6C1F2B">
+  <property __name="text" en="Faild to define if user is Admin: id property was not set." zc="无法定义用户是否为管理员：未设置id属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NoItemForWichMessagesShouldBeRetrieved" config_id="3B0D317BE55044C19F0ABD2AD9C6D62E">
+  <property __name="text" en="Request should contain at least one item (with 'type' and 'id' properties set), for which messages should be retrieved." zc="请求应至少包含一个项（设置了“type”和“id”属性），应为其检索消息。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_RequiredTaskNotCompleted" config_id="3B411B75E9E3462FBE15BB15F11E3223">
+  <property __name="text" en="All required tasks must be completed." zc="必须完成所有必需的任务。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_CollectionsCannotBeNull" config_id="3B6BE3F318984EB5881887AD75DEEF07">
+  <property __name="text" en="Error in '{0}' Type: 'Collections' cannot be null." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_NotSupportedIdentity" config_id="3B8B682394CD4DA983D4E63F56CC70DC">
+  <property __name="text" en="MAC Policy doesn't support system identity &quot;{0}&quot;." zc="MAC策略不支持系统标识“{0}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_RelationshipItemTypeIsMissing" config_id="3BCFA7C9C81745DBA627ED027988B783">
+  <property __name="text" en="Relationship item type attribute is missing." zc="缺少关系项类型属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_NotConsistent" config_id="3C744932E94E4204BD3B3EACD96A610D">
+  <property __name="text" en="XClasses of xTree don't correspond with hierarchy string" zc="xTree的Xclass与层次结构字符串不对应" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_UnableGetItemTypeName" config_id="3CEC1CADC8FE4EE88582B593F83AA4A0">
+  <property __name="text" en="Unable to get Item Type Name property." zc="无法获取项目类型名称属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="RebuildView_InternalError" config_id="3D21884438D34308A0B608A0D862B249">
+  <property __name="text" en="An internal error has occured." zc="发生内部错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_InvalidRootReference" config_id="3D3B40ED5F3B4BF89374D81F7CC9EB62">
+  <property __name="text" en="Tree has not valid root class. Root class must be with the same id as tree id" zc="树没有有效的根类。根类的id必须与树id相同" />
+ </Item>
+ <Item type="UserMessage" keyed_name="af_AuthenticationTypeIsNotSupported" config_id="3D77983ED66445C9AF55592A1BCE0975">
+  <property __name="text" en="Authentication type '{0}' is not supported." zc="不支持身份验证类型“{0}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ItemCannotBeSaved_PermissionPropertyValueDoesntExist" config_id="3E03AFCF706449E4B0E458E2AF0DA7CB">
+  <property __name="text" en="{0} id={1} cannot be saved because of attempt to set nonexistent permissions for Extended Properties:{2}" zc="无法保存{0}id={1}，因为试图为扩展属性设置不存在的权限：{2}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_IncompatiblePropertyDataType" config_id="3E30F5ED9CEE440D89BA0188B4392A9D">
+  <property __name="text" en="The property &quot;{0}&quot; has &quot;{1}&quot; datatype that is incompatible with type &quot;{2}&quot; of &quot;{3}&quot; property." zc="属性{0}的{1}数据类型与{3}属性的{2}类型不兼容。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_cantResolveErrorOnlyMax" config_id="3EE4A5C331A1439CA3323843EA55C4E7">
+  <property __name="text" en="" zc="The following Produced Parts cannot be resolved – &lt;b&gt;{0} and more&lt;/b&gt;. To resolve the MBOM - &#xD;&#xA;- Select the right location(s) in the sub process plan&#xD;&#xA;- Verify that a new Process Plan is created for a new version of a Produced Part" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_UnableToDeserializeSchemaDefinition" config_id="3F06D086C532426682689AD05D58352F">
+  <property __name="text" en="Unable to deserialize Schema definition due to the error: {0}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_ActionsContainTheFollowingUnknownActions" config_id="3F39AE3795B44ED784D79BBCA389FE15">
+  <property __name="text" en="Error in '{0}' Type: 'Actions' contain the following unknown actions: {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_TypesCannotBeNull" config_id="400CBC305D814F40A934991D5811BEF6">
+  <property __name="text" en="'Types' cannot be null." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="af_AccessDeniedByDomainName" config_id="405EF9FCD1574FABBFD55B250368434F">
+  <property __name="text" en="Access from domain '{0}' is denied." zc="来自域{0}的访问被拒绝。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_IsItemExist" config_id="4060D461CA2B434DA57F4E4277F3064D">
+  <property __name="text" en="Item must be saved first." zc="项目必须先保存。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Compare_AffectedId_and_NewItem_IdTypes" config_id="40C2BBBA9EE349D08F7212AEB1F5CBF9">
+  <property __name="text" en="Old Number and New Number items must be of the same type. {0} {1} and {2} {3} are of different types." zc="旧编号和新编号项目必须为同一类型。{0}{1}和{2}{3}是不同类型的。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_SMAlreadyErased" config_id="40F7DE3B8CEC4E4B8777D73C6C0A73AF">
+  <property __name="text" en="Secure Messages is already erased by {0}." zc="安全邮件已被{0}删除。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_UnsupportedDataType" config_id="4198DD8C545849FD9261F2C844BF8873">
+  <property __name="text" en="Data type has unsupported type &quot;{0}&quot;." zc="数据类型具有不受支持的类型“{0}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_AffectedId_Requiered" config_id="41A6260E41734E3B9F46170FB757EAB7">
+  <property __name="text" en="The Old Number field is required when Action is set to {0}" zc="当操作设置为{0}时，需要旧的数字字段" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_AffectedRelationship_Allowed" config_id="41AD4110F1294A7695B9F5221ABF477F">
+  <property __name="text" en="Affected Relationships are not allowed when Action is set to {0}." zc="当操作设置为{0}时，不允许受影响的关系。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="CreatePolyItemView_Property_Not_Common" config_id="41CC09A54EB9470B8DD5494425BBEB0E">
+  <property __name="text" en="The property '{2}' prevented Poly Item from being saved: Property must be common to all Poly Sources." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_MybookmarksForUser" config_id="421F2B17D51147BD92996635CA62B2A3">
+  <property __name="text" en="Mybookmarks for user {0}." zc="用户{0}的Mybookmarks。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_MasterFileIdIsNotSpecified" config_id="4291B6A69D974E6B81195F01689E12DD">
+  <property __name="text" en="Master file id is not specified" zc="未指定主文件id" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_partIdRequiredError" config_id="42DDCB9D2BE04258B5B86A62E334644E">
+  <property __name="text" en="" zc="Part ID not specified" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_ActionsContainDeniedActions" config_id="431BA6D15D3E40BF9012866CBBB06A99">
+  <property __name="text" en="Error in '{0}' polymorphic Type: 'Actions' contain the following denied actions: {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.TagItemIsNotFoundInRequestException" config_id="435966F22E584CD894405641ADCADBC2">
+  <property __name="text" en="There is no tag &lt;Item&gt; in request." zc="请求中没有标签&lt;Item&gt;。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemNotEnabledToSSVC" config_id="43C468C517B24CD29F1137ADAE398E02">
+  <property __name="text" en="This Item is not enabled for use with the secure social features." zc="此项未启用，无法与安全社交功能一起使用。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_BehaviorRequiredForRelType" config_id="43DA1C80E0244DBAB6CF17FE2F04151F">
+  <property __name="text" en="The behavior attribute is required for RelationshipType {0}." zc="RelationshipType{0}需要behavior属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemsCantBeObtained" config_id="445DF03225DD4AB9A891FCEEB3C647E3">
+  <property __name="text" en="Items of type '{0}' can not be obtained with attribute serverEvents set to 0." zc="属性serverEvents设置为0时，无法获取类型为“{0}”的项。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_RelNotFound" config_id="446FE7FE3A474866814C9816D45F8516">
+  <property __name="text" en="RelationshipType could not be found." zc="找不到RelationshipType。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_RemediationAllowedForActiveStateOnly" config_id="44B5EE4A54444C7F92B72837B15C83D1">
+  <property __name="text" en="Remediation process allowed for derived relationships family in 'Active' state only." zc="修正过程仅允许处于“活动”状态的衍生关系族。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_ItemTypeShouldContainUsedProperty" config_id="44FF74E27FCE4664BBA0518257EA15A9">
+  <property __name="text" en="Item Type &quot;{0}&quot; should contain &quot;{1}&quot; property that is used by MAC Policy." zc="项类型“{0}”应包含MAC策略使用的“{1}”属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_MessageIsDisabled" config_id="452BA5B04D624873A3E2FB8DCF8C7A04">
+  <property __name="text" en="Message is already disabled." zc="消息已被禁用。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Licensing.FeatureLicenseDecryptException" config_id="456AE857FB2849CCA071637C070DE717">
+  <property __name="text" en="Feature License initialization failed." zc="功能许可证初始化失败。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ac_QueryDepthInvalid" config_id="457FA0D3255B4BFAB3AA0C38C56BE6EE">
+  <property __name="text" en="The variable &quot;ac_QueryDepthLimit&quot; has invalid value (&quot;{0}&quot;)" zc="变量“ac_QueryDepthLimit”的值无效（“{0}”）" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.PropertyValueOverflowException" config_id="45A054B3E85B438BA562CC41E83A8A07">
+  <property __name="text" en="The specified value for property {0} of {1} caused overflow." zc="为{1}的属性{0}指定的值导致溢出。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="BeforePropertyAdd_PropNameInvalid" config_id="45D1509D0C9D48FDB1085A81249956B1">
+  <property __name="text" en="Internal Error: the name of the property ({0}) is invalid." zc="内部错误：属性（{0}）的名称无效。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ac_PropertyHasUnsupportedType" config_id="4609BC8E1890498288BCA478238AECE4">
+  <property __name="text" en="The &quot;{0}&quot; property has the following unsupported data type: &quot;{1}&quot;." zc="{0}”属性具有以下不受支持的数据类型：“{1}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="CanNotChageIsIndexedFlagForKeyedNameProp" config_id="46CC55DF764D48809BC22A3290FD1499">
+  <property __name="text" en="The 'is_indexed' flag of 'keyed_name' property can't be changed for 'non-relationship' ItemTypes and implementation type 'table'.  Set operation parameter 'allow_keyed_name_index_disabling' to allow it." zc="对于“非关系”项类型和实现类型“表”，无法更改“键控名称”属性的“is_indexed”标志。设置操作参数“allow_keyed_name_index_disabled”以允许它。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GenerateNewGUIDEx_InternalError" config_id="46F404F6B1F04D048D866A72BF188A22">
+  <property __name="text" en="GenerateNewGUIDEx error: {0}." zc="GenerateNewGUIDEx错误：{0}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ItemCannotBeSaved_PermissionPropertyValueDoesntExist_Detail" config_id="4714430F62624F11BC9A9D15B74BABE0">
+  <property __name="text" en="{0} (permission_id={1})" zc="{0}（权限_id={1}）" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_UnsupportedWord" config_id="473504A6D01541B6A483EB0A1AFE1036">
+  <property __name="text" en="&quot;{0}&quot; isn't supported." zc="不支持“{0}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="BeforePropertyUpdate_SystemPropsCantBeModified" config_id="474B75D550D348E7BE6EDA5F31DE7B43">
+  <property __name="text" en="{0} is a system property. You are not allowed to modify system properties." zc="{0}是一个系统属性。不允许修改系统属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_ActionsCannotContainNullOrEmptyValues" config_id="47BA49958F8249AD98AAEE35FD420853">
+  <property __name="text" en="Error in '{0}' Type: 'Actions' cannot contain null or empty values." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_ListsContainUnknownLists" config_id="4801A9F0AB954F54A064A5AF16BD9F9B">
+  <property __name="text" en="'Lists' contain the following unknown list: '{0}'." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xClassification_OnlySingleClassConstraintFail" config_id="493B4B811CFB409B9049F0D7CE38689B">
+  <property __name="text" en="Only single class can be selected from the &quot;{0}&quot; tree" zc="只能从“{0}”树中选择单个类" />
+ </Item>
+ <Item type="UserMessage" keyed_name="hl_BomCompare_NotSettingGrid" config_id="494175D0F7EA4EB9B3A31AE89A3ABF35">
+  <property __name="text" en="" zc="未配置MBOM网格列,请联系管理员!" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PurgeItemEx2_ReferencedItemFound" config_id="49EA4D70ADDA4C949D3F0D3FA069A397">
+  <property __name="text" en="Referenced item found: {0} {1}." zc="找到引用项：{0}{1}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.PropertyTypeChangeIsIncompatible" config_id="4A101748CB374E5FB581ED92C566C9B1">
+  <property __name="text" en="The current property data type is incompatible with the target type &quot;{0}&quot;." zc="当前属性数据类型与目标类型“{0}”不兼容。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ProjectUpdateError" config_id="4B1550517995484DA672A2866A32E706">
+  <property __name="text" en="Error Updating Project {0}, {1}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_RemediationAllowedForPersistentTypeOnly" config_id="4BA7FD0B0E6D4AB2ABEBA4D8B53BC31B">
+  <property __name="text" en="Remediation process allowed only for derived relationships family with persisting type 'Persistent'." zc="修正过程仅允许持久类型为“Persistent”的派生关系族。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.DuplicatedPropertyName" config_id="4BC86C0D9A334240A7A647B723CCD4AF">
+  <property __name="text" en="Property with name &quot;{0}&quot; already exists." zc="名为“{0}”的属性已存在。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_RelatedItemType" config_id="4BCAD230CE6F4531AAB36DDF95060E41">
+  <property __name="text" en="It is prohibited to Pick/Replace XTreeToItemType relationship" zc="禁止拾取/替换XTreeToItemType关系" />
+ </Item>
+ <Item type="UserMessage" keyed_name="FormFromItemType_InternalErrorMalformedXML" config_id="4BCDCBB7CDB6435AAD8157A3AE3F77F8">
+  <property __name="text" en="An internal error has occured: malformed XML." zc="发生内部错误：XML格式错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DiscusscionFeedHistoryEventsAndOrFS" config_id="4C66FEF5C60241F791F8FCE86F12737B">
+  <property __name="text" en="Feed of type Discussion can't have History Events and/or FileSelectors specified." zc="讨论类型的提要不能指定历史事件和/或文件选择器。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DeleteFMGSourceIdNotSet" config_id="4C76DC4CD0CF427E9492BB7559E8F6D5">
+  <property __name="text" en="Failed to delete Forum Message Group: 'source_id' property was not set." zc="未能删除论坛消息组：“source_id”属性未设置。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ac_ForbidDrRelationshipChange" config_id="4C8F5325AC0B45D8AB1DC3B1725379AD">
+  <property __name="text" en="Derived Relationship that is used in activated MAC Policy couldn't be changed." zc="无法更改激活的MAC策略中使用的派生关系。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectorParserWrongBracketBalance" config_id="4C90631D8513499B9D91BFD32605A1FE">
+  <property __name="text" en="Wrong brackets balance in text: &quot;{0}&quot;." zc="文本中的括号错误：“{0}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="WMCreateWatermarkTasks_WMSettingContentNotDefined" config_id="4DA8912F94504C4393FC8C65A44CFB8C">
+  <property __name="text" en="WMSetting item '{0}' does not have WMSettingContent relationships defined." zc="WMSetting项“{0}”未定义WMSettingContent关系。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectorParserUnclosedQuota" config_id="4E64FF6326B24A9990375BF962673DE5">
+  <property __name="text" en="Unclosed quota symbol in text: &quot;{0}&quot;." zc="文本中未关闭的配额符号：“{0}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_ItemTypeNotContainUsedProperty" config_id="4E8DF33B9D4C409D958DF7E8B823FFE4">
+  <property __name="text" en="Cannot validate MAC Policy - the Itemtype &quot;{0}&quot; doesn't contain property &quot;{1}&quot; that is used by a MAC Policy condition." zc="无法验证MAC策略-Itemtype“{0}”不包含MAC策略条件使用的属性“{1}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_CellViewTypeNotSupported" config_id="4F2AEFA95BF94D5DA21AEC3D90802B3A">
+  <property __name="text" en="Cell View Type '{0}' is not supported." zc="不支持单元格视图类型“{0}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemTypeCannotHaveDT" config_id="4F69FFF92D9341839FD4E769634BB0DB">
+  <property __name="text" en="Relationship, Polymorphic, Federated Item Type and also File ItemType cannot have DiscussionTemplates." zc="关系、多态、联合项类型以及文件项类型不能有DiscussionTemplates。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_AnavailableQueryItem" config_id="4F6E8A39A75E40EEBA6AF879BB9C0E51">
+  <property __name="text" en="Query Item with Reference ID = '{0}' is not available." zc="引用ID为“{0}”的查询项不可用。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_SourceItemIsMissing" config_id="4FB891EE532249008AF7AC70436D6622">
+  <property __name="text" en="Relationship source item is missing." zc="缺少关系源项。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_CollectionTypesCannotBeNull" config_id="508F64DFD4A9490E90CE34C11A731808">
+  <property __name="text" en="Error in '{0}' Type: Collection types cannot be null." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedSubscribeToForum" config_id="5170B38C6B9842758B7A06E8786380A1">
+  <property __name="text" en="Failed to subscribe to forum: {0}" zc="未能订阅论坛：{0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="XClassification_UpdateNotInXTreeContext" config_id="51DEF9338C1C40F592B055857D42D63A">
+  <property __name="text" en="&quot;{0}&quot; can be added or deleted or updated only in XTree context" zc="{0}”只能在XTree上下文中添加、删除或更新" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_InvalidValueOfMaxChildItems" config_id="51F42E69C92240219E302BDC38ED59D0">
+  <property __name="text" en="Invalid value of a property max_child_items, -1 to remove limit or positive number to set specific value." zc="属性max_child_items的值无效，-1用于删除限制，或正数用于设置特定值。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="TransactionCheckItemsRelationships_MoreDefPerm" config_id="5210B6F7C3CF42F6B3D38531C40D5E65">
+  <property __name="text" en="Only one default permission is allowed." zc="只允许一个默认权限。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.PropertyValueFormatException" config_id="52D01BEA51AF43C3A5D573C29FD9A1DD">
+  <property __name="text" en="The specified value for property {0} of {1} does not match the required format." zc="为{1}的属性{0}指定的值与所需格式不匹配。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_WrongStateTransition" config_id="5355CAF0DE5B4227990633CB4AA7F6BC">
+  <property __name="text" en="Failed to get the transition from &quot;{0}&quot; to &quot;{1}&quot;." zc="无法获取从“{0}”到“{1}”的转换。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ac_IncompatiblePropertyDataType" config_id="53EE39BDF70745A4A4AB3BC8017096C9">
+  <property __name="text" en="The property &quot;{0}&quot; has datatype &quot;{1}&quot; that is incompatible with type &quot;{2}&quot; of &quot;{3}&quot; property." zc="属性{0}的数据类型{1}与属性{3}的类型{2}不兼容。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetItemTypeByFormID_NoItemTypeFoundForForm" config_id="53F760C103FA462AB47D2F88F9810A5C">
+  <property __name="text" en="No ItemType found for this form." zc="找不到此表单的ItemType。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_CheckForumPermission" config_id="5465456456456456423420333EAEAFD3">
+  <property __name="text" en="CheckForumPermission: you don't have permission for Forum {0}." zc="CheckForumPermission:您没有论坛{0}的权限。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToDeleteSavedSearch" config_id="54A9B0F82F0748B6AB485ACBC6D331F6">
+  <property __name="text" en="Failed to delete SavedSearch: there are references to another forums." zc="未能删除SavedSearch:存在对其他论坛的引用。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_newGenerationStatus" config_id="54BB1FA6B70C414F954CF263919744D2">
+  <property __name="text" en="" zc="New Version" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_UnableToUseQueryDefinitionWithReusedDepartureQueryItem" config_id="54FA9FD35C114824A4B76DFDAE733BF9">
+  <property __name="text" en="Unable to use '{0}' Query Definition with reused Departure Query Item '{1}'." zc="无法将“{0}”查询定义与重复使用的出发查询项“{1}”一起使用。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateExpressEdr_IsInPendingClosureState" config_id="553EBF52166D4BAE955220B2CDBF6AEB">
+  <property __name="text" en="All EDR must be in Pending Closure State. {0} is in {1} State." zc="所有EDR必须处于挂起关闭状态。{0}处于{1}状态。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_IdNotSpecifiedInItem" config_id="55C8CD63AFED42859C1E657E3C94DDA8">
+  <property __name="text" en="'Id' attribute is not specified on tag &lt;Item&gt;." zc="标签&lt;Item&gt;上未指定“Id”属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FMGGroupTypeNotSet" config_id="5680803E84884168BFEF5B38213AC171">
+  <property __name="text" en="Failed to create ForumMessageGroup for user: 'group_type' property was not set." zc="未能为用户创建ForumMessageGroup:“未设置组类型”属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_SchemaDefinitionCannotBeEmpty" config_id="56BEC49CDA3E4895AFD5A723C2E17B0C">
+  <property __name="text" en="Schema definition cannot be empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_UnsupportedFederatedTypeProperty" config_id="56C1433E1E814DE9BEBD44E2BC8F1D6D">
+  <property __name="text" en="The property &quot;{0}&quot; of &quot;{1}&quot; has unsupported federated type &quot;{2}&quot;." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_AffectedId_InReleasedState" config_id="56EAD177E0544E66972EFF6738847EBE">
+  <property __name="text" en="All Old Number items must be in Released State. {0} {1} is in {2} state." zc="所有旧编号项目必须处于已发布状态。{0}{1}处于{2}状态。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ReferencePropertyToThis" config_id="56F44DF036D24E16B7B07FE9B816BD98">
+  <property __name="text" en="{0} can't have reference property equal to 'this'.  Please specify valid reference." zc="{0}的引用属性不能等于“this”。请指定有效的引用。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NotAllFilesCollected" config_id="5721E38D09224439B5260A90D74E66EE">
+  <property __name="text" en="Not all Files are collected. Please contact administrator to make sure that all the references are valid." zc="并不是所有的文件都被收集。请联系管理员以确保所有参考资料有效。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_TypeAliasesCannotBeEmpty" config_id="577E84D1442E4BBA8EF744F1092DEA03">
+  <property __name="text" en="Type aliases cannot be empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyUpdate_UpdateNameEmpty" config_id="582F4789DB6749E4BEB572619480836C">
+  <property __name="text" en="The update name cannot be empty." zc="更新名称不能为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_overconsumedStatus" config_id="58D73609FC374CD3BFD884885BBC2492">
+  <property __name="text" en="" zc="Overconsumed Quantity" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_AssginmentClaimed" config_id="58FBE49C1C7F4016AA0E90E1C856D171">
+  <property __name="text" en="This assignment has been claimed by another user." zc="另一个用户已申请此分配。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xAddClass_NotAllowed" config_id="59CD39F08A984275B7E901CE413CD4F5">
+  <property __name="text" en="The xClass with ID=&quot;{0}&quot; is not allowed for &quot;{1}&quot; ItemType." zc="ID为“{0}”的xClass不允许用于“{1}”ItemType。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_SourceIdFeedTemplate" config_id="5A577DCFFE644C3C935BC9A19404528A">
+  <property __name="text" en="'source_id' property should be set to add FeedTemplate Item." zc="source_id”属性应设置为添加FeedTemplate项。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_NotSupportedEnvironmentAttribute" config_id="5ABA9D1B5222436CAC90A1AE39F0998D">
+  <property __name="text" en="GetUsersWithAccessToItems(): The active MAC Policy uses Environment Attribute(s) which are currently not supported by this interface." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SharingOptionsForSelfServiceReports" config_id="5B6B6475670840AFAE91A0396F2BA507">
+  <property __name="text" en="Sharing options for SelfServiceReports can be managed by Administrators or report Owner or Creator." zc="SelfServiceReports的共享选项可以由管理员、报表所有者或创建者管理。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tp_RecursiveStylesheets" config_id="5B83F227D8794F70ABD62505AD21B9CA">
+  <property __name="text" en="There are recursive stylesheets." zc="有递归样式表。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.InsertedDataExceedsColumnSize" config_id="5B93CC4942D546DA90B5666B5F20343C">
+  <property __name="text" en="The inserted data is longer than allowed for the property/properties:" zc="插入的数据长度超过了属性的允许长度：" />
+ </Item>
+ <Item type="UserMessage" keyed_name="UpdateUserESignature_InvalidOldSignature" config_id="5BB0DC1D157E46E1ACAE5A62F12BD634">
+  <property __name="text" en="Old Signature Is Wrong!" zc="旧签名错了！" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tp_SpecifyRuleNames" config_id="5BF851000A5E4B64B7F4AB815A733600">
+  <property __name="text" en="Rule name needs to be specified." zc="需要指定规则名称。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="VerifyAffectedRelationship_NewRelItemIDIsNull" config_id="5C78FBBA84D74858BDA3EF5802206FDF">
+  <property __name="text" en="Verification failed: New Relationship should not be null." zc="验证失败：新关系不应为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_CollectionCanNotContainDuplicatedTypes" config_id="5C85388840B541338982927072F4270E">
+  <property __name="text" en="Error in '{0}' Type: Collection cannot contain duplicated types." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NotAllItemsAggregated" config_id="5C9D9CA8778C4CE7B359CD9A586576A3">
+  <property __name="text" en="Not all Items are aggregated. Please contact administrator to make sure that all the references are valid." zc="并非所有项目都是聚合的。请联系管理员以确保所有参考资料有效。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetItemByName_NameNotSpecified" config_id="5DDB399DB10C4E448A273FF600B1790C">
+  <property __name="text" en="The Name attribute was not specified." zc="未指定Name属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_Unavailable" config_id="5E3432D8669245B1AAA1B8E23AACFD0E">
+  <property __name="text" en="[unavailable]" zc="[不可用]" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_AliasesCannotBeEqualToReservedAliases" config_id="5E40103527874DE29A75DEBED4177C46">
+  <property __name="text" en="Error: Alias cannot be equal to the following reserved values: {0}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemDiscoverOnlyPrivilege" config_id="5E7CA93D9A9149E7A6E6FE4434C7D729">
+  <property __name="text" en="Item with ID = '{0}' has Discover Only privilege." zc="ID为“{0}”的项具有“仅查找”权限。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedRelationship_Is_AffectedRelId_Required_AffectedId_SourceID" config_id="5EF84FCC9E444A24875A1265B44178BF">
+  <property __name="text" en="Affected relationships must have a source_id that matches the parent affected item's affected_id." zc="受影响的关系必须具有与受影响的父项的受影响的源id匹配的源id。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_NotUniqueProp" config_id="5F2AD799BBF14162A26E85C513664AF3">
+  <property __name="text" en="Property is not unique in hierarchy" zc="属性在层次结构中不是唯一的" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PurgeItemEx2_FailedDeleteProperty" config_id="5FC82A403FAD4D9193C3AE8AF2EFCC00">
+  <property __name="text" en="The property could not be deleted." zc="无法删除该属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_NotAllowedOperation" config_id="5FD2E4A3372B4DAE91458991B1899105">
+  <property __name="text" en="This operation is not allowed when ItemType is under MAC Policy control." zc="当ItemType受MAC策略控制时，不允许执行此操作。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_ListValuesCannotContainSpaces" config_id="6059F1D49CA74363A19D16355155E65B">
+  <property __name="text" en="Error in '{0}' List: values cannot contain spaces." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_AdditionalErrors" config_id="607CE2CD8F52439B99AC49633D15D2A6">
+  <property __name="text" en="Additional errors have been detected. Please run the 'Check for Completeness' action." zc="已检测到其他错误。请运行“检查完整性”操作。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_HistoryMessagesCannotBeDisabled" config_id="60B9511C61AF42C0825CFB0A0B16ADD1">
+  <property __name="text" en="Messages with classification 'History' cannot be disabled." zc="无法禁用分类为“历史记录”的邮件。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.InsufficientPermissionsException" config_id="6130BEBBA9D748F4A3BD7FE0E0618CBD">
+  <property __name="text" en="You have insufficient permissions to perform '{0}' operation." zc="您没有足够的权限执行{0}操作。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddRelationshipEx_InternalError" config_id="614938E5A883430295A021FA601B8255">
+  <property __name="text" en="An internal error has occured." zc="发生内部错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PromoteItem_InternalErrorTransitionNotFound" config_id="615BBD18ACC14495924D0DF0B9206E42">
+  <property __name="text" en="Internal Error: failed to get the transition to promote the {0} from {1} to {2}." zc="内部错误：无法获取将{0}从{1}升级到{2}的转换。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Main_ItemTypeNameRequired" config_id="61ACC5FE0C054D92A118CB11876D441B">
+  <property __name="text" en="The name of the ItemType cannot be empty." zc="ItemType的名称不能为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_mbomGridHeader_planned" config_id="61CDBFD8A1094850B29F5F8CA23DA111">
+  <property __name="text" en="" zc="Planned" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xPxC_NoHandlerForCriteria" config_id="61D7646C9F124223B03CC5685E140D72">
+  <property __name="text" en="No handler for &quot;{0}&quot; criteria of &quot;{1}&quot;" zc="{1}”的“{0}”条件没有处理程序" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_ActionsCannotContainDuplicates" config_id="61EB6B2C48474944993BCFD9FD4ECD0E">
+  <property __name="text" en="Error in '{0}' Type: 'Actions' cannot contain duplicates." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_WrongServerMethodTemplate" config_id="62257E76F10543EBAC69ED7E52083CC7">
+  <property __name="text" en="Environment Attribute Get Value Method has wrong method template.&#xD;&#xA;Please insert &quot;//MethodTemplateName=CSharp:Aras.Server.Core.AccessControl.EnvironmentAttributeMethod;&quot; string in the start of method code" zc="环境属性获取值方法的方法模板错误。请插入“//MethodTemplateName=CSharp:Aras.Server.Core.AccessControl.EnvironmentAttributeMethod；”方法代码开头的字符串" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemTypeNAmeCantBeEmpty" config_id="6232DB490796479FAFBF93CDAC32FBE1">
+  <property __name="text" en="Property Item type name can't be null" zc="属性项类型名称不能为空" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DefaultVisibilityIdentity" config_id="6287A7DE84D24A2FA6BB491C84E7BE80">
+  <property __name="text" en="'Default Visibility Identity' property can be only non-alias Identity" zc="默认可见性标识”属性只能是非别名标识" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_MoreOneRoot" config_id="62EADA07FC354B238D74DAAF09D5D5AC">
+  <property __name="text" en="Tree has more one root in hierarchy string" zc="树在层次结构字符串中有多个根" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.NoValidSubscription" config_id="631407A879364F2290312FFAA7628240">
+  <property __name="text" en="The Innovator does not have a valid (not expired) subscription." zc="创新者没有有效（未过期）的订阅。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_DuplicatedEdges" config_id="639173E28A8C4B6A8876E1453C91CF22">
+  <property __name="text" en="Tree has duplicated edges in hierarchy string" zc="树在层次结构字符串中有重复的边" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_NewItemId_Required" config_id="63A6CEAECD344F4E8BF492A3FD040919">
+  <property __name="text" en="The New Number field is required when Action is set to {0}." zc="当操作设置为{0}时，需要新的数字字段。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="af_CannotFindNameClaim" config_id="64F1CD8EA2D94551BA1421D8753823AF">
+  <property __name="text" en="Cannot find name claim." zc="找不到名称声明。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_primaryKeyViolation" config_id="651FC814E9A04471B0CD377C48C52DB4">
+  <property __name="text" en="{0} already exists." zc="{0}已存在。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ac_AttrDefinitionDrQueryDepthExceeds" config_id="652616581BEC4D9D87A16395E12382B9">
+  <property __name="text" en="Query Depth exceeds the maximum allowable number of levels ({0})" zc="查询深度超过了允许的最大级别数（{0}）" />
+ </Item>
+ <Item type="UserMessage" keyed_name="TransactionCheckItemsRelationships_TooManyRels" config_id="659832B375C944F893815A2B94EEDD72">
+  <property __name="text" en="The number of {0} relationships cannot be greater than {1}." zc="{0}关系的数量应小于{1}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedGetSharedForumsIdNotSet" config_id="661011E1BEDA4FCBA783C76F8E70F843">
+  <property __name="text" en="Failed to get shared with user forums: id of user is not set." zc="无法与用户论坛共享：未设置用户id。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_AffectedItem_Action_Review" config_id="663B4B88710749379159C5DDC4694C38">
+  <property __name="text" en="Change cannot continue while affected items still have Action set to 'Review'." zc="当受影响的项目仍将操作设置为“审阅”时，更改无法继续。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddFileToClone_FailedToFindVault" config_id="6647BE29F1024860AA346E6E62F1FEAB">
+  <property __name="text" en="Failed to find the Vault for the File {0}" zc="未能找到文件{0}的Vault" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_RequiredVariablesHaveNoValue" config_id="669BE18A3F734279AD51354C769E7762">
+  <property __name="text" en="The required variables must have a value." zc="所需的变量必须有一个值。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_CanNotApplyPreference" config_id="66D81E95083D4D1DB7CFC8B010ECF050">
+  <property __name="text" en="Cannot apply &quot;{0}&quot; preference for the &quot;{1}&quot; xClassificationTree because there are items with conflicted classification." zc="无法为“{1}”xClassificationTree应用“{0}”首选项，因为存在分类冲突的项。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddRelationshipEx_NoSourceItem" config_id="6708B045E3CF460F8F548F4462DA0152">
+  <property __name="text" en="The source item has to be specified in order to add a relationship." zc="必须指定源项才能添加关系。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ITDoesntExist" config_id="6918D6BED797415E91461EC0961115C3">
+  <property __name="text" en="Item type SSVCItems doesn't exist." zc="项目类型SSVCItems不存在。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_InvalidPolysourceTypeName" config_id="69453516A9D9483C80FA2F062FB00DA2">
+  <property __name="text" en="Invalid value in 'Polysource Type Name' property." zc="Polysource Type Name”属性中的值无效。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetForumMessagesIdNotSet" config_id="6A98AB0EEC1E4F18B8518308631BB6D0">
+  <property __name="text" en="Failed to get Forum Messages: id property was not set." zc="无法获取论坛消息：未设置id属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetIdentityListDbManagementConfiguration_InvalidConfigurationValue" config_id="6AAA6EA9187C42A9A1E0E44BFA975A0F">
+  <property __name="text" en="Invalid configuration value for {0}. Please contact your administrator." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PromoteItem_InternalErrorCurrentStateNull" config_id="6B38FAB5B2F04A0F8797279DF25BB2B9">
+  <property __name="text" en="Internal Error: the current state is null." zc="内部错误：当前状态为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_cantResolveErrorAll" config_id="6B43E682DD1B4148B31BBC3377DD44A7">
+  <property __name="text" en="" zc="The following Produced Parts cannot be resolved – &lt;b&gt;{0}&lt;/b&gt;. To resolve the MBOM - &#xD;&#xA;- Select the right location(s) in the sub process plan&#xD;&#xA;- Verify that a new Process Plan is created for a new version of a Produced Part" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ForumNotSharedWithUser" config_id="6B58E506B6AA4109B8F080971ECD19C7">
+  <property __name="text" en="Forum '{0}' is not shared with user '{1}'" zc="论坛{0}未与用户{1}共享" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetNextSequence_SequenceCorrupted" config_id="6B8CB96DDD3B40E0A5884623184B0671">
+  <property __name="text" en="The sequence is corrupted." zc="序列已损坏。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_TypeShouldBeSecureMessage" config_id="6BEDE6905ECE4DA59A14BB56A5D26922">
+  <property __name="text" en="Item 'type' attribute can have only 'SecureMessage' value." zc="项“类型”属性只能有“SecureMessage”值。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="WMCreateWatermarkTasks_WMSettingNotFound" config_id="6CA1763F6B69431E9FB27A7378DCBC38">
+  <property __name="text" en="WMSetting item assigned to '{0}' item type not found." zc="找不到分配给“{0}”项类型的WMSetting项。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_ShowMore" config_id="6D2ADF16AA054B0E8BBCFCE27E611BD0">
+  <property __name="text" en="Show More" zc="展示更多" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Property_DataTypeForFederated_IsNotSupported" config_id="6D8AD4AE1C424D5DA53A352E98D33378">
+  <property __name="text" en="Federated '{0}' datatype is not supported." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_PropertiesCannotContainEmptyNames" config_id="6DED5CD79D06421E9669F183C6B57ED0">
+  <property __name="text" en="Error in '{0}' Type: Properties cannot contain empty names." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_PathNotAlone" config_id="6DEF0E5DDA8441F3AD02F4BA9773DF46">
+  <property __name="text" en="Can't complete activity. {0} Path must be alone with no neighbours." zc="无法完成活动。{0}路径必须是单独的，没有邻居。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_ConstantMixedWithParameter" config_id="6E04BBFF73D84B2889393CB8C44D26CA">
+  <property __name="text" en="A constant cannot contain a parameter, but constant &quot;{0}&quot; contains the parameter {1}. If you need to use '$' as a condition constant then it should be escaped with an extra &quot;$&quot; symbol." zc="常数不能包含参数，但常数“{0}”包含参数{1}。如果需要将“$”用作条件常量，则应使用额外的“$”符号对其进行转义。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="VerifyAffectedRelationship_NotAllRelationshipPropertiesWereApplied" config_id="6E38ADD5EF194978AE78853BCA575189">
+  <property __name="text" en="Verifications failed: Property '{0}' was not set to value '{1}' for {2} '{3}'." zc="验证失败：{2}{3}的属性{0}未设置为值{1}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="effs_variableListReferenceMustAbsent" config_id="6F0B6939779F4B919E3E2076CDD3E22B">
+  <property __name="text" en="The property &quot;List&quot; must be empty, because the variable type is not &quot;List&quot;" zc="属性“List”必须为空，因为变量类型不是“List" />
+ </Item>
+ <Item type="UserMessage" keyed_name="StartEndActivityPresence_StartEndNotExist" config_id="6FC919C9062B4FE2B144276EC670240E">
+  <property __name="text" en="Your workflow is not properly configured: every workflow should contain both the START and the END activity." zc="您的工作流配置不正确：每个工作流都应该包含开始和结束活动。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xProperty_OperationAgainstNotDefined" config_id="707B4C1D71D7463793E274BCC75403DA">
+  <property __name="text" en="You tried to perform &quot;{0}&quot; operation against not defined Extended Properties: {1}" zc="您试图对未定义的扩展属性执行“{0}”操作：{1}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FilterInvalidFormatActionNotGet" config_id="70B3871379CF47FEB319AE0483E07252">
+  <property __name="text" en="'filter' item property has invalid format: 'action' attribute should be set to 'get'" zc="filter”项属性的格式无效：“action”属性应设置为“get" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_mbomGridHeader_partStatus" config_id="70C9B97917F6487890EAAEE7C1FF873E">
+  <property __name="text" en="" zc="Part Status" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tgv_MaxFetchItemsCountError" config_id="70FBAA19812E4482913E01E23219894C">
+  <property __name="text" en="The number of records found exceeds the threshold specified by the tgv_MaxFetchItemsCount Variable. Please set or decrease the Maximum Number of Children per level and/or the level depth and retry" zc="找到的记录数超过了tgv_MaxFetchItemsCount变量指定的阈值。请设置或减少每个级别的最大子级数和/或级别深度，然后重试" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xProperty_CanNotUseInWhere" config_id="71010363651B4EF69542A16D16FF4D0E">
+  <property __name="text" en="Extended Properties cannot be used in &quot;where&quot; attribute" zc="扩展属性不能在“where”属性中使用" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ac_ForbidAttrDefinitionChanging" config_id="714510E9E3E3406088FE47B1C71CA57F">
+  <property __name="text" en="Root Item of Derived Relationship Query must have the same ItemType as &quot;Defined On&quot; property of Attribute Definition." zc="派生关系查询的根项必须与属性定义的“Defined On”属性具有相同的ItemType。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xProperty_InsufficientPermissions_Details" config_id="7216CD0D0BBF44DC8F03D87E4A9756C2">
+  <property __name="text" en="{0} (container items ids='{1}')" zc="{0}（容器项ID='{1}'）" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetForumSearchIdNotSet" config_id="726905C11E784786BF391EFAA4BFF038">
+  <property __name="text" en="Failed to get ForumSearch items: id of ForumSearch was not set." zc="无法获取ForumSearch项目：未设置ForumSearch的id。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_validatePartConfig_invalidSourceItemType" config_id="72C13DF830B04442926E94DE60CF8EF7">
+  <property __name="text" en="" zc="Relationship {0} has invalid source itemType {1} ({2} expected)" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetNextSequence_NoNameNoID" config_id="72D73C50F7A041E0A066A3A384F9998A">
+  <property __name="text" en="Neither a name nor an ID has been specified." zc="未指定名称或ID。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_FileActionsContainDeniedActions" config_id="72E6342906884DA290640D60C23F759C">
+  <property __name="text" en="Error in '{0}' Type: 'Actions' contain the following denied actions: {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="StartNamedWorkflow_InternalError" config_id="733F0D6027F14B4886483FD6591438AF">
+  <property __name="text" en="An internal error has occured." zc="发生内部错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="re_ItemShouldBeNotNull" config_id="74827014B9594346BEC2282A9E23FE8C">
+  <property __name="text" en="thisItem should be not null" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_MarkupHolderConfigIdEmpty" config_id="74A13830576B4B6B8ACC1E4AE2324BD9">
+  <property __name="text" en="Markup Holder Config Id cannot be empty." zc="标记持有者配置Id不能为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_ActivityNotActive" config_id="74BD892619E34506AAD04ECB94BBD9E7">
+  <property __name="text" en="The activity must be in an active state." zc="活动必须处于活动状态。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateExpressEco_CheckGroupingTeams" config_id="74D100F92BE44AEEAF8C7A1B63A9AEF6">
+  <property __name="text" en="{0} {1} does not have any assigned Team for {2} EDR Group(s). You can use EDRs tab of {0} {1} to assign necessary team(s)." zc="{0}{1}没有为{2}EDR组分配任何团队。您可以使用{0}{1}的EDRs选项卡来分配必要的团队。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedGetSharedForumsNoForums" config_id="75E61F3124984767812267C260347983">
+  <property __name="text" en="Failed to get shared with user forums: there are no forums shared with user '{0}'" zc="无法与用户论坛共享：没有与用户“{0}”共享的论坛" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_InsufficientPermissionsException" config_id="75E677C9EAAB4742B0C88F2EFADD69A5">
+  <property __name="text" en="Some domain items have insufficient {0} permissions while new Derived Relationships creation" zc="创建新的派生关系时，某些域项的{0}权限不足" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetAllUserIdentitiesNoIsAliasIdentity" config_id="75FEC0B85C9F4DC4BC04AECFE4D7ACC3">
+  <property __name="text" en="Failed to get all user identities: user doesn't have isAlias identity." zc="无法获取所有用户标识：用户没有isAlias标识。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetNotificationMessage" config_id="762616E83BA24F48AF0737040C1B5E9E">
+  <property __name="text" en="1 new message in your discussions" zc="1.讨论中的新信息" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Licensing.FeatureLicenseValidationException" config_id="77790177F82C4ABA8E7FFBD239488DE0">
+  <property __name="text" en="The feature license you are attempting to use has encountered a restriction." zc="您尝试使用的功能许可证遇到限制。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="af_ExternalAuthenticationRequiresLicense" config_id="77987336417241DCBBF6C31E26B7A9E7">
+  <property __name="text" en="Authentication using external authentication schemes requires a license." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_RelTypeSourceUnsaved" config_id="780717980E8841429E9A09F4B7D918A4">
+  <property __name="text" en="Adding a RelationshipType with the unsaved ItemType as the source is not allowed. Save the ItemType first and then add a RelationshipType." zc="不允许添加未保存的ItemType作为源的RelationshipType。首先保存ItemType，然后添加RelationshipType。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_notMakeStatus" config_id="7824C8BACCFC42799C5C6732F87A6D0C">
+  <property __name="text" en="" zc="Not-Make" />
+ </Item>
+ <Item type="UserMessage" keyed_name="BeforeRelationshipTypeUpdate_OldDataSourceUsed" config_id="7861BDC584014131AA9BD72D53B211C4">
+  <property __name="text" en="Some {0} items still use the old source id data source." zc="一些{0}项仍然使用旧的源id数据源。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_TypeAliasesCannotHaveDuplicates" config_id="786ADD14117041D98916425F645EFC6D">
+  <property __name="text" en="Type aliases cannot have duplicates (case insensitive)." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PurgeItemEx2_InsufficientPermissions" config_id="78A58CAF0526428D89417E51EA5F28EC">
+  <property __name="text" en="Insufficient permissions to delete the item." zc="权限不足，无法删除该项目。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Conversion_MissedConversionServer_nosubscription" config_id="7905BD57DCCA4DB096B907ABD18D1E44">
+  <property __name="text" en="ConversionTask '{0}' can't be processed, ConversionServer doesn't defined for '{1}' converter type or impersonation user of Conversion Server isn't 'vadmin', because subscription is unavailable." zc="无法处理转换任务“{0}”，没有为“{1}”转换器类型定义转换服务器，或者转换服务器的模拟用户不是“vadmin”，因为订阅不可用。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="af_UserNameIsEmpty" config_id="791D5B1B6BE34A6CBC5773B65625E61A">
+  <property __name="text" en="User name is empty." zc="用户名为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_splitQuantityStatus" config_id="7929775898A345D9A875A308C110DBCF">
+  <property __name="text" en="" zc="Split Quantity" />
+ </Item>
+ <Item type="UserMessage" keyed_name="BeforePropertyUpdate_PropNameInvalid" config_id="798CA385A095478E944A8F5FDEAFE56B">
+  <property __name="text" en="The property name {0} is invalid." zc="属性名{0}无效。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_UseUnderlyingTypeInsteadOfForeignType" config_id="7AA7407413654F5C9187F14598A144E5">
+  <property __name="text" en="Error in '{0}' Type: '{1}' Property is declared with not supported 'Foreign' type. Use underlying type instead." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedGetForumsUserCanEdit" config_id="7AE251E0578B4ED2A03F418A15C43D46">
+  <property __name="text" en="Failed to get forums, which user can edit: {0}" zc="无法获取论坛，该用户可以编辑：{0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_NewItemId_RequiresNull_with_param" config_id="7B5EBCA880A5499EBD8EB0E8B3096908">
+  <property __name="text" en="The New Number field must be blank when Action is set to {0}. There should be no 'New Number' value for {1} {2}" zc="当操作设置为{0}时，新的数字字段必须为空。{1}{2}不应该有“新数字”值" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_NewItemId_Required_with_param" config_id="7BF746D2D42B46DCBF11335F963B3634">
+  <property __name="text" en="The New Number field is required when Action is set to {0}. There is no 'New Number' value for {1} {2}." zc="当操作设置为{0}时，需要新的数字字段。{1}{2}没有“新数字”值。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_validatePartConfig_invalidClassPath" config_id="7CAA929767AC4C979E636D6ED0E276AF">
+  <property __name="text" en="" zc="ItemType {0} doesn't contains {1} class path" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_RestrictedProperty" config_id="7CCE0D0204F54DEEBE33D3D5215B9337">
+  <property __name="text" en="Restricted" zc="受限制的" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_AssignmentClosed" config_id="7D1ED9C2AEB74776B84E92CB75983A61">
+  <property __name="text" en="This Assignment is already closed." zc="此任务已结束。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DTViewIsUnunique" config_id="7D3D4D32AFC446E9BCBC5756C21007A3">
+  <property __name="text" en="DiscussionTemplateView with same Client property already exists" zc="DiscussionTemplateView具有相同的客户端属性已存在" />
+ </Item>
+ <Item type="UserMessage" keyed_name="qry_QueryReferenceRefIdPropertyLabel" config_id="7D4CB6D3E8844DCA847B683B7695DBD2">
+  <property __name="text" en="Query Reference Ref Id" zc="查询引用Id" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_OnlyFileTypeCanHaveFileAlias" config_id="7D64A29CF19A40B7A2EC4C321405B587">
+  <property __name="text" en="Error in '{0}' Type: Alias 'File' can be used only with 'File' type." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ac_PropertyHasUnsupportedFederatedType" config_id="7E180DCF629F40B98A27F825F11B4B8F">
+  <property __name="text" en="The &quot;{0}&quot; property has the following unsupported federated data type: &quot;{1}&quot;." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="DeleteXPropertyValuePermission_UsedAsPrivatePermission_Details" config_id="7E5FFA55E57A4D0B96FE84E13B0646A8">
+  <property __name="text" en="{0} (ItemType='{1}', id='{2}')" zc="{0}（ItemType='{1}'，id='{2}'）" />
+ </Item>
+ <Item type="UserMessage" keyed_name="startWorkflow_NoStart" config_id="7E722527C3514CC997EB368F82FD7E13">
+  <property __name="text" en="No activity in this workflow is marked as Start." zc="此工作流中没有任何活动标记为开始。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xClassValidation_BadSortOrder" config_id="7EBED592F66C4B9FAE272D5D965933F6">
+  <property __name="text" en="xClass {0} has inconsistent sort order" zc="xClass{0}的排序顺序不一致" />
+ </Item>
+ <Item type="UserMessage" keyed_name="DataType_NotSupported" config_id="7F2BD49314F74610BD1AD166EC2393A2">
+  <property __name="text" en="Data type '{0}' is not supported by Innovator." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_CanDelegateDisabled" config_id="7F68633CD9054997A24CFFFDE67C4514">
+  <property __name="text" en="Can Delegate is disabled for this activity." zc="此活动已禁用Can委派。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ItemAlreadyAddedToAnotherPackage" config_id="7F7190AF159F457EA68A26F24973BD8D">
+  <property __name="text" en="&quot;{0}&quot; is already added to another Package Definition" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_RepresentationFilesAreMissing" config_id="7F9B738FA29B4A0188EEC40DB95FD6E0">
+  <property __name="text" en="Representation files are missing" zc="表示文件丢失" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_CantFindSourceSequence" config_id="7FD61A02A9D44AEDBAE2715CE06D712F">
+  <property __name="text" en="Could not find the source sequence of the {1} property of {1} ItemType." zc="找不到{1}ItemType的{1}属性的源序列。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DDUnsavedItem" config_id="8043D955D70D43C6BD895820C4552374">
+  <property __name="text" en="Discussion Definition could not be created for unsaved item." zc="无法为未保存的项目创建讨论定义。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tp_StylesheetsDifferentSources" config_id="80E1CA53918947AB9877B6958D1B690D">
+  <property __name="text" en="All sources of Stylesheets must be the same." zc="样式表的所有来源必须相同。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_FailGetActivityTasks" config_id="812083BEFDD0483699045BD10FCE857B">
+  <property __name="text" en="Failed to get the Activity Tasks." zc="无法获取活动任务。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ExecuteMethodByCacheXML_methodTypeNotSupported" config_id="81258BACD4C847C5A263A2B967E0E23B">
+  <property __name="text" en="The method type ({0}) specified for {1} is not currently supported." zc="当前不支持为{1}指定的方法类型（{0}）。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_InvalidSelectionDepth" config_id="81825B2AF00341EEA40BFC205A0BB1EB">
+  <property __name="text" en="{0} selection depth should have value equal or greater than '-1'. Please specify valid value." zc="{0}选择深度的值应等于或大于“-1”。请指定有效值。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_AssignmentDisabled" config_id="81CEED3CFAFA4B62B2D89A7495F378BF">
+  <property __name="text" en="This Assignment is disabled." zc="此任务已禁用。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_TypeCannotBeNull" config_id="823B2192B85C4CC18EEAF4E9285891E7">
+  <property __name="text" en="Types cannot be null ('{0}')." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplySql_ParameterNameOrTypeIsNotSpecified" config_id="829EFADEAC774A749849EE805E4AB3C5">
+  <property __name="text" en="SQL Parameter name or type is not specified." zc="未指定SQL参数名称或类型。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_NewItemId_InPreliminaryState" config_id="82BA64F13159424F91133A287497B209">
+  <property __name="text" en="All New Number items must be in Preliminary State when Action is set to Release. {0} {1} is in {2} state." zc="当Action设置为Release时，所有新的数字项都必须处于初始状态。{0}{1}处于{2}状态。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_newGenerationAvailableStatus" config_id="831CBF7883864F87827F439C3F9A29F0">
+  <property __name="text" en="" zc="New Version Available" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ExecuteActivityMethods_ActivityNotActive" config_id="8399973ACCEA4806B78B8708B35D86A0">
+  <property __name="text" en="The activity must be in an active state." zc="活动必须处于活动状态。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tp_ReferencedItemNotExist" config_id="8451E9DFDB2045AF9CC9476958EC2C82">
+  <property __name="text" en="{0} Item with id={1} doesn't exist. Please remove reference before save." zc="id为{1}的{0}项不存在。保存前请删除引用。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetNotificationMessages" config_id="85E6D0F40FC846DFA56923023FF4B6BA">
+  <property __name="text" en="{0} new messages in your discussions" zc="{0}讨论中的新消息" />
+ </Item>
+ <Item type="UserMessage" keyed_name="CloneForm_NewFormNameNotSpecified" config_id="85F71B00886A476AA1C84E559CD07D6E">
+  <property __name="text" en="The new form name is not specified." zc="未指定新表单名称。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="VerifyAffectedRelationship_RelationshipStillExistInItem" config_id="863087C833D4453DA3FE964661AFAEE8">
+  <property __name="text" en="Verification failed: {0} '{1}' still has reference to relationship {2} with ID '{3}'." zc="验证失败：{0}{1}仍然引用了ID为{3}的关系{2}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_UnsupportedItemTypeOrAliasInQueryDefinition" config_id="86321887E25444C0AB738E0A0DEDB653">
+  <property __name="text" en="Query Item &quot;{0}&quot;  that equals &quot;{1}&quot; isn't supported." zc="不支持等于{1}的查询项{0}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.SqlExceptionOccurred_Hidden_LogsOff" config_id="863C8460ACAC49F897C79FC5FD89598E">
+  <property __name="text" en="A SQL exception occurred (Error Number = &quot;{0}&quot;).&#xD;&#xA;Administrator can turn on application logging for more information.&#xD;&#xA;Please contact your administrator." zc="发生SQL异常（错误号=“{0}”）。管理员可以打开应用程序日志以获取更多信息。请与管理员联系。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_AffectedId_and_NewItemId_NotLocked" config_id="866E591EE4B8408987DD2E5BB2F9A482">
+  <property __name="text" en="No affected items may be locked. {0} {1} is locked." zc="不得锁定任何受影响的项目。{0}{1}已锁定。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_TypesContainUnknownTypes" config_id="869252ACB925455EA7D0108A10EB5851">
+  <property __name="text" en="'Types' contain the following unknown types: {0}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_SchemaDefinitionMustContainTypes" config_id="86BEC49CDA345895FFD5A723C2E17B0C">
+  <property __name="text" en="Schema definition must contain 'Types' object." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="VerifyAffectedRelationship_NewItemNotContainRelationship" config_id="8735B35CCF294F968DBE44B281E43914">
+  <property __name="text" en="Verification failed: Relationship {0} with ID '{1}' was not added to new {2} '{3}'." zc="验证失败：ID为{1}的关系{0}未添加到新的{2}{3}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ReferenceValidationRootAction" config_id="87394DA9542B451EB847B0D2D52B843A">
+  <property __name="text" en="Validation of 'Reference' is failed: 'action' of the root level &amp;lt;Item&amp;gt; should not be empty." zc="验证“引用”失败：根级别的“操作”&amp;lt；项目&amp;gt；不应该是空的。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="af_LoginFailed" config_id="8777EC3E60AD439C9DFC99C4CF877B80">
+  <property __name="text" en="Login failed for user '{0}'." zc="用户“{0}”登录失败。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="BeforeRelationshipTypeUpdate_OldRelDataSourceUsed" config_id="87A095E0CB3947928E77580A12B8330E">
+  <property __name="text" en="Some {0} items still use the old related id data source." zc="一些{0}项仍然使用旧的相关id数据源。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_CantAddFile" config_id="87BDE5FB45C04551BB3CC3F8765BAE29">
+  <property __name="text" en="File Item cannot be added." zc="无法添加文件项。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NoUserIdentities" config_id="8819AAB7A56C43D9A14DBF9ECF97F260">
+  <property __name="text" en="user doesn't have identities." zc="用户没有身份。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xClassificationTree_CopyInputPropsNotSupported" config_id="88A5BF435D7249C6AEEAFF08B788DE7C">
+  <property __name="text" en="The &quot;useInputProperties&quot; attribute is not supported in copying of xClassificationTree." zc="复制xClassificationTree时不支持“useInputProperties”属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_PathNotSpecified" config_id="898102EC881141D39EBFAF2BDEFFBFC0">
+  <property __name="text" en="The path is not specified." zc="未指定路径。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="BeforeRelationshipTypeAdd_RelTypeCorrupted" config_id="898FB6BD38524530BEA717680186A32A">
+  <property __name="text" en="Internal Error: the relationship type is corrupted." zc="内部错误：关系类型已损坏。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_NewItemId_RequiresNull" config_id="8A0C812FE9A645058EB47195AB27B4F0">
+  <property __name="text" en="The New Number field must be blank when Action is set to {0}." zc="当操作设置为{0}时，新的数字字段必须为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="CopyItemEx_CopyFailedPropertynotUnique" config_id="8A4A499A26674827B8F480FDF147A8CA">
+  <property __name="text" en="Failed to copy the item: the property {0} has to be unique." zc="未能复制项：属性{0}必须是唯一的。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_TypeAliasesCannotContainSpaces" config_id="8A5FA785AAFE42A2AD4518F4F23ACBC0">
+  <property __name="text" en="Type aliases cannot contain spaces." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NotPolymorphicItemType" config_id="8A6167BC54BF4BF19F6A23DC626B5000">
+  <property __name="text" en="Reference doesn't indicates to any Polymorphic Item Type. 'Polysource Type Name' property should be empty." zc="引用不指示任何多态项类型。”Polysource Type Name属性应为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetRevision_InternalErrorMajorRevInvalid" config_id="8B0E9572F974444D8D4A62001B8FAD39">
+  <property __name="text" en="Internal Error: the major revision &quot;{0}&quot; specified for {1} is invalid." zc="内部错误：为{1}指定的主要修订版“{0}”无效。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddRelationshipEx_RelTypeDamaged" config_id="8B16199521E84F51BA5409F72107B85E">
+  <property __name="text" en="The RelationshipType is damaged." zc="关系类型已损坏。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_NewItemId_Required_add_action" config_id="8B3BC56A0DA34E1BAD081050FD54E4D6">
+  <property __name="text" en="The New Number field is required when Action is set to 'Add'." zc="当操作设置为“添加”时，需要新的数字字段。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetMessagesForFMGIdNotSet" config_id="8B91D0DBC8D84A46AB6841FF66E2311E">
+  <property __name="text" en="Failed to get messages for Forum Message Group: id property was not set." zc="无法获取论坛消息组的消息：未设置id属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="DeleteItem_SkipCheckItemUsageError" config_id="8C39721200784390A7F88E0E17AA3B02">
+  <property __name="text" en="Failed to delete {0}: only administrators can skip checking item usage." zc="未能删除{0}：只有管理员可以跳过检查项目使用情况。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_FileTypeCanHaveOnlyFileAlias" config_id="8D365F7E267F43BAA4F5DF7285A4B14E">
+  <property __name="text" en="Error in '{0}' Type: 'File' type cannot have an alias other than 'File'." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_ReportIsVeryLarge" config_id="8E719778F2BD4DB8A39CC53EB221A5BC">
+  <property __name="text" en="The selected part has a very large BOM structure, and the report cannot be displayed. Please select a sub-structure to run this report." zc="所选零件的BOM表结构非常大，无法显示报告。请选择要运行此报告的子结构。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_SecureMessageMarkupNotFound" config_id="8E773E911DBD44EB9D83EBAD438957E5">
+  <property __name="text" en="The SecureMessageMarkup with Id '{0}' can't be found." zc="找不到Id为“{0}”的SecureMessageMarkup。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DefaultDTOfForumContBeRemoved" config_id="8F7B496261B24F3F90EF1EFE0632232B">
+  <property __name="text" en="Default DiscussionTemplate of Forum item type cannot be removed." zc="无法删除论坛项目类型的默认DiscussionTemplate。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ForumDTDefaultFeedTemplateCantBeChanged" config_id="906228E1ED6A44EC84DD7943B8016530">
+  <property __name="text" en="Default FeedTemplate of DiscussionTemplate of Forum item type cannot be changed." zc="论坛项目类型DiscussionTemplate的默认FeedTemplate无法更改。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.ActivityIsClonedAlreadyException" config_id="909DF38EE1BC4AF1822E12F90FFCC481">
+  <property __name="text" en="The activity is cloned already." zc="该活动已被克隆。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyUpdate_UpdateNumberEmpty" config_id="90A50A1850CD46A3B1547BCA501BFC2A">
+  <property __name="text" en="The update number cannot be empty." zc="更新编号不能为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="DSS_RequiredPropertyNotSpecified" config_id="90AC074DCAB546D38ECCDB064F06B707">
+  <property __name="text" en="Property &quot;{0}&quot; is required for action &quot;dss_syncAdd&quot;" zc="操作“dss_syncAdd”需要属性“{0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_NewItemId_HasNoPreviouslyReleasedGeneration" config_id="917B749693A34B74B3C2F75884CAB7BC">
+  <property __name="text" en="The New Number field must contain an item that has never been released when Action is set to 'Add'. {0} {1} was previously released." zc="当操作设置为“添加”时，新编号字段必须包含从未发布过的项。{0}{1}之前已发布。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_newRevisionStatus" config_id="91B6A772CDB043CCB240DD59E9DC36C3">
+  <property __name="text" en="" zc="New Revision" />
+ </Item>
+ <Item type="UserMessage" keyed_name="CreatePolyItemView_Property_Type_Unsupported" config_id="91D2E5A4D77648CA82B19B94344DE101">
+  <property __name="text" en="The property '{2}' prevented Poly Item from being saved: Property is an unsupported type in a Poly Source." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.ClassificationCannotBeChangedException" config_id="91E6CD46CFCC4A56A18F87864B7FB658">
+  <property __name="text" en="Classification property value cannot be changed." zc="无法更改分类属性值。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_SourceItemTypeIsMissing" config_id="920BE5FFCC42434DA5E2A5A5666F027C">
+  <property __name="text" en="Relationship source item type attribute is missing." zc="缺少关系源项类型属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_MassageCanBeDisabledByAdminOrCreator" config_id="9227C13A60534F7A8528356D9A457E02">
+  <property __name="text" en="Message can be erased only by administrator or creator." zc="只有管理员或创建者才能删除邮件。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_NewItemId_RequiresNull_OnDelete_with_param" config_id="929BC9DDFD2A467DBE7E23DD76DA2898">
+  <property __name="text" en="The New Number field must be blank when Action is set to 'Delete'. There should be no 'New Number' value for {0} {1}." zc="当操作设置为“删除”时，新的数字字段必须为空。{0}{1}不应该有“新数字”值。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ChangeUserPassword_InvalidOldPassword" config_id="9338736102AB498D8EDDA8B69F416FE7">
+  <property __name="text" en="Old Password Is Wrong!" zc="旧密码错了！" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PurgeItemEx2_FailedDeleteIsUsed3Params" config_id="93D8D61AFF844ABCA649839E0F0647AE">
+  <property __name="text" en="{0} cannot be deleted. It is used in {1} {2}." zc="无法删除{0}。它用于{1} {2}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_BadReferenceToRefId" config_id="93F1A4456D634BC6A78F07950D663952">
+  <property __name="text" en="Tree has is null or empty 'toRefId' in hierarchy string" zc="树的层次结构字符串中的“toRefId”为null或为空" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.PropertyTypeTextIsNotValidForIndex" config_id="94706DE8449D4C5C840FF16DA351DB83">
+  <property __name="text" en="The property type &quot;Text&quot; is not valid for use as an index." zc="属性类型“Text”不能用作索引。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.ItemNotFoundException" config_id="95016E40F9E44F0790AE04B3948E59C8">
+  <property __name="text" en="Item &quot;{0}&quot; was not found." zc="找不到项“{0}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToCreateFMGOneParam" config_id="951796B0685C46E18AC42F03BA7EDCEC">
+  <property __name="text" en="Failed to create ForumMessageGroup for user: {0}" zc="无法为用户{0}创建ForumMessageGroup" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GenerateRelationshipsTabbar_InternalError" config_id="95A34D1B5C8646DC8BF0A9258268E41D">
+  <property __name="text" en="An internal error has occured." zc="发生内部错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Main_RunReportFailedInvalidName" config_id="960A191829FD422CBAB583B621D9757B">
+  <property __name="text" en="Failed to run the report: the name is invalid." zc="无法运行报告：名称无效。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_PolysourceTypeNameEmpty" config_id="964C2C52BCFF43BD9A3D267FC44AC5C4">
+  <property __name="text" en="'Polysource Type Name' can't be empty if reference indicates the polymorphic Item Type." zc="如果引用指示多态项类型，“Polysource Type Name”不能为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_UserDidntVote" config_id="96FC9F71304541DCB7D9A0788D7C852C">
+  <property __name="text" en="This user didn't vote" zc="该用户没有投票" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_notInEbomStatus" config_id="970CAAC55A1F420AB42000133985F26C">
+  <property __name="text" en="" zc="Not in EBOM" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.SqlExceptionOccurred_HiddenInnerException" config_id="972CF85F88804D8497841B3439FBBC9C">
+  <property __name="text" en="A database error has occurred. Please contact your administrator for details, which can be found in the Serilog logs, if enabled. Faultcode = &quot;{0}&quot;." zc="发生数据库错误。有关详细信息，请与管理员联系，如果启用，可以在Serilog日志中找到。Faultcode=“{0}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_PropertyTypeDoesNotMatchTypeOfInnovatorProperty" config_id="973C90E6311E43129648AC35898ADB5A">
+  <property __name="text" en="Error in '{0}' Type: type of '{1}' Property ('{2}') does not match type of corresponding Innovator Property ('{3}')." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_MyBookmarksCantChangeState" config_id="9780B00C050844C7873DD616358B770C">
+  <property __name="text" en="Forum with type 'MyBookmarks' cannot change state." zc="类型为“MyBookmarks”的论坛无法更改状态。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xPxC_InvalidAttributeValue" config_id="97A1394557BA405983BBB382BBE38ABC">
+  <property __name="text" en="The &quot;{0}&quot; attribute has an invalid value: &quot;{1}&quot;" zc="{0}”属性的值无效：“{1}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyItemRelationships_ActionNotSupported" config_id="983862B715994B8F9C3EB63FED1A4EBA">
+  <property __name="text" en="The action you are trying to apply ({0}) is currently not supported." zc="当前不支持您尝试应用的操作（{0}）。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_RepresentationFileTypeIsNotDefined" config_id="9839F867C1B34C6AB774369C41D5D9A4">
+  <property __name="text" en="File type of representation file is not defined" zc="未定义表示文件的文件类型" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemShouldHaveId" config_id="98F9C9EB23BC485D8555B6B11CFD1D26">
+  <property __name="text" en="Item should have 'id' property set." zc="项应设置“id”属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectedMoreThanOnce" config_id="98FD960BA3DA4953A706D2CE42AF9773">
+  <property __name="text" en="File &quot;{0}&quot; is selected more than once: from &quot;{1}&quot; by &quot;{2}&quot;, from &quot;{3}&quot; by &quot;{4}&quot;. Please contact to admin to resolve conflict." zc="文件“{0}”被多次选中：从“{1}”到“{2}”，从“{3}”到“{4}”。请联系管理员解决冲突。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xPropertyContainerItem_SelectCheckFail" config_id="990449DBA62647189BDB54E99B2024A0">
+  <property __name="text" en="Select attribute must be strictly specified in the input item for xPropertyContainerItem item type" zc="必须在xPropertyContainerItem项类型的输入项中严格指定Select属性" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_WrongDepartureItemTypeIdInDR" config_id="9949B5EA9BD54481AC8D109E6E984402">
+  <property __name="text" en="The Itemtype of the Query Definition Root Item should be the same as the departure Itemtype of the derived relationship for &quot;{0}&quot;" zc="查询定义根项的Itemtype应与“{0}”的派生关系的离开Itemtype相同" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_validatePartConfig_invalidPropertyType" config_id="9960C62B1A9A473A97930C08CC372130">
+  <property __name="text" en="" zc="Property {0}(itemType {1}) has type {2} but should be {3}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_DamagedDataSource" config_id="99CFAAA823434EBF9B264BD9B1A9E732">
+  <property __name="text" en="'Inbasket Task' Item Type can not be used as data source of any property of type Item." zc="Inbasket任务”项类型不能用作任何类型为Item的属性的数据源。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_FormatVersionChangeIsForbidden" config_id="9A100671E94944A9B683C98DC6601899">
+  <property __name="text" en="'FormatVersion' change is forbidden." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="CloneForm_InternalError" config_id="9A15CAF856F64C7B84719699FAC38321">
+  <property __name="text" en="An internal error has occured." zc="发生内部错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.RelatedIdRequiredForRelType" config_id="9A37C44CACFB4EAFA155069200AC49A7">
+  <property __name="text" en="Related item is required for '{0}' RelationshipType." zc="{0}”RelationshipType需要相关项。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ac_ForbidItemAttributeChanging" config_id="9AB00B80DF4A43F8BBCEA6F4C38FCBC1">
+  <property __name="text" en="Item Attribute &quot;{0}&quot; used in active MAC Policy could not be changed." zc="无法更改活动MAC策略中使用的项属性“{0}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyAML_MalformedXML" config_id="9AC57457DB704595847891788F23E2DF">
+  <property __name="text" en="The XML for this operation is malformed." zc="此操作的XML格式不正确。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetForumMessages" config_id="9AC9688748C4453DBADBAD8DC4292939">
+  <property __name="text" en="Failed to get Forum Messages: {0}" zc="无法获取论坛消息：{0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ReferencePropertyToThisForSpecificProperty" config_id="9B31A85DCA3E4DDD8392F8443971967E">
+  <property __name="text" en="{0} with {1} equal to '{2}' can't have reference property equal to 'this'. Please specify valid reference." zc="{1}等于“{2}”的{0}的引用属性不能等于“this”。请指定有效的引用。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.TagItemIsNotFoundInResponseException" config_id="9B7C56D08BEA41D18462F7AD8F53CD76">
+  <property __name="text" en="There is no tag &lt;Item&gt; in response." zc="响应中没有标签&lt;Item&gt;。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NotEnoughPermissionsToDisableSM" config_id="9BA6CBD55C78441D9F20060C3BE8DF06">
+  <property __name="text" en="Not enough permissions to perform operation: Disable Secure Message: {0}" zc="权限不足，无法执行操作：禁用安全消息：{0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="DSS_InvalidPropertyValue" config_id="9BF8074DCAB546C38ECCDB664F06E707">
+  <property __name="text" en="Property &quot;{0}&quot; has invalid value &quot;{1}&quot;" zc="属性“{0}”的值“{1}”无效" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedSubscribeToForumUserIdNotSet" config_id="9BFB04505F9F4FC79B853615D12B4B20">
+  <property __name="text" en="Failed to subscribe to forum: 'user_id' property was not set." zc="订阅论坛失败：未设置“用户id”属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tp_RefencedItemLockedByOther" config_id="9C01F07B107E4E6D8911FD4752ECD542">
+  <property __name="text" en="{0}: Item is locked by other user." zc="{0}：项目已被其他用户锁定。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_PropertyCannotBeNull" config_id="9D9D2B588D594A9388CF06F1C5BE0C02">
+  <property __name="text" en="Error in '{0}' Type: '{1}' Property cannot be null." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplySoapAction_ActionNotSupported" config_id="9DDE675F6F044D1FA29C369F76228A46">
+  <property __name="text" en="The action {0} is not supported." zc="不支持操作{0}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.UnsupportedFilterConditionReferencedFederated" config_id="9E96094D750D40848EB3CEF6B4CC106C">
+  <property __name="text" en="Unsupported filter condition: the property type '{0}' of parent item is not comparable with the federated property type '{1}' of referenced item." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_WorkflowProcessNotActive" config_id="9E9DC55172BA4B07A8C8540045C482B7">
+  <property __name="text" en="The Workflow Process has to be in an Active State." zc="工作流过程必须处于活动状态。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_CouldntCheckPermissionsForItems" config_id="9EB6AF8C004247758D87420244A3C461">
+  <property __name="text" en="Couldn't check permissions for requested items: {0}" zc="无法检查请求项目的权限：{0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xPxC_InvalidSelectQuery" config_id="9F7C6A28AB574AF3BA3FC9493CFDE35D">
+  <property __name="text" en="Invalid select query" zc="无效的选择查询" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_ResetLifecycleStateDisabled" config_id="9FEE8E8F24874933B85CDA28F5900595">
+  <property __name="text" en="Reset Life Cycle State is disabled for Derived Relationships." zc="已为派生关系禁用重置生命周期状态。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateExpressEdr_HasEcoVotedFromPendingClosureToDraftChanges" config_id="A00B1791AD1B434CB2952CA09CA4C39A">
+  <property __name="text" en="Related ECO must be promoted from In Review to In Work." zc="相关ECO必须从审查中提升到工作中。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedRelationship_Is_AffectedRelationship_RequiresAttachAction" config_id="A02EF4D4F9A943CD8B51156CFBE7B648">
+  <property __name="text" en="Only &quot;Attach&quot; Affected Relationships are permitted for &quot;Release&quot; Affected Items." zc="只有“附加”受影响的关系才允许“释放”受影响的项目。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToCreateDefaultForums" config_id="A05502A0C5E84983A43F5AB2728D3EA6">
+  <property __name="text" en="Failed to create default forums for user: {0}" zc="无法为用户创建默认论坛：{0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_IsAffectedItemWithActionOtherThanNoneExists" config_id="A05B8C3759794F66C7F78ABBD0A6E259">
+  <property __name="text" en="At least one affected item with an Action other than &quot;None&quot; must be attached. {0} {1} has no Affected Items with an Action other than &quot;None&quot;." zc="必须至少附加一个操作不是“无”的受影响项目。{0}{1}没有具有除“无”之外的操作的受影响项。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dac_NotUniqueRootPermissionDestinationLcsPair" config_id="A0718C9E656E4116937061D114501B5E">
+  <property __name="text" en="Pair Root Permission - Destination Life Cycle State in Subdomain Permission should be unique." zc="对根权限-子域权限中的目标生命周期状态应是唯一的。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_MoreThanOneIsAliasIdentity" config_id="A0AD4E7A1255425BAF9632FFCAFD9B72">
+  <property __name="text" en="user has more than one isAlias identity." zc="用户有多个isAlias标识。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_RelationshipCannotBeAddedToMyBookmarks" config_id="A0B841244CAC4593B8EA97B000C87793">
+  <property __name="text" en="Relationship {0} cannot be added to Forum of type 'MyBookmarks'" zc="无法将关系{0}添加到“MyBookmarks”类型的论坛" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_NonUniqueClassName" config_id="A0C4E09862F1442EAFBAD67FE4BEB3B7">
+  <property __name="text" en="XClasses of xTree have non unique names" zc="xTree的Xclass具有非唯一的名称" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetAllUserIdentitiesMoreThanOneIsAliasIdentity" config_id="A1BC8F6CFB084CDD80C0E2BCE49A4BC2">
+  <property __name="text" en="Failed to get all user identities: user has more than one isAlias identity." zc="无法获取所有用户标识：用户有多个isAlias标识。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="af_AccessDeniedByUserName" config_id="A2DBB8DE95184629923F94C81D0A99D1">
+  <property __name="text" en="Access for user '{0}' is denied." zc="用户{0}的访问被拒绝。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_MethodNotFound" config_id="A3F10CBF13014F78B18324CABEB4597A">
+  <property __name="text" en="Invalid argument value for built-in method {0}." zc="为调用指定的方法“{0}”与任何可用方法都不匹配。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Licensing.FeatureLicenseIsNotUniqueException" config_id="A48C484734BD4F07BD15A6D93A625459">
+  <property __name="text" en="The feature license you are attempting to activate is already in your database." zc="您试图激活的功能许可证已在数据库中。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="InstantiateWorkflow_implementation_WFNotAllowed" config_id="A4AF52D5A4E34F399544DA0BEB603DAC">
+  <property __name="text" en="The workflow you are attempting to use is not one of the Allowed Workflows for this item." zc="您尝试使用的工作流不是此项目允许的工作流之一。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.PropertyValue4ClassificationIsInvalidException" config_id="A4FA86DA943E4E8E8BBF8F3339D31EA2">
+  <property __name="text" en="Property value ({0}) for classification is invalid." zc="分类的属性值（{0}）无效。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="UpdateItemEx_PropertyPatternMismatch" config_id="A5005E3C92D449B7B33DB1F5FF2C2AA6">
+  <property __name="text" en="The specified value ({0}) does not match the required {1} property pattern: {2}" zc="指定的值（{0}）与所需的{1}属性模式不匹配：{2}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_ConflictResolvingInMainGrid" config_id="A58C60F541D74B1BA41F7D9692DB7233">
+  <property __name="text" en="" zc="Please save it again and resolve conflicts in Process Plan window." />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NotAllowedType" config_id="A61AE9D8EE92437F958A44F297F23A01">
+  <property __name="text" en="Type '{0}' not allowed for that method." zc="该方法不允许使用类型“{0}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="af_ExpiredLicenseNotificationMessage" config_id="A6355EEE39CB403597CC035C778F4501">
+  <property __name="text" en="Authentication using external authentication schemes requires a license. The license expired on {0}. The current method of authentication will no longer be allowed after {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_UnsupportedTypeProperty" config_id="A68FB2DF0EBD4B28AE6BE61F4EB9FD39">
+  <property __name="text" en="The property &quot;{0}&quot; of &quot;{1}&quot; has unsupported type &quot;{2}&quot;." zc="{1}”的属性“{0}”具有不受支持的类型“{2}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_AffectedId_InSupersededOrReleasedState" config_id="A6EA8E2BC95242ACBA45ABC83A1A0521">
+  <property __name="text" en="All Old Number items must be in Released or Superseded State when Action is set to {0}. {1} {2} is in {3} state." zc="当操作设置为{0}时，所有旧编号项目必须处于已发布或已取代状态。{1} {2}处于{3}状态。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_DuplicatedToRefId" config_id="A707DA5812544F78B09B877ABB9B14D3">
+  <property __name="text" en="Tree has duplicate 'ToRefId' in hierarchy string" zc="树在层次结构字符串中有重复的“ToRefId" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tp_RefencedItemOutdated" config_id="A7308F68495A49C6AA2972F37196973A">
+  <property __name="text" en="{0}: Item reference is outdated. Changes cannot be saved." zc="{0}：项引用已过期。无法保存更改。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="qry_ForbiddenPropertyUsageErrorMessage" config_id="A736C2BB1968419F8BBD3DFB3703433C">
+  <property __name="text" en="{0}/{1} cannot be directly obtained from QueryBuilderNode. Please refer to documentation for more details." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_NewItemId_Required_with_param" config_id="A772E78FE48042419588C7C2CAEB98AC">
+  <property __name="text" en="The New Number field is required when Action is set to 'Change' and the Interchangeable flag is off. There is no 'New Number' value for {0} {1}." zc="当操作设置为“更改”且可互换标志关闭时，需要新的数字字段。{0}{1}没有“新数字”值。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="DSS_NotSupportedItemType" config_id="A7BC074DCAB546C38ECCDB664F06E707">
+  <property __name="text" en="Action &quot;dss_syncAdd&quot; doesn't support &quot;{0}&quot; ItemType" zc="操作“dss_syncAdd”不支持“{0}”项类型" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_ManualRelease_MustBeInReleasedState" config_id="A7C16CC833D4453BA3FE964661AFAEE8">
+  <property __name="text" en="{0} must be in Released state to perform this action." zc="{0}必须处于释放状态才能执行此操作。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_AffectedId_RequiresNull" config_id="A8A161CAD477418EB6BE8260D1843B9A">
+  <property __name="text" en="The Old Number field must be blank when Action is set to 'Release'." zc="当操作设置为“释放”时，旧编号字段必须为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_parameterMissed" config_id="A91B1D16FF9F4AEBA74B70C377F35229">
+  <property __name="text" en="" zc="Mandatory parameter '{0}' was missed." />
+ </Item>
+ <Item type="UserMessage" keyed_name="TransactionCheckItemsRelationships_TooFewRels" config_id="AADB7018C101427C932618C2D5A0BC06">
+  <property __name="text" en="Insufficient relationship count ({0}) of {1} relationships. At least {2} required." zc="{1}个关系的关系计数（{0}）不足。至少需要{2}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_NotRoot" config_id="AAE9B5CB99FB4B948582939E9CC4C648">
+  <property __name="text" en="Tree has not root class in hierarchy string" zc="树在层次结构字符串中没有根类" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_mbomQuantity" config_id="AB897BD494144866AFFCF6CE327CFE3C">
+  <property __name="text" en="" zc="MBOM Quantity" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PopulateRelationshipsGrid_WrongParameters" config_id="AB99B1DD09B74D6CA8E95516E3B45750">
+  <property __name="text" en="Wrong parameters have been specified." zc="指定了错误的参数。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_InvalidValueOfMaxQueryDepth" config_id="ABCE0EF8B9914CC8B4E99C88B0B9DDAC">
+  <property __name="text" en="Invalid value of a property max_query_depth, use a positive number to set specific value." zc="属性max_query_depth的值无效，请使用正数设置特定值。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectorParserParamNameContainsWrongSymbols" config_id="ABECCD16519E4E0B97DC741BBDA27E78">
+  <property __name="text" en="Param name in &quot;{0}&quot; contains deprecated symbols! Pattern = &quot;{1}&quot;." zc="{0}”中的参数名包含不推荐使用的符号！Pattern=“{1}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_TypesMustContainRootType" config_id="AC7C7AECE3334312B10EF29FF8674A21">
+  <property __name="text" en="'Types' must contain at least one Type with 'getlist' or 'get' actions." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dac_ResetLifecycleStateDisabled" config_id="ACBE5AFF668341DF9F37B6793C5600DB">
+  <property __name="text" en="Reset Life Cycle State is disabled for DAC Definition." zc="DAC定义禁用重置生命周期状态。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xClassification_OnlyLeafConstraintFail" config_id="AD62B11FF27D42C5A579EAE88A43D788">
+  <property __name="text" en="Only leaf can be selected on the &quot;{0}&quot; tree" zc="只能在“{0}”树上选择叶" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FMGInvalidUserMessageGroupType" config_id="AD839EF2D43C48CD8E7057494DE1AB03">
+  <property __name="text" en="Failed to create ForumMessageGroup for user: '{0}' is invalid user message group type." zc="未能为用户创建ForumMessageGroup:“{0}”是无效的用户消息组类型。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemConfigIdEmpty" config_id="ADE066CCBF0546A290F3E8D74D10248A">
+  <property __name="text" en="Item Config Id should not be empty." zc="项目配置Id不应为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_MissingBuilderMethod" config_id="AE382E86393F4A9F9D57CB32F7F4D61A">
+  <property __name="text" en="No Builder Method found in Column Definition or Column Mapping." zc="在列定义或列映射中找不到生成器方法。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_PropertiesContainUnknownProperties" config_id="AE683AD801AE4F76A6D78E3BB322FBDF">
+  <property __name="text" en="Error in '{0}' Type: 'Properties' contain the following unknown properties: {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_NewItemId_InReleasedState" config_id="AE815D487A224C49984F3262CE5D343F">
+  <property __name="text" en="All New Number items must be in Released State when Action is set to {0}. {1} {2} is in {3} state." zc="当操作设置为{0}时，所有新的数字项都必须处于释放状态。{1} {2}处于{3}状态。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpo_MassPromotionRecordWasProcessed" config_id="B03340CB5C36404DA81BFFDF4D48EE2E">
+  <property __name="text" en="Item was processed by another request" zc="项目已由另一个请求处理" />
+ </Item>
+ <Item type="UserMessage" keyed_name="LockItem_InsufficientPermissions" config_id="B07823C2E6D746BE8395DD3B52704E6D">
+  <property __name="text" en="You have insufficient permissions to lock the item." zc="您没有足够的权限锁定该项目。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetMessagesForFMGAmlIsEmpty" config_id="B08A232F000D4691BE143744D210FD2E">
+  <property __name="text" en="Failed to get messages for Forum Message Group: aml property of ForumMessageGroup is empty." zc="无法获取论坛消息组的消息：ForumMessageGroup的aml属性为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_cantCreateDependent" config_id="B092AA9965EF4E0897303FC03B633DF8">
+  <property __name="text" en="Dependent {0} cannot be create: source item not found." zc="无法创建依赖项{0}：找不到源项。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="XClassification_AddRelationsipToXClassNotInXItemContext" config_id="B10884352091434892AE670FEE981350">
+  <property __name="text" en="&quot;{0}&quot; can be added only in item context" zc="{0}只能在项目上下文中添加" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_PromoteIsNotAllowed" config_id="B36588561CF04516A57293A56DCAB293">
+  <property __name="text" en="Promote from '{0}' to '{1}' state is not allowed." zc="不允许从“{0}”升级到“{1}”状态。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SetUserWorkingDirectory_DirectoryNotSpecified" config_id="B425AF241C0A42DC9B171D31AE1F80CB">
+  <property __name="text" en="The working directory was not specified." zc="未指定工作目录。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectorParserParamValueContainsWrongSymbols" config_id="B45D2F3D13FB4E5795EF60AB1CBCD5EB">
+  <property __name="text" en="Param value in &quot;{0}&quot; contains deprecated symbols! Pattern = &quot;{1}&quot;." zc="{0}”中的参数值包含不推荐使用的符号！Pattern=“{1}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_TypesMustContainAtLeastOneType" config_id="B4D54C7889554130A6FB14DD70CFB504">
+  <property __name="text" en="'Types' must contain at least one Type." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_RepresentationFileIsAlreadyMasterFile" config_id="B5009DEA75E14447904584784CAA61E1">
+  <property __name="text" en="Representation file cannot have its own representations" zc="表示文件不能有自己的表示" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FilterInvalidFormatFilterCannotHaveWhere" config_id="B5803E2F65A44C27BE70A3ED3BA8E929">
+  <property __name="text" en="'filter' item property has invalid format: filter item cannot have 'where' attribute" zc="筛选器”项属性的格式无效：筛选器项不能具有“where”属性" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Property_InvalidName_GlobalVersion" config_id="B6030FFD4C7947FEA4E92C9160664F62">
+  <property __name="text" en="Property of type Global Version should be named &quot;global_version&quot;" zc="全局版本类型的属性应命名为“全局版本" />
+ </Item>
+ <Item type="UserMessage" keyed_name="CheckEntryExitPath_InternalError" config_id="B66E816CB8B44523877C9EB20DF4A705">
+  <property __name="text" en="Internal Error: No entry-exit path for non-start(end) activity template found." zc="内部错误：未找到非开始（结束）活动模板的入口-出口路径。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_MessageCanBeUpdatedOnlyByCreator" config_id="B6A1E03FDC1740BFB5F4C270734EF330">
+  <property __name="text" en="Message comments can be updated only by creator." zc="消息评论只能由创建者更新。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetUserWorkingDirectory_InternalError" config_id="B77601A951A34402B615ADBB80FA7220">
+  <property __name="text" en="An internal error has occured." zc="发生内部错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_CollectionsTypesReferToTypesWhereItemTypesAreNotRelationshipTypes" config_id="B82096BDC8844CE3B261B7ACE431A97D">
+  <property __name="text" en="Error in '{0}' Type: Collections Type(s) refer to type(s) in which the 'ItemType'(s) ({1}) are not Relationship type(s)." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Licensing.FeatureNotFoundException" config_id="B8B69833691445A0ACC3973E6B0A22C8">
+  <property __name="text" en="The feature you are attempting to consume does not exist in your feature tree." zc="您试图使用的功能在功能树中不存在。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_CollectionActionsCannotContainNullOrEmptyValues" config_id="B9A48B300CCC4EB385A823863AAB7DC3">
+  <property __name="text" en="Error in '{0}' Type: Collection 'Actions' cannot contain null or empty values." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dac_NotSupportedItemTypeWithUseSrcAccess" config_id="B9FA69B9C96943338BD42B6F4D8BB382">
+  <property __name="text" en="DAC Definition is not support '{0}' Item Type with use_src_access = 1." zc="DAC定义不支持use_src_access=1的{0}项类型。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_ForbidRemovingEnvironmentAttribute" config_id="BA250BE5BA11407F951683C12ACA1C44">
+  <property __name="text" en="Environment Attributes used by active MAC Policies may not be modified. {0} is used by {1}." zc="不能修改活动MAC策略使用的环境属性。{0}被{1}使用。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.CryptographicException" config_id="BA3285588F1544A983957AF33C72504D">
+  <property __name="text" en="Data verification failed" zc="数据验证失败" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.VersionInfoContentException" config_id="BA3286688F1522A983957AF33C72504D">
+  <property __name="text" en="Failed to load UpdateInfoConent" zc="无法加载UpdateInfo" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_IsAffectedItemWithActionOtherThanEmptyExists" config_id="BA5B8C3759794F66C7F78ABBD0A6E259">
+  <property __name="text" en="At least one affected item with an Action other than empty must be attached. {0} {1} has no Affected Items with an Action other than empty." zc="必须至少附加一个具有非空操作的受影响项目。{0}{1}没有操作为空以外的受影响项。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_WrongDepartureItemTypeId" config_id="BAD594B6200242FDAC9F6B854A5B96B6">
+  <property __name="text" en="Departure ItemType should be the same as Root ItemType in Relationship Family" zc="出发项目类型应与关系族中的根项目类型相同" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_notAccountedInMbomStatus" config_id="BAEAD2845CFC437188561000586441DA">
+  <property __name="text" en="" zc="Not accounted in MBOM" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ac_NoTypesEquality" config_id="BB2059247E2641AAB24ABB09A92BB8D5">
+  <property __name="text" en="Datatype of Item Attribute must match the datatype of the Property defined in its Attribute Definition for &quot;{0}&quot; ItemType. Item Attribute has &quot;{1}&quot;, but Property has &quot;{2}&quot;." zc="Item属性的Datatype必须与在其属性定义中为“{0}”ItemType定义的属性的Datatype匹配。项属性有“{1}”，但属性有“{2}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_ListAliasesCannotHaveDuplicates" config_id="BB6977CB71554B889B3DF9C258F13EB2">
+  <property __name="text" en="List aliases cannot have duplicates (case insensitive)." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.InvalidEffectiveDateValueException.LessThanReleaseDate" config_id="BD25D9CAB2D74BBF926405739E446CAB">
+  <property __name="text" en="The value of the effective_date property specified for the {0} is invalid. A value is required and it must be greater than or equal to the release date." zc="为{0}指定的生效日期属性的值无效。需要一个值，该值必须大于或等于发布日期。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NotAllowedEmptyComments" config_id="BD3A3E993307471BB7DCBE2A9DE81146">
+  <property __name="text" en="Empty comments are not allowed when message doesn't contains attachment" zc="当邮件不包含附件时，不允许使用空注释" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_UserAlreadyVoted" config_id="BD5F411F075B47BAB638BAA495DA79DC">
+  <property __name="text" en="This user already voted" zc="这个用户已经投票了" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cancelWorkflow_InternalError" config_id="BE2788426FD34FE1B3E6309CF7CB5376">
+  <property __name="text" en="An internal error has occured." zc="发生内部错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DeleteFMG" config_id="BE666610133649929FE6E83A99B2A1AE">
+  <property __name="text" en="Failed to delete Forum Message Group: {0}" zc="未能删除论坛邮件组：{0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetItemRelationships_TypeNotSpecified" config_id="BE8CFFDE44554F7B93D68BAADDFF5F6F">
+  <property __name="text" en="The Type attribute for the relationship was not specified." zc="未指定关系的类型属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_NewItemId_HasNoPreviouslyReleasedGeneration" config_id="BEED205C45DF44E3ABD9E9E4CDD507A7">
+  <property __name="text" en="The New Number field must contain an item that has never been released when Action is set to 'Release'. {0} {1} was previously released." zc="当操作设置为“释放”时，新编号字段必须包含从未释放过的项。{0}{1}之前已发布。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetMessagesIdNotSet" config_id="BEF58D31AD2848A7A8CE688EC60DB2D6">
+  <property __name="text" en="Failed to get all messages for user: id property was not set." zc="无法获取用户的所有消息：未设置id属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_NewItemId_RequiresNull_OnDelete" config_id="BF26354ED043431482F954461072CCD1">
+  <property __name="text" en="The New Number field must be blank when Action is set to 'Delete'." zc="当操作设置为“删除”时，新的数字字段必须为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyUpdate_UpdateGenerationEmpty" config_id="BF26CF7BE6CE401FA79C03BF893265B2">
+  <property __name="text" en="The update generation cannot be empty." zc="更新生成不能为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateWorkflowMap_InternalErrorCorruptedStruct" config_id="C014D39194A04F58B2CC1F175F275F42">
+  <property __name="text" en="Internal Error: the workflow structure is corrupted." zc="内部错误：工作流结构已损坏。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_MasterFileTypeIsNotDefined" config_id="C03AA2ECC0EE49108D070240BB8B23D5">
+  <property __name="text" en="File type of master file is not defined" zc="未定义主文件的文件类型" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.NoDefaultVaultFound" config_id="C062E612AF944BC9B8129DBABE8DF16A">
+  <property __name="text" en="The user does not have a default vault set." zc="用户没有默认的vault集。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ReferenceValidation" config_id="C0823C9F97CF44A9BE20BA39DF81A22C">
+  <property __name="text" en="Validation of 'Reference' is failed: {0}" zc="引用”的验证失败：{0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_UnableToEditQDUsedInPersistingOrActiveDRF" config_id="C0D878410C0A479BAE3C6AA370ED8AA9">
+  <property __name="text" en="Unable to edit Query Definition used in Derived Relationship Family which in Persisting or Active state" zc="无法编辑处于持续或活动状态的派生关系族中使用的查询定义" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_ReverseItems_EmptyParameter" config_id="C11234FDD851418189B29FC77ED04917">
+  <property __name="text" en="'{0}' parameter is empty." zc="{0}”参数为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToConsumeLicense" config_id="C16DF565C916456B994E94083C3B2C94">
+  <property __name="text" en="Failed to Consume License for the feature" zc="无法使用该功能的许可证" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NotAllowedRelationship" config_id="C19BBC48A1AA4D2A816770B506D65833">
+  <property __name="text" en="Relationship '{0}' is not allowed for Secure Message." zc="安全消息不允许使用关系“{0}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Main_PassConfPassNoMatch" config_id="C1C316EAF9C2429AB285E38E8B455E7A">
+  <property __name="text" en="The 'password' and 'confirm password' fields do not match." zc="密码”和“确认密码”字段不匹配。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToCreaateMyBookmarks" config_id="C2583E8E744B49E79E3E8D3F69503221">
+  <property __name="text" en="Failed to create MyBookmarks forum for user {0}: {1}" zc="无法为用户{0}:{1}创建MyBookmarks论坛" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_EqualFromAndToRefIds" config_id="C25B74D79FD24730BBBE7BBFC008D7E8">
+  <property __name="text" en="Tree has edges with equal fromRefId and toRefId in hierarchy string" zc="树的边在层次结构字符串中具有相等的fromRefId和toRefId" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_ItemTypeShouldBeDefinedOnItemAttribute" config_id="C3A0B1EDC3C44F9DAEF910A6910DD0E6">
+  <property __name="text" en="ItemType &quot;{0}&quot; should be defined on Item Attribute &quot;{1}&quot; that is used by MAC Policy." zc="应在MAC策略使用的项属性“{1}”上定义项类型“{0}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="VerifyAffectedRelationship_NotAllItemPropertiesWereApplied" config_id="C3A6A71F03EF4FF6A9E1E153EE0D3371">
+  <property __name="text" en="Verification failed: Property '{0}' was not set to value '{1}' for {2} '{3}'." zc="验证失败：{2}{3}的属性{0}未设置为值{1}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_CollectionTypesContainUnknownItemOrListTypes" config_id="C3A88AE09FAC46BCBACAF290DDE43E0E">
+  <property __name="text" en="Error in '{0}' Type: Collection Type(s) contain the following unknown Types: {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_MarkupHolderIdEmpty" config_id="C40F8566D2A6453F85C6D9E832B7E4D9">
+  <property __name="text" en="Markup Holder Id cannot be empty." zc="标记持有者Id不能为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplySql_QueryElementIsNotSpecifiedForSqlWithParameters" config_id="C454B881489541DD9C4F6B46164CC39B">
+  <property __name="text" en="Query element is not specified for sql with parameters." zc="未为带有参数的sql指定查询元素。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetForumSearchItems" config_id="C4DCC8399B2044D390A5C574519160A1">
+  <property __name="text" en="Failed to get ForumSearch items: " zc="无法获取ForumSearch项目：" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_PropertyTypeIsNotPrimitiveAndNotItemOrListProperty" config_id="C50A54072B3C42D7A430756036B043EF">
+  <property __name="text" en="Error in '{0}' Type: type of '{1}' Property ('{2}') is not in supported primitive types list and is not Item or List Property." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_PropertyTypeIsNotPropertyFromDatabase" config_id="C50A54072D2C3AF1A430756036B043EF">
+  <property __name="text" en="Error in '{0}' Type: property '{1}' type '{2}' does not correspond to type from database." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_RelationshipTypeIsNotRelationshipTypeFromDatabase" config_id="C50A54072D2C42D7A430756036B043EF">
+  <property __name="text" en="Error in '{0}' Type: collection contains types that are not relationship types. ({1})" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_validatePartConfig_invalidRelatedItemType" config_id="C5300E91CE714E6B8320FCD070A310C2">
+  <property __name="text" en="" zc="Relationship {0} has invalid related itemType {1} ({2} expected)" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_BadReferenceFromRefId" config_id="C54C4F013F8B4A36BCB81C40E08B6693">
+  <property __name="text" en="Tree has is null or empty 'fromRefId' or has more one root in hierarchy string" zc="树的“fromRefId”为null或空，或者在层次结构字符串中有多个根" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ac_AttrDefinitionDrQueryInvalid" config_id="C54FA2BC40FB48B3B1678F5644B15B48">
+  <property __name="text" en="The Attribute Query applied to &quot;{0}&quot; is invalid: {1}." zc="应用于“{0}”的属性查询无效：{1}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.ItemAnalysisException.AdministratorUser" config_id="C5602F48B4A74F529064D6E0DEB5C010">
+  <property __name="text" en="Item Analysis Error. Some Items have incorrect attribute/property values syntax. See details for more information." zc="项目分析错误。某些项的属性/属性值语法不正确。有关更多信息，请参阅详细信息。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetAssignedActivities_InternalError" config_id="C56614F0CFCC4FB0891368DB3AA76BAA">
+  <property __name="text" en="An internal error has occured." zc="发生内部错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetItem_NoItemsFound" config_id="C5A510229676479AAA4FFD629CA1E663">
+  <property __name="text" en="No items of type {0} found." zc="找不到类型为{0}的项。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_AffectedId_Requiered" config_id="C5DDC55C53E74BE7B2073B2EA6B6B75B">
+  <property __name="text" en="The Old Number field is required when Action is set to 'Change' or 'Delete'." zc="当操作设置为“更改”或“删除”时，需要旧的数字字段。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_CreateNewRevision_MustBeSaved" config_id="C6306AC8B3D4453BA3FE964661AFAEE8">
+  <property __name="text" en="{0} must be saved." zc="必须保存{0}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_InputItemInitializationFailed" config_id="C653617D83FA47919A482C671D80C519">
+  <property __name="text" en="Argument Exception was thrown for input item with ID:'{0}'." zc="ID为“{0}”的输入项引发参数异常。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToGetMessage" config_id="C66B00579CE74AAA9097C3BA23A6821C">
+  <property __name="text" en="Failed to get message item: {0}" zc="无法获取消息项：{0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="effs_VeryLongName" config_id="C6BDCF0A686F4D8A9ADF1FB282DA3956">
+  <property __name="text" en="Name shall not be longer than '{0}' characters" zc="名称长度不得超过“{0}”个字符" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedDefineUserNoIdentites" config_id="C6E751820B52495380337627931D0BE2">
+  <property __name="text" en="Faild to define if user is Admin: user doesn't have identities." zc="未能定义用户是否为管理员：用户没有身份。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.IncompatiblePasswordHashAlgorithmException" config_id="C70F52ED41004DEDB1B2BCCA794E4497">
+  <property __name="text" en="Incompatible password hash algorithm. Please use {0} algorithm." zc="密码哈希算法不兼容。请使用{0}算法。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_WrongParentQueryReferenceRefId" config_id="C83B86DDDF1F41D181C5DF6CD4900B35">
+  <property __name="text" en="Parent Query Reference ref_id &quot;{0}&quot; doesn't exists in Query Definition" zc="查询定义中不存在父查询引用ref_id“{0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="BuildProcessReport_InternalError" config_id="C8D0C77A2ACD4C568029C31AC43AD070">
+  <property __name="text" en="An internal error has occured." zc="发生内部错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_SSVCPresentationConfigurationNotFound" config_id="C90CF434CC0A4CD4BDC17B8069B98061">
+  <property __name="text" en="The SSVCPresentationConfiguration cannot be found." zc="找不到SSVCPresentationConfiguration。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tp_XmlDifferentSources" config_id="C9A05D3C8AB640809612715D78001807">
+  <property __name="text" en="Sources of XmlSchema and Stylesheet must be the same." zc="XmlSchema和样式表的源必须相同。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToGetSourceForum" config_id="CAB2D8C9A5364EC2846C619C7660BA5F">
+  <property __name="text" en="Failed to get source forum: {0}" zc="无法获取源论坛：{0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_partiallyConsumedQuantityStatus" config_id="CACE5A7C49FC47299DC57062A0DDDD6B">
+  <property __name="text" en="" zc="Partially Consumed Quantity" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ForumDTDefaultFeedTemplateCantBeRemoved" config_id="CB6EFEE2E702492DA4B0BAC5F81B5F1E">
+  <property __name="text" en="Default FeedTemplate of DiscussionTemplate of Forum item type cannot be removed." zc="无法删除论坛项目类型DiscussionTemplate的默认FeedTemplate。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplySql_ParameterTypeIsNotSupported" config_id="CBC0704258654BC38CD2629F21F72C01">
+  <property __name="text" en="Specified '{0}' type of '{1}' parameter is not supported." zc="不支持指定的“{0}”类型的“{1}”参数。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xPxC_RecordForItemNotFound" config_id="CBCC48A587B14FDBB11E74FCEE991FCA">
+  <property __name="text" en="Record for item doesn't exist in xPropertyValues tables (item_type_id: {0}, item_id: {1})" zc="项的记录在xPropertyValues表中不存在（项类型id:{0}，项id:{1}）" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_NewVersionNotCurrentItem" config_id="CBD50B61701142C4AD9219EA61BA96EB">
+  <property __name="text" en="Only current version of MAC Policy item supports creation of new version." zc="只有当前版本的MAC策略项支持创建新版本。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_NotContainProperty" config_id="CC7658D62BAE4EBD933175E97CEE5DD2">
+  <property __name="text" en="&quot;The &quot;{0}&quot; doesn't contain property &quot;{1}&quot; or Item Type doesn't exist.&quot;" zc="{0}不包含属性“{1}”，或者项类型不存在" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetItemById_ItemTypeNameNotSpecified" config_id="CC7A51C2B14B4CBEAC7BAAE87CC4B403">
+  <property __name="text" en="The ItemType name was not specified." zc="未指定ItemType名称。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_SourceItemForWorkflowProcessNotFound" config_id="CC9087A64F404E029F3187A67FCB95EB">
+  <property __name="text" en="Can't complete activity. Source item for Workflow Process not found." zc="无法完成活动。找不到工作流过程的源项。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FMGUserIdNotSet" config_id="CC97E684A49747C782DEBBC07E991730">
+  <property __name="text" en="Failed to create ForumMessageGroup for user: 'user_id' property was not set." zc="未能为用户创建ForumMessageGroup：“未设置用户id”属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetItemById_IDNotSpecified" config_id="CD73D933F0FA489ABB5E96C6BC909658">
+  <property __name="text" en="The ID attribute was not specified." zc="未指定ID属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ac_NameEqualsPolicyAccessItemProp" config_id="CDC85E8DC0C74C3DBC1D0A97B97E6C37">
+  <property __name="text" en="The name of Item Attribute should not be the same as property on mp_PolicyAccessItem ItemType." zc="Item属性的名称不应与mp_PolicyAccessItem ItemType上的属性相同。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ExecuteServerEvent_ItemNotFound" config_id="CEF62CBD8E964DD0A57A9EC461A53EE0">
+  <property __name="text" en="Internal Error: Failed to get the item." zc="内部错误：无法获取项目。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_AffectedId_RequiresNull_with_param" config_id="CEFDD863000F45F19399467935E1D028">
+  <property __name="text" en="The Old Number field must be blank when Action is set to 'Release'. There should be no 'Old Number' value for {0} {1}." zc="当操作设置为“释放”时，旧编号字段必须为空。{0}{1}不应该有“旧数字”值。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.RequiredXPropertyNotSpecified" config_id="CF62999F974A4EBE86D28C27F3EA2E3F">
+  <property __name="text" en="xProperty &quot;{0}&quot; is required." zc="xProperty“{0}”是必需的。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FMGSourceIdNotSet" config_id="CF74B030775248E3B491FC73E0E49A62">
+  <property __name="text" en="Failed to create ForumMessageGroup for user: 'source_id' property was not set." zc="未能为用户创建ForumMessageGroup:“未设置source_id”属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedSubscribeToForumUserAlreadySubscribed" config_id="CFEE2D32C05B437BAD5B04EF77574EFA">
+  <property __name="text" en="Failed to subscribe to forum: user '{0}' is already subscribed to '{1}' " zc="未能订阅论坛：用户“{0}”已订阅“{1}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_AffectedId_InReleasedState" config_id="D04B9C3759594F66B7F78ABBD0E6E259">
+  <property __name="text" en="All Old Number items must be in Released State when Action is set to {0}. {1} {2} is in {3} state." zc="当操作设置为{0}时，所有旧编号项目必须处于已释放状态。{1} {2}处于{3}状态。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.AccountIsBlockedByIpAddressForMinuteException" config_id="D06A4408C968440FBB9F993CD228F1C5">
+  <property __name="text" en="Your account has been blocked for {0} minute from the ip address {1}." zc="您的帐户已被ip地址{1}阻止{0}分钟。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_HistoryMessageCannotBeUpdated" config_id="D06A51393E3B4ECBB9B217AAFBB505EE">
+  <property __name="text" en="Message with classification 'History' cannot be updated." zc="无法更新分类为“历史记录”的邮件。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_SMOnlyOneRelationship" config_id="D14669D1E4B64C33A7F0796A0E285DD5">
+  <property __name="text" en="Secure message should contain only one Relationship: Secure Message Markup, Secure Message Audio or Secure Message Video." zc="安全消息应仅包含一种关系：安全消息标记、安全消息音频或安全消息视频。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Conversion_ConversionTaskIDPropertyIsNullOrEmpty" config_id="D171E043995749EEA61AEAB1373F98F2">
+  <property __name="text" en="Input ConversionTask item doesn't contain id or it is empty." zc="输入转换任务项不包含id或为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateExpressEdr_NotEnoughPermissions" config_id="D17E8BF67F2C44F9BAF98A324F644C7C">
+  <property __name="text" en="Not enough permissions to perform operation." zc="权限不足，无法执行操作。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedGetIsAliasMoreThanOneIsAlias" config_id="D17EBF40329C413E95D0CB4C14F92999">
+  <property __name="text" en="Failed to get user isAlias identity: user has more than one isAlias identity." zc="无法获取用户isAlias标识：用户有多个isAlias标识。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemIdCantBeEmpty" config_id="D2C260814E1C4AEEA93A0AFF1A49943E">
+  <property __name="text" en="Property Item ID can't be null" zc="属性项ID不能为空" />
+ </Item>
+ <Item type="UserMessage" keyed_name="InstantiateWorkflow_implementation_FailedGetWFMap" config_id="D3447F3395C149F2BCCA6DE49CF204F0">
+  <property __name="text" en="Internal Error: failed to get the Workflow Map." zc="内部错误：无法获取工作流映射。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DefaultDTOfForumCantBeChanged" config_id="D3A4239303B74492B07F8EF1A470F4FA">
+  <property __name="text" en="Default DiscussionTemplate of Forum item type cannot be changed." zc="无法更改论坛项目类型的默认DiscussionTemplate。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_ResolutionAttributeIsInvalid" config_id="D3A617E3E87B42D98F7E37DB2F5C574D">
+  <property __name="text" en="Resolution attribute value is not supported." zc="不支持分辨率属性值。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyMethod_actionNotFound" config_id="D3DFF721606D4946974AABC564AD1F37">
+  <property __name="text" en="Internal Error: failed to get the action." zc="内部错误：无法获取操作。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_ReverseItems_WrongResolution" config_id="D3ECCBC1C45D4EDDBE3764B925D992ED">
+  <property __name="text" en="'{0}' parameter value does not match the possible values: {1}." zc="{0}”参数值与可能的值不匹配：{1}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_NewItemId_Required" config_id="D4206500FE4E4D6B8514DB0D7DD65FFC">
+  <property __name="text" en="The New Number field is required when Action is set to 'Change' and the Interchangeable flag is off." zc="当操作设置为“更改”且可互换标志关闭时，需要新的数字字段。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tp_SpecifyClassificationAccess" config_id="D43223EF3975453AA8A094F798D605E9">
+  <property __name="text" en="Classification cannot be changed after saving the item." zc="保存项目后无法更改分类。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_NotSupportedItemType" config_id="D5C872B04D5649B4B8C1E9ED050AA721">
+  <property __name="text" en="MAC Policy does not support &quot;{0}&quot; ItemType." zc="MAC策略不支持“{0}”项类型。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.InvalidEffectiveDateValueException.LessThanToday" config_id="D5DA7D1074AF49809AD3616BBA78BE3B">
+  <property __name="text" en="The value of the effective_date property specified for the {0} is invalid. A value is required and it must be greater than or equal to the today date." zc="为{0}指定的生效日期属性的值无效。需要一个值，该值必须大于或等于今天的日期。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="effs_variableItemReferenceMustAbsent" config_id="D5DAF1CF610543DB9BEA02B1CA64F371">
+  <property __name="text" en="The property &quot;ItemType&quot; must be empty, because the variable type is not &quot;Item&quot;" zc="属性“ItemType”必须为空，因为变量类型不是“Item" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_PropertiesMustBePresent" config_id="D7B6A36D8ADE4C108058D260A7013A31">
+  <property __name="text" en="Error in '{0}' Type: 'Properties' must be present." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ac_PropertyDoesNotExist" config_id="D7E1E85613AE45C5A124DBF6A70A11C7">
+  <property __name="text" en="The &quot;{0}&quot; property isn't defined on leaf ItemType in &quot;{1}&quot; Attribute Definition." zc="未在“{1}”属性定义中的叶ItemType上定义“{0}”属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_EnvironmentAttributeNotExist" config_id="D8140CA1CC9947E3854F0DCB73B3EA08">
+  <property __name="text" en="Environment Attribute with name &quot;{0}&quot; does not exist." zc="名为“{0}”的环境属性不存在。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="af_InvalidFormatOfAccountName" config_id="D83E3D1AE24F49A1A9B34EBB65FDF0EE">
+  <property __name="text" en="Invalid format of account name '{0}'." zc="帐户名“{0}”的格式无效。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_RepresentationTypeIdIsNotSpecified" config_id="D8444AF2021A4A208ABB4A5314EA1E49">
+  <property __name="text" en="Representation type id is not specified" zc="未指定表示类型id" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_XPropertyIsNotAllowedForItemType" config_id="D86538559F6E4B8AA50772906480E266">
+  <property __name="text" en="The &quot;{0}&quot; xProperty is not allowed for &quot;{1}&quot; ItemType." zc="{1}”ItemType不允许使用“{0}”xProperty。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ForumCantHaveNonDefaultDT" config_id="D89A1FBA0D8D4D3DA2642C9AD640719F">
+  <property __name="text" en="Forum Item type cannot have non-default DiscussionTemplate." zc="论坛项目类型不能有非默认DiscussionTemplate。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ItemAlreadyAddedToSelectedPackage" config_id="D9EF29822E6846A883828B9E58CEC638">
+  <property __name="text" en="&quot;{0}&quot; is already added to &quot;{1}&quot;" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="WMCreateWatermarkTasks_LifeCycleStateNotEnable" config_id="DA21549DF7314F27838649772456398D">
+  <property __name="text" en="The life cycle state '{0}' is not enabled for watermarking for '{1}' item type." zc="生命周期状态“{0}”未为“{1}”项类型启用水印。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_UserIsNotFromAllowedIdentity" config_id="DA4CEBFAE77A4F77AA6C36A2F732DBEE">
+  <property __name="text" en="Can't complete activity. User is not from allowed identity." zc="无法完成活动。用户不来自允许的身份。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_RelationshipItemIsMissing" config_id="DB39F328732D49C185FB371EA6B0432F">
+  <property __name="text" en="Relationship ItemType to traverse is missing." zc="缺少要遍历的关系ItemType。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NoPermessionsToGetSMOrNoItems" config_id="DD6353744F43430785D1F2208DE8B1EE">
+  <property __name="text" en="Not enough permissions to get Secure Message or no items found." zc="权限不足，无法获取安全邮件或未找到任何项目。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_UnsupportedVariable" config_id="DDC922DF92CF4B19BD84D4F47BD3979C">
+  <property __name="text" en="&quot;{0}&quot; isn't supported. Do not use &quot;{1}&quot; variable." zc="不支持{0}。不要使用“{1}”变量。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.UnsupportedFilterConditionParentFederated" config_id="DE15A0ED2C9D4E9D82C3620436D4559D">
+  <property __name="text" en="Unsupported filter condition: the federated property type '{0}' of parent item is not comparable with the property type '{1}' of referenced item." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_referenceNotFoundError" config_id="DE732D23C59F4BF88C5CBE5EB84602D3">
+  <property __name="text" en="" zc="'{0}' Item with id='{1}' doesn't exist. Please remove reference before save." />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_missingId" config_id="DEC6D18C54394500B7253EC988C94E8F">
+  <property __name="text" en="" zc="Mandatory attribute &quot;id&quot; is missed at {0} item node" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_MissingQueryDefinition" config_id="DF24558FA35F4C82988FE06ADFE3AF09">
+  <property __name="text" en="Query Definition is missing." zc="缺少查询定义。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_mbomGridHeader_reconcilationStatus" config_id="DFC5A9BF71F6418F9244CBEB31AFD452">
+  <property __name="text" en="" zc="Reconciliation Status" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedUnsubscribeFromForumUserIdNotSet" config_id="DFE1438C7A874EB6A935C135FA67EA16">
+  <property __name="text" en="Failed to unsubscribe from forum: 'user_id' property was not set." zc="未能从论坛取消订阅：“用户id”属性未设置。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.InvalidSuperUserIDException" config_id="E0002375AC4440ECB55491701263571E">
+  <property __name="text" en="User ID of Super User identity doesn't match 'AD30A6D8D3B642F5A2AFED1A4B02BEFA' ID" zc="超级用户标识的用户ID与“AD30A6D8D3B642F5A2AFED1A4B02BEFA”ID不匹配" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_IsAffectedItemExists" config_id="E08CAFEEE2DB4FF4AA1FAE610BAD80B3">
+  <property __name="text" en="At least one affected item must be attached. {0} {1} has no Affected Items." zc="必须至少附加一个受影响的项目。{0}{1}没有受影响的项。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVCNotifications_DisabledByAdmin" config_id="E0FA8E67157D4F6393B5995261FC2CAD">
+  <property __name="text" en="SSVC Notifications were disabled by administrator." zc="管理员已禁用SSVC通知。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemSelectionDepthShouldBeGreater" config_id="E111FB3EA2A94D22B71B5D1EE9198B48">
+  <property __name="text" en="Item selection depth should be greater than File selection depth." zc="项目选择深度应大于文件选择深度。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_ListAliasesCannotContainSpaces" config_id="E15A05337E794DA3A43D3AC1612AA4C7">
+  <property __name="text" en="List aliases cannot contain spaces." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_QueryDefinitionWithReuseIsNotAllowedInNonPersistentDrf" config_id="E176ECB4BE8F4CA6BEB694B19155B7E5">
+  <property __name="text" en="This usage of Reuse (recursion) in Query Definition is not allowed on Non-Persistent DRF" zc="在非持久性DRF上不允许在查询定义中使用这种重用（递归）" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_RepresentationFileTypeIsNotSupported" config_id="E1C8ACC70F7D4DCF91386C2A63DF38A2">
+  <property __name="text" en="Representation file type is not supported" zc="不支持表示文件类型" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_FederatedItemTypeIsNotAllowedInNonPersistentDrf" config_id="E20E3F15F105498595383B1FD67DF75D">
+  <property __name="text" en="Federated ItemType &quot;{0}&quot; not allowed in QueryItems on path from Departure to Destination (include Departure QueryItem and Destination QueryItem)" zc="从出发点到目的地（包括出发点查询项和目的地查询项）的路径上的查询项中不允许使用联合项类型“{0}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ForumDTCantHaveNonDefaultFeedTemplate" config_id="E38E4C8F60A7487D8D6DE515C126BE35">
+  <property __name="text" en="DiscussionTemplate of Forum item type cannot have non-default FeedTemplate." zc="论坛项目类型的DiscussionTemplate不能有非默认的FeedTemplate。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="newRelationship_InternalError" config_id="E38FBA2AB3B442E1AF1E84FDD1625EB5">
+  <property __name="text" en="An internal error has occured." zc="发生内部错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_ebomQuantity" config_id="E3DE03880800455F985192A120E4F70C">
+  <property __name="text" en="" zc="EBOM Quantity" />
+ </Item>
+ <Item type="UserMessage" keyed_name="af_DomainNameIsEmpty" config_id="E41C4A036F734173B2BFD51E504F7CA1">
+  <property __name="text" en="Domain name is empty." zc="域名是空的。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_SelectedPropertiesShouldBeTheSame" config_id="E51AB019ECA346118BDA7DC4E8F173C3">
+  <property __name="text" en="Selected properties in Query Item with alias 'RootPart' should be the same as in Query Item with alias 'Part'." zc="别名为“RootPart”的查询项中的选定属性应与别名为“Part”的查询项中的选定属性相同。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.ItemTypeNotFoundException.NameAsCriteria" config_id="E55B2C6FF07C4482B76BEB2DD1ED56E3">
+  <property __name="text" en="Failed to get the {0} ItemType." zc="未能获取{0}项类型。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.UnsupportedFilterCondition" config_id="E55CF48C62E642889CFC3E8366F50A7A">
+  <property __name="text" en="Unsupported filter condition: the property type '{0}' of parent item is not comparable with the property type '{1}' of referenced item." zc="不支持的筛选条件：父项的属性类型“{0}”与引用项的属性类型“{1}”不可比较。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="DeleteXPropertyValuePermission_UsedAsPrivatePermission" config_id="E5A70EA3AD3040F98D1A90865E3590DC">
+  <property __name="text" en="{0} cannot be deleted. It is used as a private permission for Extended Properties:{1}" zc="无法删除{0}。它用作扩展属性的私有权限：{1}" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_PathNotBelongToActivity" config_id="E5A71A7AA7DE4F7199D2762ABF8592BB">
+  <property __name="text" en="Can't complete activity. Specified Paths do not belong to the Activity." zc="无法完成活动。指定的路径不属于该活动。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_InvalidFlagValue" config_id="E5F60BFDC82E416F9300F4D0A00A8872">
+  <property __name="text" en="Item 'flag' attribute can have only '1' or '+1' or '-1' values." zc="项“flag”属性只能有“1”或“+1”或“-1”值。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PopulateRelationshipsTables_WrongParameters" config_id="E6061D896C1C4659877F7A6ECC790B85">
+  <property __name="text" en="Wrong parameters have been specified." zc="指定了错误的参数。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Licensing.FeatureLicenseVerificationException" config_id="E618B0B148344A9D8390D530B070091B">
+  <property __name="text" en="Feature License verification failed." zc="功能许可证验证失败。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dac_PromoteWithInactiveDRF" config_id="E66B79128DE442AC889596B57242BBDB">
+  <property __name="text" en="DAC Definition '{0}' can not be in Active state while Derived Relationship Family '{1}' isn't in Active state." zc="当派生关系族{1}不处于活动状态时，DAC定义{0}不能处于活动状态。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_FailGetActivityVariables" config_id="E76E84C24EDD4562957FC0E6D6B12381">
+  <property __name="text" en="Failed to get the Activity Variables." zc="无法获取活动变量。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyUpdate_UpdateAlreadyApplied" config_id="E7F3705B4041474BBD8B85E6D62E0AD3">
+  <property __name="text" en="The update with update number {0} has already been applied to this database." zc="更新号为{0}的更新已应用于此数据库。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xProperty_NotSupportedDataSource" config_id="E83B2A123EB7410C9B283D8BFB1EDE6A">
+  <property __name="text" en="&quot;{0}&quot; Item Type can not be used as data source of &quot;{1}&quot; property of type Item." zc="{0}项类型不能用作类型Item的“{1}”属性的数据源。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_ErrorDuringEvaluationEnvironmentAttribute" config_id="E8A96ACFB5C6461CBF76939046EF93BD">
+  <property __name="text" en="Error occurred while evaluating Environment Attribute." zc="评估环境属性时出错。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PromoteItem_TargetStateNameNotFound" config_id="E8C57B8C470E4D279E705927879C80BD">
+  <property __name="text" en="Failed to get the name of the target state." zc="无法获取目标状态的名称。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_InvalidTypeAttributeValue" config_id="E8D387A78EA14991B7B8DA2F68AD9396">
+  <property __name="text" en="Item 'type' attribute can have only 'SecureMessage' or 'StoredSecureMessage' values." zc="项“类型”属性只能有“SecureMessage”或“StoredSecureMessage”值。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_AffectedId_RequiresNull" config_id="E9074BD6DA4D464C8A346C54CFA3AD93">
+  <property __name="text" en="The Old Number field must be blank when Action is set to 'Add'." zc="当操作设置为“添加”时，旧数字字段必须为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Licensing.FeatureHasNoLicensesException" config_id="E9536208441C4BE69E49F4819F3311FA">
+  <property __name="text" en="You do not have a valid license required to use feature {0}." zc="您没有使用功能{0}所需的有效许可证。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_FailGetActivity" config_id="E9A9EC9F27904C19B330EDC4E8C476C5">
+  <property __name="text" en="Failed to get the Activity." zc="无法获取活动。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DeleteFMGUserCriteriaIdNotSet" config_id="EA1836F34FE94866ABC257A6736E443D">
+  <property __name="text" en="Failed to delete Forum Message Group: 'user_criteria_id' property was not set." zc="未能删除论坛消息组：未设置“用户\u标准\u id”属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_CollectionsContainActionsWithDuplicates" config_id="EA3BA7C21B0A420193B318ADC32507A1">
+  <property __name="text" en="Error in '{0}' Type: the following collections contain 'Actions' with duplicates: {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ac_UnsupportedDataType" config_id="EB5FF17DCF0248EB94581FEB94B8CE09">
+  <property __name="text" en="Data type has unsupported type &quot;{0}&quot;." zc="数据类型具有不受支持的类型“{0}”。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cmf_MultipleTopLevelProperties" config_id="EB6F017DCF0241EB94551FEB94B8CE09">
+  <property __name="text" en="All mapped properties in the View should belong to the same Top Level Element Type. Invalid property: {0}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpo_InvalidType" config_id="EBE694423603402A93A53AF95292DC59">
+  <property __name="text" en="Method '{0}' accept only '{1}' item type" zc="方法{0}只接受{1}项类型" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddRelationshipEx_InternalErrorSortOrderLimitOver" config_id="EC1FB98ED3464F9ABAE70EFECCA8066D">
+  <property __name="text" en="Internal Error: sort order limit exceeded." zc="内部错误：超出排序顺序限制。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="TransactionCheckItemsRelationships_InternalError" config_id="EC8EDC8C88934E8390421EEC8EBD404D">
+  <property __name="text" en="An internal error has occured." zc="发生内部错误。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_MarkupHolderTypeEmpty" config_id="ECFE53B70C1B4529999AEE60C2589B1E">
+  <property __name="text" en="Markup Holder Type cannot be empty." zc="标记持有者类型不能为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_TypeOfIdPropertyMustBeString" config_id="EDAF48181B0D4365ACCB30D8C10B6351">
+  <property __name="text" en="Error in '{0}' Type: type of 'id' Property must be 'String'." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ReferenceValidationNotAllowedAction" config_id="EDB8EF9B779B4202A9FC8F5E714B9734">
+  <property __name="text" en="Validation of 'Reference' is failed: {0} is not allowed action." zc="验证“引用”失败：{0}不允许执行任何操作。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Main_RunReportFailed" config_id="EDF9A5ADB1874B6E9F2E63A06A221DDE">
+  <property __name="text" en="Failed to run the report." zc="无法运行报告。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ac_AttrDefinitionInActivePolicy" config_id="EEF0A159D83B489AB6D6D46BE6A7B62B">
+  <property __name="text" en="Attribute Definition that is used in activated MAC Policy couldn't be changed." zc="无法更改激活的MAC策略中使用的属性定义。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedGetFeedTemplate" config_id="EF51CB0B643B4EC88EC89E49DBE62D7C">
+  <property __name="text" en="Failed to get FeedTemplate by id {0}: {1}" zc="无法通过id{0}:{1}获取FeedTemplate" />
+ </Item>
+ <Item type="UserMessage" keyed_name="af_ExpiredLicenseNotificationTitle" config_id="EFA74EC4796045BEA6BD77C0E52914EC">
+  <property __name="text" en="{0} license expiration" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dac_NotSupportedItemType" config_id="EFBC131A23414A3CB299C74FECFEB4B4">
+  <property __name="text" en="DAC Definition is not support '{0}' Item Type." zc="DAC定义不支持“{0}”项类型。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ac_TargetPropertyShouldNotBeBoundWithFederated" config_id="F048325D658648E28C520A7730D8D224">
+  <property __name="text" en="Property &quot;{0}&quot; from ItemType &quot;{1}&quot; is federated thus cannot be used as a Derived Attribute property." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToGetIdentity" config_id="F0AD5631E6E345ABBA6B5D4E8019A6A0">
+  <property __name="text" en="Failed to get Identity with id {0}" zc="无法获取id为{0}的标识" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.PermissionsNoCanAddFoundException" config_id="F0E7E8B2A7A440419C15A3C96D2BFE76">
+  <property __name="text" en="Add access is denied for {0}." zc="对{0}的添加访问被拒绝。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpp_typeMismatchError" config_id="F11D9BCDBFBF44108B7350E0F22A39BB">
+  <property __name="text" en="" zc="Item of type {0} required" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ForumNoUserId" config_id="F17D050DAA044BE88D2487FCE155E47B">
+  <property __name="text" en="user id was not set." zc="未设置用户id。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateWorkflowMap_NoPathOutOfStart" config_id="F2B2A50F235B4F2488561607903EA50F">
+  <property __name="text" en="There is not path going out of the start activity." zc="启动活动外没有路径。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpo_MassPromotionRecordNotExists" config_id="F339AA3573B145A9A014DE85DD8E1D1F">
+  <property __name="text" en="Could not find item (ItemType: '{0}', Id: '{1}')" zc="找不到项（ItemType:“{0}”，Id:“{1}”）" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_RepresentationTypeIsNotActive" config_id="F385C10D22BC4E17BBA805BFC6CF6705">
+  <property __name="text" en="Representation type is not active" zc="表示类型未激活" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_AllPathShouldBeExistsInParentQryRefId" config_id="F426C367A74E45B4B85736E4773983F9">
+  <property __name="text" en="The parent_query_reference_ref_id values set must be equal to {0}.&#xD;&#xA;For now it differs: {1}.&#xD;&#xA;An option to fix is map Derived Relationship for new {2} Query Item and then save." zc="父查询引用id值集必须等于{0}。目前情况不同：{1}。修复的一个选项是为新的{2}查询项映射派生关系，然后保存。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tp_XmlSchemaElementParametersAreInvalid" config_id="F45CAAD2EEA94D45AD3AA591A910E96A">
+  <property __name="text" en="Invalid schema element parameters: {0}." zc="架构元素参数无效：{0}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ReportingServicesSettingsNotSpecifiedInInnovatorConfig" config_id="F559913B6B014D2F9BB5F14F736428E4">
+  <property __name="text" en="A connection attempt failed as ReportingServices settings are not specified in InnovatorServerConfig.xml. Please contact Administrator to fix settings." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.InsertedDataExceedsColumnSizeDetails" config_id="F591457656894B98AACC949E6A5FA0D7">
+  <property __name="text" en="Property &quot;{0}&quot; with value &quot;{1}&quot; exceeds the maximum length of {2} characters." zc="值为{1}的属性{0}超过了{2}个字符的最大长度。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_CollectionActionsContainUnknownActions" config_id="F5FC64CE454D4344B0606F202C80CAC5">
+  <property __name="text" en="Error in '{0}' Type: Collection 'Actions' contain the following unknown actions: {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Property_FieldRestricted" config_id="F687843B21C4449C9EA96C73551A22B5">
+  <property __name="text" en="The &quot;{0}&quot; could not be set for the &quot;{1}&quot; property of {2} type." zc="无法为{2}类型的{1}属性设置{0}。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cws_CollectionsAliasesCannotBeEmpty" config_id="F7A1E0F836FA43D69A4AC5553485B1D8">
+  <property __name="text" en="Error in '{0}' Type: Collections aliases cannot be empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="CopyItemEx2_NewSequenceValueNotCreated" config_id="F7DB099C32334F0AB393C5718FF6BD79">
+  <property __name="text" en="Failed to create a new sequence value." zc="未能创建新的序列值。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedGetIsAliasUserIdNotSet" config_id="F7DD80BA9E38461FB0116FF9DFA2045F">
+  <property __name="text" en="Failed to get user isAlias identity: userId property was not set." zc="无法获取用户isAlias标识：未设置userId属性。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateWorkflowMap_PathNameNull" config_id="F83654B6B35F4A8F8C9703D27ACBD0B4">
+  <property __name="text" en="The name of the path cannot be null." zc="路径的名称不能为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="re_CommonElementWithoutClassification" config_id="F85F620CE36A42CDACA61E05C356FD58">
+  <property __name="text" en="&quot;CommonElement&quot; cannot be used as root element if Classification is not specified at Requirement." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_RelTypeRelatedUnsaved" config_id="F8A2EF9BB1DA48F88FA65312D0B0D878">
+  <property __name="text" en="Adding a RelationshipType with the unsaved ItemType as the related is not allowed. Save the Related ItemType first and then add a RelationshipType." zc="不允许添加未保存的ItemType为相关的RelationshipType。首先保存相关的ItemType，然后添加RelationshipType。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="startWorkflow_ProcessNotPending" config_id="F8AB13E57B9241C9B607B053B67E67E9">
+  <property __name="text" en="The process has to be in a Pending state." zc="流程必须处于挂起状态。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="UpdateItemEx_SpecificItemTypeGetFailed" config_id="F8D13554497E491C9047352643E69B35">
+  <property __name="text" en="Failed to get the {0} ItemType." zc="未能获取{0}项类型。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemTypeNameEmpty" config_id="F8E6D05A18894192B49639E3E6604963">
+  <property __name="text" en="The Item Type Name cannot be empty." zc="项目类型名称不能为空。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.SqlExceptionOccurred_Hidden_LogsOn" config_id="F95C25D10BDB482B9401019CAF45DD6E">
+  <property __name="text" en="A SQL exception occurred (Error Number = &quot;{0}&quot;).&#xD;&#xA;More information can be found in application logs. Log Entry ID = &quot;{1}&quot;.&#xD;&#xA;Please contact your administrator." zc="发生SQL异常（错误号=“{0}”）。更多信息可以在应用程序日志中找到。日志条目ID=“{1}”。请与管理员联系。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_ResetLifecycleStateDisabled" config_id="FB012964B458482699B2B786CE5420F1">
+  <property __name="text" en="&quot;Reset life cycle state&quot; is disabled for MAC Policies." zc="MAC策略的重置生命周期状态已禁用。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectorParserUnknownFunction" config_id="FBEB7376C6E5435DA030C292261B6057">
+  <property __name="text" en="Unknown function &quot;{0}&quot; at pos {1}!" zc="位置{1}处的未知函数{0}！" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.ItemTypeNotFoundException.IdAsCriteria" config_id="FC0D2BB9D5AC42E3B4D9E03C5B0C01E0">
+  <property __name="text" en="Failed to get the ItemType with ID {0}." zc="无法获取ID为{0}的ItemType。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="CreatePolyItemView_Property_Federated_Unsupported" config_id="FC1726C156EF4E6AAEDF4AA25AD0E2D0">
+  <property __name="text" en="The property '{2}' prevented Poly Item from being saved: Federated Properties are not supported in a Poly Source." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xClass_InsufficientPermissions" config_id="FC5144B46C4A4E548498D1FC02050E6D">
+  <property __name="text" en="You have insufficient permissions to perform '{0}' operation for item id '{1}' by xClass id '{2}'." zc="您没有足够的权限通过xClass id“{2}”对项目id“{1}”执行“{0}”操作。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="BeforePropertyUpdate_OldDataSourceUsed" config_id="FCBF1B8F8AF644DDA78C8D52506D7D53">
+  <property __name="text" en="Some {0} items still use the old data source for the {1} property." zc="一些{0}项仍然使用{1}属性的旧数据源。" />
+ </Item>
+ <Item type="UserMessage" keyed_name="dr_InvalidConditionInQueryDefinition" config_id="FD29CC14D51140689E012F24CEBB4819">
+  <property __name="text" en="Derived Relationship Family Query Definition shouldn't contain &quot;Count&quot;, &quot;Min&quot;, &quot;Max&quot;, &quot;QB_query_reference_path&quot; or &quot;QB_query_reference_ref_id&quot;" zc="派生关系族查询定义不应包含“Count”、“Min”、“Max”、“QB_Query_reference_path”或“QB_Query_ref_id" />
+ </Item>
+ <Item type="UserMessage" keyed_name="re_ReferencedItemNotExist" config_id="FDAF72CBAB254ADB92922DE88FEEEA3D">
+  <property __name="text" en="{0} Item with id={1} doesn't exist. Please remove reference before save." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="StartDefaultWorkflow_FailGetWorkflowMap" config_id="FDF7B597E4FD4288BCFEADCA519B74CE">
+  <property __name="text" en="Failed to get the workflow map." zc="无法获取工作流映射。" />
+ </Item>
+</export>

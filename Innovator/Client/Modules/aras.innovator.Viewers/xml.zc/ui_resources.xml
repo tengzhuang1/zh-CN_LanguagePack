@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ui_resources>
+	<!-- Feed -->
+	<resource key="feed_title_base" value="Secure Social Feed" />
+	<resource key="feed_showing_filter_results" value="Showing results for" />
+	<resource key="feed_no_secure_messages" value="There are no more messages" />
+	<resource key="feed_show_all_messages" value="[Show all messages]" />
+	<resource key="feed_show_more_messages" value="Show more messages" />
+	<resource key="feed_all_messages" value="All Messages" />
+	<resource key="feed_created_by" value="Messages from {0}" />
+	<resource key="feed_forum" value="Forum {0}" />
+	<resource key="feed_saved_search" value="Saved Search {0}" />
+	<!-- feed_tb - FeedToolbar -->
+	<resource key="feed_tb_def_message_search" value="Search messages..." />
+	<resource key="feed_tb_sort_mode_label" value="Show by" />
+	<resource key="feed_tb_display_mode_label" value="Display" />
+	<!-- mark_tb - MarkupToolbar -->
+	<resource key="mark_tb_lose_unsaved_markup" value="You will lose unsaved markup. OK to continue?" />
+	<!-- mc - MessageControl -->
+	<resource key="mc_show_replies" value="Show replies" />
+	<resource key="mc_show_all_replies" value="Show all replies" />
+	<resource key="mc_hide_replies" value="Hide replies" />
+	<!-- sm - Snapshot Mode -->
+	<resource key="file_is_no_longer_available" value="The associated file is no longer available for viewing." />
+	<resource key="file_is_no_longer_available_switch_to_disabled_mode" value="The associated file is no longer available in this context. Click OK to view the file with markup mode disabled." />
+	<!-- uc - UserControl -->
+	<resource key="uc_company" value="Company" />
+	<resource key="uc_email" value="Email" />
+	<resource key="uc_telephone" value="Telephone" />
+	<!-- fp - FilterPopup -->
+	<resource key="fp_type" value="Type" />
+	<resource key="fp_source" value="Source" />
+	<resource key="fp_from" value="From" />
+	<resource key="fp_anyone" value="Anyone" />
+	<resource key="fp_timeframe" value="Timeframe" />
+	<resource key="fp_to" value="to" />
+	<resource key="fp_revision" value="Revision" />
+	<resource key="fp_all" value="All" />
+	<resource key="fp_range_indicator" value="Range >>" />
+	<resource key="fp_state" value="State" />
+	<resource key="fp_search" value="Search" />
+	<resource key="fp_cancel" value="Cancel" />
+	<resource key="fp_last" value="last" />
+	<!-- val - Validation -->
+	<resource key="fp_incorrect_x_times" value="Incorrect value for count of" />
+	<resource key="fp_val_no_start_date" value="No start date entered" />
+	<resource key="fp_val_no_finish_date" value="No finish date entered" />
+	<!-- err - Error strings -->
+	<resource key="err_xml_not_valid_for_element" value="Xml is not valid for the current element" />
+	<!-- pdfv - PDF viewer-->
+	<resource key="pdfv_page_number" value="(page {0})" />
+	<resource key="pdfv_no_matches_found" value="Finished searching the document. No matches were found." />
+	<resource key="pdfv_no_more_matches_found" value="Finished searching the document. No more matches were found." />
+	<resource key="pdfv_page_not_found" value="Selected version {0} does not contain page {1}." />
+	<resource key="pdfv_doc_is_expired" value="The document {0} is expired. Please reload it by using 'Refresh Item' button." />
+	<resource key="pdfv_license_is_invalid" value="The PDF Viewer is not available.  Possible causes are an invalid license or an improper installation." />
+	<resource key="encrypted_user_cancelled" value="Failed to load encrypted document. Password entry cancelled." />
+	<resource key="encrypted_attempts_exceeded" value="Failed to load encrypted document. Too many attempts." />
+	<resource key="incorrect_password" value="The Password is incorrect. Please make sure that Caps lock is not on by mistake, and try again." />
+	<!-- short - ShortenTextWithMore -->
+	<resource key="short_more" value="more" />
+	<resource key="short_less" value="less" />
+	<!-- eopt - Extra Options for Geometry -->
+	<resource key="eopt_top" value="3px" />
+	<resource key="eopt_backgroundColor" value="transparent" />
+	<resource key="eopt_fontFamily" value="arial" />
+	<resource key="eopt_fontStyle" value="normal" />
+	<resource key="eopt_fontSize" value="10px" />
+	<resource key="eopt_color" value="black" />
+	<!-- cd - Confirmation dialog-->
+	<resource key="cd_message" value="OK to delete message?"/>
+	<resource key="cv_hasnotbeensaved" value="The comparison view will be discarded. OK to continue?"/>
+	<!-- Downloaded snapshot filename template-->
+	<resource key="downloaded_snapshot_filename_template" value="File {0} from {1} {2}"/>
+	<resource key="pdf_downloaded_snapshot_filename_template" value="File {0} (page {1}) from {2} {3}"/>
+	<resource key="comparison_downloaded_snapshot_filename_template" value="Comparison of {0} (page {1}) from {2} v{3} and {4} (page {5}) from {6} v{7}"/>
+	<resource key="sketch_downloaded_snapshot_filename_template" value="Sketch from {0} {1}"/>
+	<!-- close button -->
+	<resource key="closeBtnTitle" value="Close"/>
+	<!-- layers dialog -->
+	<resource key="layersDialResetBtn" value="Reset"/>
+	<resource key="layersDialApplyBtn" value="Apply"/>
+	<resource key="layersDialCheckAllLabel" value="Check All"/>
+	<!-- pdf measure dialog-->
+	<resource key="measDialInfo" value="Pick on the viewer image to select  points to measure"/>
+	<resource key="measDialStartPointTitle" value="Start Point"/>
+	<resource key="measDialSecondPointTitle" value="Second Point"/>
+	<resource key="measDialDifferenceLabel" value="Difference:"/>
+	<resource key="measDialDistanceLabel" value="Distance:"/>
+	<resource key="measDialUnitsLabel" value="Units"/>
+	<resource key="measDialScaleLabel" value="Scale"/>
+	<resource key="measDialXLabel" value="X"/>
+	<resource key="measDialRecordMeasurementBtn" value="Record Measurement"/>
+	<resource key="measDialResetBtn" value="Reset"/>
+	<!-- comparison dialog-->
+	<resource key="compDialFileInfoTemplate" value="File {0}, page {1} from Document {2}, version {3}"/>
+	<resource key="compDialConpareToLabel" value="Compare to:"/>
+	<resource key="compDialFileFromDifVerLabel" value="A file from a different version of this item:"/>
+	<resource key="compDialSelectOtherFileBtn" value="Select other file from another item"/>
+	<resource key="compDialStartComparBtn" value="Start Comparison"/>
+	<resource key="compCancelBtn" value="Cancel"/>
+	<resource key="compDialOrLabel" value="- or -"/>
+</ui_resources>

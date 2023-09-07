@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_load="onToolbarAppletLoad" on_click="onClickItem" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="toolbar">
+		<button image="../images/OpenFolder.svg" id="select_source" tooltip="Select Source" text="Select Source"/>
+		<button image="../images/Print.svg" id="scan_document" tooltip="Scan Document" text="Scan Document"/>
+		<button image="../images/PrintPreview.svg" id="preview_scan" tooltip="Preview Scan" text="Preview Scan"/>
+		<separator/>
+		<button image="../images/Checkmark.svg" id="return" tooltip="Return Selected">Return Selected</button>
+	</toolbar>
+</toolbarapplet>

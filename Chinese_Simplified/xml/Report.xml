@@ -1,0 +1,65 @@
+﻿<export>
+ <Item type="Report" keyed_name="ECR Report" config_id="104E644AA2E74515B67EAC52790137D5">
+  <property __name="label" en="" zc="工程变更请求报表" />
+ </Item>
+ <Item type="Report" keyed_name="BOM Quantity Rollup Report" config_id="2290D6D2214C4A38B5C08755AEE8A282">
+  <property __name="label" en="" zc="BOM数量汇总报告" />
+ </Item>
+ <Item type="Report" keyed_name="ItemType Permissions Report" config_id="2D3FFE2E01494679AAB6095A2702C774">
+  <property __name="label" en="" zc="对象类权限报表" />
+ </Item>
+ <Item type="Report" keyed_name="Report Manager" config_id="3BE0B6D8DD76436C83A1FAEB18A9E1A7">
+  <property __name="label" en="Report Manager" zc="报表管理" />
+ </Item>
+ <Item type="Report" keyed_name="PR Report" config_id="3FA087DFB77341F3B471015FA69AE775">
+  <property __name="label" en="" zc="PR报表" />
+ </Item>
+ <Item type="Report" keyed_name="Item Access Report" config_id="4466DA427F4E4E8293E627192320AA9B">
+  <property __name="label" en="Item Access Report" zc="Item Access Report" />
+ </Item>
+ <Item type="Report" keyed_name="Approved Vendors Report" config_id="4550BA2BB2054BF8A08F187E37FCB625">
+  <property __name="label" en="" zc="批准的供应商报表" />
+ </Item>
+ <Item type="Report" keyed_name="ECR Log Report" config_id="485D52BE44B4409F956BF037480572D1">
+  <property __name="label" en="" zc="工程变更请求日志报表" />
+ </Item>
+ <Item type="Report" keyed_name="Identity Membership" config_id="4E6FF9B601FD49919410EE0FC2A9B13D">
+  <property __name="label" en="" zc="参与者成员关系报表" />
+ </Item>
+ <Item type="Report" keyed_name="Workflow Process History" config_id="57B7C712E6A64B0C85C652B6E870064C">
+  <property __name="label" en="Workflow Process History" zc="工作流实例历史纪录报表" />
+ </Item>
+ <Item type="Report" keyed_name="Methods Summary" config_id="6BFD740544514B21826F9E4E59431E41">
+  <property __name="label" en="" zc="方法总结" />
+ </Item>
+ <Item type="Report" keyed_name="ECN Report" config_id="70007FC2534243EEBC63B0F988F4AE6B">
+  <property __name="label" en="" zc="工程变更通知报表" />
+ </Item>
+ <Item type="Report" keyed_name="PR Log Report" config_id="9280895889CB4FDC88B5EF8CDEFCC6FB">
+  <property __name="label" en="" zc="PR日志报表" />
+ </Item>
+ <Item type="Report" keyed_name="Inactive Accounts" config_id="B7A146F714D249009152932B59C71486">
+  <property __name="label" en="" zc="未启用账户报表" />
+ </Item>
+ <Item type="Report" keyed_name="BOM Costing Report" config_id="B932166880F84F30BB02C62E0C29CBEF">
+  <property __name="label" en="" zc="BOM成本报表" />
+ </Item>
+ <Item type="Report" keyed_name="qs_8D Report" config_id="BC3D91BA5130452ABA8E1651932F6428">
+  <property __name="label" en="" zc="8D Report" />
+ </Item>
+ <Item type="Report" keyed_name="qs_CAP Closed Due" config_id="D2D0F16B661E4F0FA5B33030614D4243">
+  <property __name="label" en="" zc="CAP Closed/Due Report" />
+ </Item>
+ <Item type="Report" keyed_name="ItemType History Configuration" config_id="DBAA17478EDE4AD59F1D1ECDE1906D00">
+  <property __name="label" en="" zc="对象类历史记录配置报表" />
+ </Item>
+ <Item type="Report" keyed_name="PE_SearchPartCircularReferences" config_id="EB940D65D28E47618BC9708787223C58">
+  <property __name="label" en="" zc="PE_SearchPartCircularReferences" />
+ </Item>
+ <Item type="Report" keyed_name="Multilevel BOM Report" config_id="FB8CA61BE45E46DE9E4346BB653398C2">
+  <property __name="label" en="" zc="多级BOM报表" />
+ </Item>
+ <Item type="Report" keyed_name="ItemType Definition Report" config_id="FBBA9CBBABDA492CB3333544A598C57A">
+  <property __name="label" en="" zc="对象类定义信息报表" />
+ </Item>
+</export>

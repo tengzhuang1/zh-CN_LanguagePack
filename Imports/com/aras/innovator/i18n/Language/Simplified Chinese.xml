@@ -1,0 +1,9 @@
+﻿<AML>
+ <Item type="Language" id="6B139FED690B4694999095E32CC67755" action="add">
+  <code>zc</code>
+  <collation>简体中文</collation>
+  <direction>ltr</direction>
+  <name>Simplified Chinese</name>
+  <suffix>_zc</suffix>
+ </Item>
+</AML>

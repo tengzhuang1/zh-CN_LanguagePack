@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_click="onToolbarBtnClick" on_load="onToolbarLoad" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="toolbar">
+		<button image="../images/ViewItem.svg" id="details_view" tooltip="详细资料" state="0" disabled="true">详细资料</button>
+		<button image="../images/Edit.svg" id="icons_view" tooltip="图示" state="0" disabled="true">图示</button>
+		<separator/>
+		<button image="../images/Checkmark.svg" id="ready_btn" tooltip="回复已选项目"/>
+		<button image="../images/Delete.svg" id="set_nothing" tooltip="清除已选项目"/>
+	</toolbar>
+</toolbarapplet>

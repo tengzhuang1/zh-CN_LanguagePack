@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_load="onToolbarAppletLoad" on_click="onClickItem" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="toolbar">
+		<button image="../images/ExecuteSearch.svg" id="search" tooltip="Run search">Run search</button>
+		<separator/>
+		<edit id="page_size" tooltip="Page Size" text="25" size="3"/>
+		<button disabled="true" image="../images/PreviousPage.svg" id="prev_page" tooltip="Previous Page" text="Previous Page"/>
+		<button disabled="true" image="../images/NextPage.svg" id="next_page" tooltip="Next Page" text="Next Page"/>
+	</toolbar>
+</toolbarapplet>

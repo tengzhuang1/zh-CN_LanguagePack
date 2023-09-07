@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_load="onToolbarLoad" on_click="onButtonClick" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="wfltoolbar">
+		<button text="打印" id="print" image="../images/Print.svg" tooltip="打印报表"/>
+	</toolbar>
+</toolbarapplet>

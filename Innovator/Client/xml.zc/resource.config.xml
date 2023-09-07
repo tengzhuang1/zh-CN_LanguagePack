@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<satelliteresources>
+		<!--
+		System checks content of resource.config.xml, which is located in default xml folder, before attempt to request localized resource. 
+		If resource.config.xml file is not specified or configuration/satelliteresources node is empty then localized resource is called (ex. xml.ru folder), if it does not exist, then neutral resource is called (ex. xml folder).
+		If configuration/satelliteresources contains only <resource culture="neutral"/> then even if user will perform call from non English locale system will not perform request to localized resource.
+		If configuration/satelliteresources contains <resource culture="neutral"/> and any set of supported locales <resource culture="ru"/>, <resource culture="ja"/>, etc, then if users locale is match to one of specified locale then request to localized resource will be performed if resource is missing then neutral resource will be called.
+		-->
+
+		<resource culture="neutral"/>
+		<resource culture="de"/>
+		<resource culture="fr"/>
+		<resource culture="ja"/>
+		<!--resource culture="ru"/--> 
+	</satelliteresources>
+</configuration>

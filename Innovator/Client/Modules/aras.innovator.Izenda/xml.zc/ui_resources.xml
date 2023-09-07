@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ui_resources>
+	<!-- My Reports -->
+	<resource key="myreports.context_menu.run_report" value="Run Report" />
+	<resource key="myreports.context_menu.edit_report" value="Edit" />
+	<resource key="myreports.context_menu.delete_report" value="Delete" />
+	<resource key="myreports.context_menu.delete_report_confirmation" value="Deleting &quot;{0}&quot; Report. Are you sure?" />
+	<resource key="myreports.licenseText" value="Aras subscribers get Self-Service Reporting where users get to create their own reports with Formatting, Summary, Charts, and more!" />
+	<resource key="myreports.licenseButtonText" value="See More"/>
+	<resource key="myreports.my_reports" value="My Reports" />
+	<!-- Report Designer (UiSqlBridge, etc) -->
+	<resource key="reportdesigner.validation.apply_types_to_izenda" value="Press 'Continue to Properties' on Item Types tab before saving" />
+	<resource key="reportdesigner.validation.apply_props_to_izenda" value="Press 'Apply' on Properties tab before saving" />
+	<resource key="reportdesigner.onclosewarning" value="If you leave the page, all changes in the Report will be lost. Do you want to leave this page without saving?"/>
+	<resource key="reportdesigner.validation.empty_name" value="Go to the Misc Tab to enter required information and then Save." />
+	<resource key="reportdesigner.validation.no_properties_selected" value="No properties selected (Properties Tab)" />
+	<resource key="reportdesigner.validation.cant_change_base_item_type" value="Can't change base item type for existing report" />
+	<resource key="reportdesigner.message.continue_w_loosing_changes" value="Continue and lose changes?"/>
+	<resource key="reportdesigner.tab_caption.item_types" value=" Item Types"/>
+	<resource key="reportdesigner.tab_caption.properties" value=" Properties"/>
+	<resource key="reportdesigner.tab_caption.summary" value=" Summary"/>
+	<resource key="reportdesigner.tab_caption.chart" value=" Chart"/>
+	<resource key="reportdesigner.tab_caption.chart2" value=" Chart 2"/>
+	<resource key="reportdesigner.tab_caption.gauge" value=" Gauge"/>
+	<resource key="reportdesigner.tab_caption.misc" value=" Misc"/>
+	<resource key="reportdesigner.tab_caption.style" value=" Style"/>
+	<resource key="reportdesigner.tab_caption.filters" value=" Filters"/>
+	<resource key="reportdesigner.tab_caption.preview" value=" Preview"/>
+	<!-- Report Designer (Views) -->
+	<resource key="reportdesigner.bitt_input_search" value="Search..."/>
+	<resource key="reportdesigner.bitt_img_search" value="Search"/>
+	<!-- Report Designer (Item Types) -->
+	<resource key="reportdesigner.itm_featured" value="Featured"/>
+	<resource key="reportdesigner.itm_all" value="All"/>
+	<resource key="reportdesigner.itm_advanced" value="Advanced"/>
+	<resource key="reportdesigner.base_item_type" value="Select Top Level Item Type"/>
+	<resource key="reportdesigner.selected_base_item_type" value="Select Related"/>
+	<resource key="reportdesigner.allow_nulls" value="Allow Nulls"/>
+	<resource key="reportdesigner.continue_to_props" value="Continue To Properties"/>
+	<resource key="reportdesigner.right_tree_delete_confirmation" value="Deleting {0} will clear all selections below it.  Are you sure you want to delete {0}?"/>
+	<resource key="reportdesigner.right_tree_delete" value="Delete"/>
+	<!-- Report Designer (Tables fields) -->
+	<resource key="reportdesigner.tables.itemtype" value="ItemType"/>
+	<resource key="reportdesigner.tables.property" value="Property"/>
+	<resource key="reportdesigner.tables.displaylabel" value="Display Label"/>
+	<resource key="reportdesigner.tables.alias" value="Alias"/>
+	<resource key="reportdesigner.tables.actions" value="Actions"/>
+	<!-- Report Designer (Misc) -->
+	<resource key="reportdesigner.name" value="Name"/>
+	<resource key="reportdesigner.share.sharereport" value="Share Report"/>
+	<resource key="reportdesigner.share.setavailabilityto" value="Set availability to:"/>
+	<resource key="reportdesigner.share.option.public" value="Public"/>
+	<resource key="reportdesigner.share.option.private" value="Private"/>
+	<resource key="reportdesigner.share.option.sharedwithidentities" value="Shared with Identities: "/>
+	<resource key="reportdesigner.drill_down_key.dialog.title" value="Select Drill-Down Key"/>
+	<!-- Widgets, etc-->
+	<resource key="common.st_collapsed_header" value="Show Contents"/>
+	<resource key="common.st_header" value="Hide"/>
+	<resource key="common.contents" value="Reporting Structure"/>
+	<resource key="sharewith.new_item" value="New Item"/>
+	<resource key="sharewith.remove" value="Remove"/>
+	<resource key="sharewith.identity" value="Identity"/>
+	<resource key="sharewith.permission" value="Permission"/>
+	<resource key="reportingstructure.more" value="More..."/>
+	<resource key="reportingstructure.OK" value="OK"/>
+	<resource key="reportingstructure.select" value="Select "/>
+	<resource key="reportingstructure.selectvalue" value="Select value"/>
+	<resource key="reportingstructure.add_props_button_text" value="Add to Report"/>
+	<!-- Service Reporting -->
+	<resource key="servicereporting.featured_itemtypes" value="Featured Item Types"/>
+	<resource key="servicereporting.itemtypes" value="Item Types"/>
+	<resource key="servicereporting.properties" value="Properties"/>
+	<resource key="servicereporting.excluded_properties" value="Excluded Properties"/>
+	<resource key="servicereporting.pivot_column" value="Pivot Column"/>
+	<resource key="servicereporting.pivot_function" value="Function"/>
+	<resource key="servicereporting.select_pivot_column" value="Select Pivot Column"/>
+	<resource key="servicereporting.report_contains_restricted_data" value="Report contains restricted data. If you believe you should be able to view this data, please contact your Administrator."/>
+	<resource key="servicereporting.update_results" value="Update Results"/>
+	<resource key="servicereporting.report_definitions_inconsistencies" value="The report definitions show inconsistencies that could disrupt the system. Please contact your administrator to have this issue resolved."/>
+</ui_resources>

@@ -1,0 +1,233 @@
+﻿<export>
+ <Item type="Workflow Map Path" keyed_name="67C7886A43C44EFB8E932CE8FB5C5A2B" config_id="67C7886A43C44EFB8E932CE8FB5C5A2B">
+  <property __name="label" en="Begin" zc="开始" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="108920F1AEC64448AC0A16E5AB198008" config_id="108920F1AEC64448AC0A16E5AB198008">
+  <property __name="label" en="" zc="推回执行变更" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="58F70F8D7AC343D28B05F12E8265BA1A" config_id="58F70F8D7AC343D28B05F12E8265BA1A">
+  <property __name="label" en="" zc="送复审" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="962B4AFFA1A244D698C2B6CC6C7202B3" config_id="962B4AFFA1A244D698C2B6CC6C7202B3">
+  <property __name="label" en="" zc="直接通知DCC" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="202927B572DD4967A47DB16FAD06123B" config_id="202927B572DD4967A47DB16FAD06123B">
+  <property __name="label" en="" zc="退回" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="31963C03E47A4B389D7277D8BE113AB5" config_id="31963C03E47A4B389D7277D8BE113AB5">
+  <property __name="label" en="" zc="送复审" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="584FDD2ECBC943ABA4F9B1AAB3E6AF70" config_id="584FDD2ECBC943ABA4F9B1AAB3E6AF70">
+  <property __name="label" en="" zc="直接通知DCC" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="236FB2B87867463ABEB6E89A3279F321" config_id="236FB2B87867463ABEB6E89A3279F321">
+  <property __name="label" en="" zc="重送变更规划审查" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="D10B774F121A405EA2E82ADB3A8FCF27" config_id="D10B774F121A405EA2E82ADB3A8FCF27">
+  <property __name="label" en="" zc="取消" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="4DD98EB54F2A41A081EA4FFEB3630FCD" config_id="4DD98EB54F2A41A081EA4FFEB3630FCD">
+  <property __name="label" en="Approve" zc="批准" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="E6651798070D426CAD4714FD2DE0AFAC" config_id="E6651798070D426CAD4714FD2DE0AFAC">
+  <property __name="label" en="Reject" zc="拒绝" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="6D436DE1E5F24E5CBD454DC67D0BC555" config_id="6D436DE1E5F24E5CBD454DC67D0BC555">
+  <property __name="label" en="Submit to Review" zc="提交审批" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="73BE566E1C934A509286AB2E4FDCC0E8" config_id="73BE566E1C934A509286AB2E4FDCC0E8">
+  <property __name="label" en="Close Change" zc="关闭变更" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="E94857AFFE124A43A59FC99886DFD282" config_id="E94857AFFE124A43A59FC99886DFD282">
+  <property __name="label" en="" zc="通知DCC" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="EABE9ECFF1A1406485DDE53A0F3230F0" config_id="EABE9ECFF1A1406485DDE53A0F3230F0">
+  <property __name="label" en="" zc="推回执行变更" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="42399AD28247416E92EB22950AC03423" config_id="42399AD28247416E92EB22950AC03423">
+  <property __name="label" en="" zc="送复审" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="451298FD497C4B38B756D1FFD2DDA249" config_id="451298FD497C4B38B756D1FFD2DDA249">
+  <property __name="label" en="" zc="推回执行变更" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="745D3742AFD3497CA9C1C4DD0A50ED9E" config_id="745D3742AFD3497CA9C1C4DD0A50ED9E">
+  <property __name="label" en="" zc="直接通知DCC" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="A1AF2A08041D46728DF7167C786C4F8F" config_id="A1AF2A08041D46728DF7167C786C4F8F">
+  <property __name="label" en="Complete" zc="完成" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="077CFD8A2BC04E5BA2CDA0BCE9020C98" config_id="077CFD8A2BC04E5BA2CDA0BCE9020C98">
+  <property __name="label" en="" zc="退回重做" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="361CDF94D58743058A8B81C00A3908F1" config_id="361CDF94D58743058A8B81C00A3908F1">
+  <property __name="label" en="" zc="拒绝" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="64F17F39C62C4EC894B40AD68833E7E9" config_id="64F17F39C62C4EC894B40AD68833E7E9">
+  <property __name="label" en="" zc="批准" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="BCFF89E075D34150AE18CEBA33BC849A" config_id="BCFF89E075D34150AE18CEBA33BC849A">
+  <property __name="label" en="" zc="送变更规划审查" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="1A163DFBAD0E4BC88765165D59E7E753" config_id="1A163DFBAD0E4BC88765165D59E7E753">
+  <property __name="label" en="" zc="推回执行变更" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="3E6358A294B64B6D8DE44D506949D45A" config_id="3E6358A294B64B6D8DE44D506949D45A">
+  <property __name="label" en="" zc="通知DCC" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="9B9EA473E0004C46BE146AFFCD7D4BCD" config_id="9B9EA473E0004C46BE146AFFCD7D4BCD">
+  <property __name="label" en="" zc="确认送出" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="8526359E03064724AEC67C9662F082B1" config_id="8526359E03064724AEC67C9662F082B1">
+  <property __name="label" en="" zc="重送变更规划审查" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="E24A21EDCB974C95BD74B90573363A40" config_id="E24A21EDCB974C95BD74B90573363A40">
+  <property __name="label" en="" zc="取消" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="E50E77FC73594B7282CCD0E1FC23FC00" config_id="E50E77FC73594B7282CCD0E1FC23FC00">
+  <property __name="label" en="" zc="结束" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="6EC1361B8EB54719B5936100C27CB6AF" config_id="6EC1361B8EB54719B5936100C27CB6AF">
+  <property __name="label" en="Approve Changes" zc="批准变更" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="C081FFE8E608408B8F3FEFA278555EE2" config_id="C081FFE8E608408B8F3FEFA278555EE2">
+  <property __name="label" en="Rework" zc="返工" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="51BC128D619B4600BC57C293E4AA3F80" config_id="51BC128D619B4600BC57C293E4AA3F80">
+  <property __name="label" en="" zc="建置" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="188066A81D5D4B65AF71E28902914F84" config_id="188066A81D5D4B65AF71E28902914F84">
+  <property __name="label" en="" zc="拒绝" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="2D4C837D6ED845BABB7EC3F00FEB39CD" config_id="2D4C837D6ED845BABB7EC3F00FEB39CD">
+  <property __name="label" en="" zc="退回重做" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="32FE199CB3674E649BEB7E6364EC2B06" config_id="32FE199CB3674E649BEB7E6364EC2B06">
+  <property __name="label" en="" zc="批准" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="55F1EB1C1CC547B6A0A6A9616C570EA4" config_id="55F1EB1C1CC547B6A0A6A9616C570EA4">
+  <property __name="label" en="Submit to Plan Review" zc="提交计划审核" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="C4F679ED632342AC945DFD9F37D025FE" config_id="C4F679ED632342AC945DFD9F37D025FE">
+  <property __name="label" en="Start Work" zc="开始工作" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="4B6307E4F5FF45C2BF4E7A069C60BB51" config_id="4B6307E4F5FF45C2BF4E7A069C60BB51">
+  <property __name="label" en="Reject" zc="拒绝" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="58876938385045C98A25F06E5D4352FD" config_id="58876938385045C98A25F06E5D4352FD">
+  <property __name="label" en="" zc="提交" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="B4D22C58D9D543018D80AC31AB56F506" config_id="B4D22C58D9D543018D80AC31AB56F506">
+  <property __name="label" en="Approve Plan" zc="批准计划" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="CE3A78F7A03D433E92EAE3AA94388325" config_id="CE3A78F7A03D433E92EAE3AA94388325">
+  <property __name="label" en="Rework Plan" zc="重做计划" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="08FB3558B2674534B2F0CF2CDDA8B260" config_id="08FB3558B2674534B2F0CF2CDDA8B260">
+  <property __name="label" en="" zc="送变更规划审查" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="CC9B3574CA2046158E1689A2D3A36FFD" config_id="CC9B3574CA2046158E1689A2D3A36FFD">
+  <property __name="label" en="" zc="直接送审" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="A1E33F2E25324076A24339715F4EF663" config_id="A1E33F2E25324076A24339715F4EF663">
+  <property __name="label" en="Submit to Planning" zc="提交计划" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="D6FB03BE40124BD998207AD6F9E66EC6" config_id="D6FB03BE40124BD998207AD6F9E66EC6">
+  <property __name="label" en="Cancel Change" zc="取消变更" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="2F4ABA3475CF481DA5AD53059EE99469" config_id="2F4ABA3475CF481DA5AD53059EE99469">
+  <property __name="label" en="" zc="拒绝" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="A159F03132AC4434AB6E885EC44984A3" config_id="A159F03132AC4434AB6E885EC44984A3">
+  <property __name="label" en="" zc="批准" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="D1CAE113D122426C819949B453E0DDDE" config_id="D1CAE113D122426C819949B453E0DDDE">
+  <property __name="label" en="" zc="退回重做" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="0F2EB0978B974D269C4910C4E981EB3E" config_id="0F2EB0978B974D269C4910C4E981EB3E">
+  <property __name="label" en="" zc="送审" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="45C339D3028B436CB012857C48440B25" config_id="45C339D3028B436CB012857C48440B25">
+  <property __name="label" en="" zc="执行变更" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="FB5B7AAADC8B46FC914CCEB64FA0C9D3" config_id="FB5B7AAADC8B46FC914CCEB64FA0C9D3">
+  <property __name="label" en="" zc="推回重新计划" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="423000CCBC0E48049A0EC9B9B33EEA86" config_id="423000CCBC0E48049A0EC9B9B33EEA86">
+  <property __name="label" en="Cancel" zc="取消" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="718DEDFAF63A43B98D3D2C2122E85A11" config_id="718DEDFAF63A43B98D3D2C2122E85A11">
+  <property __name="label" en="Submit to Authors" zc="提交给设计者" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="34D86EC91B0E4B7583002C17694A2A2C" config_id="34D86EC91B0E4B7583002C17694A2A2C">
+  <property __name="label" en="" zc="执行变更" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="A3F7053481574D67A2AE1891E8E5802E" config_id="A3F7053481574D67A2AE1891E8E5802E">
+  <property __name="label" en="" zc="推回重新计划" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="FC15C6BE237E469EA54E4FBA14CCBB8A" config_id="FC15C6BE237E469EA54E4FBA14CCBB8A">
+  <property __name="label" en="Begin" zc="开始" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="1150F387DF93427A90557497341D8B6C" config_id="1150F387DF93427A90557497341D8B6C">
+  <property __name="label" en="Complete" zc="完成" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="C12174B2AB7A463EA6BCBE26393A6566" config_id="C12174B2AB7A463EA6BCBE26393A6566">
+  <property __name="label" en="" zc="发起" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="BD8EF647973544D7B48DD5AE7A9B26BA" config_id="BD8EF647973544D7B48DD5AE7A9B26BA">
+  <property __name="label" en="" zc="提交" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="00CDCF98153841E9B5EAB8F01DBB0342" config_id="00CDCF98153841E9B5EAB8F01DBB0342">
+  <property __name="label" en="Fast Approve" zc="快速批准" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="83346AAFBB514FDBA9809C4827A8477A" config_id="83346AAFBB514FDBA9809C4827A8477A">
+  <property __name="label" en="Full Review" zc="终审" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="9DD243E878DD45309A145FCFA5B00BF2" config_id="9DD243E878DD45309A145FCFA5B00BF2">
+  <property __name="label" en="Rework" zc="重做" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="825CFCAF539E49DB851CB9E325807AC6" config_id="825CFCAF539E49DB851CB9E325807AC6">
+  <property __name="label" en="" zc="送审" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="D5EE5B2885F54DC3ABB771C726364BDB" config_id="D5EE5B2885F54DC3ABB771C726364BDB">
+  <property __name="label" en="" zc="结束" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="9D1248C9C55D4000932356587A19BA1D" config_id="9D1248C9C55D4000932356587A19BA1D">
+  <property __name="label" en="" zc="结束" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="DDC11D52744E4046AA6CD9A064A6D641" config_id="DDC11D52744E4046AA6CD9A064A6D641">
+  <property __name="label" en="" zc="建置" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="196D294617964DB982772DC9D6B25265" config_id="196D294617964DB982772DC9D6B25265">
+  <property __name="label" en="Full Review" zc="最终审批" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="8B7EDFB4987B49FF929A295C8B1B0AEF" config_id="8B7EDFB4987B49FF929A295C8B1B0AEF">
+  <property __name="label" en="Fast Approve" zc="快捷批准" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="F487D325CA3F451C958565724B034DC4" config_id="F487D325CA3F451C958565724B034DC4">
+  <property __name="label" en="Rework" zc="返工" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="46E8E916E05C4AC1AA5B73D5B1A9AE37" config_id="46E8E916E05C4AC1AA5B73D5B1A9AE37">
+  <property __name="label" en="" zc="提交" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="27BD69F0D51A478284D4884F89ABA469" config_id="27BD69F0D51A478284D4884F89ABA469">
+  <property __name="label" en="Reject" zc="拒绝" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="9C4C8DBA74C749EC93832E106AB15A45" config_id="9C4C8DBA74C749EC93832E106AB15A45">
+  <property __name="label" en="Approve" zc="批准" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="232963E2BD66430C8C89E81775D86852" config_id="232963E2BD66430C8C89E81775D86852">
+  <property __name="label" en="" zc="提交" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="76E667743A3746CF97932286BC363736" config_id="76E667743A3746CF97932286BC363736">
+  <property __name="label" en="" zc="完成" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="2F921FDEB2B74CECB174688B33C68474" config_id="2F921FDEB2B74CECB174688B33C68474">
+  <property __name="label" en="" zc="通知DCC" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="6A29D9A5BE5945C4B37D14BD10BAEFE3" config_id="6A29D9A5BE5945C4B37D14BD10BAEFE3">
+  <property __name="label" en="" zc="退回" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="ECF7550FB4A04076A977A07FFB48ED1E" config_id="ECF7550FB4A04076A977A07FFB48ED1E">
+  <property __name="label" en="" zc="建置" />
+ </Item>
+</export>

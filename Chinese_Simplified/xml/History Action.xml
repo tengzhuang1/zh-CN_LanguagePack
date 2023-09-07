@@ -1,0 +1,34 @@
+﻿<export>
+ <Item type="History Action" keyed_name="FileDownload" config_id="20FF9144A9764B569ECDC21555DF4006">
+  <property __name="label" en="File Download" zc="文件下载" />
+ </Item>
+ <Item type="History Action" keyed_name="Add" config_id="22490941AB8E4996BE0C4EA4940DD7B9">
+  <property __name="label" en="Add" zc="添加" />
+ </Item>
+ <Item type="History Action" keyed_name="FormPrint" config_id="26FC2D778BFB4D749FA4401726EBEF44">
+  <property __name="label" en="Print" zc="打印" />
+  <property __name="comment_text" en="Item printed from Form '{form_name}'" zc="Item printed from Form '{form_name}'" />
+ </Item>
+ <Item type="History Action" keyed_name="Delete" config_id="3C23BB1FCACC4EBEB12CA1D74A8CE1C2">
+  <property __name="label" en="Delete" zc="删除" />
+ </Item>
+ <Item type="History Action" keyed_name="FormView" config_id="D28D522E2D93447AB1DCAC50B7F98CD3">
+  <property __name="label" en="View" zc="查看" />
+  <property __name="comment_text" en="Item viewed with Form '{form_name}'" zc="Item viewed with Form '{form_name}'" />
+ </Item>
+ <Item type="History Action" keyed_name="ResetLifeCycleState" config_id="D8A02D25A8AD4E0BA03137BF7E12989B">
+  <property __name="label" en="Reset Life Cycle State" zc="重置生命周期状态" />
+  <property __name="comment_text" en="State changed from {old_state} to {new_state}" zc="State changed from {old_state} to {new_state}" />
+ </Item>
+ <Item type="History Action" keyed_name="SetDefaultLifecycle" config_id="D921FE4EB74043DBA94EA79543FA0EE0">
+  <property __name="label" en="Set Default Lifecycle" zc="设置默认生命周期" />
+  <property __name="comment_text" en="Lifecycle changed from {old_lifecycle} to {new_lifecycle}" zc="Lifecycle changed from {old_lifecycle} to {new_lifecycle}" />
+ </Item>
+ <Item type="History Action" keyed_name="Update" config_id="DA76064A64B8456CA21ECB70BE4A48C3">
+  <property __name="label" en="Update" zc="更新" />
+ </Item>
+ <Item type="History Action" keyed_name="Promote" config_id="F4E64892AF944B4FA297B27B6BB5653D">
+  <property __name="label" en="Promote" zc="提升状态" />
+  <property __name="comment_text" en="{comments}" zc="{comments}" />
+ </Item>
+</export>

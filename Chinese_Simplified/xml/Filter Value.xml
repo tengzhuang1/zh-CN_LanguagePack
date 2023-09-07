@@ -1,0 +1,113 @@
+﻿<export>
+ <Item type="Filter Value" keyed_name="version_1" config_id="031F27D6D19C4F2BB94EF84B238CD4F0">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="0648F2A7D0D74011B7C9683C2EC9980C">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="0A80C0D436314800BB52798D3A19DF88">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="0BC4A9FF13024688816CD651E033C046">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="224AA1D3450B49C1A5A948DA1CFF19C9">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="2EE6E88376BF4647B845EC850B13EFA1">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="36808F1CF02C4082852CFBB2F816D3A7">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="3B8B5C5B70D446AF97149ECABB651BCF">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="4865F54CEFA94371904175EDFEA1BB84">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="49C127DE709349F9B1F8AD4303C00F4B">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="6EECC44A7E104383B2ECD44A6C23C66E">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="7FC2F77EE9C64B2C93F82186C5C0B5B9">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="8C12D9A3C7D2442290D124C0A6E9F77F">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="93D6A51B187346339CAA7D4993C48F5E">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="9BB51864E7FF494EBEDAD19D4C4B99A8">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="A9D264FA46664655A31BBBFE80C6CC06">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="AD0F3E6EE83540C2A939B26B87CE2D7B">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="AEC33087C5FF49898189147E626457A9">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="B58DF2A5AA11462188394D0858AF82FE">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="CAAAAD1A0BBB4A7DBB6711F669997D57">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="5B66AB63232D4A96BC69A4B75B0A0B01">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="633D78E8BA7440B3A794B54AE19C9BAF">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="E09FD987551B4884965DDECEC16E1941">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="E8CADC29132944A2A66EB31D29690B15">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="F558194869A544DCBF2D1F6FE75574D1">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_1" config_id="FCE492375B2F4716947DBE6F07722D7E">
+  <property __name="label" en="Version 1" zc="Version 1" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_2" config_id="6366D7184A53475D8310B778B6B5EA95">
+  <property __name="label" en="Version 2" zc="Version 2" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_2" config_id="9BD1071F214F4E5EB42543D5D89AE575">
+  <property __name="label" en="Version 2" zc="Version 2" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_2" config_id="9DC928F2D1744D0097B324480078FBF3">
+  <property __name="label" en="Version 2" zc="Version 2" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_2" config_id="A44A23AB73E94B3683DA23CB70B0CA50">
+  <property __name="label" en="Version 2" zc="Version 2" />
+ </Item>
+ <Item type="Filter Value" keyed_name="version_2" config_id="1149017F9E914300A3F3C58FE7DFD0BA">
+  <property __name="label" en="Version 2" zc="Version 2" />
+ </Item>
+ <Item type="Filter Value" keyed_name="0" config_id="EE81FE640B30494D8B3A7429C2AC063C">
+  <property __name="label" en="Automatic" zc="自动" />
+ </Item>
+ <Item type="Filter Value" keyed_name="1" config_id="E1170547FE8F4A6B898513B572FE0685">
+  <property __name="label" en="Manual" zc="手动" />
+ </Item>
+ <Item type="Filter Value" keyed_name="BaselineVersioningDiscipline" config_id="96DFF931AAC143AC88F9C16E3AA8ABAD">
+  <property __name="label" en="Baseline" zc="基线" />
+ </Item>
+ <Item type="Filter Value" keyed_name="C#" config_id="D895F7C608CB481F8D5C3B4110A3EF00">
+  <property __name="label" en="CSharp" zc="CSharp" />
+ </Item>
+ <Item type="Filter Value" keyed_name="JavaScript" config_id="535126D8629D4F02AC7A68392E79C62C">
+  <property __name="label" en="JavaScript" zc="JavaScript" />
+ </Item>
+ <Item type="Filter Value" keyed_name="VB" config_id="FDBC525117364A2A82A1E56E977DDF46">
+  <property __name="label" en="VB" zc="VB" />
+ </Item>
+</export>

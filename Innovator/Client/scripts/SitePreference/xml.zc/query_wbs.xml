@@ -1,0 +1,16 @@
+﻿<Item type="ItemType" action="get" select="name">
+  <name>WBS Element</name>
+  <Relationships>
+    <Item type="Property" action="get" select="name"/>
+    <Item type="RelationshipType" action="get" select="relationship_id">
+      <name>Sub WBS</name>
+      <relationship_id>
+        <Item type="ItemType" action="get" select="name">
+          <Relationships>
+            <Item type="Property" action="get" select="name"/>
+          </Relationships>
+        </Item>
+      </relationship_id>
+    </Item>
+  </Relationships>
+</Item>

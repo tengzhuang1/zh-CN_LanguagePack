@@ -1,0 +1,56 @@
+﻿<export>
+ <Item type="SSVC_Preferences" keyed_name="5C078CA9D5814E30B0AD261182E0EE1A" config_id="5C078CA9D5814E30B0AD261182E0EE1A">
+  <property __name="subject_digest_notifications" en="[Aras] Visual Collaboration Notification – new messages" zc="[Ansys Minerva] Visual Collaboration Notification – new messages" />
+  <property __name="subject_single_notifications" en="[Aras] Visual Collaboration Notification – new message" zc="[Ansys Minerva] Visual Collaboration Notification – new message" />
+  <property __name="desc_digest_notifications" en="The following new messages have posted in your discussions:" zc="The following new messages have posted in your discussions:" />
+  <property __name="desc_single_notifications" en="The following new message has posted in your discussions:" zc="The following new message has posted in your discussions:" />
+ </Item>
+ <Item type="SSVC_Preferences" keyed_name="AF56C2AEE0B544F5A54F7FEB99A3BD8E" config_id="AF56C2AEE0B544F5A54F7FEB99A3BD8E">
+  <property __name="subject_digest_notifications" en="[Aras] Visual Collaboration Notification – new messages" zc="[Ansys Minerva] Visual Collaboration Notification – new messages" />
+  <property __name="subject_single_notifications" en="[Aras] Visual Collaboration Notification – new message" zc="[Ansys Minerva] Visual Collaboration Notification – new message" />
+  <property __name="desc_digest_notifications" en="The following new messages have posted in your discussions:" zc="The following new messages have posted in your discussions:" />
+  <property __name="desc_single_notifications" en="The following new message has posted in your discussions:" zc="The following new message has posted in your discussions:" />
+ </Item>
+ <Item type="SSVC_Preferences" keyed_name="B1911B7270364E7F84DF9593436ABE7E" config_id="B1911B7270364E7F84DF9593436ABE7E">
+  <property __name="subject_digest_notifications" en="[Aras] Visual Collaboration Notification – new messages" zc="[Ansys Minerva] Visual Collaboration Notification – new messages" />
+  <property __name="subject_single_notifications" en="[Aras] Visual Collaboration Notification – new message" zc="[Ansys Minerva] Visual Collaboration Notification – new message" />
+  <property __name="desc_digest_notifications" en="The following new messages have posted in your discussions:" zc="The following new messages have posted in your discussions:" />
+  <property __name="desc_single_notifications" en="The following new message has posted in your discussions:" zc="The following new message has posted in your discussions:" />
+ </Item>
+ <Item type="SSVC_Preferences" keyed_name="EAA529C4C7764EB59A76A5AF0C46EE46" config_id="EAA529C4C7764EB59A76A5AF0C46EE46">
+  <property __name="subject_digest_notifications" en="[Aras] Visual Collaboration Notification – new messages" zc="[Ansys Minerva] Visual Collaboration Notification – new messages" />
+  <property __name="subject_single_notifications" en="[Aras] Visual Collaboration Notification – new message" zc="[Ansys Minerva] Visual Collaboration Notification – new message" />
+  <property __name="desc_digest_notifications" en="The following new messages have posted in your discussions:" zc="The following new messages have posted in your discussions:" />
+  <property __name="desc_single_notifications" en="The following new message has posted in your discussions:" zc="The following new message has posted in your discussions:" />
+ </Item>
+ <Item type="SSVC_Preferences" keyed_name="860853CB7F3E44649AD4FC4F443F35A7" config_id="860853CB7F3E44649AD4FC4F443F35A7">
+  <property __name="subject_digest_notifications" en="[Aras] Visual Collaboration Notification – new messages" zc="[Ansys Minerva] Visual Collaboration Notification – new messages" />
+  <property __name="subject_single_notifications" en="[Aras] Visual Collaboration Notification – new message" zc="[Ansys Minerva] Visual Collaboration Notification – new message" />
+  <property __name="desc_digest_notifications" en="The following new messages have posted in your discussions:" zc="The following new messages have posted in your discussions:" />
+  <property __name="desc_single_notifications" en="The following new message has posted in your discussions:" zc="The following new message has posted in your discussions:" />
+ </Item>
+ <Item type="SSVC_Preferences" keyed_name="627EBD8348884C30A92C19F5589E6D12" config_id="627EBD8348884C30A92C19F5589E6D12">
+  <property __name="subject_digest_notifications" en="[Aras] Visual Collaboration Notification – new messages" zc="[Ansys Minerva] Visual Collaboration Notification – new messages" />
+  <property __name="subject_single_notifications" en="[Aras] Visual Collaboration Notification – new message" zc="[Ansys Minerva] Visual Collaboration Notification – new message" />
+  <property __name="desc_digest_notifications" en="The following new messages have posted in your discussions:" zc="The following new messages have posted in your discussions:" />
+  <property __name="desc_single_notifications" en="The following new message has posted in your discussions:" zc="The following new message has posted in your discussions:" />
+ </Item>
+ <Item type="SSVC_Preferences" keyed_name="A006E7D9148948C5912E1893392B2BF5" config_id="A006E7D9148948C5912E1893392B2BF5">
+  <property __name="subject_digest_notifications" en="[Aras] Visual Collaboration Notification – new messages" zc="[Ansys Minerva] Visual Collaboration Notification – new messages" />
+  <property __name="subject_single_notifications" en="[Aras] Visual Collaboration Notification – new message" zc="[Ansys Minerva] Visual Collaboration Notification – new message" />
+  <property __name="desc_digest_notifications" en="The following new messages have posted in your discussions:" zc="The following new messages have posted in your discussions:" />
+  <property __name="desc_single_notifications" en="The following new message has posted in your discussions:" zc="The following new message has posted in your discussions:" />
+ </Item>
+ <Item type="SSVC_Preferences" keyed_name="E90EED7E0EAD464F809BB0958ED7A173" config_id="E90EED7E0EAD464F809BB0958ED7A173">
+  <property __name="subject_digest_notifications" en="[Aras] Visual Collaboration Notification – new messages" zc="[Ansys Minerva] Visual Collaboration Notification – new messages" />
+  <property __name="subject_single_notifications" en="[Aras] Visual Collaboration Notification – new message" zc="[Ansys Minerva] Visual Collaboration Notification – new message" />
+  <property __name="desc_digest_notifications" en="The following new messages have posted in your discussions:" zc="The following new messages have posted in your discussions:" />
+  <property __name="desc_single_notifications" en="The following new message has posted in your discussions:" zc="The following new message has posted in your discussions:" />
+ </Item>
+ <Item type="SSVC_Preferences" keyed_name="ADEF4D7C325D48D4A2CEF40B98588FDD" config_id="ADEF4D7C325D48D4A2CEF40B98588FDD">
+  <property __name="subject_digest_notifications" en="[Aras] Visual Collaboration Notification – new messages" zc="[Ansys Minerva] Visual Collaboration Notification – new messages" />
+  <property __name="subject_single_notifications" en="[Aras] Visual Collaboration Notification – new message" zc="[Ansys Minerva] Visual Collaboration Notification – new message" />
+  <property __name="desc_digest_notifications" en="The following new messages have posted in your discussions:" zc="The following new messages have posted in your discussions:" />
+  <property __name="desc_single_notifications" en="The following new message has posted in your discussions:" zc="The following new message has posted in your discussions:" />
+ </Item>
+</export>

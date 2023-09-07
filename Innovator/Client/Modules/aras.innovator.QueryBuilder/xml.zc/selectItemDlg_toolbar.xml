@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_load="onToolbarAppletLoad" on_click="onClickItem" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="toolbar">
+		<button image="../images/Checkmark.svg" id="select" tooltip="Select">Select</button>
+	</toolbar>
+</toolbarapplet>

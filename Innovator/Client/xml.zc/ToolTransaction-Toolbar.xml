@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_load="onToolbarLoad" on_click="onClickTb" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="wfltoolbar">
+		<button text="Issue " id="issue" image="../images/ViewItem.svg" tooltip="Issue Tools"/>
+		<button text="Inventory " id="inventory" image="../images/CheckOff.svg" tooltip="Inventory Adjustments"/>
+		<button text="Location " id="location" image="../images/Promote.svg" tooltip="Location Adjustments"/>
+		<button text="Allocate " id="allocate" image="../images/Promote.svg" tooltip="Allocate"/>
+	</toolbar>
+</toolbarapplet>

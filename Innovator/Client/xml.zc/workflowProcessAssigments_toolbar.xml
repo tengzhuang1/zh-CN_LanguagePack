@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet buttonsize="26,25">
+	<toolbar id="toolbar">
+		<button disabled="false" image="../images/New.svg" id="new" tooltip="New assignment">New assignment</button>
+		<button disabled="false" image="../images/Delete.svg" id="delete" tooltip="Delete selected assignment">Delete selected assignment</button>
+	</toolbar>
+</toolbarapplet>

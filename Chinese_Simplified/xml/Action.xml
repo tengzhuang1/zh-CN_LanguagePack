@@ -1,0 +1,158 @@
+﻿<export>
+ <Item type="Action" keyed_name="PE_CompletenessCheck" config_id="06621636DB7A41B29AD2D6BBF1AB7A61">
+  <property __name="label" en="Check for Completeness" zc="检查完整性" />
+ </Item>
+ <Item type="Action" keyed_name="HL BOM Compare" config_id="09C2FE68019E41DF9FF8FF4A2D6AFED4">
+  <property __name="label" en="" zc="BOM比对" />
+ </Item>
+ <Item type="Action" keyed_name="Project_ShowGanttChart" config_id="1020CBF7E25E4479A260FA5AF4E4A378">
+  <property __name="label" en="View Gantt Chart" zc="" />
+ </Item>
+ <Item type="Action" keyed_name="Reset preferences" config_id="1E84793DEBEE4FAB8D60DF11539F45C2">
+  <property __name="label" en="Reset preferences" zc="重置首选项" />
+ </Item>
+ <Item type="Action" keyed_name="dr_ActivateDrfAction" config_id="1F90C35FAD4D4706ACDFA9FAAAA8817B">
+  <property __name="label" en="Activate" zc="Activate" />
+ </Item>
+ <Item type="Action" keyed_name="gn_ShowGraphView" config_id="218C3D38C640464F9AA65BFAC3CC02BA">
+  <property __name="label" en="Show Graph" zc="显示图表" />
+ </Item>
+ <Item type="Action" keyed_name="cmf_ConvertToElement" config_id="23496C98C2B147D2AE8B452573685805">
+  <property __name="label" en="Convert to Document Element" zc="转换为文档元素" />
+ </Item>
+ <Item type="Action" keyed_name="hl_CAD2BOM_Dialog_Action" config_id="2B0EE95523B04BABA338FF7C09F6F6C1">
+  <property __name="label" en="" zc="CAD2BOM" />
+ </Item>
+ <Item type="Action" keyed_name="PE_ManualRelease" config_id="2CAC9B41B8394D29B89C45C522703BC4">
+  <property __name="label" en="Manual Release" zc="直接发布" />
+ </Item>
+ <Item type="Action" keyed_name="cmf_UpdatePermissionsPropertyType" config_id="31CD0E8CAF8E4CA19F5EBCDA92AC632B">
+  <property __name="label" en="Update Default Permission" zc="更新默认权限" />
+ </Item>
+ <Item type="Action" keyed_name="PE: rollup all parts in DB" config_id="3313FB477B9A4982A30EA157ED896247">
+  <property __name="label" en="" zc="汇总所有零部件" />
+ </Item>
+ <Item type="Action" keyed_name="mp_Deactivate" config_id="377FE68854E64966B8C5D0E276ED6139">
+  <property __name="label" en="Deactivate" zc="停用" />
+ </Item>
+ <Item type="Action" keyed_name="PE_CreateNewRevision" config_id="39BE6AC491184B979EC03D1400F35F2F">
+  <property __name="label" en="Create New Revision" zc="创建新版" />
+ </Item>
+ <Item type="Action" keyed_name="hl_exportBomClient" config_id="3ECA8A18FDBA458A814D58D9DFEEDDBE">
+  <property __name="label" en="" zc="零部件导出" />
+ </Item>
+ <Item type="Action" keyed_name="dr_DeactivateDrfAction" config_id="4649D5325FC740B4AC895AED1EA382C9">
+  <property __name="label" en="Deactivate" zc="Deactivate" />
+ </Item>
+ <Item type="Action" keyed_name="dr_RemediateDrfAction" config_id="480572FBE4A84191976EB25D4175B385">
+  <property __name="label" en="Remediate" zc="Remediate" />
+ </Item>
+ <Item type="Action" keyed_name="hl_BatchChange_AddToChange" config_id="487597D2E1FB469294BE338A6DBD08B5">
+  <property __name="label" en="" zc="添加至审核单" />
+ </Item>
+ <Item type="Action" keyed_name="re_PublishDocument" config_id="4AF6119789084C84A5C106C2D2B4CC24">
+  <property __name="label" en="Publish Document" zc="" />
+ </Item>
+ <Item type="Action" keyed_name="PE_ChooseCMOptions" config_id="54A05651AAF4400BA916A2C0CAECAC89">
+  <property __name="label" en="Choose CM Options" zc="CM选项" />
+ </Item>
+ <Item type="Action" keyed_name="Change Discussion Definition" config_id="5B155B40AD8F405D812EF95BC5848214">
+  <property __name="label" en="" zc="改变讨论的定义" />
+ </Item>
+ <Item type="Action" keyed_name="tp_PublishDocument" config_id="5BE8FC636F2F4D5797B7261126A819B0">
+  <property __name="label" en="Publish Document" zc="发布文档" />
+ </Item>
+ <Item type="Action" keyed_name="rb_ActivateTGVD" config_id="606B3E3DCAC64619B5C7630D7A53D9AA">
+  <property __name="label" en="Set Tree Grid View Usage" zc="设置树形网格视图的使用" />
+ </Item>
+ <Item type="Action" keyed_name="HL ConfigEBOM ClassStructure" config_id="66536D371F324A2FAA3E52DF70AE5906">
+  <property __name="label" en="" zc="配置EBOM类别结构" />
+ </Item>
+ <Item type="Action" keyed_name="hl_BatchChange" config_id="796E4E922B28488FB32DD09F170F8BCC">
+  <property __name="label" en="" zc="批量送审变更" />
+ </Item>
+ <Item type="Action" keyed_name="Assign Team" config_id="7FDD7B093B414E82BE7275549707D4FB">
+  <property __name="label" en="" zc="团队分配" />
+ </Item>
+ <Item type="Action" keyed_name="hl_OpenDashboardPage" config_id="837B0F683D554B038CEBF5275F977DAB">
+  <property __name="label" en="" zc="打开看板" />
+ </Item>
+ <Item type="Action" keyed_name="PE_AddToChange" config_id="83FB72FC3E4D42B8B51BCD7F4194E527">
+  <property __name="label" en="Add Item(s) To Change…" zc="添加至审核单..." />
+ </Item>
+ <Item type="Action" keyed_name="qs_AddToCAP" config_id="8B0A77BBB36D4738B902927D07E5936E">
+  <property __name="label" en="" zc="Add Item(s) to Corrective Action Plan" />
+ </Item>
+ <Item type="Action" keyed_name="UpdateTimeZoneInfo" config_id="8C97B829FF2D448CBEF4FFE63DB65636">
+  <property __name="label" en="Update timezones data" zc="更新时区" />
+ </Item>
+ <Item type="Action" keyed_name="Try Again" config_id="8ECD0D01EB5D46D8BE52E887D953AD8F">
+  <property __name="label" en="" zc="重试" />
+ </Item>
+ <Item type="Action" keyed_name="Launch AML Editor" config_id="96DBE893BCBD4BA38CC1F4B5D642847B">
+  <property __name="label" en="Launch AML Editor" zc="运行AML编辑器" />
+ </Item>
+ <Item type="Action" keyed_name="ResubmitReplicationTxn" config_id="99432F2BBECF441BA03DD90E476A0CEA">
+  <property __name="label" en="Resubmit" zc="重新提交" />
+ </Item>
+ <Item type="Action" keyed_name="ConfigurableInBasket_Enable" config_id="A6687B12E5D54E12998E673038392B23">
+  <property __name="label" en="Hide Configurable InBasket" zc="隐藏可配置的收件箱" />
+ </Item>
+ <Item type="Action" keyed_name="RebuildViewAction" config_id="AB6CF0939EE34CB283AEF2A2959AD063">
+  <property __name="label" en="RebuildViewAction" zc="重建窗体" />
+ </Item>
+ <Item type="Action" keyed_name="hl_ConvertPDF_OpenItem" config_id="AC5A7306BB9A4EB891CB167559AB44B8">
+  <property __name="label" en="" zc="打开对象" />
+ </Item>
+ <Item type="Action" keyed_name="cmf_RecalculateContentViews" config_id="AC5F2546AF2145158A28047A54577D0A">
+  <property __name="label" en="Recalculate Content Views" zc="重新计算内容视图" />
+ </Item>
+ <Item type="Action" keyed_name="Run Server Method" config_id="B06750478A1E42FFA1142D59FB485D7C">
+  <property __name="label" en="Run Server Method" zc="执行服务端方法" />
+ </Item>
+ <Item type="Action" keyed_name="mp_NewVersion" config_id="B2EF62697B114E47A1F8F6491D642AE1">
+  <property __name="label" en="New Version" zc="新版本" />
+ </Item>
+ <Item type="Action" keyed_name="hl_ConvertPDF_Reconver" config_id="C8ECF7DAA0744E8EA153D8290EEE7C0C">
+  <property __name="label" en="" zc="重新转档" />
+ </Item>
+ <Item type="Action" keyed_name="qry_Execute" config_id="CB6808A4BFCB4791B310B8D3C61C463E">
+  <property __name="label" en="Execute Query" zc="执行查询" />
+ </Item>
+ <Item type="Action" keyed_name="hl_ConvertPDF_OpenSourceItem" config_id="CC3B899EF66A43CEAD45EB7D60D54919">
+  <property __name="label" en="" zc="打开送审单" />
+ </Item>
+ <Item type="Action" keyed_name="rb_DeactivateTGVD" config_id="CCDAD1F24D79427DA35CBCB925517DC3">
+  <property __name="label" en="Remove Tree Grid View Usage" zc="移除树形网格视图的使用" />
+ </Item>
+ <Item type="Action" keyed_name="mp_Activate" config_id="D4C9C36D50224431B30ABAA54A41E1AB">
+  <property __name="label" en="Activate" zc="激活" />
+ </Item>
+ <Item type="Action" keyed_name="VCN_SwitchNotificationsState" config_id="D881873D5E8F479C86ED8CBB50110FE5">
+  <property __name="label" en="Visual Collaboration Notifications" zc="视觉协作通知" />
+ </Item>
+ <Item type="Action" keyed_name="cmf_UpdatePermissionsDocument" config_id="DF29D847ADC84DF6BDC2CCFC6B328B18">
+  <property __name="label" en="Update Default Permission" zc="更新默认权限" />
+ </Item>
+ <Item type="Action" keyed_name="EDR Restart" config_id="E23F3F775B464347B0FFFD9BB1E78E9E">
+  <property __name="label" en="EDR Restart" zc="EDR重启" />
+ </Item>
+ <Item type="Action" keyed_name="hl_OpenItemtypeByRelation" config_id="E443A76EF9484E6FB73712C2433C4B44">
+  <property __name="label" en="" zc="开启此「关系类型」同名的「物件类型」" />
+ </Item>
+ <Item type="Action" keyed_name="cmf_ConvertToProperties" config_id="E7D47598B14B4DC1AD701EAB3B1EA331">
+  <property __name="label" en="Convert to Document Element Properties" zc="转换为文档元素属性" />
+ </Item>
+ <Item type="Action" keyed_name="cmf_ChangeParent" config_id="EF6600952AC6425BAF58556B09360346">
+  <property __name="label" en="Change parent element" zc="改变父元素" />
+ </Item>
+ <Item type="Action" keyed_name="SQL Execute" config_id="F02AFCABE619477783000764B5382661">
+  <property __name="label" en="" zc="执行SQL" />
+ </Item>
+ <Item type="Action" keyed_name="hl_OpenFile" config_id="F122C73F754042638B7DF25A76458905">
+  <property __name="label" en="" zc="打开文件" />
+ </Item>
+ <Item type="Action" keyed_name="VC_AddItemsToBookmarks" config_id="FD4D2BE9E2B14919BF1973842A556AFD">
+  <property __name="label" en="Add Item to Bookmarks..." zc="添加至收藏夹" />
+ </Item>
+</export>

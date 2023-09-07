@@ -1,0 +1,1095 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ui_resources>
+	<!-- +++++ Common +++++ -->
+	<resource key="common.access_denied" value="Access Denied"/>
+	<resource key="common.an_internal_error_has_occured" value="产生一个系统错误"/>
+	<resource key="common.client_side_err" value="使用者端错误"/>
+	<resource key="common.lock" value="锁定"/>
+	<resource key="common.view" value="查看"/>
+	<resource key="common.edit" value="编辑"/>
+	<resource key="common.confirm_title" value="Confirm"/>
+	<resource key="common.new" value="新建"/>
+	<resource key="common.delete" value="删除"/>
+	<resource key="common.copy" value="复制"/>
+	<resource key="common.copy_notification_id" value="Item ID copied to clipboard."/>
+	<resource key="common.copy_notification_link" value="Item link copied to clipboard."/>
+	<resource key="common.copy_id" value="Copy ID"/>
+	<resource key="common.copy_link" value="Copy Link"/>
+	<resource key="common.copy_link_latest" value="Latest"/>
+	<resource key="common.copy_link_latest_released" value="Latest Released"/>
+	<resource key="common.itemtype_not_available" value="This ItemType is not available for you. Please, contact your Administrator."/>
+	<resource key="common.paste" value="粘贴"/>
+	<resource key="common.paste_special" value="特殊粘贴"/>
+	<resource key="common.prompt_title" value="Enter New Value"/>
+	<resource key="common.prompt_label" value="Value"/>
+	<resource key="common.unlock" value="解锁"/>
+	<resource key="common.unpin" value="Unpin"/>
+	<resource key="common.whereused" value="Where Used"/>
+	<resource key="common.cntxt_menu.add_break" value="添加转折点"/>
+	<resource key="common.cntxt_menu.remove_break" value="移除转折点"/>
+	<resource key="common.change_pwd" value="修改登录密码"/>
+	<resource key="common.pwd_expired" value="你的密码已过期"/>
+	<resource key="common.old_pwd" value="原密码："/>
+	<resource key="common.new_pwd" value="新密码："/>
+	<resource key="common.confirm_pwd" value="新密码确认："/>
+	<resource key="common.check_pwd_confirmation" value="Check New Password And Its Confirmation."/>
+	<resource key="common.pwd_empty" value="Password cannot be empty"/>
+	<resource key="common.undo_discard_changes" value="Undo will discard your changes. Are you sure?"/>
+	<resource key="common.discard_confirmationtitle" value="Discard Changes"/>
+	<resource key="common.discard_confirmationmessage" value="Unsaved changes will be lost."/>
+	<resource key="common.apply" value="Apply"/>
+	<resource key="common.ok" value="确定"/>
+	<resource key="common.cancel" value="取消"/>
+	<resource key="common.close" value="Close"/>
+	<resource key="common.clear" value="清除"/>
+	<resource key="common.clear_all" value="Clear All"/>
+	<resource key="common.reset" value="Reset"/>
+	<resource key="common.save" value="Save"/>
+	<resource key="common.discard" value="Discard"/>
+	<resource key="common.continue" value="继续"/>
+	<resource key="common.yes" value="是"/>
+	<resource key="common.no" value="否"/>
+	<resource key="common.restricted_property_warning" value="管制"/>
+	<resource key="common.no_history_containers_found" value="查无历史资料"/>
+	<resource key="common.warning" value="Warning."/>
+	<resource key="common.notification" value="Notification"/>
+	<resource key="common.user_preference" value="User Preference"/>
+	<resource key="common.contents" value="Contents"/>
+	<resource key="common.properties" value="Properties"/>
+	<resource key="common.web_request_error" value="Error {0} on requesting {1}: {2}"/>
+	<resource key="common.options_select" value="{0} options select"/>
+	<resource key="common.claimed" value="Claimed"/>
+	<resource key="common.no_label" value="No label"/>
+	<resource key="common.references_were_reset" value="Preferences were reset"/>
+	<resource key="common.select_items" value="Select Items"/>
+	<resource key="common.items_selected" value="{0} item(s) selected"/>
+	<resource key="common.refresh" value="Refresh"/>
+	<resource key="common.layout_saved" value="Layout Saved"/>
+	<resource key="common.default_layout_updated" value="Default Layout Updated"/>
+	<resource key="common.failed_to_save_layout" value="Failed to Save Layout"/>
+	<resource key="common.value_invalid_for" value="Value &quot;{0}&quot; is invalid for &quot;{1}&quot;."/>
+	<resource key="common.required" value="Required"/>
+	<resource key="common.does_not_exist" value="{0} does not exist"/>
+	<resource key="confirm_delete.delete_title" value="Confirm Delete"/>
+	<resource key="confirm_delete.purge_title" value="Confirm Purge"/>
+	<resource key="confirm_delete.delete" value="Delete"/>
+	<resource key="confirm_delete.purge" value="Purge"/>
+	<resource key="confirm_delete.delete_all" value="Delete All"/>
+	<resource key="confirm_delete.purge_all" value="Purge All"/>
+	<resource key="confirm_delete.skip" value="Skip"/>
+	<resource key="confirm_delete.purge_message" value="Purge {0} &quot;{1}&quot;. Are you sure?"/>
+	<resource key="confirm_delete.delete_message" value="Deleting {0} &quot;{1}&quot;. Are you sure?"/>
+	<!--       Common       -->
+	<!-- +++++ Client/javascript/aras_object.js +++++ -->
+	<!-- +++++ Client/javascript/sp_functions.js +++++ -->
+	<resource key="sp_functions.incompatible_functions" value="There are incompatible client methods!"/>
+	<!-- +++++ Client/javascript/sp_functions.js +++++ -->
+	<resource key="aras_object.fault_loading" value="加载错误 {0}: {1}"/>
+	<resource key="aras_object.user_not_found" value="无此使用者"/>
+	<resource key="aras_object.item_not_found" value="Item type '{0}' with id '{1}' is not found."/>
+	<resource key="aras_object.value_property_invalid_must_be_integer" value="无效的属性字段值。必须为整数 (Integer)"/>
+	<resource key="aras_object.value_property_invalid_must_be_unsigned_big_integer" value="Value of the property is invalid. It must be Unsigned Big Integer."/>
+	<resource key="aras_object.validate_user_failed_communicate_with_the_server" value="确认使用者：连结Innovator服务器失败"/>
+	<resource key="aras_object.new_password_not_set" value="没有设定新的密码"/>
+	<resource key="aras_object.validate_user_wrong_server_response" value="确认使用者：错误的Innovator服务器回传值"/>
+	<resource key="aras_object.error_in_evalmethod" value="evalMethod
+方法中有错误: '{0}' 必须是Javascript."/>
+	<resource key="aras_object.method_failed" value="方法 &quot;{0}&quot;错误 ."/>
+	<resource key="aras_object.aras_object" value="Aras对象: &quot;{0}&quot; : &quot;{1}&quot;"/>
+	<resource key="aras_object.erroe_eval_item_method" value="evalItemMethod方法中错误: '{0}' 必须是Javascript."/>
+	<resource key="aras_object.failed_get_report" value="报表产生失败"/>
+	<resource key="aras_object.invalid_soap_message" value="Server returned invalid SOAP message."/>
+	<resource key="aras_object.failed_copy_related_item" value="相关项目复制失败: {0}"/>
+	<resource key="aras_object.failed_get_source_item" value="获取资源项失败."/>
+	<resource key="aras_object.incorrect_parameter" value="错误的参数直 !"/>
+	<resource key="aras_object.not_function" value="这不是一个方法 !"/>
+	<resource key="aras_object.copy_operation_failed" value="复制工作失败 : {0}"/>
+	<resource key="aras_object.you_attempting_paste_different_relationship_types" value="你正在把关系类型 '{0}' 粘贴进关系类型 '{1}' .它们是不同的关系类型. 你是否希望继续?"/>
+	<resource key="aras_object.value_property _must_be _boolean" value="属性字段必须为 boolean"/>
+	<resource key="aras_object.user_abort" value="使用者取消"/>
+	<resource key="aras_object.value_property_invalid_contains_incorrect_symbols" value="无效的属性值。不能包含特殊字符。"/>
+	<resource key="aras_object.value_property_invalid_must_be_decimal" value="无效的属性值。必须是小数值。"/>
+	<resource key="aras_object.value_property_invalid_must_be_decimal_any" value="any"/>
+	<resource key="aras_object.value_property_invalid_must_be_date" value="Value of the property is invalid. It must be valid Date. "/>
+	<resource key="aras_object.value_property_invalid_must_be_float" value="无效的属性值。必须是浮点值。"/>
+	<resource key="aras_object.length_image_property_cannot_be_larger_128_symbols" value="属性类型长度 &quot;Image&quot; 字符数不能超过128个."/>
+	<resource key="aras_object.value_property_invalid_must_be_item_id" value="属性值无效. 它必须为 Item ID."/>
+	<resource key="aras_object.value_property_invalid_must_be_md5" value="属性值无效. 它必须为MD5类型."/>
+	<resource key="aras_object.length_properties_value_canot_be_larger" value="属性值长度不能超过 &quot;{0}&quot; 个字符."/>
+	<resource key="aras_object.value_property_invalid_must_correspond_with_pattern" value="属性值无效. It must correspond with pattern '{0}'."/>
+	<resource key="aras_object.edit_again" value="Edit again?"/>
+	<resource key="aras_object.nothing_to_add" value="无对象可加入"/>
+	<resource key="aras_object.already_in_cache" value="缓存中已存在"/>
+	<resource key="aras_object.nothing_to_update" value="无对象需更新"/>
+	<resource key="aras_object.nothing_to_remove" value="无对象需移除"/>
+	<resource key="aras_object.not_supported_criteria" value="未支持标准 (&quot;{0}&quot;)."/>
+	<resource key="aras_object.invalid_parameter_propertydef_data_type" value="无效参数propertyDef.data_type."/>
+	<resource key="aras_object.about_aras_innovator" value="About"/>
+	<resource key="aras_object.error" value="错误"/>
+	<resource key="aras_object.hide_details" value="隐藏详细信息"/>
+	<resource key="aras_object.show_details" value="显示详细信息"/>
+	<resource key="aras_object.copy_buffer" value="复制到剪切板"/>
+	<resource key="aras_object.technical_message" value="技术信息"/>
+	<resource key="aras_object.stack_trace" value="Stack Trace"/>
+	<resource key="aras_object.report_with_label" value="Report: {0}"/>
+	<resource key="aras_object.export2excel_file_prefix" value="Book"/>
+	<resource key="aras_object.export2word_file_prefix" value="Doc"/>
+	<!--       Client/javascript/aras_object.js     -->
+	<!-- +++++ Client/javascript/ConfigurableGrid.js +++++ -->
+	<resource key="configurable_grid.relationships_number_cannot_be_0" value="ConfigurableGrid.createItemByXPath: Relationships number cannot be 0"/>
+	<resource key="configurable_grid.type_of_root_item_cannot_be_determined" value="Type of root item cannot be determined. 请检查你的网格定义."/>
+	<resource key="configurable_grid.value_invalid_use_search_dialog" value="值 &quot;{0}&quot;  is 对于 &quot;{1}&quot;无效. 按F2打开查找对话框."/>
+	<resource key="configurable_grid.use_f2_invoke_color_dialog" value="按 F2 按键选择颜色"/>
+	<resource key="configurable_grid.use_f2_invoke_date_dialog" value="按 F2 按键选择日期"/>
+	<resource key="configurable_grid.this_item_not_editable" value=" &quot;{0}&quot; 不可编辑"/>
+	<resource key="configurable_grid.no_column_with_index_in_grid" value="There is no column with index &quot;{0}&quot; in Grid definition"/>
+	<resource key="configurable_grid.deleting_sure" value="删除 &quot;{0}&quot; &quot;{1}&quot;. 你确定吗?"/>
+	<resource key="configurable_grid.remove_form_configuration" value="从配置中移除 &quot;{0}&quot; &quot;{1}&quot; . 你确定吗?"/>
+	<resource key="configurable_grid.inset_ignored_federated_column" value="插入操作被忽略 because this is federated column"/>
+	<resource key="configurable_grid.must_copy_row_before_paste" value="You must first copy a row in this document before using the Paste function."/>
+	<resource key="configurable_grid.must_select_cell_from_same_level" value="You must select a cell that is from the same level from which you initiated the copy."/>
+	<resource key="configurable_grid.no_match_found" value="无适合项"/>
+	<resource key="configurable_grid.field_read_only" value="此字段为只读"/>
+	<resource key="configurable_grid.replace_not_allowed" value="此处不允许替换"/>
+	<resource key="configurable_grid.item_cannot_uniquely_defined" value="An item cannot be uniquely defined"/>
+	<resource key="configurable_grid.value_invalid" value="这是个无效值."/>
+	<resource key="configurable_grid.item_type_cannot_be_copied" value="Item (类型=&quot;{0}&quot;, id=&quot;{1}&quot;) cannot be copied by reference because of its action=&quot;{2}&quot;"/>
+	<resource key="configurable_grid.no_method_in_configurablegrid" value="ConfigurableGrid中没有方法 &quot;{0}&quot; "/>
+	<resource key="configurable_grid.error_loading_grid" value="加载表格失败"/>
+	<!--       Client/javascript/ConfigurableGrid.js     -->
+	<!-- +++++ Client/javascript/deepLinking +++++ -->
+	<resource key="deep_link.start_opening_item" value="Start opening item in main window"/>
+	<resource key="deep_link.error_open_item" value="Can not open this item from URL. Check your link."/>
+	<resource key="deep_link.item_is_opened" value="{0} is now open in your existing session"/>
+	<resource key="deep_link.item_alredy_is_opened" value="{0} is already opened in your existing session"/>
+	<!--       Client/javascript/deepLinking     -->
+	<!-- +++++ Client/javascript/item_methods.js +++++ -->
+	<resource key="item_methods.located_item_type_not_exist" value="The &quot;Located&quot; 对象类不存在."/>
+	<resource key="item_methods.no_defualt_vault_sever" value="你没有预设的 Vault server."/>
+	<resource key="item_methods.event_handler_failed" value="内部错误: 事件处理失败."/>
+	<resource key="item_methods.event_handler_failed_with_message" value="事件处理失败消息: &quot;{0}&quot;"/>
+	<resource key="item_methods.items_added_successfully" value="对象添加成功 "/>
+	<resource key="item_methods.item_added_successfully" value="对象添加成功 "/>
+	<resource key="item_methods.package_with_such_name_already_exist" value="此名称已存在"/>
+	<resource key="item_methods.unable_add_package_with_name" value="不能添加名字为 &quot;{0}&quot;的包"/>
+	<resource key="item_methods.recursion_not_allowed_here" value="此处不允许循环引用"/>
+	<resource key="item_methods.failed_get_item_type" value="Failed to get the &quot;{0}&quot; ItemType."/>
+	<resource key="item_methods.xpathresult_of_item_returned_null" value="对象方法: XPathResult of Item 返回为空."/>
+	<resource key="item_methods.fault_loading" value="Fault loading the &quot;{0}&quot;: {1}"/>
+	<resource key="item_methods.add_selected_items_to_a_package" value="添加选定项到包中"/>
+	<resource key="item_methods.selected_package_from_list" value="请从列表中选择一个包"/>
+	<resource key="item_methods.select_package" value="选择包"/>
+	<resource key="item_methods.create_new" value="创建"/>
+	<resource key="item_methods.create_new_package" value="创建新包"/>
+	<resource key="item_methods.package_name" value="包名称:"/>
+	<resource key="item_methods.dependency" value="依赖:"/>
+	<resource key="item_methods.cannot_close_item_window" value="无法关闭目前所在窗口."/>
+	<resource key="item_methods.file_moved_or_renamed" value="File &quot;{0}&quot; is moved or renamed."/>
+	<!--       Client/javascript/item_methods.js     -->
+	<!-- +++++ Client/javascript/item_methodsEx.js +++++ -->
+	<resource key="item_methods_ex.item_type_name_cannot_be_blank" value="对象类名称不能为空。"/>
+	<resource key="item_methods_ex.length_of_property_not_specified" value=" &quot;{0}&quot; 属性长度未指定."/>
+	<resource key="item_methods_ex.length_of_property_invalid" value=" &quot;{0}&quot; 属性长度无效: {1} "/>
+	<resource key="item_methods_ex.property_data_source_not_specified" value="&quot;{0}&quot; 属性数据源未指定."/>
+	<resource key="item_methods_ex.fliter_list_property_has_to_have_pattern" value="属性&quot;{0}&quot; 为类型筛选列表且必须指定一个类型."/>
+	<resource key="item_methods_ex.filter_list_property_has_wrong_pattern" value="筛选列表属性 &quot;{0}&quot; 类型错误 !!!在对象类中不存在属性 &quot;{1}&quot; ."/>
+	<resource key="item_methods_ex.property_for_pattern_cannot_property_itself" value="The property specified for the pattern of the &quot;{0}&quot; property cannot be the &quot;{0}&quot; property itself."/>
+	<resource key="item_methods_ex.field_required_default_will_be_used" value=" &quot;&lt;b&gt;{0}&lt;/b&gt;&quot; 为必填字段. 在保存之前请为此字段提供一个值. 否则将使用默认值 &quot;{1}&quot; ."/>
+	
+	
+	<resource key="item_methods_ex.field_required_provide_value" value=" &quot;&lt;b&gt;{0}&lt;/b&gt;&quot; 为必填字段. 在保存之前请为此字段提供一个值."/>
+	<resource key="item_methods_ex.maximum_length_characters_for_property" value="属性&quot;&lt;b&gt;{0}&lt;/b&gt;&quot; 的最大长度为 &lt;b&gt;{1}&lt;/b&gt; 个字符.&lt;br&gt;你已经输入 &lt;b&gt;{2}&lt;b&gt; 个字符.&lt;br&gt;请检查输入."/>
+	<resource key="item_methods_ex.item_type_has_property_with_no_name" value="对象类 &quot;{0}&quot; 属性之一无名称. 请输入名称后再保存."/>
+	<resource key="item_methods_ex.vault_sever_not_specified" value="指定的数据仓库无效,请检查是否有权限."/>
+	<resource key="item_methods_ex.failed_upload_file" value="上传文件失败.
+指定的数据仓库服务器 URL: &quot;{0}&quot; 正确吗 ?"/>
+	<resource key="item_methods_ex.internal_error_occured" value="发生一个内部错误."/>
+	<resource key="item_methods_ex.adding" value="   正在添加 &quot;{0}&quot;..."/>
+	<resource key="item_methods_ex.versioning" value="  版本管理 &quot;{0}&quot;..."/>
+	<resource key="item_methods_ex.updating" value="   刷新 &quot;{0}&quot;..."/>
+	<resource key="item_methods_ex.item_saved_successfully" value="Item{0} 保存成功."/>
+	<resource key="item_methods_ex.failed_download_file_url_empty" value="Failed to download the file. The file URL is empty."/>
+	<resource key="item_methods_ex.locking_it_lose_changes" value="正在锁定 &quot;{0}&quot; will cause you&lt;br&gt;to lose your changes in the source item.&lt;br&gt;&lt;br&gt;Click OK to lock the item and lose your changes&lt;br&gt;or Cancel to leave the item unlocked."/>
+	<resource key="item_methods_ex.failed_get_item_type_from_sever" value="获取服务端对象类 &quot;{0}&quot;失败."/>
+	<resource key="item_methods_ex.failed_unlock_item_type" value="解锁对象类 {0}失败 ."/>
+	<resource key="item_methods_ex.unsaved_changes" value="Unsaved Changes"/>
+	<resource key="item_methods_ex.changes_not_saved" value="Changes have not been saved. What do you want to do?"/>
+	<resource key="item_methods_ex.save_your_changes" value="To keep changes from {0} &quot;{1}&quot;?"/>
+	<resource key="item_methods_ex.failed_get_item_type_from_server" value="获取服务器对象类{0} 失败."/>
+	<resource key="item_methods_ex.failed_get_file_vault_could_not_be_located" value="获取文件失败: 不能定位数据仓库."/>
+	<resource key="item_methods_ex.save_first" value="先保存"/>
+	<resource key="item_methods_ex.item_type_should_have_discussiontemplate_for_root_class_path" value="Enabled for Secure Social ItemType should have Discussion Template for Root class."/>
+	<resource key="item_methods_ex.unlocking_discard_your_changes" value="Unlocking {0} &quot;{1}&quot; will discard all your changes.
+Are you sure ?"/>
+	<!--       Client/javascript/item_methodsEx.js     -->
+	<!-- +++++ Client/javascript/item_window.js +++++ -->
+	<resource key="item_window.nothing_to_undo" value="Nothing to undo."/>
+	<resource key="item_window.failed_download_file" value="Failed to download the file."/>
+	<!--       Client/javascript/item_window.js    -->
+	<!-- +++++ Client/javascript/itemtype_methods.js +++++ -->
+	<resource key="itemtype_methods.view_to_rebuild_not_specified" value="重建视图未指定."/>
+	<!--       Client/javascript/itemtype_methods.js    -->
+	<!-- +++++ Client/javascript/promoteDialog.js +++++ -->
+	<resource key="promote_dialog.promote_not_finished" value="版本提升未完成.建议最好等到版本提升结束."/>
+	<!--       Client/javascript/promoteDialog.js    -->
+	<!-- +++++ Client/javascript/search_container.js +++++ -->
+	<resource key="search_container.aml_is_not_compatible_with_new_search_mode" value="Switching to {0} will clear some of your search criteria."/>
+	<resource key="search_container.aml_is_not_compatible_with_new_search_mode2" value="The selected search could not be shown in {0} mode.
+Would you like to switch to {1} search mode?"/>
+	<resource key="search_container.aml_is_not_compatible_with_simple_search_mode" value="The selected search cannot be shown in Simple Search mode. Display in AML Search mode instead?"/>
+	<!-- +++++ Client/javascript/search_container.js +++++ -->
+	<!-- +++++ Client/javascript/search_grid.js +++++ -->
+	<resource key="search.invalid_criteria" value="Invalid search criteria. Edit again?"/>
+  <resource key="search.permissions_limited_suffix" value=" (权限有限)"/>
+  <resource key="search.neither_input_item_type_name_nor_id_specified" value="未指定对象类名称和id."/>
+  <resource key="search.page_should_positive_integer" value="页码应为一个正整数."/>
+  <resource key="search.page_size_should_positive_integer" value="页面显示数目应该为正整数."/>
+  <resource key="search.max_search_value_should_positive_integer" value="最大搜索数应为一个正整数 ."/>
+  <resource key="search.please_enter_valid_as_of_date" value="请输入一个有效的日期."/>
+  <resource key="search.n_items_found" value="找到 {0}项 ."/>
+	<resource key="search.how_much_items_max_reached" value="Max Reached"/>
+  <resource key="search.how_much_items_on_page" value=" 第 {0}-{1}项, 共 {2}项. 当前第 {3}页 共 {4}页"/>
+  <resource key="search.bad_xml" value="不规范的 xml: {0}"/>
+  <resource key="search.set_parameter_value" value="设定参数值"/>
+  <resource key="search.saved_search_already_exists" value="Search {0} for type {1} 已存在. 你想重写它吗?" />
+	<resource key="search.warning" value="Search Mode Warning"/>
+	<resource key="search.not_all_parameters_filled" value="Please fill all the parameters."/>
+	<resource key="search.parameter_label" value="Parameter"/>
+	<resource key="search.favorite_search_title" value="Favorite Search"/>
+	<!--       Client/javascript/search_grid.js    -->
+	<!-- +++++ Client/javascript/SearchGridObject.js +++++ -->
+	<resource key="search_grid_object.lookup_not_available" value=" {0}查找无效."/>
+	<!--       Client/javascript/SearchGridObject.js    -->
+	<!-- +++++ Client/javascript/soap_object.js +++++ -->
+	<resource key="soap_object.login_again" value="Login Again"/>
+	<resource key="soap_object.logout" value="Logout"/>
+	<resource key="soap_object.session_has_expired" value="Your session has expired. Please, login to continue"/>
+	<resource key="soap_object.session_has_expired_unsaved_data" value="Your session has expired. To continue, please login again.\n\nWarning: one or more items have unsaved changes that will be lost if you logout."/>
+	<resource key="soap_object.unauthorized_error" value="Authentication failed. Please, login to continue"/>
+	<!--       Client/javascript/soap_object.js    -->
+	<!-- +++++ Client/javascript/ui_methods.js +++++ -->
+	<resource key="ui_methods.item_cannot_defined_uniquely" value="对象不能被唯一定义.
+第一个匹配项被使用.你可以使用查找框 (按 F2) 精确定义对象"/>
+	<resource key="ui_methods.parameter_element_not_specified" value="参数&quot;元素&quot; 未指定"/>
+	<resource key="ui_methods.cannot_determine_tophelpurl" value="最佳帮助文档路径不能确定"/>
+	<resource key="ui_methods.value" value="值"/>
+	<resource key="ui_methods.access_restricted_or_not_exist" value="Access to {0} is Restricted or {0} doesn't exist. Please, contact your System Administrator."/>
+	<!--       Client/javascript/ui_methods.js    -->
+	<!-- +++++ Client/javascript/ui_methodsEx.js +++++ -->
+	<resource key="ui_methods_ex.failed_to_open_new_window" value="Failed to open a new window. Please check that pop-ups are not being blocked and that your browser is up to date"/>
+	<resource key="ui_methods_ex.specified_view_mode_invalid" value="The specified view mode &quot;{0}&quot; is invalid.
+
+The supported view modes are:
+&quot;tab view&quot;, &quot;tree view&quot;, &quot;openFile&quot;."/>
+	<resource key="ui_methods_ex.failed_get_file" value="Failed to get the File."/>
+	<resource key="ui_methods_ex.failed_to_open_file" value="You have insufficient permissions to open the File."/>
+	<resource key="ui_methods_ex.function_update_root_item_not_implemented" value="函数updateRootItem 未执行."/>
+	<resource key="ui_methods_ex.item_type_not_found" value="对象类 &quot;{0}&quot; 未找到."/>
+	<resource key="ui_methods_ex.body_of_form_missing" value="窗体主体丢失."/>
+	<resource key="ui_methods_ex.failed_get_parent_document_for_form" value="窗体父文档获取失败."/>
+	<resource key="ui_methods_ex.select_an_image" value="选择图片..."/>
+	<resource key="item_info_table.created_by_id_txt" value="建立人员 :"/>
+	<resource key="item_info_table.created_on_txt" value="建立日期 :"/>
+	<resource key="item_info_table.modified_by_id_txt" value="修改人员 :"/>
+	<resource key="item_info_table.modified_on_txt" value="修改日期 :"/>
+	<resource key="item_info_table.locked_by_id_txt" value="锁定人员 :"/>
+	<resource key="item_info_table.major_rev_txt" value="版本 :"/>
+	<resource key="item_info_table.release_date_txt" value="发行日期 :"/>
+	<resource key="item_info_table.effective_date_txt" value="生效日期 :"/>
+	<resource key="item_info_table.generation_txt" value="版次 :"/>
+	<resource key="item_info_table.state_txt" value="状态 :"/>
+	<resource key="item_info_table.id_txt" value="编号:"/>
+	<resource key="item_info_table.claimed_by_id_txt" value="Claimed By:"/>
+	<resource key="ui_methods_ex.itemtype_label_item_keyed_name" value="{0} - {1}"/>
+	<resource key="ui_methods_ex.itemtype_label_item_keyed_name_readonly" value="{0} - {1} (只读)"/>
+        <resource key="ui_methods_ex.hide_relationships_print_view" value="隐藏或显示关系 (Alt+R)"/>
+	<resource key="ui_methods_ex.failed_to_get_item" value="获取 {0}失败!"/>
+	<resource key="ui_methods_ex.form_not_specified_for_you" value="你未指定A &quot;{0}&quot;窗体."/>
+	<resource key="ui_methods_ex.itemtype_label_item_is_here" value="There is {0} &quot;{1}&quot; here."/>
+	<resource key="ui_methods_ex.scan_in_file" value="扫瞄文件"/>
+	<resource key="ui_methods_ex.add_file" value="添加文件"/>
+	<resource key="ui_methods_ex.check_out_file" value="签出文件"/>
+	<resource key="ui_methods_ex.check_in_file" value="检入文件"/>
+	<resource key="ui_methods_ex.event_handler_failed" value="内部错误: 事件处理失败!"/>
+	<resource key="ui_methods_ex.event_handler_failure_msg" value="事件处理失败信息: {0}"/>
+	<resource key="ui_methods_ex.discover_only_item_cannot_be_opened" value="对此对象你只有搜索(Discover)权限。你无法打开它！"/>
+	<resource key="ui_methods_ex.classification_change_for_not_start_state_item" value="你正在尝试改变不在起始状态的对象类. 要继续吗?"/>
+	<resource key="ui_methods_ex.classification_change_lsmap_changed" value="你要变更分类(class)，将会影响选用不同的生命周期(Lifecycle)设定，要继续吗？"/>
+	<resource key="ui_methods_ex.classification_change_lsmap_and_permission_changed" value="你要变更分类(class)，将会影响选用不同的生命周期(Lifecycle)与权限(Permission)设定，要继续吗？"/>
+	<!--       Client/javascript/ui_methodsEx.js    -->
+	<!-- +++++ Client/Scripts/ImageBrowser/ +++++ -->
+	<resource key="image_browser.select_an_image" value="选择图片."/>
+	<resource key="image_browser.title" value="Image Browser"/>
+	<resource key="image_browser.internal_files" value="Internal Files"/>
+	<resource key="image_browser.external_file" value="External File"/>
+	<resource key="image_browser.select_file" value="Select File..."/>
+	<!--       Client/Scripts/ImageBrowser/       -->
+	<!-- +++++ Client/Scripts/AdvancedSearch.html +++++ -->
+	<resource key="advanced_search.ppm.delete_criteria" value="删除标准"/>
+	<resource key="advanced_search.item_type" value="对象类"/>
+	<resource key="advanced_search.property" value="属性"/>
+        <resource key="advanced_search.operation" value="操作"/>
+	<resource key="advanced_search.criteria" value="Criteria[...]"/>
+	<resource key="advanced_search.criteria_row_must_be_selected" value="The Criteria Row 必须被选中."/>
+	<resource key="advanced_search.lookup_is_not_available" value="Lookup for {0} is not available."/>
+	<!--       Client/Scripts/AdvancedSearch.html     -->
+	<!-- +++++ Client/Scripts/changeMD5Dialog.html +++++ -->
+	<resource key="changemd5dialog.new_pwd_is_not_set_msg" value="新的密码未设定 : {0}"/>
+	<!--       Client/Scripts/changeMD5Dialog.html     -->
+	<!-- +++++ Client/Scripts/ClassStructureDialog.html +++++ -->
+	<resource key="classstructure.malformed_xml" value="不规范的 XML: {0}"/>
+        <resource key="classstructure.itemname_cannot_be_empty" value="对象类名称不能为空！"/>
+	<resource key="classstructure.removenode_warning" value="You are attempting to change the class structure of the ItemType.  If the class structure changes will render existing data inconsistent you will need to manually update these classification references."/>
+	<resource key="classstructure.changenode_name_to_existing_name" value="Node with name {0} already exist"/>
+	<resource key="classstructure.you_may_select_leaf_nodes_only" value="You may select leaf nodes only."/>
+	<resource key="classstructure.node_name_is_invalid_it_contains_illegal_character" value="Node name is invalid. It contains illegal character &quot;{0}&quot;."/>
+	<resource key="classstructure.rename_confirmation" value="The modification might cause changes in items that reference the class structure. All changes to referencing items will be applied when the class structure is saved. Are you sure you would like to keep the change?"/>
+	<resource key="classstructure.meta_references_delete_alert" value="The class can’t be deleted because there are meta-data references on this class. Please resolve these conflicts before attempting to delete the class."/>
+	<resource key="classstructure.data_references_delete_warning" value="There are references from Item Type instances on this class. Deleting this class may cause data lost."/>
+	<resource key="classstructure.view_references_add_alert" value="The class is referenced from one or more Views. Views may only be assigned to leaf classes. Please resolve these conflicts before attempting to add any subclasses to this class."/>
+	<resource key="classstructure.data_references_add_alert" value="There are references from Item Type instances on this class. Instance may only be assigned to leaf classes."/>
+	<resource key="classstructure.clipboard_isnotempty" value="Clipboard isn’t empty. Continue will bring lose buffered data."/>
+	<!--       Client/Scripts/ClassStructureDialog.html       -->
+	<!-- +++++ Client/Scripts/ClassStructureDialogFrame.html +++++ -->
+	<resource key="classstructureframe.add_subclass_to" value="添加子类到 {0}中"/>
+	<resource key="classstructureframe.remove_subclass" value="移除子类: {0}"/>
+	<resource key="classstructureframe.cut_subclass" value="Cut"/>
+	<resource key="classstructureframe.paste_subclass" value="Paste"/>
+	<resource key="classstructureframe.sort" value="Sort"/>
+	<resource key="classstructureframe.sort_ascending" value="Ascending"/>
+	<resource key="classstructureframe.sort_discending" value="Descending"/>
+	<!--       Client/Scripts/ClassStructureDialogFrame.html       -->
+	<!-- +++++ Client/Scripts/ClipboardManager.html +++++ -->
+	<resource key="clipboardmanager.clipboard_manager" value="剪贴板管理"/>
+	<resource key="clipboardmanager.source_type" value="资源类型"/>
+	<resource key="clipboardmanager.source_item" value="资源项"/>
+	<resource key="clipboardmanager.relationship_type" value="关系类型"/>
+	<resource key="clipboardmanager.related_type" value="关系类型"/>
+	<resource key="clipboardmanager.related_item" value="关系项"/>
+	<resource key="clipboardmanager.remove" value="移除"/>
+	<resource key="clipboardmanager.paste" value="粘贴"/>
+	<resource key="clipboardmanager.paste_target" value="粘贴目标"/>
+	<resource key="clipboardmanager.paste_options" value="粘贴选项"/>
+	<resource key="clipboardmanager.copy_permissions" value="复制权限"/>
+	<resource key="clipboardmanager.create_related" value="创建相关"/>
+	<resource key="clipboardmanager.paste_html_value" value="粘贴 "/>
+	<resource key="clipboardmanager.select_all_html_value" value="全选"/>
+	<resource key="clipboardmanager.remove_html_value" value="移除"/>
+	<resource key="clipboardmanager.use_ctrl_c" value="Please use Ctrl+C"/>
+	<!--       Client/Scripts/ClipboardManager.html       -->
+	<!-- +++++ Client/Scripts/ConfigurableGrid.html +++++ -->
+	<resource key="configurablegrid.changes_will_be_discarded_html" value="你对 {0}的变更将被舍弃.&lt;br&gt;&lt;br&gt;你想保存更改吗 ?"/>
+	<!--       Client/Scripts/ConfigurableGrid.html       -->
+	<!-- +++++ Client/Scripts/configureEMail.html +++++ -->
+	<resource key="configureemail.configure_email" value="配置电子邮件"/>
+	<!--       Client/Scripts/configureEMail.html       -->
+	<!-- +++++ Client/Scripts/Dashboard.html +++++ -->
+	<resource key="dashboard.error_creating_an_innovator_object" value="创建 innovator 对象时失败."/>
+	<resource key="dashboard.failed_to_load" value="报表加载失败: {0}"/>
+	<resource key="dashboard.failed_to_load_error_generating_graphics" value="报表加载失败: 生成图形失败."/>
+	<!--       Client/Scripts/Dashboard.html       -->
+	<!-- +++++ Client/Scripts/colorDialog.html +++++ -->
+	<resource key="colordialog.title" value="Color dialog"/>
+	<!--       Client/Scripts/colorDialog.html       -->
+	<!-- +++++ Client/Scripts/dirtyItemsList.html +++++ -->
+	<resource key="dirtyitemslist.unsaved_items" value="未保存项"/>
+	<resource key="dirtyitemslist.select_an_item_first" value="请先选择一个对象."/>
+	<resource key="dirtyitemslist.failed_to_save_the" value="保存失败: {0}"/>
+	<resource key="dirtyitemslist.type" value="Type"/>
+	<resource key="dirtyitemslist.keyed_name" value="键入名称"/>
+	<!--       Client/Scripts/dirtyItemsList.html       -->
+	<!-- +++++ Client/Scripts/FindAndReplaceDialog.html +++++ -->
+	<resource key="findandreplacedialog.replace" value="替换"/>
+	<resource key="findandreplacedialog.find_what" value="Find what:"/>
+	<resource key="findandreplacedialog.find_next" value="查找下一个"/>
+	<resource key="findandreplacedialog.replace_with" value="替换为:"/>
+	<resource key="findandreplacedialog.replace_all" value="替换全部"/>
+	<resource key="findandreplacedialog.match_case" value="匹配项"/>
+	<resource key="findandreplacedialog.cancel" value="取消"/>
+	<!--       Client/Scripts/FindAndReplaceDialog.html       -->
+	<!-- +++++ Client/Scripts/foreignPropSelectTree.html +++++ -->
+	<resource key="foreignpropselecttree.foreign_prop_selec_tree" value="附加属性选择数"/>
+	<resource key="foreignpropselecttree.foreign_props" value="额外属性"/>
+	<resource key="foreignpropselecttree.error" value="错误 {0}"/>
+	<!--       Client/Scripts/foreignPropSelectTree.html       -->
+	<!-- +++++ Client/Scripts/historyGrid.html +++++ -->
+	<resource key="historygrid.item_history" value="Item 历史记录"/>
+	<!--       Client/Scripts/historyGrid.html       -->
+	<!-- +++++ Client/Scripts/HTMLEditorDialog.html +++++ -->
+	<resource key="htmleditor.inn_formatted_text_editor" value="Innovator Formatted Text 编辑器"/>
+	<!--       Client/Scripts/HTMLEditorDialog.html       -->
+	<!-- +++++ Client/Scripts/LicManager.html +++++ -->
+	<resource key="licmanager.usernds_not_exist" value="userNds 不存在或者为空."/>
+	<resource key="licmanager.sessions_terminated" value="Sessions for the folowing users will be terminated:
+
+  "/>
+	<resource key="licmanager.no_sessions_terminated" value="No sessions to terminate specified."/>
+	<resource key="licmanager.sure" value="你确定吗 ?"/>
+	<!--       Client/Scripts/LicManager.html       -->
+	<!-- +++++ Client/Scripts/itemsGrid.html +++++ -->
+	<resource key="itemsgrid.claimed_by_dropdown_button" value="Open claimed by menu"/>
+	<resource key="itemsgrid.locked_criteria_ppm.clear_criteria" value=" 清除条件"/>
+	<resource key="itemsgrid.locked_criteria_ppm.locked_by_me" value=" 我可锁定"/>
+	<resource key="itemsgrid.locked_criteria_ppm.locked_by_others" value=" 其他人可锁定"/>
+	<resource key="itemsgrid.locked_criteria_ppm.locked_by_anyone" value=" 任何人可锁定"/>
+	<resource key="itemsgrid.item_type_with_id_not_found" value=" 找不到id为 &quot;{0}&quot; 的对象类 !"/>
+	<resource key="itemsgrid.cntxt_menu.properties" value="属性"/>
+	<resource key="itemsgrid.cntxt_menu.hide_column" value="隐藏列"/>
+	<resource key="itemsgrid.cntxt_menu.insert_column" value="插入列..."/>
+	<resource key="itemsgrid.select_item_type_first" value="请先选择 {0} ."/>
+	<resource key="itemsgrid.failed2get_itemtype" value="夺取对象类 {0}失败 ."/>
+	<resource key="itemsgrid.failed2get_itemtype_with_id" value="获取对象{0} 中 ID 为{1}的项失败."/>
+	<resource key="itemsgrid.error_open_form_preview" value="Form is not able to render in preview mode. Please contact your administrator, a special 'Preview' form may be required."/>
+	<resource key="itemsgrid.no_preview_available" value="No preview available."/>
+	<resource key="itemsgrid.polyitem_cannot_be_edited_from_the_location" value="A Poly Item cannot be edited from this location. 请打开对象编辑"/>
+	<resource key="itemsgrid.undodlg.yes" value="是"/>
+	<resource key="itemsgrid.undodlg.yes4all" value="全部选是"/>
+	<resource key="itemsgrid.undodlg.skip" value="跳过"/>
+	<resource key="itemsgrid.undodlg.cancel" value="取消"/>
+	<resource key="itemsgrid.undo_will_discard_changes" value="撤销将舍弃你对 {0} &quot;{1}&quot;的所有更改. 确定吗?"/>
+	<resource key="itemsgrid.pasting_failed" value="复制失败."/>
+	<resource key="itemsgrid.pasting_success" value="复制成功."/>
+	<resource key="itemsgrid.today" value="今天"/>
+	<resource key="itemsgrid.unable_complete_task_claimed_by_someone_else" value="Unable to complete task, it is currently claimed by someone else."/>
+	<resource key="itemsgrid.completion_dialog" value="Completion Dialog"/>
+	<!--     Client/Scripts/itemsGrid.html     -->
+	<!-- +++++ Client/Scripts/ItemTypeSelectionDialog.html +++++ -->
+	<resource key="itemtypeselectiondialog.select_item_type" value="选择对象类"/>
+	<resource key="itemtypeselectiondialog.do_not_have_permission_to_create" value="You do not have permission to create any &quot;{0}&quot;"/>
+	<!--       Client/Scripts/ItemTypeSelectionDialog.html       -->
+	<!-- +++++ Client/Scripts/LicManager.html +++++ -->
+	<resource key="licmanager.title" value="License Manager"/>
+	<resource key="licmanager.n_column_caption" value="№"/>
+	<resource key="licmanager.x_column_caption" value="X"/>
+	<resource key="licmanager.login" value="登录"/>
+	<resource key="licmanager.database" value="数据库名"/>
+	<resource key="licmanager.login_time" value="登录时间"/>
+	<resource key="licmanager.last_activity" value="最后活动"/>
+	<resource key="licmanager.licenses" value="Licenses"/>
+	<resource key="licmanager.comments" value="注释"/>
+	<!--       Client/Scripts/LicManager.html       -->
+	<!-- +++++ Client/Scripts/LifeCycleDialog.html +++++ -->
+	<resource key="lifecycledialog.lc" value="{0} 生命周期."/>
+	<resource key="lifecycledialog.no_lc" value="{0} 没有生命周期."/>
+	<resource key="lifecycledialog.please_enter_comments" value="请输入注释:"/>
+	<!--       Client/Scripts/LifeCycleDialog.html       -->
+	<!-- +++++ Client/Scripts/login.aspx +++++ -->
+	<resource key="login.cookies_are_disabled_msg_html" value="在登录Innovator前,请确认浏览器的 cookies 已启用."/>
+	<!--       Client/Scripts/login.aspx       -->
+	<!-- +++++ Client/Scripts/MainMenu.aspx +++++ -->
+	<resource key="mainmenu.reset_lcs_failed" value="重置生命周期状态失败."/>	
+	<resource key="mainmenu.rebuild_keyed_name_prop" value="请输入对象类名称以重建关键属性. 名称列表用逗号隔开. 若为空则重建所有."/>
+	<resource key="mainmenu.set_lc_failed" value="默认生命周期设置失败."/>
+	<resource key="mainmenu.reset_access_failed" value="重置对象过程失败."/>
+	<resource key="mainmenu.rebuilding_kn_failed" value="重建关键字{0}失败."/>
+	<resource key="mainmenu.kn_rebuilt" value="关键字已重建."/>
+	<resource key="mainmenu.change_sign" value="修改电子签名"/>
+	<resource key="mainmenu.old_sign" value="原始电子签名: "/>
+	<resource key="mainmenu.new_sign" value="新电子签名: "/>
+	<resource key="mainmenu.confirm_sign" value="新电子签名确认: "/>
+	<resource key="mainmenu.check_sign_confirmation" value="检查新签名和认证."/>
+	<!--       Client/Scripts/MainMenu.aspx       -->
+	<!-- +++++ Client/Modules/aras/dialogs/multiLingual.js +++++ -->
+	<resource key="mldialog.ml_entry" value="多语言环境"/>
+	<!--       Client/Modules/aras/dialogs/multiLingual.js       -->
+	<!-- +++++ Client/Scripts/nash.aspx +++++ -->
+	<resource key="nash.unexpected_error" value="nash.aspx未知错误 "/>
+	<!--       Client/Scripts/nash.aspx       -->
+	<!-- +++++ Client/Scripts/parametersGrid.html +++++ -->
+	<resource key="parametersgrid.sort_order" value="Sort order"/>
+	<resource key="parametersgrid.wrong_value_it" value="对象类输入值错误 {0}"/>
+	<!--       Client/Scripts/parametersGrid.html       -->
+	<!-- +++++ Client/Scripts/printGridDialog.html +++++ -->
+	<resource key="printgriddialog.search_results" value="查找结果"/>
+	<!--       Client/Scripts/printGridDialog.html       -->
+	<!-- +++++ Client/Scripts/promoteDialog.html +++++ -->
+	<resource key="promotedlg.propmote" value="提升 {0}"/>
+	<resource key="promotedlg.no_promotions_available" value="没有有效提升."/>
+	<resource key="promotedlg.comment" value="请输入注释:"/>
+	<resource key="promotedlg.select_state" value="先选择一个状态."/>
+	<resource key="promotedlg.to_state" value="To State"/>
+	<!--       Client/Scripts/promoteDialog.html       -->
+	<!-- +++++ Client/Scripts/propsDialog.html +++++ -->
+	<resource key="propsdialog.item_type_label__item_keyed_name__properties" value="{0} &quot;{1}&quot; 属性"/>
+	<!--       Client/Scripts/propsDialog.html       -->
+	<!-- +++++ Client/Scripts/relationships.html +++++ -->
+	<resource key="relationships.lost_reference" value="内部错误:缺少对字段的引用."/>
+	<resource key="relationships.parameters_not_valid" value="参数无效: {0}"/>
+	<!--       Client/Scripts/relationships.html       -->
+	<!-- +++++ Client/Scripts/revisionsDialog.html +++++ -->
+	<resource key="revisiondlg.item_versions" value="项目版本"/>
+	<resource key="revisiondlg.failed_get_it" value="获取对象类 {0} 失败."/>
+	<resource key="revisiondlg.failed_get_item_id" value="获取{0}中ID 为{1}的类失败."/>
+	<!--       Client/Scripts/revisionsDialog.html       -->
+	<!-- +++++ Client/Scripts/searchDialog.html +++++ -->
+	<resource key="searchdlg.select_item" value="请先选择一个对象."/>
+	<!--       Client/Scripts/searchDialog.html       -->
+	<!-- +++++ Client/Scripts/setup.aspx +++++ -->
+	<resource key="setup.cache_is_disabled" value="Please enable browser cache to improve performance"/>
+	<!--       Client/Scripts/setup.aspx       -->
+	<!-- +++++ Client/Scripts/relationshipsGrid.html +++++ -->
+	<resource key="relationshipsgrid.failed_get_item" value="获取项 {0} 失败."/>
+	<resource key="relationshipsgrid.no_additional_columns" value="对象类中没有可用的附件列"/>
+	<resource key="relationshipsgrid.no_visible_props" value="This ItemType has no visible properties. You cannot create a new item."/>
+	<resource key="relationshipsgrid.select_row" value="请先选择一行."/>
+	<resource key="relationshipsgrid.try_view" value="不存在 {0}. 请查看 {1}."/>
+	<resource key="relationshipsgrid.copy_without_saving" value="You can not perform a 'Copy' without saving.
+Save parent item first."/>
+	<resource key="relationshipsgrid.failed_get_item_id" value="Failed to get the item with ID {0}."/>
+	<resource key="relationshipsgrid.pasting_failed" value="Pasting failed."/>
+	<resource key="relationshipsgrid.pasting_completed_success" value="Pasting completed successfully."/>
+	<resource key="relationshipsgrid.clear_file_field" value="Do you want to clear the file field?"/>
+	<resource key="relationshipsgrid.already_open" value="This item is already open from a different configuration. You should be careful not to lose your data."/>
+	<resource key="relationshipsgrid.related_item_cannot_null" value="The related item can not be null."/>
+	<resource key="relationshipsgrid.related_it_not_spec" value="Related ItemType for RelationshipType &quot;{0}&quot; is not specified."/>
+	<resource key="relationshipsgrid.cant_change_relship" value="Can not change relationship: no related item."/>
+	<resource key="relationshipsgrid.select_relship" value="Select a relationship first."/>
+	<resource key="relationshipsgrid.no_relship_item_found" value="No relationship items found."/>
+	<resource key="relationshipsgrid.delete_from_clipboard_not_future_pasting" value="The relationship which you want delete is in the clipboard.
+Deleting the relationship will not allow future pasting.
+Do you really want to delete it?"/>
+	<resource key="relationshipsgrid.related_item_not_found" value="Related item not found."/>
+	<resource key="relationshipsgrid.ok" value="It's Ok."/>
+	<resource key="relationshipsgrid.failed_get_related_item_id" value="获取ID为 {1}的关系对象 {0} 失败."/>
+	<resource key="relationshipsgrid.value_not_exist_for_it" value="Value entered does not exist for item type {0}. Edit again?"/>
+	<resource key="relationshipsgrid.no_form_view" value="未找到定义于此视图的窗体."/>
+	<resource key="relationshipsgrid.locked_another_user_change_view_classification" value="Form is locked by another user.\r\n\r\nDo you wish to continue and change this View classification?"/>
+	<resource key="relationshipsgrid.form_defined_view_not_found" value="The Form defined for this View is not found."/>
+	<resource key="relationshipsgrid.modifying_class_value_remove_fields" value="Modifying the class value for this form will remove the following fields from its current definition:\r\n\r\n"/>
+	<resource key="relationshipsgrid.continue_remove" value="\r\nDo you wish to continue and remove these fields?"/>
+	<resource key="relationshipsgrid.form_cannot_be_locked" value="The Form cannot be locked"/>
+	<resource key="relationshipsgrid.class_path_prop" value="Class Path for Property {0} of ItemType {1}."/>
+	<resource key="relationshipsgrid.internal_error_event_failed_initialize" value="内部错误: 事件处理程序初始化失败."/>
+	<resource key="relationshipsgrid.custom_event_failed" value="客户端事件处理程序 &quot;{0}&quot; 初始化失败:
+{1}"/>
+	<resource key="relationshipsgrid.internal_err_event_failed" value="内部错误: 事件处理失败."/>
+	<resource key="relationshipsgrid.failed_with_msg" value="{0} 处理程序失败信息: {1}"/>
+  	<resource key="relationshipsgrid.initialize_relshipgrid" value="不能够初始化关系表格.请重试."/>
+  	<resource key="relationshipsgrid.pickreplace" value="选择/取代 &quot;{0}&quot;"/>
+  	<resource key="relationshipsgrid.remove" value="移除 &quot;{0}&quot;"/>
+  	<resource key="relationshipsgrid.view" value="检视 &quot;{0}&quot;"/>
+  	<resource key="relationshipsgrid.view_file" value="检视 File"/>
+	<resource key="relationshipsgrid.delete_confirmation" value="Are you sure you want to delete this item(s)?"/>
+	<resource key="relationshipsgrid.no_released_generation" value="No previous Released generation for redline comparison available"/>
+	<!--       Client/Scripts/relationshipsGrid.html       -->
+	<!-- +++++ Client/Scripts/StructureBrowser.html +++++ -->
+  	<resource key="structurebrowser.browser" value="结构图"/>
+  	<resource key="structurebrowser.show_item" value="显示条目 ..."/>
+	<resource key="structurebrowser.expand_from_here" value="Expand from here"/>
+	<resource key="structurebrowser.side_by_side_with_other" value="Side-by-Side with other {0}"/>
+	<!--       Client/Scripts/StructureBrowser.html       -->
+	<!-- +++++ Dependencies section +++++ -->
+	<resource key="dependencies.is_new_error" value="The {0} is not saved yet."/>
+	<!-- +++++ Dependencies section +++++ -->
+	<!-- +++++ Client/Scripts/StructureBrowser.html +++++ -->
+	<resource key="tearoffmenu.err_copyitem" value="Error in CopyItem"/>
+  	<resource key="tearoffmenu.default_permission_sfx" value=" [默认]"/>
+	<resource key="tearoffmenu.private_permissions_lose" value="There are currently permissions specified for one or more Restricted Identities which will be removed if a Private Permission is created."/>
+	<!--       Client/Scripts/StructureBrowser.html       -->
+	<!-- +++++ Client/Scripts/textDialog.html +++++ -->
+	<resource key="textdialog.title" value="Text Dialog"/>
+  	<resource key="textdialog.text_pad" value="Text 填充"/>
+  	<resource key="textdialog.save_html_value" value="保存"/>
+  	<resource key="textdialog.reset_html_value" value="重置"/>
+  	<resource key="textdialog.close_html_value" value="关闭"/>
+	<!--      Client/Scripts/textDialog.html       -->
+	<!-- +++++ Client/Scripts/whereUsed.html +++++ -->
+  	<resource key="whereused.wu" value="用与何处"/>
+  	<resource key="whereused.open_item" value="打开项..."/>
+	<!--      Client/Scripts/whereUsed.html       -->
+	<!--       Client/Scripts/FormTool/fieldTool.html       -->
+  	<resource key="fieldtool.select_field_delete" value="请选择要删除的字段."/>
+  	<resource key="fieldtool.failed_create_new_field" value="创建字段失败."/>
+  	<resource key="fieldtool.form_fields" value="{0} 字段集"/>
+	<!--       Client/Scripts/FormTool/fieldTool.html      -->
+	<!-- +++++ Client/Scripts/FormTool/formTabs.html +++++ -->
+  	<resource key="formtabs.field_type" value="域类型"/>
+  	<resource key="formtabs.field_label" value="域标签"/>
+  	<resource key="formtabs.field_physical" value="域物理属性"/>
+  	<resource key="formtabs.field_border" value="域边框"/>
+  	<resource key="formtabs.field_css" value="域 CSS"/>
+  	<resource key="formtabs.field_event" value="域事件"/>
+  	<resource key="formtabs.form_props" value="窗体属性"/>
+  	<resource key="formtabs.form_body" value="窗体主体"/>
+  	<resource key="formtabs.form_event" value="窗体事件"/>
+	<!--       Client/Scripts/FormTool/formTabs.html       -->
+	<!-- +++++ Client/Scripts/FormTool/formtool.html +++++ -->
+	<resource key="formtool.internal_err_formtool_failed_init" value="内部错误: 窗体工具加载失败 (窗体或窗体主体为空)."/>
+	<resource key="formtool.check_form" value="Form Tool failed to initialize (Form or Form Body is empty). Check the Form."/>
+	<!--       Client/Scripts/FormTool/formtool.html      -->
+	<!-- +++++ Client/Scripts/InBasket/InBasket-VoteDialog.html +++++ -->
+	<resource key="inbasketvd.act_variable_not_found_varid" value="The &quot;Activity Variable Value&quot; item was not found for varID {0}"/>
+  	<resource key="inbasketvd.act_no_allowed_votes" value="错误: 此活动没有权限."/>
+  	<resource key="inbasketvd.wrong_iden" value="项类型 'Identity'输入值错误"/>
+  	<resource key="inbasketvd.votelist_no_selected_items" value="VoteList 不含选定项."/>
+  	<resource key="inbasketvd.enter_pwd" value="你必须输入你的密码来完成活动."/>
+  	<resource key="inbasketvd.validatevote_resultxml_empty" value="ValidateVote: 结果XML为空!"/>
+  	<resource key="inbasketvd.pwd_invalid" value="输入密码无效."/>
+  	<resource key="inbasketvd.votelist_no_items" value="VoteList 不含任何项."/>
+  	<resource key="inbasketvd.enter_esign" value="你必须输入你的电子签名来完成你的活动."/>
+	<resource key="inbasketvd.esign_invalid" value="The E-Signature you entered is invalid."/>
+  	<resource key="inbasketvd.someone_delegate_to" value="请指定委托人名称."/>
+  	<resource key="inbasketvd.task_required" value="任务{0} 是必需的且必须被完成."/>
+  	<resource key="inbasketvd.variable_required" value="变量 {0} 是必需的, 请填写."/>
+  	<resource key="inbasketvd.sequence" value="序列"/>
+  	<resource key="inbasketvd.description" value="描述"/>
+  	<resource key="inbasketvd.complete" value="完成"/>
+  	<resource key="inbasketvd.workflow_activity_completion" value="工作流活动完成"/>
+  	<resource key="inbasketvd.workflow" value="工作流:"/>
+  	<resource key="inbasketvd.activity" value="活动:"/>
+  	<resource key="inbasketvd.tasks" value="任务"/>
+  	<resource key="inbasketvd.variables" value="变量"/>
+  	<resource key="inbasketvd.vote" value="投票"/>
+  	<resource key="inbasketvd.vote_with_colon" value="投票:"/>
+  	<resource key="inbasketvd.delegate_to" value="委托给:"/>
+  	<resource key="inbasketvd.comments" value="注释:"/>
+  	<resource key="inbasketvd.authentication" value="认证"/>
+  	<resource key="inbasketvd.password" value="密码:"/>
+  	<resource key="inbasketvd.e_signature" value="电子签名:"/>
+  	<resource key="inbasketvd.complete_html_value" value="完成"/>
+  	<resource key="inbasketvd.save_changes_html_value" value="保存修改"/>
+  	<resource key="inbasketvd.cancel_html_value" value="取消"/>
+	<resource key="inbasketvd.unlock_dialog_title" value="Item {0} should be unlocked"/>
+	<resource key="inbasketvd.unlock_dialog_message" value="{0} &quot;{1}&quot; is locked. Your vote cannot be completed while the Item is locked. Would you like to unlock it now?"/>
+	<!--      Client/Scripts/InBasket/InBasket-VoteDialog.html       -->
+	<!-- +++++ Client/Scripts/InBasket/InBasket.html +++++ -->
+  	<resource key="inbasket.locked_column_nm" value=""/>
+  	<resource key="inbasket.type_column_nm" value="类型"/>
+  	<resource key="inbasket.workflow_project_column_nm" value="工作流/项目"/>
+  	<resource key="inbasket.activity_name_column_nm" value="活动"/>
+  	<resource key="inbasket.status_column_nm" value="状态"/>
+  	<resource key="inbasket.start_date_column_nm" value="开始日期"/>
+  	<resource key="inbasket.end_date_column_nm" value="结束日期"/>
+  	<resource key="inbasket.instrucations_column_nm" value="说明"/>
+	<resource key="inbasket.assigned_to_column_nm" value="Assigned To"/>
+  	<resource key="inbasket.filter_by_type_html" value="根据类型筛选"/>
+  	<resource key="inbasket.workflow_activities_html" value="工作流活动"/>
+  	<resource key="inbasket.project_activities_html" value="项目活动"/>
+  	<resource key="inbasket.action_items_html" value="行为项"/>
+  	<resource key="inbasket.filter_by_status_html" value="根据状态筛选"/>
+  	<resource key="inbasket.active_html" value="活动的"/>
+  	<resource key="inbasket.pending_html" value="待解决"/>
+  	<resource key="inbasket.cntxt_menu.view_mode" value="查看模式"/>
+  	<resource key="inbasket.cntxt_menu.pending" value="待解决的"/>
+  	<resource key="inbasket.cntxt_menu.both" value="Both"/>
+  	<resource key="inbasket.cntxt_menu.view_workflow" value="检视 工作流"/>
+  	<resource key="inbasket.cntxt_menu.update_act" value="进行签核表"/>
+  	<resource key="inbasket.cntxt_menu.active" value="Active"/>
+	<resource key="inbasket.cntxt_menu.view_act" value="活动试图"/>
+  	<resource key="inbasket.cntxt_menu.update_action" value="刷新行为"/>
+  	<resource key="inbasket.cntxt_menu.view_gantt_chart" value="开启甘特图"/>
+  	<resource key="inbasket.bad_grid_xml" value="xml格式有误: {0}"/>
+	<!--       Client/Scripts/InBasket/InBasket.html       -->
+	<!-- +++++ Client/Scripts/LifeCycle/lifecycleEditor.html +++++ -->
+  	<resource key="lc.cntxt_menu.add_state" value="添加状态"/>
+  	<resource key="lc.cntxt_menu.remove_state" value="移除状态"/>
+  	<resource key="lc.cntxt_menu.add_transition" value="添加过程"/>
+  	<resource key="lc.cntxt_menu.set_start_state" value="设为开始状态"/>
+  	<resource key="lc.cntxt_menu.remove_transition" value="移除过程"/>
+  	<resource key="lc.cntxt_menu.insert_state" value="插入状态"/>
+  	<resource key="lc.remove_dependent_transitions" value="请先移除相关连的过程"/>
+	<resource key="lc.cant_remove_start" value="Cannot remove the start state."/>
+	<resource key="lc.cant_set_start_remove_transitions" value="Cannot set start state: remove transitions first."/>
+	<resource key="lc.new_state.new_state" value="New State"/>
+   	<!--       Client/Scripts/LifeCycle/lifecycleEditor.html       -->
+   	<!-- +++++ Client/Scripts/ReportTool/ +++++ -->
+  	<resource key="reporttool.report_tool_is_not_applicable" value="报表工具不能使用."/>
+  	<resource key="reporttool.apply_html_value" value="申请"/>
+  	<resource key="reporttool.reset_html_value" value="重置"/>
+  	<resource key="reporttool.report" value="报表"/>
+  	<resource key="reporttool.stylesheet" value="样式表"/>
+  	<resource key="reporttool.submit" value="提交"/>
+  	<resource key="reporttool.cancel" value="取消"/>
+   	<!--       Client/Scripts/ReportTool/       -->
+	<!-- +++++ Client/Scripts/SitePreference/deletePreferences.html +++++ -->
+	<resource key="deleteprefdlg.title" value="删除选择"/>
+	<resource key="deleteprefdlg.searching" value="   正在查找..."/>
+	<!--       Client/Scripts/SitePreference/deletePreferences.html       -->
+	<!-- +++++ Client/Scripts/SitePreference/gridLayout.html +++++ -->
+	<resource key="gridlayout.err_cannot_find_item_id" value="错误 11: 不能找到 id='{0}'的项"/>
+	<resource key="gridlayout.position" value="位置"/>
+	<resource key="gridlayout.label" value="标签"/>
+	<resource key="gridlayout.width" value="宽"/>
+	<resource key="gridlayout.itemtype" value="对象类"/>
+	<resource key="gridlayout.property" value="属性"/>
+	<!--       Client/Scripts/SitePreference/gridLayout.html       -->
+	<!-- +++++ Client/Scripts/SitePreference/showColumnDialog.html +++++ -->
+	<resource key="showcolumndlg.title" value="选择属性"/>
+	<resource key="showcolumndlg.title1" value="&lt;b&gt;选择列中显示的属性:&lt;/b&gt;"/>
+	<resource key="showcolumndlg.incorrect_dlg_arg" value="错误的对话框参数. 提示信息: propsToShow."/>
+	<resource key="showcolumndlg.select_all" value="全选"/>
+	<!--       Client/Scripts/SitePreference/showColumnDialog.html       -->
+	<!-- +++++ Client/Scripts/Workflow/workflowEditor.html +++++ -->
+	<resource key="workfloweditor.cntxt_menu.remove_act" value="移除活动"/>
+	<resource key="workfloweditor.cntxt_menu.add_act" value="添加活动"/>
+	<resource key="workfloweditor.cntxt_menu.add_path" value="添加路径"/>
+	<resource key="workfloweditor.cntxt_menu.props" value="属性集"/>
+	<resource key="workfloweditor.cntxt_menu.remove_path" value="移除路径"/>
+	<resource key="workfloweditor.cntxt_menu.insert_act" value="插入路径"/>
+	<resource key="workfloweditor.remove_dependent_paths" value="先移除依赖路径."/>
+	<resource key="workfloweditor.cannot_remove_start_act" value="不能移除开始活动."/>
+	<resource key="workfloweditor.new_activity" value="新活动"/>
+	<resource key="workfloweditor._none_" value="[无]"/>
+	<!--       Client/Scripts/Workflow/workflowEditor.html       -->
+	<!-- +++++ Client/Scripts/Workflow/workflowRelationships.html +++++ -->
+	<resource key="workflowrelships.params_arent_valid" value="参数无效: {0}"/>
+	<!--       Client/Scripts/Workflow/workflowRelationships.html       -->
+	<!-- +++++ Client/Scripts/WorkflowProcess/WfIProcessViewer.aspx +++++ -->
+	<resource key="wfiprocessviewer.failed_load_wp_instance" value="加载工作流过程事例失败."/>
+	<!--       Client/Scripts/WorkflowProcess/WfIProcessViewer.aspx       -->
+	<!-- +++++ Client/Scripts/ReportTool/default.htm +++++ -->
+	<resource key="default.stylesheet_err" value="Stylesheet 错误: {0}"/>
+	<resource key="default.css_err" value="CSS 样式错误: {0}
+{1}"/>
+	<resource key="default.aras_functions_err" value="Aras 函数错误: {0}
+{1}"/>
+	<!--       Client/Scripts/ReportTool/default.htm       -->
+	<!-- +++++ Client/Scripts/ReportTool/report.htm +++++ -->
+	<resource key="report.tree_err" value="树错误: {0}"/>
+	<resource key="report.query_err" value="查询错误: ({0}) {1}"/>
+	<resource key="report.template_err" value="模板错误: {0}"/>
+	<resource key="report.standard_template" value="你想用标准模板开始吗?"/>
+	<!--       Client/Scripts/ReportTool/report.htm       -->
+	<!-- +++++ Client/Scripts/ReportTool/stylesheet.html +++++ -->
+	<resource key="stylesheet.apply_change_err" value="申请变更错误: {0}"/>
+	<!--       Client/Scripts/ReportTool/stylesheet.html       -->
+	<!-- +++++ Imports/com/aras/innovator +++++ -->
+	<resource key="imports_core.input_int_as_duration_warning" value="期限必须为正整数"/>
+	<resource key="imports_core.inactivity_duration_days_lbl" value="截止期限(天)"/>
+	<resource key="imports_core.loading_file" value="正在加载文件..."/>
+	<resource key="imports_core.configure_email" value="配置 E-Mail"/>
+	<resource key="imports_core.data_source" value="数据源"/>
+	<resource key="imports_core.activity_summary" value="活动概要"/>
+	<resource key="imports_core.name" value="名称"/>
+	<resource key="imports_core.managed_by" value="管理"/>
+	<resource key="imports_core.role" value="角色"/>
+	<resource key="imports_core.status" value="状态"/>
+	<resource key="imports_core.escalate_to" value="提升"/>
+	<resource key="imports_core.duration" value="持续时间"/>
+	<resource key="imports_core.message" value="信息"/>
+	<resource key="imports_core.assignments" value="作业"/>
+	<resource key="imports_core.required" value="必需的"/>
+	<resource key="imports_core.for_all" value="所有"/>
+	<resource key="imports_core.voting_weight" value="投票权重"/>
+	<resource key="imports_core.identity_not_in_role" value="参与者 {0}不属于 {1} (角色)."/>
+	<resource key="imports_core.new" value="新建"/>
+	<resource key="imports_core.pick_replace_identity" value="选择/替换参与者"/>
+	<resource key="imports_core.delete" value="删除"/>
+	<resource key="imports_core.cancel_workflow_html_value" value="取消工作流"/>
+	<resource key="imports_core.cancelling" value="正在取消..."/>
+	<resource key="imports_core.canceling_cannot_be_undone_warning" value="取消工作流将无法恢复. 你确定要取消当前的工作流过程?"/>
+	<resource key="imports_core.open_item" value="Open Item"/>
+	<resource key="imports_core.variable_value_must_integer" value="无效的属性值. 属性值必须为整型. 重新编辑?"/>
+	<resource key="imports_core.class_structure_for" value=" {0}类结构图"/>
+	<resource key="imports_core.file_extension_troubles" value="The extension of the file you are trying to open does not have an Innovator FileType associated with it."/>
+	<resource key="imports_core.file_extension_troubles_use_file_download" value="Please contact your Innovator Admin to have a FileType defined for the extension. You may still use the File/Download menu item on this form to download the file to your working directory."/>
+	<resource key="imports_core.property_name_error" value="Error in property name: specify name begining with letter or underscore
+ and followed by any combination of letters, digits and underscores !"/>
+	<resource key="imports_core.restricted_property_name" value="限制属性名称"/>
+	<resource key="imports_core.property_name_error_remove_whitespaces" value="属性名错误: 移除所有空白字符 ?"/>
+	<resource key="imports_core.new_pwd_cannot_be_set" value="新密码不能设置: {0} 重新编辑?"/>
+	<resource key="imports_core.no_method_with_specified_name" value="不能找到名称={0}的方法"/>
+	<resource key="imports_core.poly_cannot_be_reversed_to_non_poly" value="警告! Poly type cannot be reversed to Non Poly type after ItemType is created"/>
+	<resource key="imports_core.poly_cannot_be_reversed_to_non_poly_error" value="错误! Poly type cannot be reversed to Non Poly type after ItemType is created"/>
+	<resource key="imports_core.item_is_not_view" value="Affected Item is not a View !"/>
+	<resource key="imports_core.view_is_not_saved" value="视图未保存 !"/>
+	<resource key="imports_core.view_update_success" value="视图更新成功"/>
+	<resource key="imports_core.view_update_failed" value="视图更新失败"/>
+	<resource key="imports_core.password_policy_requirements_missed" value="密码不符合密码标准要求.检查密码长度 (最短为 {0}) 和密码数字 (至少为 {1})."/>
+	<resource key="imports_core.password_policy_requirements_missed2" value="The password does not meet the password policy requirements.
+Check password digits (at least {0})."/>
+  	<resource key="imports_core.no_workflow_signoffs_exist" value="此时间段没有工作流 Signoffs."/>
+  	<!--       Imports/com/aras/innovator       -->
+	<!-- Client/scripts/relationshipGrid.html -->
+	<resource key="com.aras.innovator.core.on_member_insert_warning" value="The Identity you are adding a Member to is an Alias Identity. Aliases are not intended to have members, and this should not be done in a production system. Are you sure you wish to add this Identity?"/>
+	<resource key="com.aras.innovator.core.on_alias_add_warning" value="正在添加的参与者名称 {0}在用户中找不到对应匹配项 {1}. 你确定要添加此参与者吗?"/>
+	<!-- Client/scripts/SearchCenter/index.html -->
+	<!--User Notification-->
+	<resource key="user_notifications.failed_get_interval_variable" value="Invalid 'MessageCheckInterval' variable value"/>
+	<resource key="user_notifications.message_no_more_available" value="Message no more available"/>
+	<!--System Requirements-->
+	<resource key="system_requirements.failed_initialize_innovator" value="Failed to Initialize"/>
+	<resource key="system_requirements.certification_browser_notification" value="You are currently running browser &quot;{0}&quot;. The browser has failed the browser requirement check. Please contact your system administrator to confirm your client against the platform requirements."/>
+	<resource key="system_requirements.certification_browser_decision_label" value="Remember my decision."/>
+	<!-- +++++ Timezones +++++ -->
+	<resource key="tz.get_currentzone_fail" value="Could not get current time zone."/>
+	<resource key="tz.apply_update_fail" value="Could not apply time zones update."/>
+	<resource key="tz.apply_update_success" value="Time zones data updated was succesfully applied."/>
+	<resource key="tz.get_update_fail" value="Error occurred while getting update from Aras site. You can choose update file from your local disk."/>
+	<resource key="tz.parse_update_fail" value="Time zones update file has wrong format. You can choose another update file from your local disk."/>
+	<resource key="tz.parse_update_fail_details" value="Error: {0}"/>
+	<resource key="tz.file_is_empty" value="Error: File is empty"/>
+	<resource key="tz.select_time_zone" value="Select time zone"/>
+	<!--  FileExchange -->
+	<resource key="fe.assign_package_error" value="Team can't be assigned to package while it is locked" />
+	<resource key="fe.wrong_input_error" value="Internal error: wrong input property's labels, property's columns width, property's columns aligns." />
+	<resource key="fe.copy_files_from_instances_title" value="Copy file(s) from another item(s)" />
+	<resource key="fe.select_configurations_title" value="Select configuration" />
+	<resource key="fe.selected_files" value="Selected Files" />
+	<resource key="fe.select_files_title" value="Select Files" />
+	<resource key="fe.item_type" value="Item Type[...]" />
+	<resource key="fe.select" value="Select" />
+	<resource key="fe.configuration" value="Configuration" />
+	<resource key="fe.selected_items" value="Selected Items" />
+	<resource key="fe.changed_file_list" value="Change Files" />
+	<resource key="fe.selected_all" value="Select All" />
+	<resource key="fe.error_add_files_to_package" value="You can add files to the package in state 'InWork'" />
+	<resource key="fe.retry_transaction" value="{0} restared" />
+	<resource key="fe.configuration_empty" value="Configuration is empty" />
+	<!-- Feature License-->
+	<resource key="licensing.copy_system_info" value="Copy System Information"/>
+	<resource key="licensing.view_feature_tree_title" value="View Feature Tree" />
+	<resource key="licensing.activate_button" value="Activate"/>
+	<resource key="licensing.action_type_activate" value="Activate Feature" />
+	<resource key="licensing.activation_key" value="Activation Key "/>
+	<resource key="licensing.activation_key_is_empty" value="Activation key can't be empty" />
+	<resource key="licensing.feature_label" value="Feature" />
+	<resource key="licensing.success_import_title" value="Activation Successful"/>
+	<resource key="licensing.success_update_title" value="Feature Updated" />
+	<resource key="licensing.feature_successfully_updated" value="The feature has been successfully updated." />
+	<resource key="licensing.activation_error_title" value="Activation Error"/>
+	<resource key="licensing.expiration_date" value="Expiration Date" />
+	<resource key="licensing.service_not_available" value="Unable to communicate with the Aras licensing service.&#13;&#10;Please visit the {SUBSCRIBER_PORTAL} to view or request a license."/>
+	<resource key="licensing.subscriber_portal" value="subscriber portal"/>
+	<resource key="licensing.service_not_available_title" value="Service is not available" />
+	<resource key="licensing.update_feature_tree_service_not_available" value="Unable to download the latest Feature Tree. Please try again. If this error persists, please contact {LICENSES_EMAIL}."/>
+	<resource key="licensing.update_feature_tree_service_not_available_title" value="Update Error" />
+	<resource key="licensing.not_found" value="Error 404. Service not found" />
+	<resource key="licensing.import_license" value="Import" />
+	<resource key="licensing.import_feature_license" value="Import Feature License" />
+	<resource key="licensing.feature_license_label" value="Feature License" />
+	<resource key="licensing.feature_tree_successfully_updated" value="FeatureTree updated successfully" />
+	<resource key="licensing.feature_tree_failed_updated_featureTree" value="Update FeatureTree failed" />
+	<resource key="licensing.framework_license_key" value="Framework License Key"/>
+	<resource key="licensing.innovator_server_name" value="Server Name"/>
+	<resource key="licensing.innovator_server_locale" value="Server Locale"/>
+	<resource key="licensing.mac_address" value="Server MAC"/>
+	<resource key="licensing.database_server_name" value="Database Server Name"/>
+	<resource key="licensing.database_engine_edition" value="Database Edition"/>
+	<resource key="grid.rows_must_have_unique_ids" value="All grid rows must have unique ids." />
+	<!-- Configurable InBasket -->
+	<resource key="configurable_inbasket.enabled_successfully" value="Configurable InBasket is hidden successfully." />
+	<resource key="configurable_inbasket.enabled_already" value="Configurable InBasket has already been hidden." />
+	<resource key="configurable_inbasket.enable_confirm" value="Hiding Configurable InBasket. Current InBasket implementation will be hidden. Are you sure?" />
+	<!-- +++++ SSVC +++++ -->
+	<resource key="ssvc.my_bookmarks" value="Bookmarks" />
+	<resource key="ssvc.my_bookmarks.context_menu.set_as_default" value="Set as Default" />
+	<resource key="ssvc.my_bookmarks.context_menu.rename" value="Rename"/>
+	<resource key="ssvc.my_bookmarks.context_menu.remove" value="Remove" />
+	<resource key="ssvc.my_bookmarks.context_menu.share" value="Share..." />
+	<resource key="ssvc.my_bookmarks.context_menu.open" value="Open" />
+	<resource key="ssvc.my_bookmarks.tooltip.owned_by" value="Owned by {0}" />
+	<resource key="ssvc.forum.set_availability_to" value="Set availability to" />
+	<resource key="ssvc.forum.share" value="Share..."/>
+	<resource key="ssvc.forum.share_with_identities" value="Identities"/>
+	<resource key="ssvc.forum.add_items" value="Add Item(s) to Bookmarks" />
+	<resource key="ssvc.forum.items_added" value="Item(s) added to Bookmarks." />
+	<resource key="ssvc.forum.add_to" value="Add to" />
+	<resource key="ssvc.forum.add_search_to_forum" value="Add Search to Forum" />
+	<resource key="ssvc.forum.dialog.create_new_forum" value="Create new Forum"/>
+	<resource key="ssvc.forum.dialog.share_forum" value="Share Forum" />
+	<resource key="ssvc.forum.dialog.public" value="Public" />
+	<resource key="ssvc.forum.dialog.private" value="Private" />
+	<resource key="ssvc.forum.dialog.no_identities" value="You have not selected identities to share forum with. Private option will be selected by default." />
+	<resource key="ssvc.forum.dialog.shared_with_identities" value="Shared with Identities:" />
+	<resource key="ssvc.forum.new_forum_name" value="Name" />
+	<resource key="ssvc.forum.searchBookmarks" value="Search bookmarks..." />
+	<resource key="ssvc.secure_message.disabled" value="Message erased {0}." />
+	<resource key="ssvc.secure_message.snapshot_access_restricted" value="Access to snapshot is restricted." />
+	<resource key="ssvc.secure_message.no_get_permission" value="You do not have permission to open this version of the item." />
+	<resource key="ssvc.secure_message.failed_get_user" value="Failed to get the user from message: " />
+	<resource key="ssvc.aras_secure_social" value="Aras Secure Social" />
+	<resource key="ssvc.licenseText" value="Aras Subscribers get visual collaboration including 3D/2D viewing, redlining, threaded discussions and more!"/>
+	<resource key="ssvc.licenseButtonText" value="See More"/>
+	<resource key="ssvc.ssvc_not_enabled_for_item" value="SSVC is not enabled for item."/>
+	<!--		SSVC		-->
+	<!-- +++++ File management +++++ -->
+	<resource key="file_management.select_and_upload_file" value="Select file..."/>
+	<resource key="file_management.select_and_upload_file_tooltip" value="Select new file"/>
+	<resource key="file_management.manage_file_property" value="Manage file property"/>
+	<resource key="file_management.clear_file_property" value="Delete file"/>
+	<resource key="file_management.file_succesfully_downloaded" value="The file &quot;{0}&quot; has been successfuly downloaded into {1}."/>
+	<resource key="file_management.dialog_initialization_failed" value="Failed to initialize dialog. Check setup arguments."/>
+	<resource key="file_management.file_with_id_not_found" value="Could not find 'File' item with id = {0}."/>
+	<resource key="file_management.file_not_specified" value="File is not specified."/>
+	<!-- File management -->
+	<!-- +++++ CMF +++++ -->
+	<resource key="cmf.same_element_type_structure" value="All mapped properties in the View should belong to the same Top Level Element Type. Invalid property: {0}."/>
+	<resource key="cmf.recalculate_need_open_and_lock_editor" value="Please open Editor and lock the item to perform the action."/>
+	<resource key="cmf.recalculate_need_lock_editor" value="Please lock the item to perform the action."/>
+	<!--       CMF       -->
+	<!-- +++++ CUI +++++ -->
+	<resource key="cui.failed_to_execute_command" value="The Command for the Command Alias '{0}' failed."/>
+	<resource key="cui.failed_to_execute_method" value="Failed to execute method {0}. The method doesn't exist or has been updated."/>
+	<resource key="cui.failed_to_find_command" value="Failed to execute a Command for Command Alias '{0}'. The command may not have been defined for the current ItemType or location."/>
+	<!--       CUI       -->
+	<!-- +++++ Client\javascript\Aras\Client\Controls\Public\ToolBarItem +++++ -->
+	<resource key="toolbar.set_label_method_unsupported" value="Object doesn't support property or method 'setLabel'"/>
+	<!--       Client\javascript\Aras\Client\Controls\Public\ToolBarItem       -->
+	<resource key="ui_methods_ex.create_only_one_report_at_a_time" value="You can create/modify only one report at a time. Please close '{0}' first before creating/modifying this report."/>
+	<resource key="component_dropdown_blur_msg" value="Value entered does not exist for {0}. Edit again?"/>
+	<!-- +++++ Client\Modules\cui\cuiGrid.js +++++ -->
+	<resource key="cui_grid.value_property_invalid" value="Value of the property is invalid. It must be {0}."/>
+	<!--       Client\Modules\cui\cuiGrid.js       -->
+	<!-- +++++ Client\Modules\components\editors.js +++++ -->
+	<resource key="editors.numbers_only" value="Numbers only"/>
+	<resource key="editors.list_values_only" value="List values only"/>
+	<resource key="editors.whole_numbers_only" value="Whole numbers only"/>
+	<resource key="editors.positive_numbers_only" value="Positive numbers only"/>
+	<resource key="editors.can_not_exceed" value="Can't exceed 2^64"/>
+	<resource key="editors.max_digits_before_decimal_point" value="{0} digits max before the decimal point"/>
+	<resource key="editors.value_is_too_large" value="Value is too large"/>
+	<!-- +++++ Client\Modules\components\editors.js +++++ -->
+	<!-- +++++ Components +++++ -->
+	<!-- +++++ Client\Modules\components\baseTypeahead.js +++++ -->
+	<resource key="components.value_invalid" value="The value entered is not valid."/>
+	<!--       Client\Modules\components\baseTypeahead.js       -->
+	<!--       Components       -->
+	<!-- +++++ Navigation panel +++++ -->
+	<!-- +++++ Client/Modules/aras/NavigationPanel.js +++++ -->
+	<resource key="navigation_panel.secondary_menu.back_to_contents" value="Back to Contents"/>
+	<resource key="navigation_panel.secondary_menu.create_new" value="Create New {0}"/>
+	<resource key="navigation_panel.secondary_menu.search" value="Search {0}"/>
+	<resource key="navigation_panel.secondary_menu.favorite_searches" value="Searches"/>
+	<resource key="navigation_panel.secondary_menu.unpin_favorite" value="Unpin from Quick Access"/>
+	<resource key="navigation_panel.secondary_menu.quick_search_placeholder" value="Quick Search"/>
+	<!--       Client/Modules/aras/NavigationPanel.js       -->
+	<!--       Navigation panel       -->
+	<!-- +++++ toolbar +++++ -->
+	<resource key="toolbar.show_overflow" value="Show all"/>
+	<resource key="toolbar.hide_overflow" value="Hide"/>
+	<resource key="toolbar.title_item_view.toltip" value="Copy &quot;{0}&quot; and link"/>
+	<resource key="toolbar.message.copied_to_clipboard" value="&quot;{0}&quot; and link copied to clipboard"/>
+	<!--       toolbar       -->
+	<!-- +++++ Pagination toolbar +++++ -->
+	<resource key="pagination.prev" value="Prev" />
+	<resource key="pagination.next" value="Next" />
+	<resource key="pagination.page" value="Page: {0}" />
+	<resource key="pagination.page_X_of_Y" value="Page: {0} of {1}" />
+	<resource key="pagination.results" value="{0} Results" />
+	<resource key="pagination.prev.tooltip" value="Previous Page" />
+	<resource key="pagination.next.tooltip" value="Next Page" />
+	<resource key="pagination.pagesize.tooltip" value="Results per Page" />
+	<resource key="pagination.maxresults.tooltip" value="Maximum Results" />
+	<resource key="pagination.more.tooltip" value="Show Total Pages and Results" />
+	<resource key="pagination.invalid_value" value="Invalid value" />
+	<!--       Pagination toolbar       -->
+	<!-- +++++ Favorites +++++ -->
+	<resource key="favorites.confirm_delete" value="Are you sure you want to delete {0} from Favorites?"/>
+	<!--       Favorites       -->
+	<!-- +++++ Button favorite search +++++ -->
+	<resource key="favorite_button.save_search" value="Add to Favorites" />
+	<resource key="favorite_button.delete_saved_search" value="Remove from Favorites" />
+	<!--       Button favorite search       -->
+	<!-- +++++ Query Type Control +++++ -->
+	<resource key="searchview.commandbar.querytype.current" value="Current" />
+	<resource key="searchview.commandbar.querytype.latest" value="Latest" />
+	<resource key="searchview.commandbar.querytype.released" value="Released" />
+	<resource key="searchview.commandbar.querytype.effective" value="Effective" />
+	<!--       Query Type Control       -->
+	<!-- +++++ Dialog +++++ -->
+	<resource key="dialog.maximize" value="Maximize" />
+	<resource key="dialog.normal" value="Normal" />
+	<!--       Dialog       -->
+	<!-- +++++ Innovator frame titles +++++ -->
+	<resource key="frames.search_grid" value="{0} Search Grid" />
+	<resource key="frames.item_form" value="{0} Item Form" />
+	<resource key="frames.item_relationship" value="{0} Relationship" />
+	<!--       Innovator frame titles       -->
+	<!-- +++++ ES Search +++++ -->
+	<resource key="es.searchbox_label" value="Enterprise Search" />
+	<resource key="es.searchbox_search_button_label" value="Execute Enterprise Search" />
+	<!--       ES Search       -->
+	<!-- +++++ CUI Controls ARIA-labels +++++ -->
+	<resource key="aria_label.ItemView.AccordionButton" value="Toggle Accordion" />
+	<resource key="aria_label.ItemView.Toolbar" value="Item View Commandbar"/>
+	<!--       CUI Controls ARIA-labels       -->
+	<!-- +++++ Grid Reader Message +++++ -->
+	<resource key="grid_reader.empty" value="Blank"/>
+	<!--       Grid Reader Message       -->
+	<!-- +++++ Claim button of ItemView titlebar +++++ -->
+	<resource key="claim_button.claimed_by_another_user" value="Claimed by Another User"/>
+	<!--       Claim button of ItemView titlebar       -->
+	<!-- +++++ Refine Dialog +++++ -->
+	<resource key="refine_dialog.aria_label" value="Refine Dialog"/>
+	<!--       Refine Dialog       -->
+	<!-- +++++ Accordion +++++ -->
+	<resource key="accordion.maximize" value="Maximize"/>
+	<resource key="accordion.restore" value="Restore"/>
+	<!--       Accordion       -->
+	<!-- +++++ Date Picker +++++ -->
+	<resource key="date_picker.title" value="Select Date"/>
+	<resource key="date_picker.set_current_time.aria_label" value="Set Current Time"/>
+	<resource key="date_picker.ranges.aria_label" value="Range Operation"/>
+	<resource key="date_picker.ranges.equal_to" value="Equal To"/>
+	<resource key="date_picker.ranges.earlier_than" value="Earlier Than"/>
+	<resource key="date_picker.ranges.earlier_than_or_equal_to" value="Earlier Than or Equal To"/>
+	<resource key="date_picker.ranges.later_than" value="Later Than"/>
+	<resource key="date_picker.ranges.later_than_or_equal_to" value="Later Than or Equal To"/>
+	<resource key="date_picker.ranges.within_range" value="Within Range"/>
+	<!--       Date Picker       -->
+	<!-- +++++ Time Picker +++++ -->
+	<resource key="time_picker.invalid_message" value="Invalid Time Format"/>
+	<resource key="time_picker.aria_label" value="Time"/>
+	<!--       Time Picker       -->
+	<!-- +++++ Calendar +++++ -->
+	<resource key="calendar.aria_label.prev_month" value="Previous Month"/>
+	<resource key="calendar.aria_label.prev_year" value="Previous Year"/>
+	<resource key="calendar.aria_label.prev_decade" value="Previous Decade"/>
+	<resource key="calendar.aria_label.next_month" value="Next Month"/>
+	<resource key="calendar.aria_label.next_year" value="Next Year"/>
+	<resource key="calendar.aria_label.next_decade" value="Next Decade"/>
+	<!--       Calendar       -->
+	<!-- +++++ New layout dialog +++++ -->
+	<resource key="new_layout_dialog.title" value="New Layout"/>
+	<resource key="new_layout_dialog.label" value="Label"/>
+	<resource key="new_layout_dialog.button.save_layout" value="Save Layout"/>
+	<!--       New layout dialog       -->
+	<!-- +++++ Delete layout confirmation dialog +++++ -->
+	<resource key="delete_layout_dialog.title" value="Delete Layout"/>
+	<resource key="delete_layout_dialog.message" value='"{0}" will be deleted. Are you sure?'/>
+	<!--       Delete layout confirmation dialog       -->
+	<!-- +++++ Toc Editor +++++ -->
+	<resource key="toc_editor.access" value="Access"/>
+	<resource key="toc_editor.category" value="Category"/>
+	<resource key="toc_editor.icon" value="Icon"/>
+	<resource key="toc_editor.itemtype" value="ItemType"/>
+	<resource key="toc_editor.form" value="Form"/>
+	<resource key="toc_editor.label" value="Label"/>
+	<resource key="toc_editor.new_category" value="New Category"/>
+	<resource key="toc_editor.new_page" value="New Page"/>
+	<resource key="toc_editor.page" value="Page"/>
+	<resource key="toc_editor.start_page" value="Start Page"/>
+	<resource key="toc_editor.parameters" value="Parameters"/>
+	<resource key="toc_editor.sort" value="Sort"/>
+	<resource key="toc_editor.toc" value="TOC"/>
+	<resource key="toc_editor.toc_saved" value="TOC Saved"/>
+	<resource key="toc_editor.view_as" value="View As"/>
+	<resource key="toc_editor.view_as_something" value="View As: {0}"/>
+	<resource key="toc_editor.clear_view_as" value="Clear"/>
+	<resource key="toc_editor.delete_toc_editor" value="'TOC Editor' cannot be deleted using the TOC Editor interface"/>
+	<resource key="toc_editor.itemtype_added" value="{0} added to TOC"/>
+	<!--       Toc Editor       -->
+	<!-- +++++ Dashboard +++++ -->
+	<resource key="dashboard.expand_row" value="Expand Row"/>
+	<resource key="dashboard.collapse_row" value="Collapse Row"/>
+	<resource key="dashboard.view_dashboard" value="View Dashboard"/>
+	<resource key="dashboard.dashboard_settings" value="Dashboard Settings"/>
+	<resource key="dashboard.add_new_item_error" value="Failed to add a template in the new state: save the item first."/>
+	<resource key="dashboard.widget_settings" value="Widget Settings"/>
+	<resource key="dashboard.delete_title" value="Delete Widget"/>
+	<resource key="dashboard.delete_message" value='Are you sure you want to delete "{0}" from "{1}"?'/>
+	<resource key="dashboard.height_size" value="Height"/>
+	<resource key="dashboard.width_size" value="Width"/>
+	<resource key="dashboard.icon" value="Icon"/>
+	<resource key="dashboard.label" value="Label"/>
+	<!--       Dashboard       -->
+	<!-- +++++ Confrm layout dialog +++++ -->
+	<resource key="confirm_layout_dialog.message" value='"{0}" already exists. Would you like to create new layout with the same label?'/>
+	<!--       Confrm layout dialog       -->
+	<resource key="no_form_and_relationships_error" value='Failed to open the item. Neither Form, nor Relationships exist'/>
+	<!-- +++++ AML-packages/core/Validate Federated Datatype +++++ -->
+	<resource key="ui_methods_ex.property_datatype_for_federated_not_supported" value="Federated '{0}' datatype is not supported."/>
+	<resource key="ui_methods_ex.changing_to_federated_delete_all_values" value='Changing property "{0}" to federated will delete all existing values!'/>
+	<!--       AML-packages/core/Validate Federated Datatype       -->
+</ui_resources>

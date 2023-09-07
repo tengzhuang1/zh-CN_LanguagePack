@@ -1,0 +1,12 @@
+﻿<toolbarapplet on_load="onToolbarAppletLoad" on_click="onClickItem" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="toolbar">
+		<choice id="item_type" tooltip="Item type">
+		</choice>
+		<separator />
+		<button id="select_config" tooltip="Select configuration" text="Select configuration"/>
+		<button id="select_instances" tooltip="Select instances" text="Select items"/>
+		<separator />
+		<button image="../images/Delete.svg" id="delete" tooltip="Delete instances">Delete instances</button>
+		<button image="../images/Checkmark.svg" id="select" tooltip="Return selected">Return selected</button>
+	</toolbar>
+</toolbarapplet>

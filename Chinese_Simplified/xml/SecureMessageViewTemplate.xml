@@ -1,0 +1,6 @@
+﻿<export>
+ <Item type="SecureMessageViewTemplate" keyed_name="F1E9620C1AB3408588708B68E18D51DE" config_id="F1E9620C1AB3408588708B68E18D51DE">
+  <property __name="sketch_tooltip_template" en="Sketch from ${ItemType:label} ${Item:keyed_name}" zc="Sketch from ${ItemType:label} ${Item:keyed_name}" />
+  <property __name="thumbnail_tooltip_template" en="File ${File:filename} ${SecureMessageMarkup:markup_data(//page)} from ${ItemType:label} ${Item:keyed_name}" zc="File ${File:filename} ${SecureMessageMarkup:markup_data(//page)} from ${ItemType:label} ${Item:keyed_name}" />
+ </Item>
+</export>

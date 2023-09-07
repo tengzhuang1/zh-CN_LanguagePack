@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<table
+  onXMLLoaded="onGridAppletLoad"
+
+  oneditcell="onEditCell"
+  onmenuinit="onMenuInit"
+  onmenuclick="onMenuClick"
+  ondoubleclick="onDoubleClick"
+  draw_grid="true"
+  treelines="1"
+  editable="true"
+  noheader="false">
+      
+  <thead>
+    <th>Property</th>
+    <th>Value</th>
+  </thead>
+
+  <columns>
+    <column width="50%" edit="NOEDIT" align="l" order="0"/>
+    <column width="50%" edit="EDIT"   align="l" order="1"/>
+  </columns>
+      
+  <list id="1">
+  </list>
+  
+  <tr id="font"><td>font</td><td></td></tr>
+  <tr id="font-family"><td>font-family</td><td></td></tr>
+  <tr id="font-size"><td>font-size</td><td></td></tr>
+  <tr id="font-weight"><td>font-weight</td><td></td></tr>
+  <tr id="font-style"><td>font-style</td><td></td></tr>
+  <tr id="color"><td>color</td><td></td></tr>
+
+  <tr id="text-align"><td>text-align</td><td></td></tr>
+  <tr id="text-indent"><td>text-indent</td><td></td></tr>
+  <tr id="text-decoration"><td>text-decoration</td><td></td></tr>
+  <tr id="text-transform"><td>text-transform</td><td></td></tr>
+  <tr id="white-space"><td>white-space</td><td></td></tr>
+  
+  <tr id="background"><td>background</td><td></td></tr>
+  <tr id="background-color"><td>background-color</td><td></td></tr>
+  <tr id="background-image"><td>background-image</td><td></td></tr>
+  
+  <tr id="border"><td>border</td><td></td></tr>
+  <tr id="border-top"><td>border-top</td><td></td></tr>
+  <tr id="border-right"><td>border-right</td><td></td></tr>
+  <tr id="border-bottom"><td>border-bottom</td><td></td></tr>
+  <tr id="border-left"><td>border-left</td><td></td></tr>
+  
+  <tr id="margin"><td>margin</td><td></td></tr>
+  <tr id="margin-top"><td>margin-top</td><td></td></tr>
+  <tr id="margin-right"><td>margin-right</td><td></td></tr>
+  <tr id="margin-bottom"><td>margin-bottom</td><td></td></tr>
+  <tr id="margin-left"><td>margin-left</td><td></td></tr>
+  
+  <tr id="padding"><td>padding</td><td></td></tr>
+  <tr id="padding-top"><td>padding-top</td><td></td></tr>
+  <tr id="padding-right"><td>padding-right</td><td></td></tr>
+  <tr id="padding-bottom"><td>padding-bottom</td><td></td></tr>
+  <tr id="padding-left"><td>padding-left</td><td></td></tr>
+  
+  <tr id="position"><td>position</td><td></td></tr>
+  <tr id="top"><td>top</td><td></td></tr>
+  <tr id="right"><td>right</td><td></td></tr>
+  <tr id="bottom"><td>bottom</td><td></td></tr>
+  <tr id="left"><td>left</td><td></td></tr>
+  
+  <tr id="height"><td>height</td><td></td></tr>
+  <tr id="width"><td>width</td><td></td></tr>
+  
+  <tr id="clip"><td>clip</td><td></td></tr>
+  <tr id="overflow"><td>overflow</td><td></td></tr>
+  <tr id="visibility"><td>visibility</td><td></td></tr>
+  <tr id="filter"><td>filter</td><td></td></tr>
+  <tr id="writing-mode"><td>writing-mode</td><td></td></tr>
+  
+  <tr id="page-break-before"><td>page-break-before</td><td></td></tr>
+  <tr id="page-break-after"><td>page-break-after</td><td></td></tr>
+</table>

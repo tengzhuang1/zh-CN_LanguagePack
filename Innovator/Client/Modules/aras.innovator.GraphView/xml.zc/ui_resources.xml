@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ui_resources>
+	<resource key="force_layout" value="Force"/>
+	<resource key="horizontal_layout" value="Horizontal"/>
+	<resource key="vertical_layout" value="Vertical"/>
+	<resource key="gvd_list.default" value="Default"/>
+	<resource key="invalid_json_message" value="Server returned invalid JSON structure."/>
+	<resource key="expand_menu.select_all" value="Select All"/>
+	<resource key="expand_menu.relationships" value="Relationships"/>
+	<resource key="expand_menu.relationships_not_found" value="Relationships not found"/>
+	<resource key="expand_menu.properties" value="Properties"/>
+	<resource key="expand_menu.properties_not_found" value="Properties not found"/>
+	<resource key="expand_menu.apply" value="Apply"/>
+	<resource key="expand_menu.cancel" value="Cancel"/>
+</ui_resources>

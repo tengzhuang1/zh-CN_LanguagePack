@@ -1,0 +1,53 @@
+﻿<export>
+ <Item type="FileSelectorTemplate" keyed_name="DDA89EF0F8FC4C7F9F3B72433B0E7155" config_id="DDA89EF0F8FC4C7F9F3B72433B0E7155">
+  <property __name="tooltip_template" en="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" zc="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" />
+ </Item>
+ <Item type="FileSelectorTemplate" keyed_name="8AD4B1D8B1D44A77BA96662640553E56" config_id="8AD4B1D8B1D44A77BA96662640553E56">
+  <property __name="tooltip_template" en="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" zc="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" />
+ </Item>
+ <Item type="FileSelectorTemplate" keyed_name="6EC3ACFEC71244E8A3618508B657B146" config_id="6EC3ACFEC71244E8A3618508B657B146">
+  <property __name="tooltip_template" en="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" zc="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" />
+ </Item>
+ <Item type="FileSelectorTemplate" keyed_name="BF385FAA78DC47309FF55DFCCC4EAA88" config_id="BF385FAA78DC47309FF55DFCCC4EAA88">
+  <property __name="tooltip_template" en="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" zc="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" />
+ </Item>
+ <Item type="FileSelectorTemplate" keyed_name="39515C2E42E14ED592AEB76766F185D9" config_id="39515C2E42E14ED592AEB76766F185D9">
+  <property __name="tooltip_template" en="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" zc="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" />
+ </Item>
+ <Item type="FileSelectorTemplate" keyed_name="6328F7F2B4E4410AA509FECE8DEE300A" config_id="6328F7F2B4E4410AA509FECE8DEE300A">
+  <property __name="tooltip_template" en="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" zc="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" />
+ </Item>
+ <Item type="FileSelectorTemplate" keyed_name="B600ABD9657745D087C19A848CBAE60D" config_id="B600ABD9657745D087C19A848CBAE60D">
+  <property __name="tooltip_template" en="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" zc="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" />
+ </Item>
+ <Item type="FileSelectorTemplate" keyed_name="1C98A1A6C6314FF38882407E1927F5A5" config_id="1C98A1A6C6314FF38882407E1927F5A5">
+  <property __name="tooltip_template" en="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" zc="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" />
+ </Item>
+ <Item type="FileSelectorTemplate" keyed_name="73D261A4DFA4465A81DFB906A5CC136B" config_id="73D261A4DFA4465A81DFB906A5CC136B">
+  <property __name="tooltip_template" en="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" zc="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" />
+ </Item>
+ <Item type="FileSelectorTemplate" keyed_name="26FCEB8065ED4A319BCCCFD4BF911369" config_id="26FCEB8065ED4A319BCCCFD4BF911369">
+  <property __name="tooltip_template" en="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" zc="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" />
+ </Item>
+ <Item type="FileSelectorTemplate" keyed_name="FEF7BE26B4DA4A70B66450FCB41FD0E3" config_id="FEF7BE26B4DA4A70B66450FCB41FD0E3">
+  <property __name="tooltip_template" en="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" zc="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" />
+ </Item>
+ <Item type="FileSelectorTemplate" keyed_name="B891576D3C69460BB717EBE7303EFDD2" config_id="B891576D3C69460BB717EBE7303EFDD2">
+  <property __name="tooltip_template" en="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" zc="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" />
+ </Item>
+ <Item type="FileSelectorTemplate" keyed_name="C759995303894921BD31102C18CE6731" config_id="C759995303894921BD31102C18CE6731">
+  <property __name="tooltip_template" en="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" zc="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" />
+ </Item>
+ <Item type="FileSelectorTemplate" keyed_name="15ACB63D9FE64E1181B12D3A67FACF07" config_id="15ACB63D9FE64E1181B12D3A67FACF07">
+  <property __name="tooltip_template" en="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" zc="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" />
+ </Item>
+ <Item type="FileSelectorTemplate" keyed_name="BE46934F6AC241399EEDF19308A38DD3" config_id="BE46934F6AC241399EEDF19308A38DD3">
+  <property __name="tooltip_template" en="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" zc="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" />
+ </Item>
+ <Item type="FileSelectorTemplate" keyed_name="1353EA948D4E498F8A0AED5392AEAF71" config_id="1353EA948D4E498F8A0AED5392AEAF71">
+  <property __name="tooltip_template" en="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" zc="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" />
+ </Item>
+ <Item type="FileSelectorTemplate" keyed_name="056811A44FC743388F0611A074566CFB" config_id="056811A44FC743388F0611A074566CFB">
+  <property __name="tooltip_template" en="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" zc="File ${File:filename} from ${ItemType:label} ${Item:keyed_name}" />
+ </Item>
+</export>

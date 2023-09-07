@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_click="onToolbarBtnClick" on_load="onToolbarLoad" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="toolbar">
+		<button image="../images/BrowseFolder.svg" id="open" tooltip="Open file" />
+		<edit id="filename" label="File name:" text="" size="35"/>
+		<button image="../images/Refresh.svg" id="refresh" tooltip="Refresh file" />
+		<separator />
+		<button image="../images/Checkmark.svg" id="ready_btn" tooltip="Return Selected"/>
+		<button image="../images/Delete.svg" id="set_nothing" tooltip="Clear Selection"/>
+	</toolbar>
+</toolbarapplet>

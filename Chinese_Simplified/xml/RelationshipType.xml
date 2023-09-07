@@ -1,0 +1,1223 @@
+﻿<export>
+ <Item type="RelationshipType" keyed_name="Discussion" config_id="00C20804188E4D9987D74AAB8C2A93C3">
+  <property __name="label" en="My Discussion" zc="My Discussion" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="LockedItems" config_id="497BB04B15C0445F9710016C24222F98">
+  <property __name="label" en="LockedItems" zc="LockedItems" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Workflow" config_id="888CBB5016284E8692D22380F4ED74EF">
+  <property __name="label" en="Workflows" zc="Workflows" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Project Docs" config_id="4DF993DF77DB47EC9F3299AAEE9D8733">
+  <property __name="label" en="Deliverables" zc="交付物" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Project Files" config_id="9D2A851B121D41EF899310CDBD5541C5">
+  <property __name="label" en="" zc="项目文件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Project Part" config_id="018E1EE724D343C5BD4488197C0C4E80">
+  <property __name="label" en="Parts" zc="零部件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Project Team" config_id="EC1AF9ACA692494D85A7D0A52E6B98E8">
+  <property __name="label" en="Team" zc="项目团队" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Project Tree" config_id="B918F9361FFB439DA0BB3D3BCDD3CB95">
+  <property __name="label" en="Project Plan" zc="项目树" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ConversionServerConverterType" config_id="3DE6132F8F0A4C0DADBD9F751E61C6DE">
+  <property __name="label" en="Converters" zc="Converters" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ConversionTaskDependency" config_id="87DC85A196994AB59F1D675ED584F1AB">
+  <property __name="label" en="Dependencies" zc="依赖项" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ConversionTaskEventHandler" config_id="C38637BA3A9A446BBB16F884089B1E9D">
+  <property __name="label" en="Event Handlers" zc="事件处理程序" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ConversionTaskResult" config_id="10D12AC0673746CAAAD08298B2F5C91A">
+  <property __name="label" en="Results" zc="转换结果" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Access_ExplicitDefine" config_id="701AA04C2D7A44DD8CE61525AE93EB9E">
+  <property __name="label" en="Access" zc="访问控制" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="qry_QueryDefinitionEvent" config_id="A974865AC5D94CC3885AB35476647444">
+  <property __name="label" en="" zc="事件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="qry_QueryItem" config_id="176932A703754E3F849E2EBCFFAE945B">
+  <property __name="label" en="" zc="对象" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="qry_QueryParameter" config_id="D591B7307764410299C2A1D791A91A1D">
+  <property __name="label" en="" zc="参数" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="qry_QueryReference" config_id="4924E065AB73411FA8DD91D3A24E62BB">
+  <property __name="label" en="" zc="引用" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Action" config_id="AA5C86CB639842DB95C9E380583F5669">
+  <property __name="label" en="CMF Element PQD Action" zc="CMF元素PQD动作" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Action Action Taken" config_id="8EEFBE9694CC4B8D85D3196F3901D9CF">
+  <property __name="label" en="CMF Property PQD Action Action Taken" zc="CMF属性PQD行动采取的行动" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Action Actual Date" config_id="BF2F75F62F27493F8E91725CCF49CCA6">
+  <property __name="label" en="CMF Property PQD Action Actual Date" zc="CMF属性PQD动作实际日期" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Action Description" config_id="70DA6D655BAF49F086A65DA6C84E1639">
+  <property __name="label" en="CMF Property PQD Action Description" zc="CMF属性PQD动作描述" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Action Detection" config_id="3F9A3A24AE114358B93848F1F18C9992">
+  <property __name="label" en="CMF Property PQD Action Detection" zc="CMF属性PQD动作检测" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Action Occurrence" config_id="3FC7EADF4C2E4462A6B63D45FE5406A0">
+  <property __name="label" en="CMF Property PQD Action Occurrence" zc="CMF属性PQD动作发生" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Action Responsible" config_id="417652F6A4374F99BD7753E493C69AD2">
+  <property __name="label" en="CMF Property PQD Action Responsible" zc="CMF财产PQD行动负责" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Action Role" config_id="CABF3141E60348C2A6F6BFEF8D78874E">
+  <property __name="label" en="CMF Property PQD Action Role" zc="CMF属性PQD动作角色" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Action RPN" config_id="6B4B273C0C0E4B8C8172A7497AF0A53B">
+  <property __name="label" en="CMF Property PQD Action RPN" zc="CMF属性PQD动作RPN" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Action Severity" config_id="61FD1D009D0F4184A1AF3F51B3607970">
+  <property __name="label" en="CMF Property PQD Action Severity" zc="CMF属性PQD动作级别" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Action Target Date" config_id="69966520A4F54475ABF3AA2A5C7BC48A">
+  <property __name="label" en="CMF Property PQD Action Target Date" zc="CMF属性PQD行动目标日期" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Cause" config_id="F8B9D864C0C24434A4B0CE967F0651F4">
+  <property __name="label" en="CMF Element PQD Cause" zc="CMF元素PQD原因" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Cause Description" config_id="D8D2FF6268A44E05BA3662D62AA17D19">
+  <property __name="label" en="CMF Property PQD Cause Description" zc="CMF属性PQD原因说明" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Cause Occurrence" config_id="6F4C9263FFF944F7BDFA071E6FAF1C89">
+  <property __name="label" en="CMF Property PQD Cause Occurrence" zc="CMF属性PQD原因发生" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Cause RPN" config_id="86209FD837AF4F53A5EB00463BB837B2">
+  <property __name="label" en="CMF Property PQD Cause RPN" zc="CMF属性PQD原因RPN" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD CM Description" config_id="2B343484C83E46C29453C899A77D3850">
+  <property __name="label" en="CMF Property PQD CM Description" zc="CMF属性PQD CM描述" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD CM Reaction Plan" config_id="6D9EA22A8C444C69938C83CC2A0A573D">
+  <property __name="label" en="CMF Property PQD CM Reaction Plan" zc="CMF性质PQD CM反应计划" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Control Method" config_id="C7EA2A3119A248CCA5E06CCC8C390986">
+  <property __name="label" en="CMF Element PQD Control Method" zc="CMF元素PQD控制方法" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Detection" config_id="C23BE0C116DD417A9831B325E0FA9064">
+  <property __name="label" en="CMF Element PQD Detection" zc="CMF元件PQD检测" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Detection Description" config_id="5612846C2A2D4C31ACC82636B99E7BB9">
+  <property __name="label" en="CMF Property PQD Detection Description" zc="CMF属性PQD检测描述" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Detection Rank" config_id="D25A002F1846480AB5B39B7F9620D104">
+  <property __name="label" en="CMF Property PQD Detection Rank" zc="CMF 属性 PQD检测等级" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Effect" config_id="16320BC09D55460DB63220FBBD0D64BB">
+  <property __name="label" en="CMF Element PQD Effect" zc="CMF元素PQD效果" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Effect Description" config_id="E8191C8AA7DA456BB9855F027E440C4E">
+  <property __name="label" en="CMF Property PQD Effect Description" zc="CMF属性PQD效果说明" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Effect Severity" config_id="E27886ADFB6D433B91C4A77FFD01F5C7">
+  <property __name="label" en="CMF Property PQD Effect Severity" zc="CMF属性PQD效果严重性" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD EMT" config_id="0E8EB271ABDA4576A3840C80E291DE38">
+  <property __name="label" en="CMF Element PQD EMT" zc="CMF 元素 PQD EMT" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD EMT Description" config_id="C923BCEE0BC94A72943F7C1AD6C6AC95">
+  <property __name="label" en="CMF Property PQD EMT Description" zc="CMF属性PQD EMT描述" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD EMT Sample Frequency" config_id="540105A51BFF4BEF8245FD0C967D0FA4">
+  <property __name="label" en="CMF Property PQD EMT Sample Frequency" zc="CMF属性PQD EMT采样频率" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD EMT Sample Size" config_id="F870150796D648EFBD287816E4CBCA7D">
+  <property __name="label" en="CMF Property PQD EMT Sample Size" zc="CMF属性PQD EMT样本量" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Failure Mode" config_id="DB1C255F1AFB490297191B8395680BA5">
+  <property __name="label" en="CMF Element PQD Failure Mode" zc="CMF元件PQD失效模式" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD FM Description" config_id="1DD36DE86FE940B88432E70673BF56FF">
+  <property __name="label" en="CMF Property PQD FM Description" zc="CMF属性PQD FM描述" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Operation" config_id="E9386D9AB2D74F1A862235EF8CBEA3FD">
+  <property __name="label" en="CMF Element PQD Operation" zc="CMF元素PQD操作" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Operation Description" config_id="596603A6313749FA86C135E0FD3586EB">
+  <property __name="label" en="CMF Property PQD Operation Description" zc="CMF属性PQD操作说明" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Operation Number" config_id="6763AB4D9B094063B6B5204C877E076B">
+  <property __name="label" en="CMF Property PQD Operation Number" zc="CMF 属性PQD操作编号" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Operation Symbol" config_id="7180C64376E641D7A1481B59609AB049">
+  <property __name="label" en="CMF Property PQD Operation Symbol" zc="CMF属性PQD操作符号" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD PF Description" config_id="C416C5C75AF041539E8F5150EF31CC99">
+  <property __name="label" en="CMF Property PQD PF Description" zc="CMF属性PQD PF描述" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Prevention" config_id="95A5DF1BF38A474DBF3F65F93704A76E">
+  <property __name="label" en="CMF Element PQD Prevention" zc="CMF元素PQD预防" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Prevention Description" config_id="3C5A335BE72F438B8057FB1925081980">
+  <property __name="label" en="CMF Property PQD Prevention Description" zc="CMF属性PQD预防描述" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD ProcChar Description" config_id="CFAF888FCE3E4E4199D9742142DB3044">
+  <property __name="label" en="CMF Property PQD ProcChar Description" zc="CMF属性PQD ProcChar描述" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD ProcChar Number" config_id="D1C1A18A7DCC4B6E8FFC1608F3A9BA24">
+  <property __name="label" en="CMF Property PQD ProcChar Number" zc="CMF属性PQD ProcChar编号" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD ProcChar Specification" config_id="155F3710738D40AD8ADE627767BDE704">
+  <property __name="label" en="CMF Property PQD ProcChar Specification" zc="CMF属性PQD ProcChar规格" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Process Characteristic" config_id="7EC174A0CB274B8A8A622D2FE19F0119">
+  <property __name="label" en="CMF Element PQD Process Characteristic" zc="CMF元素PQD工艺特征" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Process Function" config_id="A74026D21749462FB01563B51A744F21">
+  <property __name="label" en="CMF Element PQD Process Function" zc="CMF 元素PQD 过程功能" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD ProdChar Description" config_id="A18E985577D24708ADCA2E993FCAC6BB">
+  <property __name="label" en="CMF Property PQD ProdChar Description" zc="CMF属性PQD ProdChar描述" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD ProdChar Number" config_id="5C5A0EB60C004F9FB1C77837344959D1">
+  <property __name="label" en="CMF Property PQD ProdChar Number" zc="CMF属性PQD ProdChar编号" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD ProdChar Specification" config_id="5D57F33F9ECE4F2F8881A1240F4F4093">
+  <property __name="label" en="CMF Property PQD ProdChar Specification" zc="CMF属性PQD ProdChar规格" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Product Characteristic" config_id="DF497993040E4172A9C7671DF6A486BA">
+  <property __name="label" en="CMF Element PQD Product Characteristic" zc="CMF元素PQD产品特点" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Tool" config_id="CF987B0AA06E4468B376EB88ABB089E7">
+  <property __name="label" en="CMF Element PQD Tool" zc="CMF元素PQD工具" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PQD Tool Description" config_id="8F1EA90B31244728B95F0E18E3BEA55A">
+  <property __name="label" en="CMF Property PQD Tool Description" zc="CMF属性PQD工具描述" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Simple ECO Affected Item" config_id="056E4FAB93B149518268FAAE47D3BDEA">
+  <property __name="label" en="Affected Items" zc="影响对象" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Simple ECO File" config_id="1C0359D19EC84C9DA948EC0645737DC8">
+  <property __name="label" en="Attachments" zc="文件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Simple ECO Signoff" config_id="A2B1016949EA4F2993BEB62787B13754">
+  <property __name="label" en="Signoffs" zc="签审" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ConversionRuleEventHandler" config_id="EAD647F08E0B45C2823C26FCD560B7FB">
+  <property __name="label" en="Rule Events" zc="Rule Events" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ConversionRuleEventTemplate" config_id="C0E3A054539D43DA9896D3C907EBFC30">
+  <property __name="label" en="Task Event Templates" zc="Task Event Templates" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ConversionRuleFileType" config_id="B63375A2F5A24BBFB28C8AE87678C6B8">
+  <property __name="label" en="File Types" zc="File Types" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PPAP Package" config_id="6B834364B4544690A4CC26826D17BE4F">
+  <property __name="label" en="PPAP" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="WMSetConfigurations" config_id="0A21CAE9FC8C4260A03AA0620CD613A7">
+  <property __name="label" en="Template Collections" zc="Template Collections" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Feed" config_id="6C09CAEEEBE04BDD9DF8702813D2CAA3">
+  <property __name="label" en="Feed" zc="Feed" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="fr_RepresentationType" config_id="A6971B2196A84D629B0D73B84FC9FA6B">
+  <property __name="label" en="Representation Type" zc="Representation Type" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="View With" config_id="672041E2909F4F2ABA1EC7BBC3F32080">
+  <property __name="label" en="" zc="浏览工具" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="WMSettingContent" config_id="F1662D37A693451AA1AC458B979C053C">
+  <property __name="label" en="Methods" zc="Methods" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="WMSettingLCStates" config_id="295ED8ECB16D49299265934EA36D5442">
+  <property __name="label" en="States" zc="States" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Help See Also" config_id="1EB10F2599644CBC85029BCF9E6B7248">
+  <property __name="label" en="See Also" zc="See Also" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="gn_ConnectorViewTemplate" config_id="EA43B63EDF7F4A328CA43E8B6D7299F5">
+  <property __name="label" en="View Cards" zc="视图卡片" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Program Project" config_id="F4AE308BC1F4480EBCF607543F1B272F">
+  <property __name="label" en="Projects" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Metric Value" config_id="89CD276CDF2143339E8A89B3977436BD">
+  <property __name="label" en="Metric Values" zc="刻度值" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Chart Series" config_id="01F0B13FEEBC495E91C57AAAA7521BC8">
+  <property __name="label" en="Chart Series" zc="图表系列" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Transition EMail" config_id="19EB203FFD8B439D8C23023F9DD1F953">
+  <property __name="label" en="Transition E-Mail" zc="转变通知(EMail)" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="re_Req_Doc_Content" config_id="21ED8E61DC184949954A14BDD91FCFB2">
+  <property __name="label" en="Content" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="re_Req_Doc_Documents" config_id="4A8BDDC62C0948B7B46272E90C09D24B">
+  <property __name="label" en="Documents" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="re_Req_Doc_External_Link" config_id="059F99358A7449CDA30E722F608AD1C1">
+  <property __name="label" en="External Links" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="re_Req_Doc_In_Link" config_id="EB32806E0941476D8B4994BBD9BAF090">
+  <property __name="label" en="Incoming Links" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="re_Req_Doc_Out_Link" config_id="221DC4AC00A84C7494331495368EF6B8">
+  <property __name="label" en="Outgoing Links" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="re_Req_Doc_Related_Parts" config_id="A7D1F5D91B41412DAF74A46CFF2AAF21">
+  <property __name="label" en="Related Parts" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Workflow Process Activity" config_id="27206F72FED74C429C8D4B9726E4DE8C">
+  <property __name="label" en="Activities" zc="Activities" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Workflow Process Variable" config_id="8D514EBD6C7E4073BA9C28369746DC67">
+  <property __name="label" en="Process Variables" zc="Process Variables" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Grid Event" config_id="B5E8B6D8983E4EC2BCC8B74135F6027E">
+  <property __name="label" en="Event" zc="事件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="qs_CAP_Analysis" config_id="5AF93F5730704DDCABBF7DD4FDD82660">
+  <property __name="label" en="" zc="分析" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="qs_CAP_Containment" config_id="527E9A1EAECD4DA89662C73E97915EAE">
+  <property __name="label" en="" zc="容器" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="qs_CAP_CorrectiveAction" config_id="E202A89962C24123887AF48F1EE5421F">
+  <property __name="label" en="" zc="纠正措施" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="qs_CAP_Event" config_id="AE8DEC992E294039B4A2D2ADEC252B61">
+  <property __name="label" en="" zc="质量事件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="qs_CAP_PreventiveAction" config_id="E1F6394A33CC4C6C9A5820D7AEFCF172">
+  <property __name="label" en="" zc="预防措施" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Affected Relationship Property" config_id="23A4A1264FC841FEA2B5468FBA6B4F26">
+  <property __name="label" en="Affected Relationship Properties" zc="Affected Relationship Properties" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="CAD Instance" config_id="C40317E258D146F89DC0FD9455B5D32F">
+  <property __name="label" en="Instances" zc="Instances" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Simple MCO File" config_id="F0A553248B4D42F6AF0074EAB2D7B100">
+  <property __name="label" en="Attachments" zc="文件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Simple MCO Part" config_id="84EA48B035004BD1B12446375A9EB2A0">
+  <property __name="label" en="Affected Parts" zc="影响零部件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Simple MCO Signoff" config_id="0DE9A525159A4C8F8C4BE90CD9205546">
+  <property __name="label" en="Signoffs" zc="签审" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="hl_Dashboard_Member" config_id="BF800354B3EE4FFCA5462D09AD0D1111">
+  <property __name="label" en="" zc="成员" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="hl_Dashboard_Widgets" config_id="4C72B9502FCD4BC09FC49C2B504CAF7B">
+  <property __name="label" en="" zc="看板组件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ECR Affected Item" config_id="CBB761FC543744229D3EF62FE846CE0D">
+  <property __name="label" en="Affected Items" zc="影响对象" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ECR File" config_id="F3764FE06A914DB3BB90EFEFBA50DA33">
+  <property __name="label" en="Files" zc="文件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ECR PR" config_id="738D159A07A44BD588A63D94C32DD775">
+  <property __name="label" en="PRs" zc="问题单" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ForumMustViewBy" config_id="C3C328F9997A48598501FAA097050D84">
+  <property __name="label" en="Must View By" zc="Must View By" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ForumSharedWith" config_id="2434F9A78E614A5A90B7BBEFCD265561">
+  <property __name="label" en="Shared With" zc="Shared With" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ForumWantViewBy" config_id="6A7E076EC47F465EB6F741524A7D9DBC">
+  <property __name="label" en="Want View By" zc="Want View By" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PDFWMTemplates" config_id="354492657C784C15B1F10A6AB2713EBB">
+  <property __name="label" en="PDF Templates" zc="PDF Templates" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Workflow Process Path Post" config_id="A4C176FC037B4C0C8C5F9B04144EEAA2">
+  <property __name="label" en="Post Methods" zc="后续方法" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Workflow Process Path Pre" config_id="A780BB99FA284EAF9F5B9EFF6458A220">
+  <property __name="label" en="Pre Methods" zc="预先方法" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cmf_ContentTypeExportRel" config_id="86F71424DF0841B4B98D5D01B5DA4AB9">
+  <property __name="label" en="Export Settings" zc="导出设置" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cmf_ContentTypeView" config_id="6A03B57CE50E400CA1BB3E95A28F10A1">
+  <property __name="label" en="Views" zc="视图" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cmf_DocumentLifeCycleState" config_id="F500238AD4EC41808BB224D757D1C751">
+  <property __name="label" en="Life Cycle States" zc="生命周期状态" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cmf_ElementType" config_id="3E940746ED5F485B895B66319E8EFCF6">
+  <property __name="label" en="Elements" zc="元素" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="FavoriteMustViewBy" config_id="9C0A58576B8D4201911E13CD6F5C212F">
+  <property __name="label" en="Must View By" zc="Must View By" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="hl_Ease_of_access" config_id="BDF32CFA5BD94663812998C9F3C457A2">
+  <property __name="label" en="" zc="进出方便性" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="hl_Field_of_vision" config_id="365D7C4235FE4BE1BA15659BCF75032A">
+  <property __name="label" en="" zc="视野分析" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="hl_Human_posture" config_id="6BE5C64654884684AB934DEEAA8055B7">
+  <property __name="label" en="" zc="人体姿态" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="hl_Interior_space" config_id="74E52EFF91B4427D9260F8EEF863A609">
+  <property __name="label" en="" zc="内部空间" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="hl_Vehicle_size" config_id="FA8D40E89B1A455FB5C259277A558778">
+  <property __name="label" en="" zc="整车尺寸" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="rb_LocalStyleDefinition" config_id="13722B7C01334E72AAE6B8B15C63FEBA">
+  <property __name="label" en="Local Style Definition" zc="Local Style Definition" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="qs_RCA_Cause" config_id="21FFC99F4270474093852A4E7EABC62B">
+  <property __name="label" en="" zc="根本原因" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Manufacturer Manf Part" config_id="BFBBCDE7E0E5429485E875025E4266FE">
+  <property __name="label" en="Manufacturer Parts" zc="制造商零部件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Allowed Permission" config_id="5EE97A61442B4391A5EDB676274A16C6">
+  <property __name="label" en="Permissions" zc="权限" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Allowed Workflow" config_id="CA30A1ADE4CB40A3ACE53D46CC53E7BE">
+  <property __name="label" en="Workflows" zc="工作流" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Can Add" config_id="BAE8089456F74B3BBC793A473E581FC6">
+  <property __name="label" en="Can Add" zc="可创建者" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Client Event" config_id="5D9124E259EE402BBBBECA7634CE5A0E">
+  <property __name="label" en="Client Events" zc="客户端事件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DiscussionTemplate" config_id="FF6424D2A2B24FB880FF4C145E7C0FB4">
+  <property __name="label" en="Secure Social" zc="社交" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Implements" config_id="213280C3F9B4472F9AC54A5128B6E47D">
+  <property __name="label" en="Implements" zc="实施" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Inherited Server Events" config_id="D1971EB2FD5F4C34A5DAD78DC5B6D02E">
+  <property __name="label" en="Inherited Server Events" zc="继承的服务端事件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Item Action" config_id="96C4009D4CB54A56A236139E90E3FE48">
+  <property __name="label" en="Actions" zc="操作" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Item Report" config_id="C0351BDEAEC04B4F9542F787D8FE8BE5">
+  <property __name="label" en="Reports" zc="报表" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ItemType Life Cycle" config_id="313684B5E6FB4E71B1469CD26E41EC98">
+  <property __name="label" en="Life Cycles" zc="生命周期" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ItemType_xPropertyDefinition" config_id="C33FA51314F34B239D38F18622ACB59E">
+  <property __name="label" en="xProperties" zc="扩展属性" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ITPresentationConfiguration" config_id="873D53F2396B49AE8A055CE41A70E0CD">
+  <property __name="label" en="Client Style" zc="客户端样式" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Morphae" config_id="49DF321A41344E69A990901ECBB91E50">
+  <property __name="label" en="Poly Sources" zc="多数据源" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Property" config_id="D98433ED30FF48CDA8D2A84E846EC2DF">
+  <property __name="label" en="Properties" zc="属性" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="RelationshipType" config_id="0387FDF536AC4D18AF37CBF03DC53DBA">
+  <property __name="label" en="RelationshipTypes" zc="关系类" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Server Event" config_id="E07AD7930CA54CC989DF0437608AF35F">
+  <property __name="label" en="Server Events" zc="服务器事件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="TOC Access" config_id="ADBF7775FD244855B3F605DB83E475BE">
+  <property __name="label" en="TOC Access" zc="TOC访问" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="TOC View" config_id="75015B6FDAA847E29DCC9EA1CD9EA5F9">
+  <property __name="label" en="TOC View" zc="TOC视图" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="View" config_id="8A40526E17E8449EA67698FDD3BEB374">
+  <property __name="label" en="Views" zc="查看窗体" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="xItemTypeAllowedProperty" config_id="6F6897DF2110457094CFC642E9C607AF">
+  <property __name="label" en="Allowed xProperties" zc="可用的扩展属性" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Alias" config_id="C9D16426CE034B28800C661FE90FB345">
+  <property __name="label" en="Aliases" zc="别名" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ReadPriority" config_id="91A2E44144344CEA8A2CBCA06C1CE4C5">
+  <property __name="label" en="Read Vaults" zc="数据仓库" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Exclusion" config_id="B544726E528B4F28AE9CB3B7B3DB20B6">
+  <property __name="label" en="" zc="排除" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Hide In" config_id="0A5C3D26B1C14BC4B28D643DDEAFAA98">
+  <property __name="label" en="" zc="隐藏" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Hide Related In" config_id="26AF432F7B394F0287FBD549B7A38825">
+  <property __name="label" en="" zc="隐藏相关对象" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Relationship Grid Event" config_id="D4051D4EE4A64EEFA4B661E5F6E325D1">
+  <property __name="label" en="Grid Events" zc="网格事件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Relationship View" config_id="E066B5A2985144F98922A0F1239444CA">
+  <property __name="label" en="Relationship  View" zc="关系查看" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Form Event" config_id="2248BB06C1F84CEDAC7912B9D55256C6">
+  <property __name="label" en="" zc="窗体事件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="hl_Coding_Condition_Rel" config_id="9EA9AECD40864A0FAE1ADF07B470342D">
+  <property __name="label" en="" zc="编码条件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="hl_Coding_Seq" config_id="A6776F627E9E4BF48D8D2F00230DA3A0">
+  <property __name="label" en="" zc="编码规则" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DatabaseUpgradePatch" config_id="188A89EF71984EF8829095BDCCE91081">
+  <property __name="label" en="Applied DB Patches" zc="应用数据库补丁" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="mpp_Operation" config_id="58ED15777F814C3F84A48A5AF9FEFA8A">
+  <property __name="label" en="" zc="运营" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="mpp_ProcessPlanLocation" config_id="0AD71A1D4CD24B128522E47531F4DB25">
+  <property __name="label" en="" zc="地点" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="mpp_ProcessPlanProducedPart" config_id="617CBE414F0C4EF8A51B9A2038CC45B1">
+  <property __name="label" en="" zc="生产的部分" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Part Alternate" config_id="A06CE2E9D07542DB9883CAF20BB22B11">
+  <property __name="label" en="Alternates" zc="替换件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Part AML" config_id="56595520EC8A4EAB9B6D80A617F5D6AA">
+  <property __name="label" en="AML" zc="核准制造商清单(AML)" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Part BOM" config_id="159C6D88795B4A86864420863466F728">
+  <property __name="label" en="BOM" zc="单阶BOM" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Part BOMcategory report" config_id="C9DB451087494353A973711E08634F8B">
+  <property __name="label" en="" zc="导出BOM分类报表" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Part CAD" config_id="C65FB7DC8C3A4EFC97A6EE8196C0B448">
+  <property __name="label" en="CAD Documents" zc="工程图" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Part Changes" config_id="199974B1330640319AD3A39569359E7B">
+  <property __name="label" en="Changes" zc="变更" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Part Document" config_id="09CBB0294FAB477AA7300906DC035462">
+  <property __name="label" en="Documents" zc="文档" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Part Goal" config_id="024A379F7F5C466C8AE23042E2CB60AB">
+  <property __name="label" en="Goals" zc="目标" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Part MultiLevel BOM" config_id="567E4149FBF74DACA0B0C4C9B1E79A3B">
+  <property __name="label" en="BOM Structure" zc="多阶BOM结构" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Part Parent" config_id="A9133B4F20A5485CA8267B84E02CC4F6">
+  <property __name="label" en="" zc="物料引用情况" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Part PSW" config_id="DAE45E16B97644EDB5C736AE494AC0B0">
+  <property __name="label" en="Part Submission Warrants" zc="Part Submission Warrants" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Part WhereUsedProject" config_id="7CA0634A16884FCC81E88FD741615064">
+  <property __name="label" en="" zc="相关项目任务" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="re_Part_Req_Doc" config_id="CD0EEF73D5F94D1385AF492267F7EC15">
+  <property __name="label" en="Requirements Documents" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="re_Part_Requirement" config_id="44A37B72C83C4DEF806474F2BFDBC4EE">
+  <property __name="label" en="Requirements" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="HL BOM Compare Grid Setting" config_id="B76AC29CF5054CDB8EF460A056D664A8">
+  <property __name="label" en="" zc="网格列设定" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="rb_ColumnMapping" config_id="57DD4D9D3EA640BAB8F59D6D47DCF751">
+  <property __name="label" en="Column Mapping" zc="Column Mapping" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PackageElement" config_id="C859083102924600B75BF7BBD0C3CDBF">
+  <property __name="label" en="" zc="包元素" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cmf_TabularViewColumn" config_id="D5AA538EFE2C44A9920CCA136621FD3C">
+  <property __name="label" en="Columns" zc="列" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cmf_TabularViewHeaderRows" config_id="AC4BEC3467CD4E6C8E790B5DA45C552F">
+  <property __name="label" en="Additional Header Rows" zc="额外的标题行" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cmf_TabularViewTree" config_id="CBBA7381F2A34455A465340D4ADEB4F1">
+  <property __name="label" en="Tree" zc="树" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="re_Req_Derived_Documents" config_id="4F0BA83DB05F4F84B98433871FC2F8A3">
+  <property __name="label" en="Documents" zc="需求文档" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="re_Requirement_External_Link" config_id="3E64C69483CC481A8C31466601C0C028">
+  <property __name="label" en="External Links" zc="对外链接" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="re_Requirement_In_Link" config_id="4943D5AD6D1A41D983458F8E423E5FD4">
+  <property __name="label" en="Incoming Links" zc="链接" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="re_Requirement_Out_Link" config_id="FC001F016C4B46C8B3B25D4A18DC7801">
+  <property __name="label" en="Outgoing Links" zc="外部链接" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="re_Requirement_Related_Parts" config_id="F4A9E21AD72044AF90D18E8A9FFD0494">
+  <property __name="label" en="Related Parts" zc="相关的部分" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Filter Value" config_id="778F4966401C4A3AB5DCB009A46008BD">
+  <property __name="label" en="" zc="过滤值" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Value" config_id="A7CEB8E754C9419A8EAFAA9BE428E78D">
+  <property __name="label" en="" zc="值" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PM_ProjectColumnDescription" config_id="8AA17998F91D4476BBA6B4A300738817">
+  <property __name="label" en="PM Project Column Description" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Access_ItemClassification" config_id="FF2004260B83457E9B8811143381039F">
+  <property __name="label" en="Access" zc="访问控制" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="mpo_MassPromotionRecord" config_id="4186BD8CAD4B48BFA5F9FC34098A2CE7">
+  <property __name="label" en="Items" zc="提升对象" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="hl_Part_Change_Part" config_id="064288C0209C4D7EBD0E9F64D9F6D076">
+  <property __name="label" en="" zc="送审对象" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="hl_Part_Change_Signoff" config_id="43CDA778431044EEB17B78C125E564AA">
+  <property __name="label" en="" zc="签核 / 签核记录" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PackageReferencedElement" config_id="A6680DD3EF8A4BA8AE76670F0865E400">
+  <property __name="label" en="" zc="包引用元素" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="BOM Instance" config_id="C9C5E2E1B9F34CBFACCDD4FA2E8BCE35">
+  <property __name="label" en="Instances" zc="Instances" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="BOM Substitute" config_id="CF5878AAFD39441FAB5A908E0D34C800">
+  <property __name="label" en="Substitutes" zc="Substitutes" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="effs_Part_BOM_expression" config_id="73C7BFB916D841EC8E619CBDB6D478D2">
+  <property __name="label" en="Effectivity" zc="Effectivity" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="State EMail" config_id="A1C04F0A132240808082FF73CD35DBEF">
+  <property __name="label" en="State E-Mail" zc="电子邮箱" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="State Notification" config_id="B660D634F8AE4ED1AB58FA24FD05A250">
+  <property __name="label" en="State Notification" zc="消息提醒" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="HL CAD2BOM Property Setting" config_id="094CDE59A8894C81B6FFD74E86D00033">
+  <property __name="label" en="" zc="属性设定" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="effs_scope_itemtype" config_id="0E4557855C1346B384275F28D3440AEF">
+  <property __name="label" en="Effectivity Scope ItemType" zc="Effectivity Scope ItemType" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="effs_scope_variable" config_id="47C1C053755E46848F00F29764180E86">
+  <property __name="label" en="Effectivity Variables" zc="Effectivity Variables" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Dashboard Chart" config_id="C27412FE0DF5476B9C9CE0C153F5AA22">
+  <property __name="label" en="Dashboard Chart" zc="图表" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cmf_PropertyBinding" config_id="61EDD4D940A54914B005210557B93194">
+  <property __name="label" en="Property Bindings" zc="属性绑定" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ConversionTaskHandlerError" config_id="794335F7FF3E4A8187069C574825C4C0">
+  <property __name="label" en="Event Handler Errors" zc="Event Handler Errors" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="rb_ColumnDefinition" config_id="4B695675D9CB444A8BBACBEE5DC2EF49">
+  <property __name="label" en="Column Definition" zc="Column Definition" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="rb_LocalStyle" config_id="F295D21123544C81B88EBDC226391932">
+  <property __name="label" en="Local Style" zc="Local Style" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="rb_QueryDefinitionParameterMap" config_id="2C4429EF139F4CC69C0E49A6F79074F3">
+  <property __name="label" en="Parameter Maps" zc="Parameter Maps" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="rb_TreeRowDefinition" config_id="893310582DFE412D88D9CA7FD4A3A7FE">
+  <property __name="label" en="Tree Row Definition" zc="Tree Row Definition" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="rb_TreeRowReference" config_id="7BD97F10602348A2894E25CB61514BA2">
+  <property __name="label" en="Tree Row Reference" zc="Tree Row Reference" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Dashboard Widget Template Prop" config_id="C53ACBDD1F614D7989C46FD673E0EA1F">
+  <property __name="label" en="Properties" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="gn_GraphViewConnector" config_id="CC79DC561B834096A513EC91F4AB0E47">
+  <property __name="label" en="Connectors" zc="连接器" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="gn_GraphViewItemType" config_id="B89FF4B72E364FDDA9B28E3362FFC8C1">
+  <property __name="label" en="Item Types" zc="对象类" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="gn_GraphViewNode" config_id="A53868D0B8E446A0B3ACAAF65ED3A8A1">
+  <property __name="label" en="Nodes" zc="节点" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="gn_GVDefaultCard" config_id="6901210911A646CB9E1943C0D05EA4DC">
+  <property __name="label" en="Default View Cards" zc="默认视图卡片" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="CommandBarSectionDependency" config_id="63D0C69394184DFAB585312A1F0C4EBB">
+  <property __name="label" en="Command Bar Section Dependency" zc="Command Bar Section Dependency" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="CommandBarSectionItem" config_id="C49509AC3F0F43DBAD560FD6268AA769">
+  <property __name="label" en="Command Bar Item" zc="Command Bar Item" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="fr_RepType_Characteristic" config_id="BDFD746609DA4BEC99A16C58BBF09C05">
+  <property __name="label" en="Characteristic" zc="Characteristic" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="fr_SupportedFileType" config_id="82C7137588C541DF9BF9FEC4E27ED34E">
+  <property __name="label" en="Supported File Type" zc="Supported File Type" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Access_PropertyValue" config_id="76C1E40147DE4DD2AAD629593E1518B2">
+  <property __name="label" en="Access" zc="权限" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Business Calendar Exception" config_id="5E94FCECDB0944D1BDB14A38C0E785BF">
+  <property __name="label" en="Exceptions" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Activity Template Assignment" config_id="A0D137DDD4484250BF5323E37BD3C225">
+  <property __name="label" en="Assignments" zc="签审人员" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Activity Template EMail" config_id="77DF00235A4049A48D5C6A50A4682E5D">
+  <property __name="label" en="Notifications" zc="通知" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Activity Template Method" config_id="C3BC3A50ED2C4BC7AC4DCA04AC48057F">
+  <property __name="label" en="Server Events" zc="服务器事件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Activity Template Task" config_id="67F33A3C251747AA9A10214787BECFBE">
+  <property __name="label" en="Tasks" zc="作业" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Activity Template Transition" config_id="9E7CA03EE66B41ADB85DC2A9733E6ADF">
+  <property __name="label" en="Promotions" zc="状态提升" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Activity Template Variable" config_id="921950E061FD4604BE8C89E9976CBB7D">
+  <property __name="label" en="Variables" zc="变量" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Workflow Map Path" config_id="8077764B09654665A5F862266D4F6FAE">
+  <property __name="label" en="Paths" zc="后续路径" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="fr_RepresentationFile" config_id="B4DBC6589F5C4864B829C28AA73C5A95">
+  <property __name="label" en="Representation File" zc="Representation File" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cmf_ContentTypeGridLayout" config_id="713FDFE48C2A47EE81677F0E2E4C6CA0">
+  <property __name="label" en="CMF Grid Layout" zc="CMF网格布局" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Core_GlobalLayout" config_id="6633BEBADCF94742B33E1E8CD19C3B63">
+  <property __name="label" en="General Settings" zc="常规设定" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Core_ItemGridLayout" config_id="4FF79AAD4D58441FAFD1D2CA2D190E5B">
+  <property __name="label" en="Item Grid Layout" zc="对象网格布局" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Core_RelGridLayout" config_id="F8582FF6DBAA41A1977D5E2B3DB8786D">
+  <property __name="label" en="Relationship Grid Layout" zc="关系网格布局" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Core_SearchCountModeException" config_id="5E87C84B0FFF4EBD96DF60C845EB96C1">
+  <property __name="label" en="Search count mode exceptions" zc="搜索计数模式排除项" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="CoreSearchGridEnabledEditing" config_id="17B91D12A7D446CD914A996684A22B45">
+  <property __name="label" en="Edit in Search Grid" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="mpp_PartConfig" config_id="7A71885D25F04627A1A4DD4614D9F3DF">
+  <property __name="label" en="" zc="MPP Custom Part Mapping" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PE_MainPreferences" config_id="30930F151D2A43DEA9290179E8540449">
+  <property __name="label" en="" zc="主首选项" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PM_ProjectColorMap" config_id="E01B7C7DBFAB4E64A0E408F3E0F091FB">
+  <property __name="label" en="Project Color Map" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PM_ProjectGridLayout" config_id="815AB28CAEAA4E8F8704C483424AEEF3">
+  <property __name="label" en="Project Grid Layout" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="SelfServiceReportSettings" config_id="1387D7066E3E4C228B38F82178E3537D">
+  <property __name="label" en="Self-Service Report Settings" zc="自助服务报告设置" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="SSVC_Preferences" config_id="8DA9DB45DE8946E383CE507E126BFEA6">
+  <property __name="label" en="Secure Social" zc="社交讨论" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Action" config_id="0C8AD4E03CFC49C89B1C59F07651B155">
+  <property __name="label" en="CMF Element DQD Action" zc="CMF 元素 DQD 操作" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Action Action Taken" config_id="B08538E8FA7E42ED9B2CEC4F6C96E309">
+  <property __name="label" en="CMF Property DQD Action Action Taken" zc="CMF 属性 DQD操作采取的行动" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Action Actual Date" config_id="53F688AC5DEA4AB6B6E6C32D7EFBDC3E">
+  <property __name="label" en="CMF Property DQD Action Actual Date" zc="CMF属性DQD操作实际日期" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Action Description" config_id="3F0AF7A93FCE491BA8D8EBECABE3B33D">
+  <property __name="label" en="CMF Property DQD Action Description" zc="CMF属性DQD操作描述" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Action Detection" config_id="5F5DB2B2D88B4BF3A7F76797708D6818">
+  <property __name="label" en="CMF Property DQD Action Detection" zc="CMF属性DQD操作检测" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Action Occurrence" config_id="15A0CFF9B2C34C68B4EE1CD8AA16AEF7">
+  <property __name="label" en="CMF Property DQD Action Occurrence" zc="CMF属性DQD操作发生" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Action Responsible" config_id="74BC21658510402C8704B237110D7BE7">
+  <property __name="label" en="CMF Property DQD Action Responsible" zc="CMF属性DQD操作责任" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Action Role" config_id="2D29F47E8B8F4DC9B282B58A91920F83">
+  <property __name="label" en="CMF Property DQD Action Role" zc="CMF属性DQD操作角色" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Action RPN" config_id="B467C63063EB409BA9AD2027A5781010">
+  <property __name="label" en="CMF Property DQD Action RPN" zc="CMF属性DQD操作RPN" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Action Severity" config_id="EBFFB1DBAB3B4CCF9B0DFA0360C63524">
+  <property __name="label" en="CMF Property DQD Action Severity" zc="CMF属性DQD操作级别" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Action Target Date" config_id="03CA2F3FDDBC4ED8A4671FFEA97EC059">
+  <property __name="label" en="CMF Property DQD Action Target Date" zc="CMF属性DQD操作目标日期" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Cause" config_id="99F2FCD60D734590AAAD17EFF2F0F94B">
+  <property __name="label" en="CMF Element DQD Cause" zc="CMF元素DQD原因" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Cause Description" config_id="82A61C52D0F0455C87F0D69012CE0CCC">
+  <property __name="label" en="CMF Property DQD Cause Description" zc="CMF属性DQD原因说明" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Cause Occurrence" config_id="0B1EEC024D11475992044A166EF87EFC">
+  <property __name="label" en="CMF Property DQD Cause Occurrence" zc="CMF属性DQD发生原因" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Cause RPN" config_id="03FCF01366D049F2B8768F2E87543D03">
+  <property __name="label" en="CMF Property DQD Cause RPN" zc="CMF属性DQD原因RPN" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Detection" config_id="44BE7392A1D4468DB80FB27378453000">
+  <property __name="label" en="CMF Element DQD Detection" zc="CMF元素DQD检测" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Detection Description" config_id="0D55A7A38A7748FCAE10B94684F166F7">
+  <property __name="label" en="CMF Property DQD Detection Description" zc="CMF属性DQD检测描述" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Detection Rank" config_id="5B529F8DCE244D7BB59AB94A40C3295C">
+  <property __name="label" en="CMF Property DQD Detection Rank" zc="CMF 属性DQD检测等级" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Effect" config_id="0FD6EAF7D9324F479C52CECDFA2FF225">
+  <property __name="label" en="CMF Element DQD Effect" zc="CMF元素DQD效应" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Effect Description" config_id="E891D4F4DFD447A5B6BA986469B7C937">
+  <property __name="label" en="CMF Property DQD Effect Description" zc="CMF属性DQD效果说明" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Effect Severity" config_id="E10C88A2FDC149928797D94D0FE47E69">
+  <property __name="label" en="CMF Property DQD Effect Severity" zc="CMF属性DQD效果严重性" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Failure Mode" config_id="E2A6421E87AF4E86AFC9B9F8B971BD0D">
+  <property __name="label" en="CMF Element DQD Failure Mode" zc="CMF元件DQD失效模式" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD FM Description" config_id="B2C33BF56835447C912C22F41C4DB480">
+  <property __name="label" en="CMF Property DQD FM Description" zc="CMF属性DQD FM描述" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Function" config_id="C61DF0B0215F482583ABD6AB10439D0C">
+  <property __name="label" en="CMF Element DQD Function" zc="CMF Element DQD函数" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Function Description" config_id="3BC598EC4C0A4F028519201D3656E36A">
+  <property __name="label" en="CMF Property DQD Function Description" zc="CMF属性DQD功能描述" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Item" config_id="1AC3E71DD75C46C5B8FEA2E450362DCF">
+  <property __name="label" en="CMF Element DQD Item" zc="CMF元素DQD项目" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Item Description" config_id="A7F24CDD272949B285B2B1C8F0553FAE">
+  <property __name="label" en="CMF Property DQD Item Description" zc="CMF属性DQD项目描述" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Prevention" config_id="B6C558E9E4164DDF912C1FFA96086AB2">
+  <property __name="label" en="CMF Element DQD Prevention" zc="CMF元素DQD预防" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="DQD Prevention Description" config_id="0F4737AB58BE4613BC3087D63D54FBBD">
+  <property __name="label" en="CMF Property DQD Prevention Description" zc="CMF属性DQD防御描述" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cws_ItemTypeReference" config_id="DFCF049B91504EF9939DB0DA376C9378">
+  <property __name="label" en="ItemType References" zc="ItemType References" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cws_MethodReference" config_id="BC693A5FB9944C9E88A7530B0406A6C0">
+  <property __name="label" en="Method References" zc="Method References" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="fr_Representation" config_id="D118B38457DB4E57A8660CF2CCA13122">
+  <property __name="label" en="Representation" zc="同步信息" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Located" config_id="C0753BF9614B4184989A3E12791250C9">
+  <property __name="label" en="Located" zc="数据仓库" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PresentationCommand" config_id="A8254DD8667844AEA089BA2CA2526ABE">
+  <property __name="label" en="Presentation Command " zc="Presentation Command " />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PresentationCommandBarSection" config_id="927A359382DB4277A51CC16145B948BB">
+  <property __name="label" en="Command Bar Section" zc="命令栏" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Activity Task Value" config_id="579877E00D244DA8A1CE95215BBFFEB2">
+  <property __name="label" en="Activity Task Values" zc="Activity Task Values" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Activity Variable Value" config_id="41F4BEB598464C9F915E12ECAFCEE145">
+  <property __name="label" en="Activity Variable Values" zc="Activity Variable Values" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ECN Affected Item" config_id="F4D1981E96394280878D2C7C61F62298">
+  <property __name="label" en="Affected Items" zc="影响对象" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ECN ECR" config_id="585A79D78E694392AC5C3D45BA791FF6">
+  <property __name="label" en="ECRs" zc="ECRs" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ECN File" config_id="0597768411A848718E7338CDBA154830">
+  <property __name="label" en="Files" zc="文件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PR File" config_id="DC162595090D457294B9CB6E459630C9">
+  <property __name="label" en="Files" zc="文件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cui_ControlCommandBarItem" config_id="58BBFECBF8D04437B84247A5C973B5BD">
+  <property __name="label" en="cui_ControlCommandBarItem" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Transition Distribution" config_id="3C51DE7A7B74465EAFC9EB6382F20369">
+  <property __name="label" en="Transition Distribution" zc="Transition Distribution" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Configurable Grid Event" config_id="649E3F99C39049E69B9AE1BFFC264A0A">
+  <property __name="label" en="Grid Events" zc="网格事件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Grid Column" config_id="632AFE92E2D243B0BFFADFE1E0119CB7">
+  <property __name="label" en="" zc="网格列" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ConversionServerPriority" config_id="F42266E589534DAC9723184A515D2553">
+  <property __name="label" en="Conversion Server Priority" zc="Conversion Server Priority" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ReplicationRule" config_id="57818E6574E346AF80E90F65EE4E4CB8">
+  <property __name="label" en="Replication Rule" zc="Replication Rule" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="mpp_OperationConsumedPart" config_id="3304D814B08B4E9EB5505AF5336362BD">
+  <property __name="label" en="" zc="Consumed Parts" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="mpp_OperationDocument" config_id="DE1D6C2790FA41278134099D8AD46138">
+  <property __name="label" en="" zc="Documents" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="mpp_OperationImageReference" config_id="951B77002A1B40CB93CCD0B1B195D252">
+  <property __name="label" en="" zc="Image References" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="mpp_OperationResource" config_id="24B1CA3A00D649A093B2FD34DCF1C7AC">
+  <property __name="label" en="" zc="Resources" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="mpp_OperationSkill" config_id="140FB63F296B46CDBCA2176C913BC29E">
+  <property __name="label" en="" zc="Skills" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="mpp_Step" config_id="C3C85052D0FF4307BEC0A39A52550456">
+  <property __name="label" en="" zc="Steps" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cmf_ElementAllowedPermission" config_id="4C35DAFED27744CEB6BCABD95EA18947">
+  <property __name="label" en="Allowed Permissions" zc="被允许的权限" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cmf_ElementBinding" config_id="ED1D38253F4C41A1BD1CA45FE30F691B">
+  <property __name="label" en="Binding" zc="绑定项" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cmf_PropertyType" config_id="CA6BA5277AA74A8BAA6068328F261D1D">
+  <property __name="label" en="Properties" zc="属性" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="mp_MacCondition" config_id="778177DF8748472B876C474EB2143A4A">
+  <property __name="label" en="Rules" zc="规则" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="mp_MacPolicyControlledType" config_id="7F9A0E0C001142EC80EEA59FA33608B0">
+  <property __name="label" en="Applied To" zc="应用对象" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="mp_MacPolicyExemptIdentity" config_id="325A94B1AD514D1892081C38620A365E">
+  <property __name="label" en="Exempt Identities" zc="排除项" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Dashboard Widget" config_id="3EC0EA2EF454400BB3AC44FA13EC0A8A">
+  <property __name="label" en="Dashboard Widgets" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Activity Assignment" config_id="C92F589A534241B09EBD4FE0ECD903E2">
+  <property __name="label" en="Assignments" zc="签审人员" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Activity EMail" config_id="5B9EC188C193425D86A05FA772EBC5E3">
+  <property __name="label" en="Notifications" zc="通知" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Activity Method" config_id="A9A7E355BD8141478B32BEB2E6140098">
+  <property __name="label" en="Server Events" zc="服务器事件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Activity Task" config_id="3A4758DC9DE14F98BB3D1837D9921639">
+  <property __name="label" en="Tasks" zc="作业" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Activity Transition" config_id="3E46C9AD080046799D337215EE063C6B">
+  <property __name="label" en="Promotions" zc="状态提升" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Activity Variable" config_id="6A688F84FB7B48EDBFDA7C9C053EAFFE">
+  <property __name="label" en="Variables" zc="变量" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Workflow Process Path" config_id="2A18C4ED7C05419591766276B388B485">
+  <property __name="label" en="Paths" zc="后续路径" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PM_ProjectColorPeriod" config_id="F82C7A8E32D448DD8BEB717F800A20FE">
+  <property __name="label" en="PM Project Color Period" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Workflow Map Path Post" config_id="E399ED2801A94149B40C5788FE260B86">
+  <property __name="label" en="Post Methods" zc="后续方法" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Workflow Map Path Pre" config_id="0DA90A3171434AD38569A4B33DDE8A0E">
+  <property __name="label" en="Pre Methods" zc="预先方法" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cmf_ComputedProperty" config_id="BAA3A142A4EE4C70929050B63E2A0691">
+  <property __name="label" en="Computed Properties" zc="Computed Properties" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cmf_PropertyAllowedPermission" config_id="A9A723AD1D284F358FF70CC848AEB983">
+  <property __name="label" en="Allowed Permissions" zc="Allowed Permissions" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="HL CAD2BOM Class Property" config_id="9409CE3470BE425D839A06A234F65B79">
+  <property __name="label" en="" zc="类别属性抄写设定" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="HL CAD2BOM Class Setting" config_id="687F94B1C3C546288F6BC285CBFCC356">
+  <property __name="label" en="" zc="类别匹配设定" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="HL CAD2BOM General Property" config_id="C0BF0B1F3AEC4396A484CD1EB8F6395C">
+  <property __name="label" en="" zc="通用属性抄写设定" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="HL CAD2BOM Grid Setting" config_id="029494F160984B3082327A6042B1CB67">
+  <property __name="label" en="" zc="网格列设定" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Vendor Part" config_id="D7F2AAA8A14041888BAF4C8EE702C08E">
+  <property __name="label" en="Parts" zc="零部件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="SelfServiceReportFeatured" config_id="D36E717B22DF49EE94C1B0515089EEEE">
+  <property __name="label" en="Featured Settings" zc="Featured Settings" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="gn_ConnectorTypeProperty" config_id="BDC3D866CB5245378FDBC90326857938">
+  <property __name="label" en="Properties" zc="属性" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ReplicationRuleFileType" config_id="7F31C5CA282E4F4F9FE750D7B98CA714">
+  <property __name="label" en="File Types" zc="File Types" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ReplicationRuleTargetVault" config_id="D37AE0EF8ADA4FE3B72F7B8AE4A11853">
+  <property __name="label" en="Target Vaults" zc="Target Vaults" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="RunReportByUser" config_id="479D74194E674D70A9F3FC35CC2717CF">
+  <property __name="label" en="Report Runs By User" zc="运行用户" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="SelfServiceReportSharedWith" config_id="60717005153341B79EF9935A68D9A67D">
+  <property __name="label" en="Shared With" zc="分享" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cws_EndpointConfiguration" config_id="8142F3634BAB40DBBFF28BE3D4EFF120">
+  <property __name="label" en="Endpoint Configurations" zc="Endpoint Configurations" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Life Cycle State" config_id="63D1EF1C149B4A05A75B4FDE0E027ACD">
+  <property __name="label" en="State" zc="状态" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Life Cycle Transition" config_id="49C8B38BCE7040E69B0F3E8EFE055002">
+  <property __name="label" en="Transition" zc="转变" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="gn_NodeTypeProperty" config_id="4A894ECEFA44441C855D4FB2B37A6A15">
+  <property __name="label" en="Properties" zc="Properties" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PreferenceTabTypes" config_id="F88481D78E1F4851BC8BDB25BCB7C4ED">
+  <property __name="label" en="Preference Tab Types" zc="Preference Tab Types" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="hl_Widget_Type_Property" config_id="BAC48B1CA55F4FD28EB5F9229837A560">
+  <property __name="label" en="" zc="组件类型属性" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Workflow Map Activity" config_id="02AD70C867FE416599D884032226ECC6">
+  <property __name="label" en="Activities" zc="节点" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Workflow Map Variable" config_id="2191DD1541404EBFB23F64E116F9B69C">
+  <property __name="label" en="Process Variables" zc="流程变量" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cmf_ExportToExcelViewConfig" config_id="262557FC1464464ABE8BB7990F75E886">
+  <property __name="label" en="View Configuration" zc="查看配置" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="SystemEventHandler" config_id="6F481B46293145D09FF3647C81F8330D">
+  <property __name="label" en="System Event Handlers" zc="System Event Handlers" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Project Template Docs" config_id="5F7B368DBC2E41968F83A68B9002D830">
+  <property __name="label" en="Deliverables" zc="交付物" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Project Template Tree" config_id="B62A703513E54471ADCA4CE758F44AF4">
+  <property __name="label" en="Project Plan" zc="项目树" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cmf_AdditionalPropertyType" config_id="4AF382CC96DE4045B0A540C19E4D5EBC">
+  <property __name="label" en="Additional Properties" zc="附加属性" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Express DCO Affected Item" config_id="9DED2FCF54214D27B5064640E4C680A9">
+  <property __name="label" en="Affected Items" zc="送审文档" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Express DCO File" config_id="1BA59C03671A4995AF09622CE182E089">
+  <property __name="label" en="Attachments" zc="说明附件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Express DCO Signoff" config_id="63F1DDC3F8A7467CA6330BD4116CBB66">
+  <property __name="label" en="SignOffs" zc="签核 / 签核记录" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Document CAD" config_id="44211008CCBB4E9FB709636CD63D6A97">
+  <property __name="label" en="" zc="所属工程图" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Document Changes" config_id="D18F556A7D98451DAC54233F6820EC4D">
+  <property __name="label" en="Changes" zc="文档签审信息" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Document File" config_id="73C333E4E4174DD39DF3444ED344F805">
+  <property __name="label" en="Files" zc="内容" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Document Issue" config_id="1298D550E9484581BAF1A95793C02742">
+  <property __name="label" en="" zc="相关问题" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Document WhereUsedProject" config_id="B617F9B772374CD18E9BD73FAB35C7E2">
+  <property __name="label" en="" zc="相关项目任务" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="FileGroup File" config_id="61AB880887B040C7B971880A3DC8CB4B">
+  <property __name="label" en="Files" zc="Files" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="HL Multi BOM Grid Setting" config_id="A970FF7FDAB3402BBD2E829F5408556C">
+  <property __name="label" en="" zc="网格列设置" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="xClass" config_id="56126C3B125841FD9E52B8CF6928F4BA">
+  <property __name="label" en="xClass" zc="扩展类" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="xClassificationTree_ItemType" config_id="4C14BED36B0E42738301EF1477186777">
+  <property __name="label" en="Item Types" zc="对象类" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Affected Item Property" config_id="833C0037D08E405B8A28EF74E53E9475">
+  <property __name="label" en="Affected Item Properties" zc="Affected Item Properties" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Affected Item Relationship" config_id="B0DB929ED5F34994944ADEDA81B9EA15">
+  <property __name="label" en="Affected Relationships" zc="Affected Relationships" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Sub WBS" config_id="6E53646A5AFA46B7B764AF5FAA9CA473">
+  <property __name="label" en="Elements" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="WBS Activity2" config_id="8099465397624019A768849526CF7D60">
+  <property __name="label" en="Activites" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="WBS Deliverable" config_id="A40D34B278924FBE82CE0909C49F02B7">
+  <property __name="label" en="Deliverables" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Column Event" config_id="18671D11A7D743A389DD656A1446DE5A">
+  <property __name="label" en="" zc="列事件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="FeedTemplate" config_id="23F0422A22DB4C77AF8FA982A9B4D692">
+  <property __name="label" en="Feed Template" zc="Feed Template" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Access" config_id="385D22BE07F64985A7895EDBB611E10F">
+  <property __name="label" en="Access" zc="存取控制" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Express ECO Affected Item" config_id="8B9701922C2848E08B72C40877883ADF">
+  <property __name="label" en="Affected Item" zc="影响对象" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Express ECO EDR" config_id="ABDB18C0E6C3420D820E676BDAE539C9">
+  <property __name="label" en="EDRs" zc="EDRs" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Express ECO EDR Grouping" config_id="3E0840AC5B0E41E4903D82765358D058">
+  <property __name="label" en="EDRs" zc="EDRs" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Express ECO File" config_id="7F4905A431504A04B5894567E94443A4">
+  <property __name="label" en="Attachments" zc="关联文件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Express ECO Impact Matrix" config_id="1A6269964DD94DEA98E530E391EF3395">
+  <property __name="label" en="Impact Matrix" zc="影响对象" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Express ECO Signoff" config_id="C5121F4CF8174DD7AED3AB967E9BDDC5">
+  <property __name="label" en="SignOffs" zc="签审/签审记录" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Team Identity" config_id="ECD7C1A4E4464658A99C24B6154F0B15">
+  <property __name="label" en="Team Members" zc="Team Members" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="dr_FamilyElement" config_id="8A8FA405BA8745BD95F3D0E6095A8971">
+  <property __name="label" en="Family Element" zc="族元素" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="dr_FamilyEventHandler" config_id="785EA10127964BD9AE034C6D2BC615F4">
+  <property __name="label" en="Event Handlers" zc="Event Handlers" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="dr_UI_RelationshipFamily" config_id="E15616D4B788428F831B702B6223FDA6">
+  <property __name="label" en="Derived Relationships" zc="派生关系" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="hl_Signature_Setting_Info" config_id="0D49C7DDDCBD4691884C45C6E2D0BFAA">
+  <property __name="label" en="" zc="信息设定" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="CAD Changes" config_id="D6400AB252214DEBB68D9E6A4D2A78D2">
+  <property __name="label" en="Changes" zc="工程图变更信息" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="CAD Documents" config_id="F31AEABB61F64CB387466A6388C1237B">
+  <property __name="label" en="" zc="关联文档" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="CAD Issue" config_id="9895D283B9A6441EBB5F77126195D9C3">
+  <property __name="label" en="" zc="相关问题" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="CAD Parent" config_id="8AC9ABD5EB5549A19772C501BF787446">
+  <property __name="label" en="Parents" zc="父阶工程图" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="CAD Part" config_id="7B6A83878B184D86A09472D856219D81">
+  <property __name="label" en="Parts" zc="关联部件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="CAD Structure" config_id="70A43676987743D9B82A1751A314C2C8">
+  <property __name="label" en="Structure" zc="子阶工程图" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="CAD Structures" config_id="6496B0E952DE40BF96B1948AC8156C5A">
+  <property __name="label" en="" zc="工程图结构" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="CAD WhereUsedProject" config_id="4616D54AC4E149AFBCD4CD780F3B1A82">
+  <property __name="label" en="" zc="相关项目任务" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="CADFiles" config_id="6D93CB6029D141C1998CD833EAA1A0C0">
+  <property __name="label" en="Files" zc="内容" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cmf_TabularViewColumnGroups" config_id="329BF2C8C947428D8D89464384BA0247">
+  <property __name="label" en="Groups" zc="Groups" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="ac_PolicyAccessAttrDefinition" config_id="4F830D02985048DB9FCD3FB1D7674CAE">
+  <property __name="label" en="Attribute Queries" zc="Attribute Queries" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="cmf_ComputedPropertyDependency" config_id="0BB2EF414FA442589BCC46BD56B5FAFD">
+  <property __name="label" en="Dependencies" zc="Dependencies" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Search Criteria" config_id="5B86E53360B2405E80BFAC04751A0D47">
+  <property __name="label" en="Search Criteria" zc="Search Criteria" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="tp_Stylesheet" config_id="125B2DF9D4AC49FAA3450C3A747E65AF">
+  <property __name="label" en="Stylesheet" zc="样式表" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="tp_XmlSchemaElement" config_id="B7F29097ECBF443ABF9F6A3293FD7E53">
+  <property __name="label" en="Xml Schema Element" zc="XML模式元素" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="tp_XmlSchemaOutputSetting" config_id="789FF867073D423DBEAF1933CA9B2673">
+  <property __name="label" en="Output Settings" zc="输出设置" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="hl_Part_Submit_Part" config_id="52924A5C87EB4C9988639114E5DA01E2">
+  <property __name="label" en="" zc="送审对象" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="hl_Part_Submit_Signoff" config_id="C97E6D2789F3424992AF91B87E56274F">
+  <property __name="label" en="" zc="签核 / 签核记录" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Model" config_id="7FD8A5BA8C214C2BB42937DB6F941B69">
+  <property __name="label" en="Models" zc="模型" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Activity2 Assignment" config_id="CC3DED342DA5404C9118A051FD6BABEB">
+  <property __name="label" en="Assignments" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Activity2 Comments" config_id="0C6F411768EA497B88C70508776D629A">
+  <property __name="label" en="Comments" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Activity2 Deliverable" config_id="97A80FC99E2949A09739DE013ECE707B">
+  <property __name="label" en="Deliverables" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Activity2 Task" config_id="D4579C6216494858B312AE5C331410C4">
+  <property __name="label" en="Tasks" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Predecessor" config_id="32CDB03128304434BC4DB1DD1563E633">
+  <property __name="label" en="Predecessors" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Time Record" config_id="6AD84C7F9BC14D8696DF845C78B81A6E">
+  <property __name="label" en="Time Record" zc="" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="gn_NodeViewTemplate" config_id="CFFCB055AD8C4C49916FA64183F34786">
+  <property __name="label" en="View Cards" zc="视图卡片" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Member" config_id="E9B2C6D32CFC4987B225F28A19E34988">
+  <property __name="label" en="" zc="成员" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Express EDR Affected Item" config_id="BDC7043615714C1C84E8D79C6373D0D2">
+  <property __name="label" en="Affected Items" zc="受影响对象" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Express EDR File" config_id="B5EA7411F9DF468791A902C4BC8D9F8E">
+  <property __name="label" en="Attachments" zc="附件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Express EDR Signoff" config_id="8197AD188B78479FA2C949B67791DA1C">
+  <property __name="label" en="SignOffs" zc="签审" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="State Distribution" config_id="72AA38D95002437BAB6548F2DB62BD5E">
+  <property __name="label" en="State Distribution" zc="State Distribution" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PackageDependsOn" config_id="FCF00C134C334D3F97DC6531BFE58A2C">
+  <property __name="label" en="" zc="依赖于" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="PackageGroup" config_id="8EE3F589734C44D184DA6CCFD9AE95E0">
+  <property __name="label" en="" zc="分组" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="hl_InAttDef" config_id="8BE5605F02194C92B5272019DB293477">
+  <property __name="label" en="" zc="集成属性定义" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Message Acknowledgement" config_id="085863E3137E4B35BBAC8F1D2B697750">
+  <property __name="label" en="Message Acknowledgement" zc="Message Acknowledgement" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="hl_CADInAttDef" config_id="8F5825B1A1FF465D923F7CDF758D5186">
+  <property __name="label" en="" zc="CAD集成属性定义" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="SQL Dependencies" config_id="9E4A395367A04C4695E8B2854260B986">
+  <property __name="label" en="Dependencies" zc="Dependencies" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Manufacturer Part File" config_id="F33F4AD7071B4308B5BFBCCBD2C09786">
+  <property __name="label" en="Files" zc="文件" />
+ </Item>
+ <Item type="RelationshipType" keyed_name="Manufacturer Part Part" config_id="D0FA19C33EAE481BB31068304D4CF729">
+  <property __name="label" en="Related Parts" zc="相关零件" />
+ </Item>
+</export>

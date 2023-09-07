@@ -1,0 +1,23 @@
+﻿<Item type="ItemType" action="get" select="name">
+  <name>Activity2</name>
+  <Relationships>
+    <Item type="Property" action="get" select="name"/>
+    <Item type="RelationshipType" action="get" select="name,relationship_id,related_id">
+      <name>Activity2 Assignment</name>
+      <relationship_id>
+        <Item type="ItemType" action="get" select="name">
+          <Relationships>
+            <Item type="Property" action="get" select="name"/>
+          </Relationships>
+        </Item>
+      </relationship_id>
+      <related_id>
+        <Item type="ItemType" action="get" select="name">
+          <Relationships>
+            <Item type="Property" action="get" select="name" />
+          </Relationships>
+        </Item>
+      </related_id>
+    </Item>
+  </Relationships>
+</Item>

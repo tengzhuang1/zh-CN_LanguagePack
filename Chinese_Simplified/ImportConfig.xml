@@ -1,0 +1,37 @@
+<import>
+  <itemtype name="Action" />
+  <itemtype name="Activity Template" /> 
+  <itemtype name="Activity Template Task" /> 
+  <itemtype name="CommandBarButton" />
+  <itemtype name="CommandBarDropDown" />
+  <itemtype name="CommandBarEdit" />
+  <itemtype name="CommandBarMenu" />
+  <itemtype name="CommandBarMenuButton" />
+  <itemtype name="CommandBarMenuCheckbox" />
+  <itemtype name="CommandBarMenuSeparator" />
+  <itemtype name="CommandBarSection" />
+  <itemtype name="CommandBarSeparator" />
+  <itemtype name="ES_SettingsTopFacets" />
+  <itemtype name="Field" /> 
+  <itemtype name="FileSelectorTemplate" /> 
+  <itemtype name="Filter Value" />
+  <itemtype name="Grid Column" /> 
+  <itemtype name="History Action" />
+  <itemtype name="ItemType" /> 
+  <itemtype name="Life Cycle State" /> 
+  <itemtype name="Property" /> 
+  <itemtype name="rb_ColumnDefinition" />
+  <itemtype name="RelationshipType" /> 
+  <itemtype name="Report" /> 
+  <itemtype name="SearchMode" />
+  <itemtype name="SecureMessageViewTemplate" />
+  <itemtype name="SelfServiceReportHelp" />
+  <itemtype name="SSVC_Preferences" />
+  <itemtype name="SSVCPresentationConfiguration" />
+  <itemtype name="UserMessage" />
+  <itemtype name="Value" /> 
+  <itemtype name="Workflow Map" /> 
+  <itemtype name="Workflow Map Path" /> 
+  <itemtype name="Workflow Map Variable" /> 
+  <itemtype name="xPropertyDefinition" />
+</import>

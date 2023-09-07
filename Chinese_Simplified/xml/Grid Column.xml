@@ -1,0 +1,59 @@
+﻿<export>
+ <Item type="Grid Column" keyed_name="893D6C886A424B1182817089394DF3F7" config_id="893D6C886A424B1182817089394DF3F7">
+  <property __name="label" en="Lead/Lag" zc="" />
+ </Item>
+ <Item type="Grid Column" keyed_name="95E4A5BF79DD4186903DFDFA22CC2037" config_id="95E4A5BF79DD4186903DFDFA22CC2037">
+  <property __name="label" en="Type" zc="" />
+ </Item>
+ <Item type="Grid Column" keyed_name="9EA4D0EC596C48F2BB88A6F2D6161CF2" config_id="9EA4D0EC596C48F2BB88A6F2D6161CF2">
+  <property __name="label" en="Activity Name" zc="" />
+ </Item>
+ <Item type="Grid Column" keyed_name="43C15EF590184283B02F409B358892F8" config_id="43C15EF590184283B02F409B358892F8">
+  <property __name="label" en="% Compl" zc="" />
+ </Item>
+ <Item type="Grid Column" keyed_name="7829F927F2CA4CE3956033243E7922C6" config_id="7829F927F2CA4CE3956033243E7922C6">
+  <property __name="label" en="Due Date" zc="" />
+ </Item>
+ <Item type="Grid Column" keyed_name="83812ABA60284C1C9ECE0A1CE7398EAC" config_id="83812ABA60284C1C9ECE0A1CE7398EAC">
+  <property __name="label" en="Description" zc="" />
+ </Item>
+ <Item type="Grid Column" keyed_name="96092A5767FF4EF2BEB8CEB2BDD74A1C" config_id="96092A5767FF4EF2BEB8CEB2BDD74A1C">
+  <property __name="label" en="Rqd" zc="" />
+ </Item>
+ <Item type="Grid Column" keyed_name="B413F8023B274A3BBC921C36F7EC4159" config_id="B413F8023B274A3BBC921C36F7EC4159">
+  <property __name="label" en="Verified" zc="" />
+ </Item>
+ <Item type="Grid Column" keyed_name="BD852F3A7ABA44DBA3270FDAF150EBC3" config_id="BD852F3A7ABA44DBA3270FDAF150EBC3">
+  <property __name="label" en="Comments" zc="" />
+ </Item>
+ <Item type="Grid Column" keyed_name="08CD4BA957AE4E6B973BA7B7882AA826" config_id="08CD4BA957AE4E6B973BA7B7882AA826">
+  <property __name="label" en="ItemType" zc="对象类" />
+ </Item>
+ <Item type="Grid Column" keyed_name="0C2E70B07F0B4A4F87A2D727B9A27709" config_id="0C2E70B07F0B4A4F87A2D727B9A27709">
+  <property __name="label" en="State" zc="状态" />
+ </Item>
+ <Item type="Grid Column" keyed_name="6F1044FB2D5C4E369A4F9124FD589976" config_id="6F1044FB2D5C4E369A4F9124FD589976">
+  <property __name="label" en="Life Cycle Map" zc="生命周期图" />
+ </Item>
+ <Item type="Grid Column" keyed_name="0A95BAF3594948F18D2C0700F3E7BC28" config_id="0A95BAF3594948F18D2C0700F3E7BC28">
+  <property __name="label" en="Percent Complete" zc="" />
+ </Item>
+ <Item type="Grid Column" keyed_name="257D5574F3834C9282501A19288AD41D" config_id="257D5574F3834C9282501A19288AD41D">
+  <property __name="label" en="Complete" zc="" />
+ </Item>
+ <Item type="Grid Column" keyed_name="2DF91E69AF8947D39D0525EAF93A29A9" config_id="2DF91E69AF8947D39D0525EAF93A29A9">
+  <property __name="label" en="Name" zc="" />
+ </Item>
+ <Item type="Grid Column" keyed_name="31C75A07AA1D457596D14E149E4B302B" config_id="31C75A07AA1D457596D14E149E4B302B">
+  <property __name="label" en="Percent Load" zc="" />
+ </Item>
+ <Item type="Grid Column" keyed_name="3585A1440D3C4F8D91BF82702E23DBDB" config_id="3585A1440D3C4F8D91BF82702E23DBDB">
+  <property __name="label" en="Work Estimate" zc="" />
+ </Item>
+ <Item type="Grid Column" keyed_name="8B835FDA0AEC4471BACBA712540EED0B" config_id="8B835FDA0AEC4471BACBA712540EED0B">
+  <property __name="label" en="Actual Start" zc="" />
+ </Item>
+ <Item type="Grid Column" keyed_name="B92D75D044D34B04AED6C8C6BE0BCABC" config_id="B92D75D044D34B04AED6C8C6BE0BCABC">
+  <property __name="label" en="Role" zc="" />
+ </Item>
+</export>

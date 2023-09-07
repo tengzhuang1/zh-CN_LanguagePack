@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+'
+' (c) Copyright by Aras Corporation, 2004-2007.
+'
+-->
+<toolbarapplet
+  on_click        = "onClickItem"
+  on_load         = "onToolbarLoad"
+  buttonstyle     = "windows"
+  buttonsize      = "22,22"
+  font            = "Arial-12"
+  bottom_border   = "1">
+
+  <toolbar id="normal">
+    <button image="../scripts/ReportTool/images/top-left.jpg"      id="top-left"      tooltip="Top Left"     >Top Left  </button>
+    <button image="../scripts/ReportTool/images/top-center.jpg"    id="top-center"    tooltip="Top Center"   >Top Center  </button>
+    <button image="../scripts/ReportTool/images/top-right.jpg"     id="top-right"     tooltip="Top Right"    >Top Right  </button>
+    <button image="../scripts/ReportTool/images/middle-left.jpg"   id="middle-left"   tooltip="Middle Left"  >Middle Left  </button>
+    <button image="../scripts/ReportTool/images/middle-center.jpg" id="middle-center" tooltip="Middle Center">Middle Center  </button>
+    <button image="../scripts/ReportTool/images/middle-right.jpg"  id="middle-right"  tooltip="Middle Right" >Middle Right  </button>
+    <button image="../scripts/ReportTool/images/bottom-left.jpg"   id="bottom-left"   tooltip="Bottom Left"  >Bottom Left  </button>
+    <button image="../scripts/ReportTool/images/bottom-center.jpg" id="bottom-center" tooltip="Bottom Center">Bottom Center  </button>
+    <button image="../scripts/ReportTool/images/bottom-right.jpg"  id="bottom-right"  tooltip="Bottom Right" >Bottom Right  </button>
+  </toolbar>
+
+</toolbarapplet>
+

@@ -1,0 +1,21 @@
+﻿<export>
+ <Item type="CommandBarEdit" keyed_name="tbxZoomPercentage" config_id="1E193FD67ADB4368B6FF36145A5BB7CD">
+  <property __name="tooltip_template" en="Zoom Percentage" zc="缩放比例" />
+  <property __name="label" en="" zc="缩放比例" />
+ </Item>
+ <Item type="CommandBarEdit" keyed_name="effs_effectivityCriteriaDialogToolbarScopeItemField" config_id="33970791816A41559A07C8E81F2928BF">
+  <property __name="label" en="Scope" zc="Scope" />
+ </Item>
+ <Item type="CommandBarEdit" keyed_name="rb_MaxQueryDepth" config_id="A82FA01DAF5544C5BBC78E176DC83C39">
+  <property __name="tooltip_template" en="Grow Depth" zc="增加深度" />
+  <property __name="label" en="" zc="增加深度" />
+ </Item>
+ <Item type="CommandBarEdit" keyed_name="ntbPageNumber" config_id="BAD44EE53E704097A10E60F143C01188">
+  <property __name="tooltip_template" en="Current Page / Total Pages" zc="当前页 / 共计页数" />
+  <property __name="label" en="" zc="当前页 / 共计页数" />
+ </Item>
+ <Item type="CommandBarEdit" keyed_name="xClassTreeEditorSearchToolbar_Input" config_id="C7A0CC16011A476A92D9378DBE420302">
+  <property __name="tooltip_template" en="Find" zc="查找" />
+  <property __name="label" en="" zc="查找" />
+ </Item>
+</export>

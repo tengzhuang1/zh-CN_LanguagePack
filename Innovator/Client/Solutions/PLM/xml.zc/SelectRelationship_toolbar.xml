@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="toolbar">
+		<button image="../images/Checkmark.svg" id="apply" tooltip="Search selected Relationship">Search selected Relationship</button>
+	</toolbar>
+</toolbarapplet>

@@ -1,0 +1,54 @@
+<export>
+  <languages list="zc" />
+  
+  <itemtype name="Activity Template" /> 
+  <itemtype name="Activity Template Task" /> 
+  <itemtype name="Action" />
+
+  <itemtype name="CommandBarButton" />
+  <itemtype name="CommandBarDropDown" />
+  <itemtype name="CommandBarEdit" />
+  <itemtype name="CommandBarMenu" />
+  <itemtype name="CommandBarMenuButton" />
+  <itemtype name="CommandBarMenuCheckbox" />
+  <itemtype name="CommandBarMenuSeparator" />
+  <itemtype name="CommandBarSection" />
+  <itemtype name="CommandBarSeparator" />
+
+  <itemtype name="ES_SettingsTopFacets" />
+
+  <itemtype name="Field" /> 
+  <itemtype name="FileSelectorTemplate" /> 
+  <itemtype name="Filter Value" />
+  <itemtype name="Grid Column" /> 
+  <itemtype name="History Action" />
+  
+  <itemtype name="ItemType" >
+    <properties list="label,label_plural" />
+  </itemtype>
+  
+  <itemtype name="Life Cycle State" /> 
+  
+  <itemtype name="Property"  >
+    <properties list="label,default_value" />
+  </itemtype>
+  
+  <itemtype name="rb_ColumnDefinition" />
+  <itemtype name="RelationshipType" /> 
+  <itemtype name="Report" /> 
+  <itemtype name="SearchMode" />
+  <itemtype name="SecureMessageViewTemplate" />
+  <itemtype name="SelfServiceReportHelp" />
+  <itemtype name="SSVC_Preferences" />
+  <itemtype name="SSVCPresentationConfiguration" />
+  <itemtype name="UserMessage" />
+  
+  <itemtype name="Value" >
+    <where>source_id NOT IN (SELECT id FROM [LIST] WHERE name IN (SELECT name FROM [ITEMTYPE] WHERE implementation_type = 'polymorphic'))</where>
+  </itemtype>
+
+  <itemtype name="Workflow Map" />
+  <itemtype name="Workflow Map Path" />
+  <itemtype name="Workflow Map Variable" />
+  <itemtype name="xPropertyDefinition" />
+</export>

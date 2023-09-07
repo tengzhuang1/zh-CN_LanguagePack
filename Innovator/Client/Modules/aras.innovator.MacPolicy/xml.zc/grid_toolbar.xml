@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet buttonsize="26,25">
+	<toolbar id="grid_toolbar">
+		<button disabled="false" image="../images/NewRow.svg" id="NewRow" tooltip="New condition" />
+		<button disabled="true" image="../images/EditRow.svg" id="EditRow" tooltip="Edit condition" />
+		<button disabled="true" image="../images/DeleteRow.svg" id="DeleteRow" tooltip="Delete condition" />
+	</toolbar>
+</toolbarapplet>

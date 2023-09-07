@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet buttonsize="26,25">
+  <toolbar id="tb1">
+    <button image="../images/ViewItem.svg" id="show_item" tooltip="查看" text="查看"/>
+    <separator/>
+    <button image="../images/ExecuteSearch.svg" id="search" tooltip="执行搜索" text="执行搜索"/>
+    <separator/>
+    <choice id="search_mode" tooltip="搜索模式" text="搜索模式">
+    </choice>
+    <choice id="saved_search" tooltip="储存搜索" text="储存搜索">
+    </choice>
+  </toolbar>
+</toolbarapplet>

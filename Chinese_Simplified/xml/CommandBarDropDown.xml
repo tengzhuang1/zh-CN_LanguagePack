@@ -1,0 +1,21 @@
+﻿<export>
+ <Item type="CommandBarDropDown" keyed_name="tp_link_type" config_id="08FC053610124F17AA326CFBA95B27A0">
+  <property __name="tooltip_template" en="Link Type" zc="链接类型" />
+  <property __name="label" en="Link Type" zc="链接类型" />
+ </Item>
+ <Item type="CommandBarDropDown" keyed_name="searchdialog.commandbar.default.polyitemselect" config_id="1E9D1F4D732C45D5977F1937E992319B">
+  <property __name="tooltip_template" en="ItemType" zc="ItemType" />
+ </Item>
+ <Item type="CommandBarDropDown" keyed_name="searchview.commandbar.default.querytype" config_id="62A7B6F632FB4FD3AB2CDBED8B243E1F">
+  <property __name="tooltip_template" en="Query Type" zc="搜索类型" />
+ </Item>
+ <Item type="CommandBarDropDown" keyed_name="commonitems.commandbar.searchmode" config_id="740E591448874E1FB382FEE74DA8E2A7">
+  <property __name="tooltip_template" en="Search Modes" zc="搜索模式" />
+ </Item>
+ <Item type="CommandBarDropDown" keyed_name="tp_fontsize" config_id="A008794F6B0A479CB951FF21292C7E44">
+  <property __name="tooltip_template" en="Font size" zc="" />
+ </Item>
+ <Item type="CommandBarDropDown" keyed_name="graphview.layout" config_id="E3249786667C48E3A46ADC2B900C043D">
+  <property __name="tooltip_template" en="Choose Graph Layout" zc="Choose Graph Layout" />
+ </Item>
+</export>

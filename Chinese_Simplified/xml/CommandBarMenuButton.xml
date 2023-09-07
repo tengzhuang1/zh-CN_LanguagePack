@@ -1,0 +1,677 @@
+﻿<export>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_HL Multi BOM Setting_0406272CBA5D4EE58B564F8FB620791B" config_id="0406272CBA5D4EE58B564F8FB620791B">
+  <property __name="label" en="" zc="多阶BOM编辑设置" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_CAD_06BD434A8DE8F9529585655591D1F47A" config_id="06BD434A8DE8F95299E9D85137DB46EF">
+  <property __name="label" en="CAD Documents" zc="工程图" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Program_0803D400570223F24C8D2A7F7F5165BB" config_id="0803D400570223F299E9D85137DB46EF">
+  <property __name="label" en="Programs" zc="计划纲要" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Product_094BC7390073A6A745DD2CC6DD333B27" config_id="094BC7390073A6A799E9D85137DB46EF">
+  <property __name="label" en="Products" zc="产品" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_hl_Dashboard_0AD26C9A32C146C38C40758BA1078649" config_id="0AD26C9A32C146C38C40758BA1078649">
+  <property __name="label" en="" zc="看板" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_qs_Purge Notice_0B2931CC70682AC5DAA4E9EEDEC28B2A" config_id="0B2931CC70682AC599E9D85137DB46EF">
+  <property __name="label" en="" zc="清除通知" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwh_clear_metadata_cache" config_id="0CC0D2BF44FD410693CF5E28253604A4">
+  <property __name="label" en="Clear Client Metadata Cache" zc="清除客户端缓存" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.navigate.workflow" config_id="127749F5E3E94CEA9698110F794885D5">
+  <property __name="label" en="Workflow" zc="工作流" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_SystemEventLog_1668D893E017486FBA52588CEEF76C1A" config_id="1668D893E017486FBA52588CEEF76C1A">
+  <property __name="label" en="System Events Log" zc="登录日志" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_GlobalPresentationConfig_16E130AC648874B7A15ACA7E7BDEA7BC" config_id="16E130AC648874B799E9D85137DB46EF">
+  <property __name="label" en="Client Presentation" zc="全局展示设置" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_hl_Dashboard_Widget_Type_16F2C40937044D71AE2CA38FC1F7C660" config_id="16F2C40937044D71AE2CA38FC1F7C660">
+  <property __name="label" en="" zc="组件类型" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_16F4DEAD9282413D8E763365C2571B9D" config_id="16F4DEAD9282413D8E763365C2571B9D">
+  <property __name="label" en="" zc="零部件" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_File_3A76B290694694BB4A763095FDF5C02F" config_id="190BFDB6167FBE5E99E9D85137DB46EF">
+  <property __name="label" en="Files" zc="文件" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_SQL_91703A3BD4A4913895416234FD90BB20" config_id="1AA835F122D50F3B99E9D85137DB46EF">
+  <property __name="label" en="SQLs" zc="SQL指令" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.navigate.structurebrowser" config_id="1ABE55F4360747D4B873B1C7016F54F2">
+  <property __name="label" en="Structure Browser" zc="结构浏览" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_mpp_Location_1B2D95A0A2C6C303F63B49B6EBB0EEFE" config_id="1B2D95A0A2C6C30399E9D85137DB46EF">
+  <property __name="label" en="" zc="地点" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_mpp_ProcessPlan_1CA77ACA43CD07D5BCA706DA48051089" config_id="1CA77ACA43CD07D599E9D85137DB46EF">
+  <property __name="label" en="" zc="工艺计划" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_gn_ViewCard_0CDAB973163B7632C458D7ABE6116448" config_id="1DEFD26B9DD52C4B99E9D85137DB46EF">
+  <property __name="label" en="View Cards" zc="视图卡片" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Dashboard Widget Template_1F7A88F4A8FE4CD99E47E43916CFB38B" config_id="1F7A88F4A8FE4CD99E47E43916CFB38B">
+  <property __name="label" en="Widget Templates" zc="仪表板组件模板" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Permission_ItemClassification_32C4C47C656C7F657512423ABAD18425" config_id="1FE435F7669FB06699E9D85137DB46EF">
+  <property __name="label" en="Item Classification Permissions" zc="对象类结构权限" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_re_Requirement_205E23CA76CD4F549C33CFC3AC14508A" config_id="205E23CA76CD4F549C33CFC3AC14508A">
+  <property __name="label" en="Requirements" zc="需求" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_gn_GraphViewDefinition_A1EDF625F29DF6D70CAEE1C52960E9D8" config_id="2167C44D9A7B8A4F99E9D85137DB46EF">
+  <property __name="label" en="Graph View Definitions" zc="图形视图定义" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.more.pmig_DeleteItem" config_id="218CE65DADC847568EB58A4B6F1390E1">
+  <property __name="label" en="Delete" zc="删除" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_ConversionRule_0B8E269DF9CAD14553DE2B83BF85E2D9" config_id="233DA037413977A199E9D85137DB46EF">
+  <property __name="label" en="Conversion Rules" zc="转换规则" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_hl_Signature_Setting_Log_234AB04C108A4EC3863B5764754DA2EA" config_id="234AB04C108A4EC3863B5764754DA2EA">
+  <property __name="label" en="" zc="电子签名记录" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_rb_TreeGridViewDefinition_4B7181E69DE555EDF44F2D7167052885" config_id="262E580F756806EB99E9D85137DB46EF">
+  <property __name="label" en="Tree Grid Views" zc="树状网格视图" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_RelationshipType_112B1B8933E1484B5F0FE140D0C2EA14" config_id="27EA7C1E87B68EE899E9D85137DB46EF">
+  <property __name="label" en="RelationshipTypes" zc="关系类" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.share.export_to_pdf" config_id="281A705B78AF49888FF3F6815D2465BA">
+  <property __name="label" en="Export to PDF" zc="导出至PDF" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Vault_487806C4643A429CDEB8C3A42931D709" config_id="295B573E6579DC7599E9D85137DB46EF">
+  <property __name="label" en="Vaults" zc="数据仓库" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.permissionsmenu.view" config_id="2AD42B4400E74645B48A230BE3C52134">
+  <property __name="label" en="View" zc="查看" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Measurement Unit_AE13E0C85739262641DEAB25A7C67A6E" config_id="2B2273BDB151D07E99E9D85137DB46EF">
+  <property __name="label" en="Measurement Units" zc="计量单位" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_2F0158F106654A8A855AA6CB3700D47C" config_id="2F0158F106654A8A855AA6CB3700D47C">
+  <property __name="label" en="" zc="文档管理" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_uvf_UserVisibilityFilter_091F1A16531C2C192D5773114BA35806" config_id="2FF056338F5608E199E9D85137DB46EF">
+  <property __name="label" en="User Visibility Rules" zc="用户可见性规则" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_List_7F63BDCDC4DF0E992A5E9C46E4CD94DF" config_id="30A2997D627FDD4099E9D85137DB46EF">
+  <property __name="label" en="Lists" zc="列表" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.effs.toc_effs_variable_D97CF1E3941DE5E836B0AC0B39536C8B" config_id="3166710883E5692799E9D85137DB46EF">
+  <property __name="label" en="Effectivity Variables" zc="有效性变量" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_mpo_MassPromotion_565CE5BA547C3A83E0D6B6B1EC0F3941" config_id="3272CE35D31BBA8D99E9D85137DB46EF">
+  <property __name="label" en="Mass Promotions" zc="批量提升状态" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Project_3323927FEE6330E62581904273E56980" config_id="3323927FEE6330E699E9D85137DB46EF">
+  <property __name="label" en="Projects" zc="项目计划" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_PackageDefinition_3A1514099A70CA524D7097BD9850811D" config_id="33404FAB94E422B699E9D85137DB46EF">
+  <property __name="label" en="PackageDefinitions" zc="包定义" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_hl_Signature_Setting_33E5639122B2476EB9865FE6F714A9D9" config_id="33E5639122B2476EB9865FE6F714A9D9">
+  <property __name="label" en="" zc="电子签名设定" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.share.copy_link_to.latest_version" config_id="3451C5D2A5C740EDAC747C6B89FB160B">
+  <property __name="label" en="Latest Version" zc="最新版本" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_hl_Dashboard_34FA778BE4A3473EADCDEFBF39B6B076" config_id="34FA778BE4A3473EADCDEFBF39B6B076">
+  <property __name="label" en="" zc="看板" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_cmf_Style_F579264F69723B74E0C46F7B0180C7C4" config_id="35CD647EDC4C11EE99E9D85137DB46EF">
+  <property __name="label" en="Content Styles" zc="内容风格" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_HL BOM Compare Setting_36E1EF011CAE41CC8CD0D1605ECF4CD9" config_id="36E1EF011CAE41CC8CD0D1605ECF4CD9">
+  <property __name="label" en="" zc="BOM比对设置" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_dac_DomainDefinition_80C67E8764593167EC96DDA43E110F30" config_id="3718900BA004039E99E9D85137DB46EF">
+  <property __name="label" en="DAC Definitions" zc="DAC(自主访问控制)定义" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_xClassificationTree_5C0C2A164E71366E58BE53C122642A6E" config_id="38BE30EE0BB0D6ED99E9D85137DB46EF">
+  <property __name="label" en="xClassification Trees" zc="扩展分类树" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_HL Multi BOM Setting_3A478B6FA37E46B98F97BD426AF1CC63" config_id="3A478B6FA37E46B98F97BD426AF1CC63">
+  <property __name="label" en="" zc="多阶BOM编辑设置" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.share.copy_itemtype" config_id="3AF04D03D4B94544A2485A75EE1D56F6">
+  <property __name="label" en="" zc="复制对象类名称" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Life Cycle Map_3B3EA119F0BA5D7537293D0AF65F542B" config_id="3BF43288BF755A4D99E9D85137DB46EF">
+  <property __name="label" en="Life Cycle Maps" zc="生命周期图" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_EMail Message_8FEDA2533E81678A1CB2FAF9F115C097" config_id="3C898C5DD8478E4A99E9D85137DB46EF">
+  <property __name="label" en="E-Mail Message" zc="EMail 消息" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Dashboard_4A124B07531573A7ED9417761617989F" config_id="3CC0C7C77123DF6699E9D85137DB46EF">
+  <property __name="label" en="Dashboards" zc="" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_mp_MacPolicy_CF9A2B136C389F4E34EDB50C8A002FBC" config_id="3E04940D0C39C0A899E9D85137DB46EF">
+  <property __name="label" en="MAC Policies" zc="MAC策略" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Permission_ExplicitDefine_894B6DB92AC0AA85B892C15802526E9C" config_id="3EA05C2C3C34674799E9D85137DB46EF">
+  <property __name="label" en="Explicit Permissions" zc="显式权限" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.share.copy_link" config_id="3EB7C3E9F9474C86B7FAAEBE8519D3B2">
+  <property __name="label" en="Copy Link" zc="复制链接" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Report_B0865CC959BE9EFB6071A1E80C922810" config_id="3EEC15FEACB063C499E9D85137DB46EF">
+  <property __name="label" en="Reports" zc="报表" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_tp_Image_40CDBD7A284EF4A2E308FFE88F73E16E" config_id="40CDBD7A284EF4A299E9D85137DB46EF">
+  <property __name="label" en="" zc="图形" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwh_import_feature_license" config_id="426346515D164381AD8BE93F648650AF">
+  <property __name="label" en="Import Feature License" zc="导入功能许可" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.more.addtotoc" config_id="43A888A4156E4B4CA5D479D4672F58EE">
+  <property __name="label" en="Add to TOC" zc="" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Revision_CC30B0206CFAF516BA5E0776F7691847" config_id="43D06FF69794AE5599E9D85137DB46EF">
+  <property __name="label" en="Revisions" zc="版本" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_SystemEventLogDescriptor_C3595E3B394F6F5DA37746E16372374C" config_id="44479DABF9884E2F99E9D85137DB46EF">
+  <property __name="label" en="System Events Log Descriptor" zc="系统事件日志描述" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Express DCO_471FB490F9E00065716AA5401DB2E768" config_id="471FB490F9E0006599E9D85137DB46EF">
+  <property __name="label" en="DCOs" zc="图文送审单" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwh_Logout" config_id="47819620A46C42FBB57B7891B8ABCE4A">
+  <property __name="label" en="Logout" zc="注销" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_tp_Image_487CCF1DF8A347169EDE3E71BA4E80E7" config_id="487CCF1DF8A347169EDE3E71BA4E80E7">
+  <property __name="label" en="Graphics" zc="图形" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.navigate.versions" config_id="48976A00A250415996342A55087288AF">
+  <property __name="label" en="Versions" zc="全部版本" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.mpp.toc_mpp_Location_FBA65C0530FEB51BB36CD608CB20E0CD" config_id="49330851712D628999E9D85137DB46EF">
+  <property __name="label" en="Locations" zc="地区" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.deletemenu.purgethis" config_id="49F765436FE64083B8152D9E673C6046">
+  <property __name="label" en="Purge This Version" zc="清除" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.navigate.search" config_id="4A57F92F049D467DA20AD777A1700D60">
+  <property __name="label" en="Search {Item Type}" zc="查询 {Item Type}" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwh_new_user_report" config_id="4AE5117DBCCC4D5BB2EEB63F2C9D36E7">
+  <property __name="label" en="New Report" zc="新建报表" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwh_change_esignature" config_id="4B3E8C7D453541BF9C4D93228E7673CD">
+  <property __name="label" en="Change e-Signature" zc="更改电子签名" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_ConversionTask_EE18E8BC08ED6444DD09DEF257EC4BC8" config_id="4C7B9A6C0C495D3899E9D85137DB46EF">
+  <property __name="label" en="Conversion Tasks" zc="转换任务" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Identity_5A7D0F36E0DED0D54E6C6D7A40AAF61A" config_id="4F28652599ACC5EA99E9D85137DB46EF">
+  <property __name="label" en="Identities" zc="角色管理" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Preference_1F1D069CBE674F92DABAC92B5004A43E" config_id="4FBF69057E1DE46899E9D85137DB46EF">
+  <property __name="label" en="Preferences" zc="首选项设定" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_GlobalPresentationConfig_9826202A0C905E2B8A63CDD313F0BC87" config_id="506A6850A14346909899622C5AD1617E">
+  <property __name="label" en="Client Presentation" zc="全局展示设置" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_mpp_Skill_50D8B29720417380AA1F8E15D0F42B58" config_id="50D8B2972041738099E9D85137DB46EF">
+  <property __name="label" en="" zc="技能" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="searchview.commandbar.layouts.deletelayout" config_id="52DA934B73A1422DB975C2F103AC21E2">
+  <property __name="label" en="Delete Layout" zc="" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_ConverterType_1707929FD5F63ED5C487869226E7CEDC" config_id="53EADC016ECF989C99E9D85137DB46EF">
+  <property __name="label" en="Conversion Types" zc="转换类型" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Vendor_543378FCC39087CFED06110AEAA8C96C" config_id="543378FCC39087CF99E9D85137DB46EF">
+  <property __name="label" en="Vendors" zc="供应商" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_xPropertyDefinition_C9364AFD62527E3F7880DAEC356B047C" config_id="543C97C7B105A18A99E9D85137DB46EF">
+  <property __name="label" en="xProperties" zc="扩展属性" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_qs_Corrective Action Plan_560F78A5C6F87A30A5BC7544BA277EB4" config_id="560F78A5C6F87A3099E9D85137DB46EF">
+  <property __name="label" en="" zc="纠正行动计划" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Method_50EFF4C94A43A9C84085F46F6D98472E" config_id="5868394F5A3D08F099E9D85137DB46EF">
+  <property __name="label" en="Methods" zc="方法" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Message_FB5D9956E2077CC09CD332CD17528B67" config_id="598412F6568B571999E9D85137DB46EF">
+  <property __name="label" en="Notification Messages" zc="通知消息" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.relationshipscommandbar.default.displaymenu.savelayout" config_id="5BC1581DBA24468BB1876AA52FFBEB3E">
+  <property __name="label" en="Save Layout" zc="保存布局" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.navigate.lifecycle" config_id="5C420BFF0E9C4C6DA255076415C14761">
+  <property __name="label" en="Life Cycle" zc="生命周期" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.permissionsmenu.createprivate" config_id="5D884EAF511B495BA4416AAD52E87E62">
+  <property __name="label" en="Create Private" zc="创建私有权限" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwh_help_about" config_id="5F61D98313BF4C4DB4797B41387507F2">
+  <property __name="label" en="About" zc="关于" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Design Quality Document_5FC60E4699FC00850C2D32147A81429C" config_id="5FC60E4699FC008599E9D85137DB46EF">
+  <property __name="label" en="" zc="设计质量文件" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="searchview.commandbar.layouts.savelayout" config_id="60AC03DF50B14535B8074309866417DB">
+  <property __name="label" en="Save New Layout..." zc="" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.effs.toc_effs_model_5136CE7849E989DDA5506FFE5A48E157" config_id="626F878B175DF89699E9D85137DB46EF">
+  <property __name="label" en="Models" zc="模型" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.share.export_to_word" config_id="6355E642E72D4764B608310935079A96">
+  <property __name="label" en="Export to Word" zc="导出至Word" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwh_delete_user_preferences" config_id="63C841C272064C2CBF34FA087B519191">
+  <property __name="label" en="Delete User Preferences..." zc="删除个人首先项..." />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_WMSettings_68B480C508D9D23D3C7261180E7140AF" config_id="646DA17790EA22AC99E9D85137DB46EF">
+  <property __name="label" en="Watermark Rules" zc="水印规则" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.more.createnew" config_id="6472E44048504C09BD5DC155AA7668DC">
+  <property __name="label" en="Create New {ItemType}" zc="创建新的{ItemType}" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_effs_scope_95DD864B44C4FCC8F096F28C540B84C9" config_id="64F6733357D8A4AE99E9D85137DB46EF">
+  <property __name="label" en="Effectivity Scope" zc="有效范围" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_654A6B54601F404B9D487452564B2161" config_id="654A6B54601F404B9D487452564B2161">
+  <property __name="label" en="" zc="收藏夹" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Project Template_6579D9DCEE3251AF7170BE9D19CD261F" config_id="6579D9DCEE3251AF99E9D85137DB46EF">
+  <property __name="label" en="Project Templates" zc="项目模板" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_InBasket Task_D0885536E2AC18CEEA9791FAD40A8BF0" config_id="67A153F611FDD9F599E9D85137DB46EF">
+  <property __name="label" en="My InBasket" zc="我的任务" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_SystemEvent_8AB3D9B6F99C2C4A0DE85606135BAF07" config_id="683925C4CDB22DB699E9D85137DB46EF">
+  <property __name="label" en="System Events" zc="系统事件" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_DatabaseUpgrade_0132095D5B389DC187A8B952699B2E8C" config_id="68B9F3667F4B06D599E9D85137DB46EF">
+  <property __name="label" en="Database Upgrades" zc="数据库升级" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_PDFWMConfiguration_BCF9B682550D5B2105750CBF08D0C9D2" config_id="6AAAE2FF5644BBE299E9D85137DB46EF">
+  <property __name="label" en="PDF Collections" zc="PDF集合" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Manufacturer Part_6CFC0AC6EEB3A24D7ABFAA3EEBF50F38" config_id="6CFC0AC6EEB3A24D99E9D85137DB46EF">
+  <property __name="label" en="Manufacturer Parts" zc="采购件" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_gn_NodeViewDefinition_76DE9DC5CAC2D9A8A9FB8CCCA5CED099" config_id="6DB12D14B597B1A899E9D85137DB46EF">
+  <property __name="label" en="Node View Definitions" zc="节点视图定义" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.share.pmig_CopyLink" config_id="6FBFAD790836459E83EBE5E71646883B">
+  <property __name="label" en="Copy Link" zc="复制链接" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.share.copy_link_to.latest_release" config_id="709051929C7D443795DE385CD3FF3364">
+  <property __name="label" en="Latest Release" zc="最新发布版本" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.share.pmig_CopyID" config_id="709EEBD194A4491188368655F3B6A860">
+  <property __name="label" en="Copy ID" zc="复制ID" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="graphview.popup.layout.vertical" config_id="728C303F700346E78702F71F0346E299">
+  <property __name="label" en="Vertical" zc="垂直树" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwh_ShowControlsApiReferenceJavaScript" config_id="72BABBCC7C3C42058CBD10D0C2B11AD5">
+  <property __name="label" en="API Reference (JavaScript)" zc="API Reference (JavaScript)" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Workflow Process_9C96AE4CA4126E7FB5279D059B3BE02B" config_id="73E133E11BC7CBC299E9D85137DB46EF">
+  <property __name="label" en="Workflow Processes" zc="工作流实例" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_editor" config_id="74EADAE1F1784123ABB3DA72737F2E7E">
+  <property __name="label" en="TOC Editor" zc="" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.share.pmig_CopyLinkToLatestRelease" config_id="779FEC24D68542ED9749B4389B462C5C">
+  <property __name="label" en="Latest Release" zc="最新发布版本" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Sequence_37CF802F22BFA518EDBFC97C40C4141D" config_id="77EC425C20AD28E199E9D85137DB46EF">
+  <property __name="label" en="Sequences" zc="序列" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.share.export_to_excel" config_id="79B29EEB4BE64A85A90D25A733C6D8BD">
+  <property __name="label" en="Export to Excel" zc="导出至Excel" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.navigate.whereused" config_id="7CCE99617D7B4FA0949A3E653230DF04">
+  <property __name="label" en="Where Used" zc="用于何处" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_hl_Vehicle_parameters_7D98E67068CF48638FC92FFEC7B263C5" config_id="7D98E67068CF48638FC92FFEC7B263C5">
+  <property __name="label" en="" zc="整车总布置参数表" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Process Quality Document_7E3EFE965B7FF260CC38D0A953099903" config_id="7E3EFE965B7FF26099E9D85137DB46EF">
+  <property __name="label" en="" zc="工艺质量文件" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.tdf.fileimport" config_id="7F0DB141927A4F12A3CE252CDF90D32A">
+  <property __name="label" en="Import Content from File" zc="" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Team_6307F26260FFCB6BE775E93DF527F9DA" config_id="7FD0420D90561D2599E9D85137DB46EF">
+  <property __name="label" en="Teams" zc="团队" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Identity_7F847F0A81EA020A64F84D34D57A59C3" config_id="80988DA1BD89CBFB99E9D85137DB46EF">
+  <property __name="label" en="Identities" zc="角色" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_SavedSearch_0026FE3193532450E1803EAC13E98620" config_id="8161C109EB37A2CE99E9D85137DB46EF">
+  <property __name="label" en="Saved Searches" zc="保存的查询" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="hl_Dashboard_User" config_id="83966DAB1F684914B083D13EC61DB197">
+  <property __name="label" en="" zc="用户看板" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.relationshipsrowcontextmenu.default.permissions.accessreport" config_id="844FB4477E264FE0A171CABC05576242">
+  <property __name="label" en="Access Report" zc="报表权限" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_hl_nodes_cad_84D59375F8004959B461A80E942DAC5A" config_id="84D59375F8004959B461A80E942DAC5A">
+  <property __name="label" en="" zc="转换记录" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_ConversionServer_C3AD2FFA33F46CBF94F14A217B8A8202" config_id="8508150DDD274A1199E9D85137DB46EF">
+  <property __name="label" en="Conversion Servers" zc="转换服务器" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_hl_CodingRule_8894B4ACDCA3412C8969358A1642E10A" config_id="8894B4ACDCA3412C8969358A1642E10A">
+  <property __name="label" en="" zc="编码规则定义" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_hl_History_8C6CFF9371E04599A661BED29130AEC4" config_id="8C6CFF9371E04599A661BED29130AEC4">
+  <property __name="label" en="" zc="操作日志" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_PE_Rework Order_8CFA2FF7F407A1A3EE3BB5D856ED249A" config_id="8CFA2FF7F407A1A399E9D85137DB46EF">
+  <property __name="label" en="" zc="返工订单" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Customer_8F8EB2A25FBB6A316A45FE74DFD23F7E" config_id="8F8EB2A25FBB6A3199E9D85137DB46EF">
+  <property __name="label" en="Customers" zc="客户" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_mpp_ProcessPlan_902776FC2BCC8F73BCA706DA48051089" config_id="902776FC2BCC8F7399E9D85137DB46EF">
+  <property __name="label" en="" zc="工艺计划" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Process Quality Document_913C213ABE66C2ADCC38D0A953099903" config_id="913C213ABE66C2AD99E9D85137DB46EF">
+  <property __name="label" en="" zc="工艺质量文件" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Design Quality Document_93F623F0AB3DCB850C2D32147A81429C" config_id="93F623F0AB3DCB8599E9D85137DB46EF">
+  <property __name="label" en="" zc="设计质量文件" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_FileType_DEE086A016D0B21FE1C5D92DA092A152" config_id="9409CF0ABABA637D99E9D85137DB46EF">
+  <property __name="label" en="FileTypes" zc="文件类型" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_mpp_Tool_9435A3549024B797303C529AB678D1EA" config_id="9435A3549024B79799E9D85137DB46EF">
+  <property __name="label" en="" zc="工具" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_WMSet_B5CDB6407E9329FEF88C5BD929E36F14" config_id="943BA80F59F3025F99E9D85137DB46EF">
+  <property __name="label" en="Watermark Sets" zc="水印设置" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_hl_CADInconfig_945FA72ADBBA4304B13C33B35D41F8D3" config_id="945FA72ADBBA4304B13C33B35D41F8D3">
+  <property __name="label" en="" zc="CAD集成配置" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwh_activate_feature" config_id="94A5F962D5FA47C1A55230EB36B831BD">
+  <property __name="label" en="Activate Feature" zc="激活功能" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Forum_954859CB31B836BF505F85003FDC4145" config_id="954859CB31B836BF99E9D85137DB46EF">
+  <property __name="label" en="Forums" zc="论坛" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_ReplicationTxnLog_15F319BF276DDDDD05EF070EAC9C1E7D" config_id="9577E9265A447387364C78D816718659">
+  <property __name="label" en="Replication Transactions Log" zc="复制事务日志" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_gn_SystemDefaultCard_1B4679EBAF4177A164BC5B612A6713DA" config_id="979CAF385610595599E9D85137DB46EF">
+  <property __name="label" en="System Default Cards" zc="系统默认卡片" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Command_97A6903281AE6FB652AA62211657653B" config_id="97A6903281AE6FB699E9D85137DB46EF">
+  <property __name="label" en="Commands" zc="命令" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_qs_Stop Ship Notice_9A37A21C7A3366B41E539C0E4A6ED1D0" config_id="9A37A21C7A3366B499E9D85137DB46EF">
+  <property __name="label" en="" zc="停船通告" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_PE_Waiver_9AAE21D2F74D630B18D5A949863B2F75" config_id="9AAE21D2F74D630B99E9D85137DB46EF">
+  <property __name="label" en="" zc="豁免" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_cmf_ContentType_3E67873D179E27753CB1A88C0DC395C5" config_id="9B78590B05B29ADB99E9D85137DB46EF">
+  <property __name="label" en="Content Types" zc="内容类型" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="File Exchange_6987EAE9A2354B2A9C4F3F857372C6F3" config_id="9B7FD69EAF6E4D29B220C495FA21E40D">
+  <property __name="label" en="File Exchange" zc="" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.permissionsmenu.access_report" config_id="9B9645B715F94636B0BAEFAE0D238E2A">
+  <property __name="label" en="Access Report" zc="权限报表" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Product_9D279F9230889B9945DD2CC6DD333B27" config_id="9D279F9230889B9999E9D85137DB46EF">
+  <property __name="label" en="Products" zc="产品" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Language_8862B7367D7EDE109C7616727C2D07CE" config_id="A02E4A87D44BFD1299E9D85137DB46EF">
+  <property __name="label" en="Languages" zc="语言" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Action_9482ACC3C88EE1834A899BBDDC2171C3" config_id="A1320E519319532C99E9D85137DB46EF">
+  <property __name="label" en="Actions" zc="操作" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Workflow Map_71950009E01A556ED3758A878356DB5B" config_id="A177AD134F95708699E9D85137DB46EF">
+  <property __name="label" en="Workflow Maps" zc="工作流程图" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="graphview.popup.layout.horizontal" config_id="A4F6F3DB23C9464BB45871212CE508FA">
+  <property __name="label" en="Horizontal" zc="水平树" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.share.pmig_CopyLinkToLatestVersion" config_id="A57E692BADCB49EAB692EDAB23611B2B">
+  <property __name="label" en="Latest Version" zc="最新版本" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_qs_Cause_A5A2694A8288EA399A7C7456DFD6D5A5" config_id="A5A2694A8288EA3999E9D85137DB46EF">
+  <property __name="label" en="" zc="原因" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_xClassificationTree_9A09A08854AA82494033366B1F155D0C" config_id="A5CEBA728CBDCA0E99E9D85137DB46EF">
+  <property __name="label" en="xClassification Trees" zc="扩展分类树" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Document_A7E6A5603143315AE49518BFED2B5E6A" config_id="A7E6A5603143315A99E9D85137DB46EF">
+  <property __name="label" en="Documents" zc="文档管理" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Permission_ItemClassification_2A8DF42309D2CD0F4F8CD577889C9394" config_id="A8143F0FEB73270C99E9D85137DB46EF">
+  <property __name="label" en="Item Classification Permissions" zc="对象类结构权限" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Design Quality Document_A829EB5AAFE4D4920C2D32147A81429C" config_id="A829EB5AAFE4D49299E9D85137DB46EF">
+  <property __name="label" en="" zc="设计质量文件" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.relationshipsrowcontextmenu.default.relationship.pastespecial" config_id="A841489E92354C008E163FCBAA4C4893">
+  <property __name="label" en="Paste Special..." zc="特殊粘贴..." />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Form_D6BBDA7573BA60F132B1D5547168D62C" config_id="A9BD53214E301CE499E9D85137DB46EF">
+  <property __name="label" en="Forms" zc="窗体" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Viewer_47C8C546F3D3058252221EA105C2BEC2" config_id="AC613320A3B4944699E9D85137DB46EF">
+  <property __name="label" en="Viewers" zc="浏览工具" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_SystemEventLog_E4CA4A63710B72A336429415815F82A3" config_id="ACB5C7CBACC15A7499E9D85137DB46EF">
+  <property __name="label" en="System Events Log" zc="系统事件日志" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_hl_Part_Submit_B1B0A895A74C4D88B19CD17C296D5C1E" config_id="B1B0A895A74C4D88B19CD17C296D5C1E">
+  <property __name="label" en="" zc="零部件送审单" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Permission_PropertyValue_7A3685210702B33209803AD7B4FA6CC2" config_id="B24F78B14D20427F99E9D85137DB46EF">
+  <property __name="label" en="xProperty Value Permissions" zc="扩展属性值权限" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Permission_3919720D64E6C11DECA04358E391CE3E" config_id="B256D03D2C56706C99E9D85137DB46EF">
+  <property __name="label" en="Permissions" zc="权限" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_User_BE8EC3B98AA73EDF1A63F5634C7976F9" config_id="B3E5201DB475984F99E9D85137DB46EF">
+  <property __name="label" en="Users" zc="用户管理" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Locale_B22DAD585205DC705FFB8DF892C31C37" config_id="B5C89A60386AFAF599E9D85137DB46EF">
+  <property __name="label" en="Locales" zc="区域" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_mp_PolicyAccessEnvAttribute_648CD1A4603E37E488FA3EF1E8B5E005" config_id="B804BAD8A9EAF4BE99E9D85137DB46EF">
+  <property __name="label" en="Environment Attributes" zc="策略访问环境属性" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_PE_Deviation_BA589EAB346076F4DCCE6E59844685A7" config_id="BA589EAB346076F499E9D85137DB46EF">
+  <property __name="label" en="" zc="偏差" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_gn_ConnectorViewDefinition_8A0B9CFDE17291275A019A9AF2CEDEEC" config_id="BB2A0135D3F6968E99E9D85137DB46EF">
+  <property __name="label" en="Connector View Definitions" zc="连接器视图定义" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="searchview.commandbar.layouts.updatelayout" config_id="BB330BBE493942498D95861D644BC33E">
+  <property __name="label" en="Update Default Layout" zc="" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwh_view_feature_tree" config_id="BD2C771B619E46099E87B77C98347591">
+  <property __name="label" en="View Feature Tree" zc="查看功能列表" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.relationshipsrowcontextmenu.default.relationship.promote" config_id="BE930F617B95446BBDEAB1BDA06FBBA1">
+  <property __name="label" en="Promote" zc="提升" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Feature License_AAF2DAFEF1D42A1BD395DB5A1AAAB088" config_id="BF13C77308AAB94299E9D85137DB46EF">
+  <property __name="label" en="Feature Licenses" zc="功能授权" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwh_current_session" config_id="C03A15A8E0184AF9BF42D8FC44ADBFD6">
+  <property __name="label" en="Session" zc="我的登录信息" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Part_C289E5F6036D5F206867D9DBAAD16632" config_id="C289E5F6036D5F2099E9D85137DB46EF">
+  <property __name="label" en="Parts" zc="零部件" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_qs_NCR_C617B3D1E1F5E29FE90BB3A7507BB8DB" config_id="C617B3D1E1F5E29F99E9D85137DB46EF">
+  <property __name="label" en="" zc="协助" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_ac_PolicyAccessItemAttribute_C64274F511C3517B946A9956E0E80AA4" config_id="C64274F511C3517B99E9D85137DB46EF">
+  <property __name="label" en="Derived Attribute Definitions" zc="Derived Attribute Definitions" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Manufacturer_C942B00CB45EE1FC72A367CD26D75823" config_id="C942B00CB45EE1FC99E9D85137DB46EF">
+  <property __name="label" en="Manufacturers" zc="工厂" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_BCS CAD2BOM Setting_CB5F5B8E72C64B748097BDAE66366F65" config_id="CB5F5B8E72C64B748097BDAE66366F65">
+  <property __name="label" en="" zc="CAD2BOM设置" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Permission_ExplicitDefine_B90A5521A3BF97858E2A2BFD4313FB79" config_id="CCC46DE719C0C2F199E9D85137DB46EF">
+  <property __name="label" en="Explicit Permissions" zc="显式权限" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.relationshipsrowcontextmenu.default.relationship.paste" config_id="CD68BB906E8A4073AE212DDC1BBDC9DF">
+  <property __name="label" en="Paste Row" zc="粘贴行" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Permission_PropertyValue_90365516F0BDF4233D86F1A173FCD5E2" config_id="CDA806A1FF7FBC5499E9D85137DB46EF">
+  <property __name="label" en="xProperty Value Permissions" zc="扩展属性值权限" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwh_update_feature_tree" config_id="CED22B68390F4855915EDF29869DFA5E">
+  <property __name="label" en="Update Feature Tree" zc="更新功能树" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwh_users_management" config_id="CFFA05B1CF584168BEB4E5E33239B791">
+  <property __name="label" en="License Manager" zc="许可管理" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.deletemenu.delete" config_id="D2911CA860D14B9D8318AC19095F8A0D">
+  <property __name="label" en="Delete" zc="删除" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.relationshipsrowcontextmenu.default.relationship.showclipdoard" config_id="D3103A8CA03548A1AF6A996313D85FFF">
+  <property __name="label" en="Show Clipboard" zc="显示粘贴板" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.admin.add2package" config_id="D5CF22BF92D94455A9DF9AAC86EC92A8">
+  <property __name="label" en="" zc="添加至包定义" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.relationshipscommandbar.default.displaymenu.redlineview" config_id="D6A392F36F8246DFAFFF6D91BBCD6493">
+  <property __name="label" en="Redline View" zc="红线视图" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_re_Requirement_Document_D6A648591560453FA0D6B121451772C6" config_id="D6A648591560453FA0D6B121451772C6">
+  <property __name="label" en="Requirements Documents" zc="需求文档" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.share.copy_id" config_id="D79A7BEEDF814B21B899F0AE8E5565C0">
+  <property __name="label" en="Copy ID" zc="复制ID" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_qs_Hold Notice_D7C36FBC5FBC7876DAEB75745C63B242" config_id="D7C36FBC5FBC787699E9D85137DB46EF">
+  <property __name="label" en="" zc="保持通知" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_User_B7845BF3F2FB8780748B930DDF7CA2D2" config_id="D8BFCF83A698720F99E9D85137DB46EF">
+  <property __name="label" en="Users" zc="用户" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_hl_Part_Change_D8FA94B086434266A69B47F36C378EE4" config_id="D8FA94B086434266A69B47F36C378EE4">
+  <property __name="label" en="" zc="零部件变更单" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Manufacturer Part_D953B6AC33EF1DF27ABFAA3EEBF50F38" config_id="D953B6AC33EF1DF299E9D85137DB46EF">
+  <property __name="label" en="Manufacturer Parts" zc="制造商零部件" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_ItemType_C20E7D942C1A3FE7AB3D175E28434563" config_id="D99399122151317899E9D85137DB46EF">
+  <property __name="label" en="ItemTypes" zc="对象类" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwh_change_passwd" config_id="DB6E4F64AB9F4C658AE97A6B9E0C69D7">
+  <property __name="label" en="Change Password" zc="更改密码" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_xPropertyDefinition_48D4EEA620E2DBE46793015B6AD21EA3" config_id="DBF31D2F914B68F999E9D85137DB46EF">
+  <property __name="label" en="xProperties" zc="扩展属性" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="searchview.commandbar.default.sharemenu.export_to_pdf" config_id="DD82901A605D4635995309BA95C193D1">
+  <property __name="label" en="Export to PDF" zc="导出至PDF" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="commonitems.commandbar.sharemenu.export_to_excel" config_id="DE28B42047D74CA6BFCC98FE853BA4E6">
+  <property __name="label" en="Export to Excel" zc="导出至Excel" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="graphview.popup.layout.force" config_id="E37C109F91A141F2B1170A7118E00915">
+  <property __name="label" en="Force" zc="Force" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_dr_RelationshipFamily_CBE441D5876CDDEC0E0B05BDBCD28E9C" config_id="E43FE69993115E5299E9D85137DB46EF">
+  <property __name="label" en="Derived Relationship Families" zc="派生关系族" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_ReplicationTxn_715C3C7ED009A0A905EF070EAC9C1E7D" config_id="E473C4586CCF3B9B9F31DFE815A29C05">
+  <property __name="label" en="Replication Transactions" zc="复制事务" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_mpp_Tool_E77EB4D1E0E408D0303C529AB678D1EA" config_id="E77EB4D1E0E408D099E9D85137DB46EF">
+  <property __name="label" en="" zc="工具" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Vendor_E79938AA388319EDED06110AEAA8C96C" config_id="E79938AA388319ED99E9D85137DB46EF">
+  <property __name="label" en="Vendors" zc="供应商" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_cui_Dashboard_E80DE80DFF0B499781B11D2D0898B2A6" config_id="E80DE80DFF0B499781B11D2D0898B2A6">
+  <property __name="label" en="Dashboards" zc="仪表板" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwh_ShowControlsApiReferenceDotNet" config_id="E8AA4F7832DD44B297439871226E264F">
+  <property __name="label" en="API Reference (.NET)" zc="API Reference (.NET)" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.more.properties" config_id="E9FFBFC2087743E7A7D7D42AD01007EC">
+  <property __name="label" en="Properties" zc="属性" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwh_help_context" config_id="EB758D9F11684EC98E7C091E4973DC19">
+  <property __name="label" en="Help" zc="帮助" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_CommandBarButton_EC138C283BB843C1BB68325A961BB972" config_id="EC138C283BB843C1BB68325A961BB972">
+  <property __name="label" en="" zc="按钮" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.deletemenu.deleteall" config_id="EE90E7739A38426881B2A73BCE47B3F8">
+  <property __name="label" en="Delete All Versions" zc="删除" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Business Calendar Year_F0A919B629C6A418E4F1A208BB9C3E76" config_id="F0A919B629C6A41899E9D85137DB46EF">
+  <property __name="label" en="Calendars" zc="日历" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_qry_QueryDefinition_2F59B6EB4C7680D89015D29615D5D073" config_id="F0EE51731059B91299E9D85137DB46EF">
+  <property __name="label" en="Query Definitions" zc="查询定义" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.itemcommandbar.default.navigate.history" config_id="F22EBF9B7FD4478CB48C2EE4F1ADB0C1">
+  <property __name="label" en="History" zc="历史记录" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_qs_Audit Finding_F2984880C4255E0B6ADB86499935FD1A" config_id="F2984880C4255E0B99E9D85137DB46EF">
+  <property __name="label" en="" zc="审计发现" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_WMType_7ACCF04D78F155EFE5DD84BFED7401A4" config_id="F2C8C0B6C2AA020499E9D85137DB46EF">
+  <property __name="label" en="Watermark Types" zc="水印类型" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_UserMessage_F447A8A9FAAA41E88044D048AC01CE01" config_id="F447A8A9FAAA41E88044D048AC01CE01">
+  <property __name="label" en="User Messages" zc="系统信息" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="searchview.commandbar.default.display.savelayout" config_id="F56ACD408931492AA7CB0F4F8438E637">
+  <property __name="label" en="Save Layout" zc="保存布局" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_mpp_Machine_F5EA3B8C0734EAC11680875183979A68" config_id="F5EA3B8C0734EAC199E9D85137DB46EF">
+  <property __name="label" en="" zc="机械" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_SelfServiceReport_F75D6B0F6A4AB6B4A4A112FBF51181F2" config_id="F75D6B0F6A4AB6B499E9D85137DB46EF">
+  <property __name="label" en="Self-Service Reports" zc="自助服务报表" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_qs_Root Cause Analysis_F8575B313C262E5AF7608A07B7BD7714" config_id="F8575B313C262E5A99E9D85137DB46EF">
+  <property __name="label" en="" zc="根本原因分析" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Variable_2EE4CCF1B8D80D5841281643BFC62E65" config_id="F86927463234B40399E9D85137DB46EF">
+  <property __name="label" en="Variables" zc="环境变量" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwh_rebuild_keyedname" config_id="F8859D9DF0514E838AA43601AAD2F5D0">
+  <property __name="label" en="Rebuild Keyed Names" zc="重置关键字" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Grid_83AB5521DB6638BDFCD06483FC8D8C45" config_id="FA999E23C11E7E4A99E9D85137DB46EF">
+  <property __name="label" en="Grids" zc="网格" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="commonitems.commandbar.sharemenu.export_to_word" config_id="FC9B047FB2504428A7FEEC3D8E362728">
+  <property __name="label" en="Export to Word" zc="导出至Word" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Manufacturer_FD1EA3ECC9917D3372A367CD26D75823" config_id="FD1EA3ECC9917D3399E9D85137DB46EF">
+  <property __name="label" en="Manufacturers" zc="工厂" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Activity Assignment_5F6B719D90A95F6E834D10ECAD2BD8A3" config_id="FD3C8A3C8E4A9E99A67D2271846FB79B">
+  <property __name="label" en="My InBasket" zc="我的任务" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.relationshipsrowcontextmenu.default.relationship.open" config_id="FF15D3A3524C49F997B84637DFC2846F">
+  <property __name="label" en="Open" zc="打开" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.toc_Process Quality Document_FF80F788B8BA8371CC38D0A953099903" config_id="FF80F788B8BA837199E9D85137DB46EF">
+  <property __name="label" en="" zc="工艺质量文件" />
+ </Item>
+ <Item type="CommandBarMenuButton" keyed_name="itemview.relationshipsrowcontextmenu.default.relationship.copy" config_id="FFA4324B013D43BDB4CE81CD132019F6">
+  <property __name="label" en="Copy Row" zc="复制行" />
+ </Item>
+</export>

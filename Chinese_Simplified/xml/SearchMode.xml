@@ -1,0 +1,14 @@
+﻿<export>
+ <Item type="SearchMode" keyed_name="NoUI" config_id="95A2002E5AD84B9D8B2FA50B742C5973">
+  <property __name="label" en="Hidden" zc="隐藏搜索条件" />
+ </Item>
+ <Item type="SearchMode" keyed_name="Advanced" config_id="B15D4F9EAEF24C8F8CB9A4CA89402B1F">
+  <property __name="label" en="Advanced" zc="高级搜索" />
+ </Item>
+ <Item type="SearchMode" keyed_name="Simple" config_id="BD84BCA3EC064D77BF3772A9D93308B6">
+  <property __name="label" en="Simple" zc="简单搜索" />
+ </Item>
+ <Item type="SearchMode" keyed_name="Aml" config_id="BEF4CDA54AA74362A2C40BD530D4D9DD">
+  <property __name="label" en="AML" zc="AML 搜索" />
+ </Item>
+</export>

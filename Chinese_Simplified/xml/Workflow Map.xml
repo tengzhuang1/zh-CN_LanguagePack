@@ -1,0 +1,220 @@
+﻿<export>
+ <Item type="Workflow Map" keyed_name="hl_Part_Change" config_id="99A4CEE5710A4D759017BE77E682B86B">
+  <property __name="description" en="" zc="零部件变更单审核流程" />
+  <property __name="label" en="" zc="零部件变更单审核流程" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="hl_Part_Submit Workflow" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="零部件送审单审核流程图" />
+  <property __name="label" en="" zc="零部件送审单审核流程图" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="hl_Part_Submit Workflow" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="零部件送审单审核流程图" />
+  <property __name="label" en="" zc="零部件送审单审核流程图" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="HL_DCO" config_id="B8EF5D2641C5462CB8623B76F5B4A63D">
+  <property __name="description" en="" zc="图文送审变更流程" />
+  <property __name="label" en="" zc="图文送审变更流程" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="HL Express DCO Workflow" config_id="B8EF5D2641C5462CB8623B76F5B4A63D">
+  <property __name="description" en="" zc="图文变更申请单审核流程" />
+  <property __name="label" en="" zc="图文送审变更流程" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="hl_Part_Submit Workflow" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="HL_DCO" config_id="B8EF5D2641C5462CB8623B76F5B4A63D">
+  <property __name="description" en="" zc="图文送审变更流程" />
+  <property __name="label" en="" zc="图文送审变更流程" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="Simple Change" config_id="2482A63E43BD4E8784DA4D7350F2ACDF">
+  <property __name="description" en="Workflow for Simple ECOs and MCOs" zc="Workflow for Simple ECOs and MCOs" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="qs_Root Cause Analysis" config_id="29253D8ACD7E489AAD67ABEB21E9972D">
+  <property __name="description" en="" zc="QS - Root Cause Analysis Workflow " />
+ </Item>
+ <Item type="Workflow Map" keyed_name="BCS Express DCO Workflow" config_id="B8EF5D2641C5462CB8623B76F5B4A63D">
+  <property __name="description" en="" zc="图文变更申请单审核流程" />
+  <property __name="label" en="" zc="图文送审变更流程" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="PE_Deviation" config_id="3473F755D9D74B33BFF93D32164FABB7">
+  <property __name="description" en="PE - Deviation Workflow" zc="PE - Deviation Workflow" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="零部件送审单审核流程图" />
+  <property __name="label" en="" zc="零部件送审单审核流程图" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="零部件送审单审核流程图" />
+  <property __name="label" en="" zc="零部件送审单审核流程图" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="HL_DCO" config_id="B8EF5D2641C5462CB8623B76F5B4A63D">
+  <property __name="description" en="" zc="图文送审变更流程" />
+  <property __name="label" en="" zc="图文送审变更流程" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="ECN" config_id="48B8C3644AA34B7A9A310DB09815003D">
+  <property __name="description" en="ECN Workflow" zc="ECN Workflow" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="HL Express DCO Workflow" config_id="B8EF5D2641C5462CB8623B76F5B4A63D">
+  <property __name="description" en="" zc="图文变更申请单审核流程" />
+  <property __name="label" en="" zc="图文送审变更流程" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="hl_Part_Submit Workflow" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="hl_Part_Submit Workflow" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="HL Express DCO Workflow" config_id="B8EF5D2641C5462CB8623B76F5B4A63D">
+  <property __name="description" en="" zc="图文变更申请单审核流程" />
+  <property __name="label" en="" zc="图文送审变更流程" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="qs_Stop Ship Notice" config_id="5942C88C1C324ACFB7722AC053962BE6">
+  <property __name="description" en="" zc="QS - Stop Ship Notice Workflow" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="零部件送审单审核流程图" />
+  <property __name="label" en="" zc="零部件送审单审核流程图" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="PE_Waiver" config_id="5A761D5B2C014C949A2AA74F950FB282">
+  <property __name="description" en="PE - Waiver Workflow" zc="PE - Waiver Workflow" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="change process" config_id="B8EF5D2641C5462CB8623B76F5B4A63D">
+  <property __name="description" en="" zc="图文送审变更流程" />
+  <property __name="label" en="" zc="图文送审变更流程" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="change process" config_id="B8EF5D2641C5462CB8623B76F5B4A63D">
+  <property __name="label" en="" zc="图文送审变更流程" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="零部件送审单审核流程图" />
+  <property __name="label" en="" zc="零部件送审单审核流程图" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="Express DCO" config_id="6CCB9DB9829E4B8993D5881F427854C0">
+  <property __name="description" en="Express DCO Workflow" zc="Express DCO Workflow" />
+  <property __name="label" en="Express DCO" zc="图文变更命令" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="HL Express DCO Workflow" config_id="B8EF5D2641C5462CB8623B76F5B4A63D">
+  <property __name="description" en="" zc="图文变更申请单审核流程" />
+  <property __name="label" en="" zc="图文送审变更流程" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="Express DCO" config_id="6CCB9DB9829E4B8993D5881F427854C0">
+  <property __name="description" en="Express DCO Workflow" zc="Express DCO Workflow" />
+  <property __name="label" en="Express DCO" zc="图文变更命令" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="ECR" config_id="7408BB5F5D974E758690B29694C544B6">
+  <property __name="description" en="Enterprise Change Request" zc="Enterprise Change Request" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="qs_NCR" config_id="78D571D9D0D14683904FB6F2CEAFDFDC">
+  <property __name="description" en="" zc="QS - Non-Conformance Report Workflow" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="HL Express DCO Workflow" config_id="B8EF5D2641C5462CB8623B76F5B4A63D">
+  <property __name="description" en="" zc="图文变更申请单审核流程" />
+  <property __name="label" en="" zc="图文送审变更流程" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit Workflow" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="零部件送审单审核流程图" />
+  <property __name="label" en="" zc="零部件送审单审核流程图" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="Express DCO" config_id="6CCB9DB9829E4B8993D5881F427854C0">
+  <property __name="description" en="Express DCO Workflow" zc="Express DCO Workflow" />
+  <property __name="label" en="Express DCO" zc="图文变更命令" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="qs_Hold Notice" config_id="8AEBFC307FC74C3397A0D93B10951E07">
+  <property __name="description" en="" zc="QS - Hold Notice Workflow" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="HL Express DCO Workflow" config_id="B8EF5D2641C5462CB8623B76F5B4A63D">
+  <property __name="description" en="" zc="图文变更申请单审核流程" />
+  <property __name="label" en="" zc="图文送审变更流程" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="零部件送审单审核流程图" />
+  <property __name="label" en="" zc="零部件送审单审核流程图" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="hl_Part_Submit Workflow" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Change Workflow" config_id="99A4CEE5710A4D759017BE77E682B86B">
+  <property __name="description" en="" zc="零部件变更单审核流程" />
+  <property __name="label" en="" zc="零部件变更单审核流程" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="HL Express DCO Workflow" config_id="B8EF5D2641C5462CB8623B76F5B4A63D">
+  <property __name="description" en="" zc="图文变更申请单审核流程" />
+  <property __name="label" en="" zc="图文送审变更流程" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="Express DCO" config_id="6CCB9DB9829E4B8993D5881F427854C0">
+  <property __name="description" en="Express DCO Workflow" zc="Express DCO Workflow" />
+  <property __name="label" en="Express DCO" zc="图文变更命令" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="零部件送审单审核流程图" />
+  <property __name="label" en="" zc="零部件送审单审核流程图" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="零部件送审单审核流程图" />
+  <property __name="label" en="" zc="零部件送审单审核流程图" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="hl_Part_Submit Workflow" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="Express ECO" config_id="B0AB68FF8F014E379D17F0C1A426AD25">
+  <property __name="description" en="Express ECO Workflow" zc="Express ECO Workflow" />
+  <property __name="label" en="ECO" zc="工程变更命令" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="PR" config_id="B264D9B4BDCB4E2DBD79E06E465568C7">
+  <property __name="description" en="Problem Report Workflow" zc="Problem Report Workflow" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="hl_Part_Submit Workflow" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="Express DCO" config_id="6CCB9DB9829E4B8993D5881F427854C0">
+  <property __name="description" en="Express DCO Workflow" zc="Express DCO Workflow" />
+  <property __name="label" en="Express DCO" zc="图文变更命令" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="HL Express DCO Workflow" config_id="B8EF5D2641C5462CB8623B76F5B4A63D">
+  <property __name="description" en="" zc="图文变更申请单审核流程" />
+  <property __name="label" en="" zc="图文送审变更流程" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="qs_Purge Notice" config_id="CDBA3863AD084C899C4194BA1CE8C580">
+  <property __name="description" en="" zc="QS - Purge Notice Workflow" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="零部件送审单审核流程图" />
+  <property __name="label" en="" zc="零部件送审单审核流程图" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="Express EDR" config_id="D159EB0E227040B8958A891AB706F90D">
+  <property __name="description" en="Express EDR Workflow" zc="Express EDR Workflow" />
+  <property __name="label" en="Express EDR" zc="工程设计请求" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="hl_Part_Submit" config_id="0BE70537382A4845AC135FBE9032D3AB">
+  <property __name="description" en="ECN Workflow" zc="hl_Part_Submit Workflow" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="Express DCO" config_id="6CCB9DB9829E4B8993D5881F427854C0">
+  <property __name="description" en="Express DCO Workflow" zc="Express DCO Workflow" />
+  <property __name="label" en="Express DCO" zc="图文变更命令" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="HL_DCO" config_id="B8EF5D2641C5462CB8623B76F5B4A63D">
+  <property __name="description" en="" zc="图文送审变更流程" />
+  <property __name="label" en="" zc="图文送审变更流程" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="PE_Rework Order" config_id="E74422B0BD0A46E6BF78AFE0A71FE03C">
+  <property __name="description" en="PE - Rework Workflow" zc="PE - Rework Workflow" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="HL Express DCO Workflow" config_id="B8EF5D2641C5462CB8623B76F5B4A63D">
+  <property __name="description" en="" zc="图文变更申请单审核流程" />
+  <property __name="label" en="" zc="图文送审变更流程" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="HL Express DCO Workflow" config_id="B8EF5D2641C5462CB8623B76F5B4A63D">
+  <property __name="description" en="" zc="图文变更申请单审核流程" />
+  <property __name="label" en="" zc="图文送审变更流程" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="HL_DCO" config_id="B8EF5D2641C5462CB8623B76F5B4A63D">
+  <property __name="description" en="" zc="图文送审变更流程" />
+  <property __name="label" en="" zc="图文送审变更流程" />
+ </Item>
+</export>

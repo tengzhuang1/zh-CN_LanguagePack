@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<item index="1" id="status" width="65%" type="both" value="Ready">
+		<font family="Dialog" size="8" bold="1" italic="0"/>
+	</item>
+	<item index="2" id="page_status" width="35%" type="both">
+	</item>
+</xml>
+

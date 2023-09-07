@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_click="onToolbarButtonClick" on_load="onToolbarLoad" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="tb1">
+		<!-- - ->
+    <button disabled="false" image="../images/Help.svg" id="getAML" tooltip="获取 AML"/>
+    <!- - -->
+		<button image="../images/ExportToExcel.svg" id="export2Excel" tooltip="输出至Excel" disabled="false">输出至Excel</button>
+		<button image="../images/ExportToWord.svg" id="export2Word" tooltip="输出至Word" disabled="false">输出至Word</button>
+	</toolbar>
+</toolbarapplet>

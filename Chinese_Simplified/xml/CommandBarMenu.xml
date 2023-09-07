@@ -1,0 +1,602 @@
+﻿<export>
+ <Item type="CommandBarMenu" keyed_name="qry_SaveAs" config_id="01E1EE14768E42D5989251172C5CA65B">
+  <property __name="tooltip_template" en="" zc="另存为" />
+  <property __name="label" en="Save As" zc="另存为" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_favorite" config_id="0233F356CCA74607A326E72544AC2592">
+  <property __name="tooltip_template" en="" zc="添加至收藏夹" />
+  <property __name="label" en="Favorite" zc="添加至收藏夹" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_Version" config_id="0244ADA541194440AD3AF256706C5143">
+  <property __name="tooltip_template" en="" zc="创建新版本" />
+  <property __name="label" en="Create New Version" zc="创建新版本" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.xclasstree.view_item_classification_permission" config_id="03618B847BA24DEE984578DA1FAF0471">
+  <property __name="tooltip_template" en="" zc="查看对象类权限" />
+  <property __name="label" en="View Item Classification Permission" zc="查看对象类权限" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="searchview.commandbar.default.display" config_id="046C49B7515646D99BC9FED71D7373C2">
+  <property __name="tooltip_template" en="Display" zc="显示配置" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="effs_expressionItemGridCtxMenuViewEffectivity" config_id="0979CDA8224946938316DDF8B934FBB9">
+  <property __name="tooltip_template" en="" zc="查看有效性" />
+  <property __name="label" en="View Effectivity" zc="查看有效性" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="mp_remove" config_id="0C92C05375264B27A949AA3B9EAC9AD5">
+  <property __name="tooltip_template" en="" zc="移除" />
+  <property __name="label" en="Remove" zc="移除" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.tdf.toc_Technical Documentation" config_id="0E8B49DEA6C84521A60D488589162213">
+  <property __name="tooltip_template" en="" zc="10-技术文档" />
+  <property __name="label" en="Technical Documentation" zc="10-技术文档" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.itemcommandbar.default.reports" config_id="0F7DA70E60DB4002BDF0ADA41DFA19F5">
+  <property __name="tooltip_template" en="Reports" zc="报表" />
+  <property __name="label" en="" zc="报表" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="rb_View" config_id="13EDB4893A8A4E03908CC1455513B234">
+  <property __name="tooltip_template" en="" zc="打开窗口" />
+  <property __name="label" en="Open" zc="打开窗口" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Documents" config_id="15DDAB021C704306881BAF3CE6B6CE17">
+  <property __name="tooltip_template" en="" zc="02-图文管理" />
+  <property __name="label" en="Documents" zc="02-图文管理" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_AdminMenu" config_id="1828A69926534459A4B2E743D822647D">
+  <property __name="tooltip_template" en="" zc="管理员" />
+  <property __name="label" en="Admin" zc="管理员" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Quality Management" config_id="1843BDB69D4D42FFB5DE5F526EEC8B02">
+  <property __name="tooltip_template" en="" zc="08-质量管理" />
+  <property __name="label" en="Quality Management" zc="08-质量管理" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.xclasstree.view_xproperty_value_permission" config_id="19D3C5AD5B294DF4A41B736B6299FB8B">
+  <property __name="tooltip_template" en="" zc="查看扩展属性值权限" />
+  <property __name="label" en="View xProperty Value Permission" zc="查看扩展属性值权限" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.mwh_user_menu" config_id="1A41B744E37247AAB823C76D666E6084">
+  <property __name="aria_label" en="Open User Menu" zc="Open User Menu" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Process Innovator" config_id="1D2278FC3E084FACA06E3CB102DF3597">
+  <property __name="tooltip_template" en="" zc="Process Innovator" />
+  <property __name="label" en="Process Innovator" zc="Process Innovator" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_addItem2Package" config_id="1D6125BD70DB4A5C9E5582654AFDAA46">
+  <property __name="tooltip_template" en="" zc="添加至包定义" />
+  <property __name="label" en="Add to Package Definition" zc="添加至包定义" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Quality Innovator" config_id="1D796A017A004263B53C8EA9BB097433">
+  <property __name="tooltip_template" en="" zc="质量创新" />
+  <property __name="label" en="Quality Innovator" zc="质量创新" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_done" config_id="2051BF172D9F414B81B143838699325D">
+  <property __name="label" en="Done Editing" zc="Done Editing" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.mwh_preferences" config_id="236F95C7344D42EE854716E7E7151996">
+  <property __name="tooltip_template" en="" zc="个性化设置" />
+  <property __name="label" en="Preferences" zc="个性化设置" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_edit" config_id="254F13D55D824C6D87892E4395017474">
+  <property __name="label" en="Edit" zc="Edit" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="cui.ssvc.pdf_viewer" config_id="265EC8B3C25D4E39ACB4C791047BA565">
+  <property __name="tooltip_template" en="{0} File(s) for PDF Viewer" zc="{0} File(s) for PDF Viewer" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Analysis_1843BDB69D4D42FFB5DE5F526EEC8B02" config_id="2754F692245191CF1B1FE36BEE101724">
+  <property __name="label" en="" zc="分析" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.default.remove_from_favorites" config_id="28ED7A70EB144DE78442F69C125E9C90">
+  <property __name="tooltip_template" en="" zc="从收藏夹移除" />
+  <property __name="label" en="Remove from Favorites" zc="从收藏夹移除" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_More" config_id="2AF1AF72B16840E5B5676AADF357A148">
+  <property __name="tooltip_template" en="" zc="更多" />
+  <property __name="label" en="More" zc="更多" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.default.edit" config_id="2C8346A0A39542D09A91BD386CE70E6F">
+  <property __name="tooltip_template" en="" zc="编辑" />
+  <property __name="label" en="Edit" zc="编辑" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.itemcommandbar.default.share.copy_link_to" config_id="2D562600ACB449559B7DF1A2ABF04450">
+  <property __name="tooltip_template" en="" zc="复制链接至..." />
+  <property __name="label" en="Copy Link To..." zc="复制链接至..." />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Templates" config_id="2D78683DCAE34E8FBDB90C10E81B768B">
+  <property __name="tooltip_template" en="" zc="12-通用模板" />
+  <property __name="label" en="Templates" zc="12-通用模板" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Vaulting Files" config_id="320D4A5B355B414AB271C96E432C7392">
+  <property __name="tooltip_template" en="" zc="数据仓库文件" />
+  <property __name="label" en="Vaulting Files" zc="数据仓库文件" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.gn.toc_GraphNavigation" config_id="324E4BAF108344D999C36AC6F0EB0FE7">
+  <property __name="tooltip_template" en="" zc="图形导航" />
+  <property __name="label" en="Graph Navigation" zc="图形导航" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Document Center" config_id="33308D97021D45429C536FE63AB958D6">
+  <property __name="tooltip_template" en="" zc="文档中心" />
+  <property __name="label" en="Document Center" zc="文档中心" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="commonitems.commandbar.sharemenu" config_id="3353902ED6E24641AB7B88FE0D58B696">
+  <property __name="tooltip_template" en="Share" zc="分享" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_372E05EB4D284EA386CD11F35D9D2409" config_id="372E05EB4D284EA386CD11F35D9D2409">
+  <property __name="label" en="" zc="系统运维" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmtoc_ListAll" config_id="3A189665257E416CA89A908248B6FB8C">
+  <property __name="tooltip_template" en="" zc="列出全部" />
+  <property __name="label" en="List All" zc="列出全部" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Business Logic" config_id="3FDD373760C24F5BAFCF1A9C39F87335">
+  <property __name="tooltip_template" en="" zc="业务逻辑" />
+  <property __name="label" en="Business Logic" zc="业务逻辑" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.default.add_to_favorites" config_id="40D080740A144B0684B1F402A0E6D1A5">
+  <property __name="tooltip_template" en="" zc="添加至收藏夹" />
+  <property __name="label" en="Add to Favorites" zc="添加至收藏夹" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="cui.aras.innovator.cui_default.add_item_to_bookmarks" config_id="4387B91B16BF460999870C5FC0CA6AD3">
+  <property __name="tooltip_template" en="" zc="添加至收藏夹" />
+  <property __name="label" en="Add Item to Bookmarks..." zc="添加至收藏夹" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Library" config_id="43F1C1111A5B4080BE860351E38363E3">
+  <property __name="tooltip_template" en="" zc="库" />
+  <property __name="label" en="Library" zc="库" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_CompleteTask" config_id="440E30A7B20144D69FB3F22CA0349027">
+  <property __name="tooltip_template" en="" zc="完成任务" />
+  <property __name="label" en="Complete Task" zc="完成任务" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="mp_unlock" config_id="4559B70E8F6C4173B676264710DBDF3A">
+  <property __name="tooltip_template" en="" zc="解锁" />
+  <property __name="label" en="Unlock" zc="解锁" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmtoc_pinItemType" config_id="4A11299D83034FB9BCA870F7DDDBD3BC">
+  <property __name="tooltip_template" en="" zc="钉在侧边栏" />
+  <property __name="label" en="Pin to Sidebar" zc="钉在侧边栏" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Supplier Innovator" config_id="4A2FFF959F4941298B642193F227F550">
+  <property __name="tooltip_template" en="" zc="Supplier Innovator" />
+  <property __name="label" en="Supplier Innovator" zc="Supplier Innovator" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_Properties" config_id="4C55580A2E21491E840E855F6C2DD520">
+  <property __name="tooltip_template" en="" zc="属性" />
+  <property __name="label" en="Properties" zc="属性" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Package Innovator" config_id="4D0B1AF31844442FB315FD4D813B3A5C">
+  <property __name="tooltip_template" en="" zc="Package Innovator" />
+  <property __name="label" en="Package Innovator" zc="Package Innovator" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.xpxc.toc_Extended Classification" config_id="4D83ED9DD681459A94590FE16F64B962">
+  <property __name="tooltip_template" en="" zc="11-扩展分类" />
+  <property __name="label" en="Extended Classification" zc="11-扩展分类" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="mp_view_lifecycle" config_id="50782BA408AC4DB29717E1A325A39C6A">
+  <property __name="tooltip_template" en="" zc="查看生命周期" />
+  <property __name="label" en="View Life Cycle" zc="查看生命周期" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="searchview.commandbar.layouts" config_id="527EED10910B4C8CBFAA73BC80E6247C">
+  <property __name="tooltip_template" en="Layouts" zc="" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.mwh_discussion_state" config_id="5369253C737F490BA120AE438224574E">
+  <property __name="tooltip_template" en="" zc="讨论" />
+  <property __name="label" en="Discussion" zc="讨论" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.itemcommandbar.default.share" config_id="53B3D123C3DE46AC93738FC80C11CA62">
+  <property __name="tooltip_template" en="Share" zc="分享" />
+  <property __name="label" en="" zc="分享" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_UnclaimTask" config_id="54AC84F923634C3EA2DA08B138C1F057">
+  <property __name="tooltip_template" en="" zc="解锁" />
+  <property __name="label" en="Unclaim Task" zc="解锁" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Tooling Innovator" config_id="5551EDBE30AC4FA6B5BDD6E7C27A1DC9">
+  <property __name="tooltip_template" en="" zc="Tooling Innovator" />
+  <property __name="label" en="Tooling Innovator" zc="Tooling Innovator" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_Structure Browser" config_id="56D31C035C524E2BA6845FC4D3C261B5">
+  <property __name="tooltip_template" en="" zc="结构浏览" />
+  <property __name="label" en="Structure Browser" zc="结构浏览" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.default.remove" config_id="5B77592941DD4C9E851AC82EFC785D6D">
+  <property __name="tooltip_template" en="" zc="移除" />
+  <property __name="label" en="Remove" zc="移除" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.wm.toc_Watermarking" config_id="5DA51B9736D04B399B8839FD75D07F2A">
+  <property __name="tooltip_template" en="" zc="水印设置" />
+  <property __name="label" en="Watermarking" zc="水印设置" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.itemcommandbar.default.navigate" config_id="5E72720279C1491583EDD59C17052FB8">
+  <property __name="tooltip_template" en="Navigate" zc="关联导览" />
+  <property __name="label" en="" zc="关联导览" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_discard" config_id="60A73DDEA36B43098B55DF504E0E9953">
+  <property __name="label" en="Discard Changes" zc="Discard Changes" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Training Innovator" config_id="62DC4B68AC204C2285C75C429E4DFA28">
+  <property __name="tooltip_template" en="" zc="Training Innovator" />
+  <property __name="label" en="Training Innovator" zc="Training Innovator" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_CopyLinkTo" config_id="64696A94258F4D289104D16FC1411A38">
+  <property __name="tooltip_template" en="" zc="复制链接..." />
+  <property __name="label" en="Copy Link To..." zc="复制链接..." />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Change Management" config_id="64DF4B14BED84AF7B2EDE0EF3764EFBE">
+  <property __name="tooltip_template" en="" zc="04-变更管理" />
+  <property __name="label" en="Change Management" zc="04-变更管理" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Secure Social" config_id="6592CC9829F641ADB926EB4766B393A2">
+  <property __name="tooltip_template" en="" zc="社交" />
+  <property __name="label" en="Secure Social" zc="社交" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Content Modeling" config_id="677A28DAA58D443093069C7B7C23F287">
+  <property __name="tooltip_template" en="" zc="内容建模" />
+  <property __name="label" en="Content Modeling" zc="内容建模" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.mpo.toc_Mass Operations" config_id="69E7F9371B8C4731815FA9618F6953C3">
+  <property __name="tooltip_template" en="" zc="批量操作" />
+  <property __name="label" en="Mass Operations" zc="批量操作" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Project Innovator" config_id="6C6C6B9E53854EF68BE246026195242A">
+  <property __name="tooltip_template" en="" zc="Project Innovator" />
+  <property __name="label" en="Project Innovator" zc="Project Innovator" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.mp.toc_Access Control" config_id="6C773D9EE99446969C87E4DA10F8DF13">
+  <property __name="tooltip_template" en="" zc="访问控制" />
+  <property __name="label" en="Access Control" zc="访问控制" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmtoc_createNewInstance" config_id="6CD9F919C3104AA19866D8A68583BE17">
+  <property __name="tooltip_template" en="" zc="新建 {0}" />
+  <property __name="label" en="Create New {0}" zc="新建 {0}" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmtoc_unpinItemType" config_id="6F5CEE0880C940CE94B9E72A93D9CE25">
+  <property __name="tooltip_template" en="" zc="从侧边栏拔除" />
+  <property __name="label" en="Unpin from Sidebar" zc="从侧边栏拔除" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_reset_LFS" config_id="70355A4841874BAEBA48C5A8DE5C248A">
+  <property __name="tooltip_template" en="" zc="重置生命周期状态" />
+  <property __name="label" en="Reset Life Cycle State" zc="重置生命周期状态" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.xclasstree.create_xproperty_value_permission" config_id="7129A0A8C3F94A48967306D4C64742F1">
+  <property __name="tooltip_template" en="" zc="创建xProperty值权限" />
+  <property __name="label" en="Create xProperty Value Permission" zc="创建xProperty值权限" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Portfolio" config_id="718FA406416E44369BE81C45C6C50360">
+  <property __name="tooltip_template" en="" zc="05-项目管理" />
+  <property __name="label" en="Portfolio" zc="05-项目管理" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.mwh_admin_menu" config_id="7267B91F9B334F9FA1E9715B7DADD11C">
+  <property __name="tooltip_template" en="" zc="管理员" />
+  <property __name="label" en="Admin" zc="管理员" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.default.open" config_id="731883CDB03F447EB4F6984A1F7FFE44">
+  <property __name="tooltip_template" en="" zc="打开窗口" />
+  <property __name="label" en="Open" zc="打开窗口" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.effs.toc_Effectivity Services" config_id="740CAE5357F64959A6969D0909C66988">
+  <property __name="tooltip_template" en="" zc="有效性服务" />
+  <property __name="label" en="Effectivity Services" zc="有效性服务" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_74E8ADB49C2F4E26AB340680EB08F608" config_id="74E8ADB49C2F4E26AB340680EB08F608">
+  <property __name="label" en="" zc="功能配置" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_Save As" config_id="7587E9CBC2B0491BB2298C4413836CBB">
+  <property __name="tooltip_template" en="" zc="另存为" />
+  <property __name="label" en="Save As" zc="另存为" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_setDefault_LC" config_id="78F0E91285FB49939C4865E36946D73B">
+  <property __name="tooltip_template" en="" zc="设置默认生命周期" />
+  <property __name="label" en="Set Default Life Cycle" zc="设置默认生命周期" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmsm_unpinQuickAccess" config_id="7D689E13B26A4C8EB2B81AECD95274FC">
+  <property __name="tooltip_template" en="" zc="从快捷访问拔除" />
+  <property __name="label" en="Unpin from Quick Access" zc="从快捷访问拔除" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.reqdoccontent.open" config_id="7DD9C1185F074522BB97E20649EF1CA1">
+  <property __name="label" en="Open" zc="" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_Where Used" config_id="800E29C692D5456CA1C989A359EF5F4D">
+  <property __name="tooltip_template" en="" zc="用于何处" />
+  <property __name="label" en="Where Used" zc="用于何处" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="searchview.commandbar.default.display.preview" config_id="835A8AB35BF5461FAAE1A7E0BC2927E8">
+  <property __name="tooltip_template" en="" zc="预览" />
+  <property __name="label" en="Preview" zc="预览" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="mp_promote" config_id="839DADDCB3B643F3A0B4D482B24EB2C6">
+  <property __name="tooltip_template" en="" zc="提升" />
+  <property __name="label" en="Promote" zc="提升" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_View" config_id="83C93103439243ADB2A8472FC743EB1B">
+  <property __name="tooltip_template" en="" zc="打开窗口" />
+  <property __name="label" en="Open" zc="打开窗口" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Quality Events_1843BDB69D4D42FFB5DE5F526EEC8B02" config_id="84B29D6DCB18968E1B1FE36BEE101724">
+  <property __name="label" en="" zc="质量事件" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.more.pmig_DeleteMenu" config_id="8852E621F0E24976A36686B3A238A7E9">
+  <property __name="tooltip_template" en="" zc="删除" />
+  <property __name="label" en="Delete" zc="删除" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Corrective Action_1843BDB69D4D42FFB5DE5F526EEC8B02" config_id="8B618C9F2A1486FB1B1FE36BEE101724">
+  <property __name="label" en="" zc="纠正措施" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_File Exchange" config_id="8EB0839F21674D498A4FC5570B3656C3">
+  <property __name="tooltip_template" en="" zc="文件管理" />
+  <property __name="label" en="File Exchange" zc="文件管理" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_Delete" config_id="8F346B23CA3B450DB8B4F7432B971C86">
+  <property __name="tooltip_template" en="" zc="删除" />
+  <property __name="label" en="Delete All Versions" zc="删除" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="effs_tgvContextMenuViewEffectivityItem" config_id="8FF3EA68F91D4C2686CD626D194EA333">
+  <property __name="tooltip_template" en="" zc="查看效能" />
+  <property __name="label" en="View Effectivity" zc="查看效能" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="rb_CollapseLevelContextMenu" config_id="903E864B112D4FF0A82FD4824D607443">
+  <property __name="tooltip_template" en="" zc="折叠" />
+  <property __name="label" en="Trim" zc="折叠" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Data Modeling" config_id="92B8358BF91B4C88B37E100B984EE43F">
+  <property __name="tooltip_template" en="" zc="数据模型" />
+  <property __name="label" en="Data Modeling" zc="数据模型" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Users and Groups" config_id="939C7265383D48A98EA962A9FDC4BD10">
+  <property __name="tooltip_template" en="" zc="用户群组" />
+  <property __name="label" en="Users and Groups" zc="用户群组" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Cloud Services" config_id="9409BFA9EACE414193E25454A3BABBD8">
+  <property __name="tooltip_template" en="" zc="云服务" />
+  <property __name="label" en="Cloud Services" zc="云服务" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.default.permissions" config_id="957F8570547D47BC9AD174D5DEE9B3FE">
+  <property __name="tooltip_template" en="" zc="权限" />
+  <property __name="label" en="Permissions" zc="权限" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.xclasstree.pick_item_classification_permission" config_id="97F24AC262E648A3AF1408402E9B9336">
+  <property __name="tooltip_template" en="" zc="选择对象的类权限" />
+  <property __name="label" en="Pick Item Classification Permission" zc="选择对象的类权限" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.itemcommandbar.default.more.deletemenu" config_id="98EA3F71E2CF406F91C35E8612A0BF7E">
+  <property __name="tooltip_template" en="" zc="删除" />
+  <property __name="label" en="Delete" zc="删除" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.xclasstree.create_item_classification_permission" config_id="9D659821DD284423AB805E2922075BB8">
+  <property __name="tooltip_template" en="" zc="新建对象的类权限" />
+  <property __name="label" en="Create Item Classification Permission" zc="新建对象的类权限" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_Share" config_id="9D6FCCA3E85D488ABB960FEDD99AB77A">
+  <property __name="tooltip_template" en="" zc="分享" />
+  <property __name="label" en="Share" zc="分享" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Searchs and Reports" config_id="9D7E27F0B997469EA411F4791BAAD4C5">
+  <property __name="tooltip_template" en="" zc="搜索和报表" />
+  <property __name="label" en="Searchs And Reports" zc="搜索和报表" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="cui.ssvc.image_viewer" config_id="9D9BD8BAF524456EA1EED73E250AEF4E">
+  <property __name="tooltip_template" en="{0} File(s) for Image Viewer" zc="{0} File(s) for Image Viewer" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="searchview.titlebar.default.savedsearches" config_id="A08C0818717C418F9FE8A7FFB95C31F4">
+  <property __name="tooltip_template" en="Open Favorite Searches list" zc="已保存的搜索清单" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.itemcommandbar.default.permissionsmenu" config_id="A4FC1229133A4026BAC2D996B650B2C9">
+  <property __name="tooltip_template" en="" zc="权限" />
+  <property __name="label" en="Permissions" zc="权限" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Notification" config_id="A7B3994B55FB409B887BD708ED4F856F">
+  <property __name="tooltip_template" en="" zc="消息通知" />
+  <property __name="label" en="Notification" zc="消息通知" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_ReportsMenu" config_id="A7C73733CABE4B56A24DA9682E69558D">
+  <property __name="tooltip_template" en="" zc="报表" />
+  <property __name="label" en="Reports" zc="报表" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.default.replace" config_id="AE1D1D75AC184D7195316B2114EC5AA6">
+  <property __name="tooltip_template" en="" zc="替换" />
+  <property __name="label" en="Replace" zc="替换" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_ClaimTask" config_id="AFBC55CB97FC439C895F942301854DCE">
+  <property __name="tooltip_template" en="" zc="锁定" />
+  <property __name="label" en="Claim Task" zc="锁定" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_B0125C7AB0ED4D12B43779D2086D151C" config_id="B0125C7AB0ED4D12B43779D2086D151C">
+  <property __name="label" en="" zc="电子签名" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.xclasstree.pick_xproperty_value_permission" config_id="B7980411B4704CBE916F5526A4FD6765">
+  <property __name="tooltip_template" en="" zc="选择xProperty值权限" />
+  <property __name="label" en="Pick xProperty Value Permission" zc="选择xProperty值权限" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_unfavorite" config_id="BBE2846159574412B2F14D198CBBD67C">
+  <property __name="tooltip_template" en="" zc="从收藏夹移除" />
+  <property __name="label" en="Unfavorite" zc="从收藏夹移除" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.default.actionsmenu" config_id="BC6028072B7C4D56B0F3EB67F43F126D">
+  <property __name="tooltip_template" en="" zc="操作" />
+  <property __name="label" en="Actions" zc="操作" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_System Events" config_id="BE0A63FCB9034FFB84A2FE4867AC0382">
+  <property __name="tooltip_template" en="" zc="系统事件" />
+  <property __name="label" en="System Events" zc="系统事件" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.mwh_actions_menu" config_id="C0038562C1194ED3A06D21DA637CEDAF">
+  <property __name="tooltip_template" en="" zc="操作" />
+  <property __name="label" en="Actions" zc="操作" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="cui.ssvc.vcollab_viewer" config_id="C01588CA86DD47A1BCD1B3A4FBD9B6FB">
+  <property __name="tooltip_template" en="{0} File(s) for Simulation Viewer" zc="{0} File(s) for Simulation Viewer" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.default.unclaim" config_id="C03D69DD1A114C6FA8DBB99E9FD0FF2D">
+  <property __name="tooltip_template" en="" zc="解锁" />
+  <property __name="label" en="Unclaim" zc="解锁" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_Unlock" config_id="C1BE5A894D214927AE61F4C2B213D4D9">
+  <property __name="tooltip_template" en="" zc="解锁" />
+  <property __name="label" en="Unclaim" zc="解锁" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="cui.aras.innovator.cui_default.edit_current_version" config_id="C1C2F615D0F94810889F0C74C93486A8">
+  <property __name="tooltip_template" en="" zc="编辑当前版本" />
+  <property __name="label" en="Edit Current Version" zc="编辑当前版本" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmtoc_searchItems" config_id="C33F47327CB44D33B07883BD322B121B">
+  <property __name="tooltip_template" en="" zc="查找 {0}" />
+  <property __name="label" en="Search {0}" zc="查找 {0}" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Configuration" config_id="C599EA936834459F83CC0D3B09BF5856">
+  <property __name="tooltip_template" en="" zc="配置项" />
+  <property __name="label" en="Configuration" zc="配置项" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_C9C858E1D5BF4F4FA3A834E9E45B834B" config_id="C9C858E1D5BF4F4FA3A834E9E45B834B">
+  <property __name="label" en="" zc="看板配置" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="cui.aras.innovator.cui_default.view_this_version" config_id="CAB4D84405C24AE8807AA8C73F93E580">
+  <property __name="tooltip_template" en="" zc="查看此版本" />
+  <property __name="label" en="View This Version" zc="查看此版本" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.xclasstree.pick_replace_xproperty_value_permission" config_id="CAC9ACC0A1374B8C99735E9368B8EB4F">
+  <property __name="tooltip_template" en="" zc="选择/替换 xProperty值权限" />
+  <property __name="label" en="Pick/Replace xProperty Value Permission" zc="选择/替换 xProperty值权限" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Containment_1843BDB69D4D42FFB5DE5F526EEC8B02" config_id="CB8C32C87D78556E1B1FE36BEE101724">
+  <property __name="label" en="" zc="容器" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_Revisions" config_id="CD1142BD3F954162AF4E720E44DA24BC">
+  <property __name="tooltip_template" en="" zc="全部版本" />
+  <property __name="label" en="Versions" zc="全部版本" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Process" config_id="D26A084B4D8D4AFCBA74DB73F9BB4677">
+  <property __name="tooltip_template" en="" zc="07-工艺规划" />
+  <property __name="label" en="Process" zc="07-工艺规划" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_Promote" config_id="D2F9439ED7824CFDA0E11D2F40352EB8">
+  <property __name="tooltip_template" en="" zc="提升状态" />
+  <property __name="label" en="Promote" zc="提升状态" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Dashboards" config_id="D3130138F37C4F81B0E45DF18576079B">
+  <property __name="tooltip_template" en="" zc="工作台" />
+  <property __name="label" en="Dashboards" zc="工作台" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_User Interface" config_id="D53793190A884387A22D462A82E38642">
+  <property __name="tooltip_template" en="" zc="用户接口" />
+  <property __name="label" en="User Interface" zc="用户接口" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="graphview.popup.gvd" config_id="D65096F867D14FDAB1EDA899B6C96BEF">
+  <property __name="tooltip_template" en="" zc="打开线程视图" />
+  <property __name="label" en="Open Graph View" zc="打开线程视图" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_File Handling" config_id="D857FFD536F741DEA5778F4F8252A762">
+  <property __name="tooltip_template" en="" zc="文件处理" />
+  <property __name="label" en="File Handling" zc="文件处理" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_NavigateMenu" config_id="D88C18E5D99446D29AA3CA709F2ECC29">
+  <property __name="tooltip_template" en="" zc="结构图" />
+  <property __name="label" en="Navigate" zc="结构图" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Localization" config_id="D99D74772743438F938FB14C1710A84B">
+  <property __name="tooltip_template" en="" zc="多语系" />
+  <property __name="label" en="Localization" zc="多语系" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.default.claim" config_id="DC19E38148C94E7898147504FD93E113">
+  <property __name="tooltip_template" en="" zc="锁定" />
+  <property __name="label" en="Claim" zc="锁定" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Sourcing" config_id="E0A77E86F2F6419AB7DEE7CFB0B28FC7">
+  <property __name="tooltip_template" en="" zc="06-采购管理" />
+  <property __name="label" en="Sourcing" zc="06-采购管理" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="rb_ExpandAllContextMenu" config_id="E23B2E1E8E3941DAB63BDFDF2C28806B">
+  <property __name="tooltip_template" en="" zc="展开" />
+  <property __name="label" en="Grow" zc="展开" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.default.discard" config_id="E2C2B32A21434CAE8741655CCD89E3B7">
+  <property __name="tooltip_template" en="" zc="放弃更改" />
+  <property __name="label" en="Discard Changes" zc="放弃更改" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="effs_expressionItemGridCtxMenuEditEffectivity" config_id="E3E20B4EB4B948E2A3C1E0B8A74987DC">
+  <property __name="tooltip_template" en="" zc="编辑有效性" />
+  <property __name="label" en="Edit Effectivity" zc="编辑有效性" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Design Innovator" config_id="E4CABDA431DA47F4A9EC91FE2D110EAC">
+  <property __name="tooltip_template" en="" zc="Design Innovator" />
+  <property __name="label" en="Design Innovator" zc="Design Innovator" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmsm_remove" config_id="E5447673B03A4489A6B820E5680F6518">
+  <property __name="tooltip_template" en="" zc="从收藏夹移除" />
+  <property __name="label" en="Remove from Favorites" zc="从收藏夹移除" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Sales Innovator" config_id="E6DDFC2D909C4C459ED7E348166A01E8">
+  <property __name="tooltip_template" en="" zc="Sales Innovator" />
+  <property __name="label" en="Sales Innovator" zc="Sales Innovator" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_Lock" config_id="E7038B4094F24BD99527D840D68F5560">
+  <property __name="tooltip_template" en="" zc="锁定" />
+  <property __name="label" en="Claim" zc="锁定" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipscommandbar.default.displaymenu" config_id="E84855F29B0448908433022DFC71DA71">
+  <property __name="tooltip_template" en="Display" zc="显示设置" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="cui.ssvc.advanced_image_viewer" config_id="EC340ECBAEAF4776BC9A67612ED4B4F7">
+  <property __name="tooltip_template" en="{0} File(s) for Advanced Image Viewer" zc="{0} File(s) for Advanced Image Viewer" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Administration" config_id="ED137389E93048819E68DD364EDA1322">
+  <property __name="tooltip_template" en="" zc="系统管理员" />
+  <property __name="label" en="Administration" zc="00-系统管理员" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Design" config_id="ED37E2A4E866447088D6EA16B3340FBD">
+  <property __name="tooltip_template" en="" zc="03-设计管理" />
+  <property __name="label" en="Design" zc="03-设计管理" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.default.done" config_id="EF1F60A8B2194C2081E41702EBF3B7C3">
+  <property __name="tooltip_template" en="" zc="完成编辑" />
+  <property __name="label" en="Done Editing" zc="完成编辑" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.relationshipsrowcontextmenu.xclasstree.pick_replace_item_classification_permission" config_id="EFA9C77EAB834324AF4529DAC5E94A08">
+  <property __name="tooltip_template" en="" zc="选择/替换 对象的类权限" />
+  <property __name="label" en="Pick/Replace Item Classification Permission" zc="选择/替换 对象的类权限" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_EFBB64E007A84E4F92FEF5A84A14CE29" config_id="EFBB64E007A84E4F92FEF5A84A14CE29">
+  <property __name="label" en="" zc="需求管理" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_reset_itemAccess" config_id="F32599B772E549D5BABDDB1239ED437F">
+  <property __name="tooltip_template" en="" zc="重置对象访问" />
+  <property __name="label" en="Reset Item Access" zc="重置对象访问" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="cui.aras.innovator.cui_default.view_current_version" config_id="F3EEB3512CE84317BAB076D1FB2A2A1E">
+  <property __name="tooltip_template" en="" zc="查看当前版本" />
+  <property __name="label" en="View Current Version" zc="查看当前版本" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_Process Flow" config_id="F53E013C68EE49CE8721DACE58D106FE">
+  <property __name="tooltip_template" en="" zc="工序流程" />
+  <property __name="label" en="Process Flow" zc="工序流程" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.mwh_reports_menu" config_id="F5AE4B6003D44C5880CF6628123D48EB">
+  <property __name="tooltip_template" en="" zc="报表" />
+  <property __name="label" en="Reports" zc="报表" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_massPromote" config_id="F80329785608412AB3F40658E9E1E8AF">
+  <property __name="tooltip_template" en="" zc="批量提升" />
+  <property __name="label" en="Mass Promote" zc="批量提升" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmsm_addToForum" config_id="F8377109ADE043FBB49D150CD8E296DF">
+  <property __name="tooltip_template" en="" zc="添加至论坛" />
+  <property __name="label" en="Add to Forum" zc="添加至论坛" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.pmig_Purge" config_id="F96EBC3B58A1435198B590D50E4554F0">
+  <property __name="tooltip_template" en="" zc="清除" />
+  <property __name="label" en="Purge This Version" zc="清除" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.toc_My Innovator" config_id="FA93FDCB24D245DE8A82B2234B1C95DB">
+  <property __name="tooltip_template" en="" zc="01-个人专区" />
+  <property __name="label" en="My Innovator" zc="01-个人专区" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="com.aras.innovator.cui_default.mwh_licenses_menu" config_id="FADF25E82A124E7C9BDAFCFFBA8C223D">
+  <property __name="tooltip_template" en="" zc="许可证" />
+  <property __name="label" en="Licenses" zc="许可证" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="graphview.popup.layout" config_id="FC07368E5220434B8CE10B6940A1B992">
+  <property __name="tooltip_template" en="" zc="布局" />
+  <property __name="label" en="Layout" zc="布局" />
+ </Item>
+ <Item type="CommandBarMenu" keyed_name="itemview.itemcommandbar.default.more" config_id="FFEBAEC1DE43491D8AF7C2684253E34A">
+  <property __name="tooltip_template" en="More" zc="更多" />
+ </Item>
+</export>

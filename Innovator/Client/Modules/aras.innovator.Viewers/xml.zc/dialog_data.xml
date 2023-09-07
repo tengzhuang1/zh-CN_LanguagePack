@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dialogs>
+	<find title="Search">
+		<row>
+			<textbox name="textBoxFind" style="DialogWidget TextBox" width="172"></textbox>
+			<button name="buttonNextMatch" src="../../../images/ArrowRight.svg" style="DialogWidget SmallButton"></button>
+		</row>
+		<row>
+			<checkbox name="checkboxMatchCase" label="Match Case" style="DialogWidget"></checkbox>
+		</row>
+	</find>
+	<scribblePalette title="Scribble">
+		<row>
+			<button name="btnScribble" src="../../../images/Scribble.svg" tooltip="Scribble" style="DrawingButton"></button>
+			<button name="btnSelect" src="../../../images/Select.svg" tooltip="Select" style="SelectButton"></button>
+		</row>
+		<row>
+			<button name="smallScribbleButton" src="../../../images/ScribbleSmall.svg" tooltip="Small" style="DrawingSizeButton"></button>
+			<button name="mediumScribbleButton" src="../../../images/ScribbleMedium.svg" tooltip="Medium" style="DrawingSizeButton"></button>
+			<button name="largeScribbleButton" src="../../../images/ScribbleLarge.svg" tooltip="Large" style="DrawingSizeButton"></button>
+		</row>
+		<row>
+			<colorpallete name="colorPallete">
+				<row>
+					<color color="#fdff00" title="Yellow"></color>
+					<color color="#008400" title="Green"></color>
+					<color color="#ff7944" title="Orange"></color>
+					<color color="#fff" title="White"></color>
+				</row>
+				<row>
+					<color color="#fd0200" title="Red" selected="selected"></color>
+					<color color="#002a99" title="Blue"></color>
+					<color color="#808080" title="Grey"></color>
+					<color color="#000" title="Black"></color>
+				</row>
+			</colorpallete>
+		</row>
+	</scribblePalette>
+	<highlightPalette title="Highlight">
+		<row>
+			<button name="btnHighlight" src="../../../images/Highlight.svg" tooltip="Highlight Box" style="DrawingButton"></button>
+			<button name="btnSelect" src="../../../images/Select.svg" tooltip="Select" style="SelectButton"></button>
+		</row>
+		<row>
+			<colorpallete name="colorPallete">
+				<row>
+					<color color="#fdff00" title="Yellow" selected="selected"></color>
+					<color color="#4bff4b" title="Green"></color>
+					<color color="#ff7944" title="Orange"></color>
+					<color color="#fff" title="White"></color>
+				</row>
+				<row>
+					<color color="#ff37b6" title="Pink"></color>
+					<color color="#01aff1" title="Blue"></color>
+					<color color="#808080" title="Grey"></color>
+					<color color="#000" title="Black"></color>
+				</row>
+			</colorpallete>
+		</row>
+	</highlightPalette>
+	<labelPalette title="Label">
+		<row>
+			<button name="btnLabel" src="../../../images/Label.svg" tooltip="Label" style="DrawingButton"></button>
+			<button name="btnSelect" src="../../../images/Select.svg" tooltip="Select" style="SelectButton"></button>
+		</row>
+		<row>
+			<button name="smallLabelButton" src="../../../images/LabelSmall.svg" tooltip="Small" style="DrawingSizeButton"></button>
+			<button name="mediumLabelButton" src="../../../images/LabelMedium.svg" tooltip="Medium" style="DrawingSizeButton"></button>
+			<button name="largeLabelButton" src="../../../images/LabelLarge.svg" tooltip="Large" style="DrawingSizeButton"></button>
+		</row>
+		<row>
+			<colorpallete name="colorPallete">
+				<row>
+					<color color="#fdff00" title="Yellow"></color>
+					<color color="#008400" title="Green"></color>
+					<color color="#ff7944" title="Orange"></color>
+					<color color="#fff" title="White"></color>
+				</row>
+				<row>
+					<color color="#fd0200" title="Red" selected="selected"></color>
+					<color color="#002a99" title="Blue"></color>
+					<color color="#808080" title="Grey"></color>
+					<color color="#000" title="Black"></color>
+				</row>
+			</colorpallete>
+		</row>
+	</labelPalette>
+	<comparePallete title="Compare">
+		<row style="CompareDialogContentRow">
+			<button name="btnRollback" src="../../../images/Rollback.svg" tooltip="Reset Alignment" style="CompareButton"></button>
+			<button name="btnAlignPointToPoint" src="../../../images/AlignPointToPoint.svg" tooltip="Drag to align
+Use arrow keys for fine adjustment" style="CompareButton"></button>
+			<button name="btnRefresh" src="../../../images/Refresh.svg" tooltip="Refresh" style="CompareButton"></button>
+		</row>
+		<row style="CompareDialogContentRow">
+			<button name="btnDisplayFile1" src="../../../images/File1Indicator.svg" tooltip="Display File 1" style="CompareButton"></button>
+			<button name="btnDisplayFile2" src="../../../images/File2Indicator.svg" tooltip="Display File 2" style="CompareButton"></button>
+			<button name="btnDisplayBothFiles" src="../../../images/DisplayBothFiles.svg" tooltip="Display Both Files" style="CompareButton"></button>
+		</row>
+		<row style="CompareDialogContentRow">
+			<button name="btnDifferenceView" src="../../../images/ShowComparison.svg" tooltip="Display Difference" style="CompareButton" type="parent">Difference</button>
+		</row>
+		<row style="CompareDialogContentRow CompareToggle">
+			<slider name="sliderTolerance" style="DialogWidgetSlider CompareButton"></slider>
+		</row>
+		<row style="CompareDialogContentRow CompareToggle">
+			<colorpallete name="palleteDifferenceColor" style="CompareButton">
+				<row>
+					<color color="#fdff00" title="Yellow" selected="selected"></color>
+					<color color="#4bff4b" title="Green"></color>
+					<color color="#fc0001" title="Red"></color>
+					<color color="#02249c" title="Blue"></color>
+					<color color="#ff37b6" title="Pink"></color>
+					<color color="#01aff1" title="Light Blue"></color>
+				</row>
+			</colorpallete>
+		</row>
+	</comparePallete>
+	<preferences title="Preferences">
+		<row>
+			<label>Resolution:</label>
+		</row>
+		<row style="PreferencesRadioButtonContainer">
+			<radiobutton name="defaultResolution" groupName="preferences" text="Use system default"></radiobutton>
+			<radiobutton name="customResolution" groupName="preferences" text="Use custom scaling"></radiobutton>
+		</row>
+		<row style="CustomDPIContainer">
+			<simplifiednumbertextbox name="scale" width="42"></simplifiednumbertextbox>
+			<label>dpi</label>
+		</row>
+	</preferences>
+	<layers title="Layers">
+	</layers>
+	<measurement title="Measurement">
+	</measurement>
+	<compareFiles title="Compare Files">
+	</compareFiles>
+</dialogs>

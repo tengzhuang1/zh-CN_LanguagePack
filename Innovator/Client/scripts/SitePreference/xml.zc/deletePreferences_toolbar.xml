@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<toolbarapplet buttonsize="26,25" font="Arial-8">
+	<toolbar id="searchbar">
+		<button image="../images/ExecuteSearch.svg" id="search" tooltip="Run Search">Search</button>
+		<separator/>
+		<edit id="page_size" label="Page Size:" text="100" size="3"/>
+		<button disabled="true" image="../images/PreviousPage.svg" id="prev_page" tooltip="Previous Page">Prev page</button>
+		<button disabled="true" image="../images/NextPage.svg" id="next_page" tooltip="Next Page">Next page</button>
+		<separator/>
+		<button disabled="true" image="../images/SelectAll.svg" id="select_all" tooltip="Select all items"/>
+		<button disabled="true" image="../images/Delete.svg" id="delete" tooltip="Delete selected items"/>
+	</toolbar>
+</toolbarapplet>

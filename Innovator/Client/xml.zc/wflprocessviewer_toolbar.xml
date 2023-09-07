@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_load="onToolbarAppletLoad" on_click="onBtnClick" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="tb1">
+		<edit id="workflow_process" label="Workflow Process:" text="" disabled="true" size="30"/>
+		<separator/>
+		<button image="../images/ViewSignOffs.svg" id="view_signoffs" tooltip="View Sign-Offs">View Sign-Offs</button>
+	</toolbar>
+</toolbarapplet>

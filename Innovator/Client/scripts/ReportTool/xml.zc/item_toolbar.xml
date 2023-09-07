@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<toolbarapplet
+	on_click = "onClickItem"
+	on_load  = "onToolbarLoad"
+	buttonstyle = "windows"
+	buttonsize = "22,22"
+	font = "Arial-12"
+	top_border = "1"
+	bottom_border = "1">
+	<toolbar id="normal">
+		<button image="../images/Print.svg" id="print" tooltip="Print Item" disabled="true">Print </button>
+		<separator/>
+		<button image="../images/Delete.svg" id="delete" tooltip="Delete Item" disabled="true">Delete </button>
+		<separator/>
+		<button image="../images/LockItem.svg" id="lock" tooltip="Lock Item" disabled="true" >Lock </button>
+		<button image="../images/UnockItem.svg" id="unlock" tooltip="Unlock Item" disabled="true">Unlock </button>
+		<button image="../images/Rollback.svg" id="undo" tooltip="Undo Changes on Item" disabled="true">Undo </button>
+		<separator/>
+		<button image="../images/Save.svg" id="save" tooltip="Save" disabled="true" >Save </button>
+		<button image="../images/SaveUnlockClose.svg" id="save_unlock_close" tooltip="Save, Unlock &amp; Close" disabled="true">Save and Close </button>
+	</toolbar>
+</toolbarapplet>

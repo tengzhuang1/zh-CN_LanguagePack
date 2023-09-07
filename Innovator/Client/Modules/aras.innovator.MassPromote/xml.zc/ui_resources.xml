@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ui_resources>
+	<resource key="dropdown_select" value="Select..." />
+	<resource key="life_cycle_map" value="Life Cycle Map" />
+	<resource key="target_state" value="Target State" />
+	<resource key="comment" value="Comment" />
+	<resource key="type_comment_here" value="Type comment here" />
+	<resource key="all_invalid_items" value="Invalid Items" />
+	<resource key="move_to_another_promote_session" value="Move to another promote session" />
+	<resource key="remove_from_selection" value="Remove from selection" />
+	<resource key="apply" value="Apply" />
+	<resource key="ready_to_execute" value="Ready to Execute" />
+	<resource key="all_items_valid" value="All Items Valid" />
+	<resource key="resolve_conflicts" value="Resolve Conflicts" />
+	<resource key="no_life_cycle_map" value="No Life Cycle Map" />
+	<resource key="invalid_items_found" value=" Invalid Items Found" />
+	<resource key="no_promotion_path_to_target_state" value="No Promotion Path to Target State" />
+	<resource key="not_permitted_to_promote_to_target_state" value="Not Permitted to Promote to Target State" />
+	<resource key="item_locked_no_promotion_path_to_target_state" value="Item Locked, No Promotion Path to Target State" />
+	<resource key="item_locked" value="Item Locked" />
+	<resource key="new_item" value="New Item" />
+	<resource key="item_deleted" value="Item Deleted" />
+	<resource key="valid" value="Valid" />
+	<resource key="locked" value="Lock" />
+	<resource key="item" value="Item" />
+	<resource key="state" value="Current State" />
+	<resource key="status" value="Status/Error" />
+	<resource key="items" value="Items" />
+	<resource key="remove" value="Remove" />
+	<resource key="unlock" value="Unlock" />
+	<resource key="promote" value="Promote" />
+	<resource key="cancel_operation_before_promotion" value="Are you sure you want to cancel the operation?" />
+	<resource key="cancel_operation_during_promotion" value="If you cancel now then {0} items are promoted, {1} items have failed, and {2} items are still pending and will not be promoted.  OK to cancel?" />
+	<resource key="done" value="Done" />
+	<resource key="execute" value="Execute" />
+	<resource key="cancel" value="Cancel" />
+	<resource key="item_not_current" value="Item Not Current" />
+</ui_resources>

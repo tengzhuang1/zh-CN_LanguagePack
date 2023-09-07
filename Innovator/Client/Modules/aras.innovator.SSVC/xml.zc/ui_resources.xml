@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ui_resources>
+	<!-- Feed -->
+	<resource key="feed_title_base" value="Discussion" />
+	<resource key="feed_showing_filter_results" value="Showing results for" />
+	<resource key="feed_no_secure_messages" value="There are no more messages" />
+	<resource key="feed_show_all_messages" value="Show all messages" />
+	<resource key="feed_show_more_messages" value="Show more messages" />
+	<resource key="feed_all_messages" value="All Messages" />
+	<resource key="feed_my_messages" value="My Messages" />
+	<resource key="feed_created_by" value="{0}" />
+	<resource key="feed_forum" value="Forum {0}" />
+	<resource key="feed_saved_search" value="Saved Search {0}" />
+	<resource key="feed_add_comment" value="Comment" />
+	<resource key="feed_refresh_title" value="Refresh" />
+	<resource key="feed_preferences_title" value="Preferences" />
+	<resource key="feed_search_button_title" value="Search" />
+	<resource key="feed_display_settings_title" value="Display Settings" />
+	<resource key="feed_comment_placeholder" value="Enter a comment…&#xa;Use @ to mention people" />
+	<resource key="feed_attach" value="Attach" />
+	<resource key="feed_attach_sketch" value="Sketch" />
+	<resource key="feed_attach_select_picture" value="Select Picture" />
+	<resource key="feed_include_snapshot" value="Include snapshot" />
+	<resource key="feed_message_edit" value="Edit" />
+	<resource key="feed_message_reply" value="Reply" />
+	<resource key="feed_message_reply_one" value="reply" />
+	<resource key="feed_message_reply_many" value="replies" />
+	<resource key="feed_message_erase" value="Erase" />
+	<resource key="feed_message_flag" value="Flag" />
+	<resource key="feed_message_unflag" value="Unflag" />
+	<resource key="feed_message_flagged_by" value="Flagged by" />
+	<resource key="feed_message_flagging_you" value="you" />
+	<resource key="feed_message_actions_menu" value="Actions Menu" />
+	<resource key="feed_message_hide_users_button" value="Hide users" />
+	<resource key="feed_message_show_others" value="and {0} others" />
+	<!-- book_tree - MainBookmarksTree -->
+	<resource key="book_tree_all_messages" value="All Messages" />
+	<resource key="book_tree_my_messages" value="My Messages" />
+	<resource key="book_tree_people" value="People" />
+	<resource key="book_tree_forums" value="Forums" />
+	<resource key="book_tree_items" value="Items" />
+	<!-- feed_tb - FeedToolbar -->
+	<resource key="feed_tb_def_message_search" value="Search messages..." />
+	<resource key="feed_tb_sort_mode_label" value="Show by" />
+	<resource key="feed_tb_display_mode_label" value="Display" />
+	<!-- sm - Secure Message -->
+	<resource key="sm_add_item_to_bookmarks" value="Add Item to Bookmarks..." />
+	<!-- reply_tb - ReplyToolbar -->
+	<resource key="reply_tb_def_comment" value="Enter a reply..." />
+	<!-- mc - MessageControl -->
+	<resource key="mc_show_replies" value="Show replies" />
+	<resource key="mc_show_all_replies" value="Show all replies ({0})" />
+	<resource key="mc_hide_replies" value="Hide replies" />
+	<resource key="mc_save" value="Save" />
+	<!-- uc - UserControl -->
+	<resource key="uc_company" value="Company" />
+	<resource key="uc_email" value="Email" />
+	<resource key="uc_telephone" value="Telephone" />
+	<!-- fp - FilterPopup -->
+	<resource key="fp_type" value="Type" />
+	<resource key="fp_source" value="Source" />
+	<resource key="fp_from" value="From" />
+	<resource key="fp_anyone" value="Anyone" />
+	<resource key="fp_timeframe" value="Timeframe" />
+	<resource key="fp_to" value="to" />
+	<resource key="fp_revision" value="Revision" />
+	<resource key="fp_all" value="All" />
+	<resource key="fp_range_indicator" value="Range >>" />
+	<resource key="fp_state" value="State" />
+	<resource key="fp_search" value="Search" />
+	<resource key="fp_cancel" value="Cancel" />
+	<resource key="fp_last" value="last" />
+	<!-- pp - PreferencesPopup -->
+	<resource key="pp_title" value="Enable notification of new messages:" />
+	<resource key="pp_enable_in_app_notifications" value="Within the web client" />
+	<resource key="pp_enable_immediate_notifications" value="Email on every message" />
+	<resource key="pp_enable_email_digest_notification" value="Email digest" />
+	<!-- val - Validation -->
+	<resource key="fp_incorrect_x_times" value="Incorrect value for count of" />
+	<resource key="fp_val_no_start_date" value="No start date entered" />
+	<resource key="fp_val_no_finish_date" value="No finish date entered" />
+	<!-- short - ShortenTextWithMore -->
+	<resource key="short_more" value="More" />
+	<resource key="short_less" value="Less" />
+	<!-- cd - Confirmation dialog-->
+	<resource key="cd_message" value="OK to erase message?"/>
+	<resource key="cant_remove_forum" value="You can't remove forum {0} because you was forced to see it by Administrator."/>
+	<!-- Comparison viewer thumbnail tooltip template-->
+	<resource key="comparison_thumbnail_tooltip_template" value="Comparison of ${SecureMessageMarkup:markup_data(//fileName1)} (page ${SecureMessageMarkup:markup_data(//filePage1)}) from ${SecureMessageMarkup:markup_data(//docName1)} v${SecureMessageMarkup:markup_data(//docVersion1)} and ${SecureMessageMarkup:markup_data(//fileName2)} (page ${SecureMessageMarkup:markup_data(//filePage2)}) from ${SecureMessageMarkup:markup_data(//docName2)} v${SecureMessageMarkup:markup_data(//docVersion2)}"/>
+	<!-- Follow Popups-->
+	<resource key="follow_people_title" value="Find person to follow"/>
+	<resource key="follow_forum_title" value="Find Forum to follow"/>
+	<resource key="wrong_file_type" value="Wrong file type. Only PNG, GIF or JPEG image type may be uploaded"/>
+	<!-- Notifications -->
+	<resource key="enable_notifications" value="Notifications for Visual Collaboration are currently disabled. Do you want to enable them?"/>
+	<resource key="disable_notifications" value="Notifications for Visual Collaboration are currently enabled. Do you want to disable them?"/>
+	<resource key="share_with_title" value="Share comment with:"/>
+	<resource key="empty_comments_error" value="Please enter message text and then save. If you wish to erase the message, click Erase."/>
+</ui_resources>

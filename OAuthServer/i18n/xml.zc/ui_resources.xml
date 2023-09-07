@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ui_resources>
+  <resource key="common.version" value="Release"/>
+  <resource key="common.build" value="Build"/>
+  <resource key="login.username" value="Username"/>
+  <resource key="login.login_with" value="Login with"/>
+  <resource key="login.password" value="Password"/>
+  <resource key="login.database" value="Database"/>
+  <resource key="login.capslock_is_on" value="Caps Lock is On"/>
+  <resource key="login.login" value="Login"/>
+  <resource key="login.continue" value="Continue"/>
+  <resource key="login.missing_authentication_type" value="Missing authentication type"/>
+  <resource key="login.missing_login_name" value="Missing login name"/>
+  <resource key="login.missing_password" value="Missing password"/>
+  <resource key="login.missing_database" value="Missing database"/>
+  <resource key="loggedOut.logout" value="Logout"/>
+  <resource key="loggedOut.logged_out" value="You are now logged out."/>
+  <resource key="loggedOut.login_again" value="Login Again"/>
+  <resource key="error.error" value="Error"/>
+  <resource key="error.invalid_request" value="Invalid request."/>
+  <resource key="error.unauthorized_client" value="Unauthorized client."/>
+  <resource key="error.access_denied" value="Access denied."/>
+  <resource key="error.unsupported_response_type" value="Unsupported response type."/>
+  <resource key="error.invalid_scope" value="Invalid scope."/>
+  <resource key="error.server_error" value="Internal server error."/>
+  <resource key="error.temporarily_unavailable" value="Temporarily unavailable."/>
+  <resource key="error.interaction_required" value="Interaction required."/>
+  <resource key="error.login_required" value="Login required."/>
+  <resource key="error.account_selection_required" value="Account selection required."/>
+  <resource key="error.consent_required" value="Consent required."/>
+  <resource key="error.invalid_request_uri" value="Invalid request URI."/>
+  <resource key="error.invalid_request_object" value="Invalid request object."/>
+  <resource key="error.request_not_supported" value="Request not supported."/>
+  <resource key="error.request_uri_not_supported" value="Request URI not supported."/>
+  <resource key="error.registration_not_supported" value="Registration not supported."/>
+  <resource key="error.invalid_redirect_uri" value="Invalid redirect_uri."/>
+  <resource key="error.cannot_find_error_message" value="Cannot find error message by '{0}={1}'."/>
+  <resource key="error.request_failed_with_error_code" value="Request failed with error code '{0}'."/>
+  <resource key="error.dblist_request_failed" value="DBList request failed: Request uri: '{0}', Status code: '{1}', Reason: '{2}'."/>
+  <resource key="error.authenticate_request_failed" value="Authenticate request failed: Request uri: '{0}', Status code: '{1}', Reason: '{2}'."/>
+  <resource key="error.login_failed_for_external_user" value="Cannot map external user with authentication type '{0}' in database '{1}'."/>
+  <resource key="error.invalid_requested_database" value="Requested database is not found."/>
+  <resource key="error.invalid_preferred_database" value="Preferred database is not found."/>
+  <resource key="error.invalid_requested_auth_type" value="Requested authentication type is not found."/>
+  <resource key="error.invalid_preferred_auth_type" value="Preferred authentication type is not found."/>
+  <resource key="error.cannot_perform_silent_login" value="Cannot perform silent login. Direct login is required."/>
+</ui_resources>

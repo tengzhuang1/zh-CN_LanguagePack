@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_load="onToolbarAppletLoad" on_click="onButtonClick" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="main">
+		<button image="./images/Save.svg" id="save" tooltip="储存已选对象"/>
+		<button image="../images/ViewItem.svg" id="view" tooltip="查看已选物件"/>
+		<button image="../images/Refresh.svg" id="refresh" tooltip="刷新Table"/>
+		<button image="../images/SaveAll.svg" id="save_all" tooltip="储存全部对象"/>
+		<separator/>
+		<button image="../images/Rollback.svg" id="return" tooltip="回到Innovator"/>
+		<separator/>
+		<button image="../images/Exit.svg" id="logout" tooltip="Logout without Saving"/>
+	</toolbar>
+</toolbarapplet>

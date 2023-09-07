@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet buttonsize="26,25">
+    <toolbar id="tb1">
+        <button image="../images/SaveUnlockClose.svg" id="apply" tooltip="Apply" text="Apply"/>
+        <separator/>
+        <button image="../images/ExpandAll.svg" id="expand" tooltip="Expand All" text="Expand All"/>
+        <button image="../images/CollapseAll.svg" id="collapse" tooltip="Collapse All" text="Collapse All"/>
+        <separator/>
+    </toolbar>
+</toolbarapplet>

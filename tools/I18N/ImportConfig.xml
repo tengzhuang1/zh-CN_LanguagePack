@@ -1,0 +1,8 @@
+<import>
+  <database
+    server="tsa"
+    db="CoreAndSolutions83"
+    uid="innovator"
+    pwd="innovator" />
+  <itemtype name="Grid Column" />
+</import>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_load="onToolbarAppletLoad" on_click="onClickItem" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="toolbar">
+	<button image="../images/ExpandAll.svg" id="expand" tooltip="Expand all">Expand all</button>
+	<button image="../images/CollapseAll.svg" id="collapse" tooltip="Collapse all">Collapse all</button>
+	<separator/>
+	<button image="../images/Checkmark.svg" id="select" tooltip="Select">Select</button>
+	</toolbar>
+</toolbarapplet>

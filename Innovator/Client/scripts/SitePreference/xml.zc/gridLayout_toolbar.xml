@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<toolbarapplet
+	buttonstyle = "windows"
+	buttonsize = "26,22"
+	font = "Arial-8">
+	<toolbar id="tb1">
+		<button disabled="true" image="../images/NextPage.svg" id="insert_below" tooltip="Insert Below"/>
+		<button disabled="true" image="../images/PreviousPage.svg" id="insert_above" tooltip="Insert Above"/>
+		<button disabled="true" image="../images/Delete.svg" id="delete" tooltip="Delete"/>
+		<separator/>
+		<button disabled="true" image="../images/Cut.svg" id="cut" tooltip="Cut"/>
+		<button disabled="true" image="../images/Copy.svg" id="copy" tooltip="Copy"/>
+		<button disabled="true" image="../images/Paste.svg" id="paste" tooltip="Paste"/>
+	</toolbar>
+</toolbarapplet>

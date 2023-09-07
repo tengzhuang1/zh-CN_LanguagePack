@@ -1,0 +1,3356 @@
+﻿<export>
+ <Item type="Value" keyed_name="363A248BC1DC47E8A88602001AFD4920" config_id="363A248BC1DC47E8A88602001AFD4920">
+  <property __name="label" en="MyBookmarks" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7C3DC5F8C23449DFA7C1560A721944D8" config_id="7C3DC5F8C23449DFA7C1560A721944D8">
+  <property __name="label" en="Regular" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="13999AFC2E204A8287BB479C0627C430" config_id="13999AFC2E204A8287BB479C0627C430">
+  <property __name="label" en="Functional" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="1F854643E9714D9E9F028E1D7E7448AE" config_id="1F854643E9714D9E9F028E1D7E7448AE">
+  <property __name="label" en="Electronics" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="40F8232FF7074301BD85DD82489AE9C9" config_id="40F8232FF7074301BD85DD82489AE9C9">
+  <property __name="label" en="Software" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4D0065849A1842B59C3F23623A5D7191" config_id="4D0065849A1842B59C3F23623A5D7191">
+  <property __name="label" en="System" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5AA55B4426B6443B85B21BF1E9EE3EC2" config_id="5AA55B4426B6443B85B21BF1E9EE3EC2">
+  <property __name="label" en="Manufacturing" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6A55F863357D40718E50C37C1BEE8792" config_id="6A55F863357D40718E50C37C1BEE8792">
+  <property __name="label" en="Mechanical" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="867BF4D712444D43BD8FFFAD287EAF36" config_id="867BF4D712444D43BD8FFFAD287EAF36">
+  <property __name="label" en="Design" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8A0E7B2589574A11A0B8A941E5581CB6" config_id="8A0E7B2589574A11A0B8A941E5581CB6">
+  <property __name="label" en="Sustainment" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8B5ABE458CA24E509B9B607F82878C26" config_id="8B5ABE458CA24E509B9B607F82878C26">
+  <property __name="label" en="Electrical" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="99348142588D47DCBF74E361C439F4BC" config_id="99348142588D47DCBF74E361C439F4BC">
+  <property __name="label" en="Maintenance" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FFD4DF8D7C924BBA8960DC8A0BE7D2EA" config_id="FFD4DF8D7C924BBA8960DC8A0BE7D2EA">
+  <property __name="label" en="Operation" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="17AA9FA63C8E4772B50CA2DD7043A9A9" config_id="17AA9FA63C8E4772B50CA2DD7043A9A9">
+  <property __name="label" en="Integer" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="43C35194A01B41318D707E697B0E98C9" config_id="43C35194A01B41318D707E697B0E98C9">
+  <property __name="label" en="Image" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="56063D3C21E24270A260439943472FC4" config_id="56063D3C21E24270A260439943472FC4">
+  <property __name="label" en="Float" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5B6831A94BAE46DB95344704A70851D6" config_id="5B6831A94BAE46DB95344704A70851D6">
+  <property __name="label" en="Text" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B1DDA920E6C746B5A2EB6FC44162B6FE" config_id="B1DDA920E6C746B5A2EB6FC44162B6FE">
+  <property __name="label" en="Date Time" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BD6418B069864E04AA36E2B8427DA310" config_id="BD6418B069864E04AA36E2B8427DA310">
+  <property __name="label" en="Boolean" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E44BC1259E4B4E50A6AB4BB513F2EBD1" config_id="E44BC1259E4B4E50A6AB4BB513F2EBD1">
+  <property __name="label" en="String" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3AF86A9D307F4E20A6004C9A3E9CE48E" config_id="3AF86A9D307F4E20A6004C9A3E9CE48E">
+  <property __name="label" en="" zc="Source" />
+ </Item>
+ <Item type="Value" keyed_name="73EF10A8113246B7A246622FC45AFB00" config_id="73EF10A8113246B7A246622FC45AFB00">
+  <property __name="label" en="" zc="Test" />
+ </Item>
+ <Item type="Value" keyed_name="99BB59EBA5E64D2988150EAD6774CFAB" config_id="99BB59EBA5E64D2988150EAD6774CFAB">
+  <property __name="label" en="" zc="Inspection" />
+ </Item>
+ <Item type="Value" keyed_name="CB04276677FC42A9A173949E0544FB98" config_id="CB04276677FC42A9A173949E0544FB98">
+  <property __name="label" en="" zc="Production" />
+ </Item>
+ <Item type="Value" keyed_name="8172575F22C1478F8BF39F413B5F5784" config_id="8172575F22C1478F8BF39F413B5F5784">
+  <property __name="label" en="Item" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9E4214292AFD489DBA2C4E965002CCB9" config_id="9E4214292AFD489DBA2C4E965002CCB9">
+  <property __name="label" en="Date" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B0302DD7EB8F4CBAB09395893F83E0CC" config_id="B0302DD7EB8F4CBAB09395893F83E0CC">
+  <property __name="label" en="List" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BDFCA592A1DC449A8682DBC43075A27F" config_id="BDFCA592A1DC449A8682DBC43075A27F">
+  <property __name="label" en="Integer" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CC1B2ECE2F674D4A82E543F172DD2E26" config_id="CC1B2ECE2F674D4A82E543F172DD2E26">
+  <property __name="label" en="String" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="048F5B84D8414481B750E89D8138887E" config_id="048F5B84D8414481B750E89D8138887E">
+  <property __name="label" en="NotStarted" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="34251C889F5540B3AABE558082999AB0" config_id="34251C889F5540B3AABE558082999AB0">
+  <property __name="label" en="InProgress" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3DD605093F3E451E8DD95BD203530F86" config_id="3DD605093F3E451E8DD95BD203530F86">
+  <property __name="label" en="ErrorOccurred " zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CC060FCFF53047B1972A32B22EB92969" config_id="CC060FCFF53047B1972A32B22EB92969">
+  <property __name="label" en="Failed" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F3BE04120B8D4AE2BC47F46035FBEEED" config_id="F3BE04120B8D4AE2BC47F46035FBEEED">
+  <property __name="label" en="Success" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C1A5571CE6B543D2912F6A5D21CAC89C" config_id="C1A5571CE6B543D2912F6A5D21CAC89C">
+  <property __name="label" en="New" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C1F15402389546B5A7F19A23AE73D285" config_id="C1F15402389546B5A7F19A23AE73D285">
+  <property __name="label" en="Existing" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E06C81F0AA464D428C84198B4CC5F923" config_id="E06C81F0AA464D428C84198B4CC5F923">
+  <property __name="label" en="" zc="签审日期 " />
+ </Item>
+ <Item type="Value" keyed_name="F0BAFF077CAF4005806DD9D7DFF74925" config_id="F0BAFF077CAF4005806DD9D7DFF74925">
+  <property __name="label" en="" zc="签审人" />
+ </Item>
+ <Item type="Value" keyed_name="Change" config_id="D41FB2AE704145EDBD2B9449EE3511A5">
+  <property __name="label" en="Change" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Release" config_id="0064422177544CA78461969C6FDC7CC6">
+  <property __name="label" en="Release" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7B50A1C5399D4DA99D6393EC515477CA" config_id="7B50A1C5399D4DA99D6393EC515477CA">
+  <property __name="label" en="OnStartTaskProcessing" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9F44724DC49B4DF296A2364C2E443EE6" config_id="9F44724DC49B4DF296A2364C2E443EE6">
+  <property __name="label" en="OnBeforeConvert" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F6529B45D1994D699C2175BF6D615605" config_id="F6529B45D1994D699C2175BF6D615605">
+  <property __name="label" en="OnAfterConvert" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F859B580CB85479FB41642BC6E9CD4ED" config_id="F859B580CB85479FB41642BC6E9CD4ED">
+  <property __name="label" en="OnTaskDiscarding" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F9F94D709023452099A5C10B4608E032" config_id="F9F94D709023452099A5C10B4608E032">
+  <property __name="label" en="OnConvert" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3B45E338D5EA4D9AA5A8A49429687FC2" config_id="3B45E338D5EA4D9AA5A8A49429687FC2">
+  <property __name="label" en="Within The Last" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="42AE4625924C48E29FFF2092894E9F74" config_id="42AE4625924C48E29FFF2092894E9F74">
+  <property __name="label" en="Date Range" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D2CFCDD35B504919B13DECFF97E03C05" config_id="D2CFCDD35B504919B13DECFF97E03C05">
+  <property __name="label" en="All" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3625D5B67C9D4408A0E85C27D62725E6" config_id="3625D5B67C9D4408A0E85C27D62725E6">
+  <property __name="label" en="italic" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C250751BC3E640A78DC3AFBE681B1BF1" config_id="C250751BC3E640A78DC3AFBE681B1BF1">
+  <property __name="label" en="normal" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0094018EE1E84D1FB10518BB19BD4A8D" config_id="0094018EE1E84D1FB10518BB19BD4A8D">
+  <property __name="label" en="" zc="提升状态" />
+ </Item>
+ <Item type="Value" keyed_name="117F06263FAD412C8DA677999EC37E25" config_id="117F06263FAD412C8DA677999EC37E25">
+  <property __name="label" en="" zc="删除" />
+ </Item>
+ <Item type="Value" keyed_name="413563E54CA54DC98926289C02748DD3" config_id="413563E54CA54DC98926289C02748DD3">
+  <property __name="label" en="" zc="更新" />
+ </Item>
+ <Item type="Value" keyed_name="7559C5ECB31645789DE3DCEF4E1ACD41" config_id="7559C5ECB31645789DE3DCEF4E1ACD41">
+  <property __name="label" en="" zc="设置默认生命周期" />
+ </Item>
+ <Item type="Value" keyed_name="81C2D8A35425400E84A65EF6E58796C6" config_id="81C2D8A35425400E84A65EF6E58796C6">
+  <property __name="label" en="" zc="打印" />
+ </Item>
+ <Item type="Value" keyed_name="ABE70E79B60441049C53FC722D8D75EA" config_id="ABE70E79B60441049C53FC722D8D75EA">
+  <property __name="label" en="" zc="查看" />
+ </Item>
+ <Item type="Value" keyed_name="E3B5D96D8F41423D87EF79667B74D73E" config_id="E3B5D96D8F41423D87EF79667B74D73E">
+  <property __name="label" en="" zc="文件浏览" />
+ </Item>
+ <Item type="Value" keyed_name="E64F742EB0F14A7C9BE73F176FF8FF7E" config_id="E64F742EB0F14A7C9BE73F176FF8FF7E">
+  <property __name="label" en="" zc="重置生命周期状态" />
+ </Item>
+ <Item type="Value" keyed_name="F8535170214A414CB95137CF0E952602" config_id="F8535170214A414CB95137CF0E952602">
+  <property __name="label" en="" zc="添加" />
+ </Item>
+ <Item type="Value" keyed_name="00335E64943748269068CB77031AE546" config_id="00335E64943748269068CB77031AE546">
+  <property __name="label" en="Cadence OrCAD" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0187ADA09451427D9AD3724F52D4889C" config_id="0187ADA09451427D9AD3724F52D4889C">
+  <property __name="label" en="Microsoft PowerPoint" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="1E43BBD373BA4D7D8734E235D536DF11" config_id="1E43BBD373BA4D7D8734E235D536DF11">
+  <property __name="label" en="SketchUp" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="269548B6B9C64219AD4ABBECB4A35EA7" config_id="269548B6B9C64219AD4ABBECB4A35EA7">
+  <property __name="label" en="Mentor Board Station" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="30ACB76E761B46F18F1F369F576A00C2" config_id="30ACB76E761B46F18F1F369F576A00C2">
+  <property __name="label" en="Mentor Xpedition" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="344AD5DBC4BC462EBE7A0EAC5178BFE1" config_id="344AD5DBC4BC462EBE7A0EAC5178BFE1">
+  <property __name="label" en="Creo" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3D282C213A004C75BD22522C5C9C7EC3" config_id="3D282C213A004C75BD22522C5C9C7EC3">
+  <property __name="label" en="Solid Edge" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="46904BD0C09141E3B44A957A37115779" config_id="46904BD0C09141E3B44A957A37115779">
+  <property __name="label" en="OnShape" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4EDB451CA7C043DD97CC83ADB1B27BFF" config_id="4EDB451CA7C043DD97CC83ADB1B27BFF">
+  <property __name="label" en="Mentor PADS" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="50FED92EA5E44E449F3F4C5CC9028720" config_id="50FED92EA5E44E449F3F4C5CC9028720">
+  <property __name="label" en="Microsoft Access" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="57AFB28D494D43A58285673C887C450A" config_id="57AFB28D494D43A58285673C887C450A">
+  <property __name="label" en="Microsoft Excel" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7894B9B6146046B888A0CEEEDBCCD770" config_id="7894B9B6146046B888A0CEEEDBCCD770">
+  <property __name="label" en="Microsoft Outlook" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7E555D77D56E4BC9934EF13BC9738866" config_id="7E555D77D56E4BC9934EF13BC9738866">
+  <property __name="label" en="NX" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="840C27893EE640098939DE6C72E8AEB6" config_id="840C27893EE640098939DE6C72E8AEB6">
+  <property __name="label" en="SolidWorks" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="88F5A5DB4A054295A96FF8F273373599" config_id="88F5A5DB4A054295A96FF8F273373599">
+  <property __name="label" en="Pro/ENGINEER" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8BEE31B488D54767A9D0508CDD2F2BBC" config_id="8BEE31B488D54767A9D0508CDD2F2BBC">
+  <property __name="label" en="BricsCAD" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9B8880EA04D549BD8918A70C0DC584B9" config_id="9B8880EA04D549BD8918A70C0DC584B9">
+  <property __name="label" en="Microsoft Word" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="AC4FECE484544DEBB51B545EF81D4D1C" config_id="AC4FECE484544DEBB51B545EF81D4D1C">
+  <property __name="label" en="Zuken E3.Series" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C641138F77764AC8ADAA81EABAF1114B" config_id="C641138F77764AC8ADAA81EABAF1114B">
+  <property __name="label" en="CATIA" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C7A26FA529EA4641BF468D22B7C51A80" config_id="C7A26FA529EA4641BF468D22B7C51A80">
+  <property __name="label" en="SpaceClaim" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CC720961223E4805A822CEB1B6485D9F" config_id="CC720961223E4805A822CEB1B6485D9F">
+  <property __name="label" en="Text Editor" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CCD213F6EA3247DCB5119169571B67C5" config_id="CCD213F6EA3247DCB5119169571B67C5">
+  <property __name="label" en="Altium P-CAD" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D38C022B19904C04815CBBC2EBAD3246" config_id="D38C022B19904C04815CBBC2EBAD3246">
+  <property __name="label" en="Cadence Allegro" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D9A0F6517BC643D2A2DAA88F3A06055E" config_id="D9A0F6517BC643D2A2DAA88F3A06055E">
+  <property __name="label" en="Other" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E07B6FFA254745CAB132822CF65A67DA" config_id="E07B6FFA254745CAB132822CF65A67DA">
+  <property __name="label" en="AutoCAD" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EB55BC6646B4452CACB936C27D5325C9" config_id="EB55BC6646B4452CACB936C27D5325C9">
+  <property __name="label" en="Altium Designer" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F967C7CC2AA24BF8B697FC4F944EFC50" config_id="F967C7CC2AA24BF8B697FC4F944EFC50">
+  <property __name="label" en="Altium NEXUS" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FAAB56976170421983BF356323F00338" config_id="FAAB56976170421983BF356323F00338">
+  <property __name="label" en="Inventor" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FE091C3418A044D7A93E68BE6E5662D9" config_id="FE091C3418A044D7A93E68BE6E5662D9">
+  <property __name="label" en="Revit" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="46900786C3B54D35ABA9498FF3342935" config_id="46900786C3B54D35ABA9498FF3342935">
+  <property __name="label" en="Interactively Only" zc="仅手动更新" />
+ </Item>
+ <Item type="Value" keyed_name="4ED31BBCCEE243E79210E9D430623015" config_id="4ED31BBCCEE243E79210E9D430623015">
+  <property __name="label" en="On Activity Updates" zc="任务更新时" />
+ </Item>
+ <Item type="Value" keyed_name="59578B12AD2A4038B28E7D1DE741FE25" config_id="59578B12AD2A4038B28E7D1DE741FE25">
+  <property __name="label" en="Interactively And OnUnlock" zc="手动和解锁时" />
+ </Item>
+ <Item type="Value" keyed_name="A61F4B7BF6F945E8A5D067F96184F0B6" config_id="A61F4B7BF6F945E8A5D067F96184F0B6">
+  <property __name="label" en="On Activity Completions" zc="任务完成时" />
+ </Item>
+ <Item type="Value" keyed_name="Intermix" config_id="452308F0F9C44B609772CB1D52CD9703">
+  <property __name="label" en="Intermix" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Left" config_id="AD045EE4A1A24B3CA3676B52B342E81D">
+  <property __name="label" en="Left" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Right" config_id="840547A51818497AA9D0A643F1CFEA24">
+  <property __name="label" en="Right" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0621798836954D1990D00CC84971ADE7" config_id="0621798836954D1990D00CC84971ADE7">
+  <property __name="label" en="" zc="术语" />
+ </Item>
+ <Item type="Value" keyed_name="0E9875B35FFC45AFA240EB108623B8C3" config_id="0E9875B35FFC45AFA240EB108623B8C3">
+  <property __name="label" en="" zc="产品描述" />
+ </Item>
+ <Item type="Value" keyed_name="250FB58BA9084D0189EDF0976EBFF90C" config_id="250FB58BA9084D0189EDF0976EBFF90C">
+  <property __name="label" en="" zc="版本" />
+ </Item>
+ <Item type="Value" keyed_name="504B874632A84249B65965A802B1CD89" config_id="504B874632A84249B65965A802B1CD89">
+  <property __name="label" en="" zc="名称" />
+ </Item>
+ <Item type="Value" keyed_name="5FB78EA6114647ECB2BB281C8070522A" config_id="5FB78EA6114647ECB2BB281C8070522A">
+  <property __name="label" en="" zc="定义" />
+ </Item>
+ <Item type="Value" keyed_name="9C74D07D20E046CCA18DC9B5D65955B5" config_id="9C74D07D20E046CCA18DC9B5D65955B5">
+  <property __name="label" en="" zc="部件描述" />
+ </Item>
+ <Item type="Value" keyed_name="9F0BAEB6755041E5B45296DB8AA2EA2D" config_id="9F0BAEB6755041E5B45296DB8AA2EA2D">
+  <property __name="label" en="" zc="零件号" />
+ </Item>
+ <Item type="Value" keyed_name="Fixed" config_id="E77956407ADE4D4B81AD0AD9BE6C43B6">
+  <property __name="label" en="Fixed" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Float" config_id="380E06B36DAF4B148C43606DBB210FD9">
+  <property __name="label" en="Float" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Hard Fixed" config_id="4494D5041A874E0F9D57B054811722DF">
+  <property __name="label" en="Hard Fixed" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Hard Float" config_id="FB1F109C8AAB4CA7A432E05FC7D13F55">
+  <property __name="label" en="Hard Float" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4FEEA9128ECB4FA89B0DDE5FAB5D2135" config_id="4FEEA9128ECB4FA89B0DDE5FAB5D2135">
+  <property __name="label" en="2 - Normal" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D4F4F870BA564D89B7775695B2BA5350" config_id="D4F4F870BA564D89B7775695B2BA5350">
+  <property __name="label" en="3 - Low" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F12830F33A8645B1A767597D07983292" config_id="F12830F33A8645B1A767597D07983292">
+  <property __name="label" en="1 - High" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Generic" config_id="7D5C7139318E464D94346ED7B4BF5E2F">
+  <property __name="label" en="Generic" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Item" config_id="8FB288C1DD134569812833A1BFB5B006">
+  <property __name="label" en="Item" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="ItemType" config_id="023C5151CB2046399C2582FC542126F9">
+  <property __name="label" en="ItemType" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="URL" config_id="A149F1756D484FB58474E1D648ED1E72">
+  <property __name="label" en="URL" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A209304AB9454595A590D3C666AE4AE0" config_id="A209304AB9454595A590D3C666AE4AE0">
+  <property __name="label" en="Izenda" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="00DDF7352D9749E8BC777E2E925927FA" config_id="00DDF7352D9749E8BC777E2E925927FA">
+  <property __name="label" en="Force As Saved" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2A3B9CBBDB634225B50D306C4CDCB3D5" config_id="2A3B9CBBDB634225B50D306C4CDCB3D5">
+  <property __name="label" en="As Saved" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8DC83D0A7A52416ABD373AF3A8516245" config_id="8DC83D0A7A52416ABD373AF3A8516245">
+  <property __name="label" en="Current" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EB2E2AEBB3C04CB68BCADFAE8C68F8A6" config_id="EB2E2AEBB3C04CB68BCADFAE8C68F8A6">
+  <property __name="label" en="Force Current" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="19F71EC04E934F8690470BBF2DDA0FF0" config_id="19F71EC04E934F8690470BBF2DDA0FF0">
+  <property __name="label" en="Down" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="46B3BA78A50A41EC895CEA3D9B799C01" config_id="46B3BA78A50A41EC895CEA3D9B799C01">
+  <property __name="label" en="Up" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="78F8948955764B498E36CC7296284BFB" config_id="78F8948955764B498E36CC7296284BFB">
+  <property __name="label" en="Dialog" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B2FA906EA0574E40B345B2D0158F0708" config_id="B2FA906EA0574E40B345B2D0158F0708">
+  <property __name="label" en="Popup" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3346AA044A93413AAB9A7C7063DE0447" config_id="3346AA044A93413AAB9A7C7063DE0447">
+  <property __name="label" en="Conversation" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6D222CB132644F4F81BDD6278DE7869B" config_id="6D222CB132644F4F81BDD6278DE7869B">
+  <property __name="label" en="Message Date" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9238EA3033B444AE8D000BF36DE5AA35" config_id="9238EA3033B444AE8D000BF36DE5AA35">
+  <property __name="label" en="Thread Date" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="014C9D2E9B1346A8ABD0BF77C98ED761" config_id="014C9D2E9B1346A8ABD0BF77C98ED761">
+  <property __name="label" en="" zc="BOM" />
+ </Item>
+ <Item type="Value" keyed_name="27F0DD36C42C4B47A888A7887306E28F" config_id="27F0DD36C42C4B47A888A7887306E28F">
+  <property __name="label" en="" zc="Part" />
+ </Item>
+ <Item type="Value" keyed_name="3964A26FE0E74B068E9A55AA977F8F7A" config_id="3964A26FE0E74B068E9A55AA977F8F7A">
+  <property __name="label" en="E" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="41061DE54A8C4F2A893F07713AAE7BC2" config_id="41061DE54A8C4F2A893F07713AAE7BC2">
+  <property __name="label" en="F" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="500886FF54944C7F8324974E4E3A94FA" config_id="500886FF54944C7F8324974E4E3A94FA">
+  <property __name="label" en="D" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="79278ADB8C88441B831C648E9CD45DA4" config_id="79278ADB8C88441B831C648E9CD45DA4">
+  <property __name="label" en="A" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="96D2B4253951404D977186E778C48F50" config_id="96D2B4253951404D977186E778C48F50">
+  <property __name="label" en="C" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D6F53340BF734F0CB2878FEB86EEF6BF" config_id="D6F53340BF734F0CB2878FEB86EEF6BF">
+  <property __name="label" en="B" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E0BE55AD7AF047D5B4EE1CBCCD77B872" config_id="E0BE55AD7AF047D5B4EE1CBCCD77B872">
+  <property __name="label" en="G" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9FD1A7CC94954A799EDBB5A07C0BE8BF" config_id="9FD1A7CC94954A799EDBB5A07C0BE8BF">
+  <property __name="label" en="Minutes" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A33E21B39D57469AAFFE885F7DE46200" config_id="A33E21B39D57469AAFFE885F7DE46200">
+  <property __name="label" en="Months" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D715889A711D4C4BBB6C814B35A9DA16" config_id="D715889A711D4C4BBB6C814B35A9DA16">
+  <property __name="label" en="Hours" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F93FB100CF684F39B25FC262E7D7750F" config_id="F93FB100CF684F39B25FC262E7D7750F">
+  <property __name="label" en="Days" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="75837314D9FF4289A667B296634E083E" config_id="75837314D9FF4289A667B296634E083E">
+  <property __name="label" en="Tab View (True, Do Hide)" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CE6A2A5E7DD64E9E9FD5D5F00D211AD2" config_id="CE6A2A5E7DD64E9E9FD5D5F00D211AD2">
+  <property __name="label" en="Move" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D1A82FC4A2E441678E507F8AA3CD9A63" config_id="D1A82FC4A2E441678E507F8AA3CD9A63">
+  <property __name="label" en="Copy" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Equals" config_id="262AF3299D424873BC171DA551CA52F8">
+  <property __name="label" en="Equals" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Like" config_id="3FC7E5C0B8AE4455A8D872B0FE4DF9E4">
+  <property __name="label" en="Like" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="All Assignments" config_id="8468E12B63B54452A8C691E418602F20">
+  <property __name="label" en="All Assignments" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Alternate" config_id="8C9531C2CA78416CAFBE77698BF9CF26">
+  <property __name="label" en="Alternate" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Closed Assignments" config_id="D3E7EB52849F4C38A146000BA8008436">
+  <property __name="label" en="Closed Assignments" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="From Identity" config_id="800715F8F5714010BD523901611FC3E7">
+  <property __name="label" en="From Identity" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Open Assignments" config_id="C300F9F58DD8441AAE675A92E598279F">
+  <property __name="label" en="Open Assignments" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="To Identity" config_id="6294084D7CFF45628697DA6BFE5B57A4">
+  <property __name="label" en="To Identity" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="16EB17778D3F402F828B537FAF02B85A" config_id="16EB17778D3F402F828B537FAF02B85A">
+  <property __name="label" en="Complete" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2E2453989FB5402F812177E6F9D6B561" config_id="2E2453989FB5402F812177E6F9D6B561">
+  <property __name="label" en="Pending" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="76E2A654B7734E1C9E3B1169565BC4D8" config_id="76E2A654B7734E1C9E3B1169565BC4D8">
+  <property __name="label" en="Active" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Client" config_id="E74B099C2FE746FE8DB5CE622F47826B">
+  <property __name="label" en="Client" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Server" config_id="C3D091E1D6A046A089CD17DE892B44D3">
+  <property __name="label" en="Server" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Service" config_id="BEA72D84F00C458DB6EC51F5470F19B6">
+  <property __name="label" en="Service" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="1E7A9AD340314556B138FB9D47A13540" config_id="1E7A9AD340314556B138FB9D47A13540">
+  <property __name="label" en="Logout" zc="登出" />
+ </Item>
+ <Item type="Value" keyed_name="4499E2AFD379407C91D30A39181914AC" config_id="4499E2AFD379407C91D30A39181914AC">
+  <property __name="label" en="FailedLogin" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="48127F3865834B99903A65CF8400965D" config_id="48127F3865834B99903A65CF8400965D">
+  <property __name="label" en="SuccessfulLogin" zc="登录" />
+ </Item>
+ <Item type="Value" keyed_name="Auto" config_id="FD978F27D9EB41A5ACA155494C91E9F2">
+  <property __name="label" en="Auto" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Hidden" config_id="D16D44F2DCC14D7085F49E78FC03CD04">
+  <property __name="label" en="Hidden" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Scroll" config_id="7408AAAB81754B58A706E83DED31EBC9">
+  <property __name="label" en="Scroll" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Visible" config_id="BDF6ED44E2FF4D279FA702A7EF567073">
+  <property __name="label" en="Visible" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="93DA3015D2074BFB816B95BBC0FA2A3C" config_id="93DA3015D2074BFB816B95BBC0FA2A3C">
+  <property __name="label" en="rtl" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E867A2C6DFE5485086D7F0ACBC0547B6" config_id="E867A2C6DFE5485086D7F0ACBC0547B6">
+  <property __name="label" en="ltr" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="No Repeat" config_id="0BE01573DC1C4785A5667C2B4B9B01E8">
+  <property __name="label" en="No Repeat" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Repeat" config_id="C6AAA1C3C8B74E248629A22E2D06AC15">
+  <property __name="label" en="Repeat" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Repeat X only" config_id="3895033675854737B0FC089EFD1375E1">
+  <property __name="label" en="Repeat X only" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Repeat Y only" config_id="2112AFBF40FC498F8E4221582F530EC3">
+  <property __name="label" en="Repeat Y only" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="44E5E4A246F94F6397546EAF5D921860" config_id="44E5E4A246F94F6397546EAF5D921860">
+  <property __name="label" en="2" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4529829D45954CF180A34FD63631CE8D" config_id="4529829D45954CF180A34FD63631CE8D">
+  <property __name="label" en="1" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B214FE13C41141F29EFEA717E109CA64" config_id="B214FE13C41141F29EFEA717E109CA64">
+  <property __name="label" en="3" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B6175B177F2C4EDFA60122E5D3AB3E6C" config_id="B6175B177F2C4EDFA60122E5D3AB3E6C">
+  <property __name="label" en="4" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3E955C0F928343DD8F22D8461AC835F2" config_id="3E955C0F928343DD8F22D8461AC835F2">
+  <property __name="label" en="CM" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="AB516BF9CA4045EDAC94E4F8824E38C5" config_id="AB516BF9CA4045EDAC94E4F8824E38C5">
+  <property __name="label" en="IN" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="AE19A9932C654B63AB0F9821FC3822A9" config_id="AE19A9932C654B63AB0F9821FC3822A9">
+  <property __name="label" en="EA" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C77CE500A78141278194F0993BAF0594" config_id="C77CE500A78141278194F0993BAF0594">
+  <property __name="label" en="FT" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E0DFA2DDFB7B490C88F82666FE21FEFB" config_id="E0DFA2DDFB7B490C88F82666FE21FEFB">
+  <property __name="label" en="MM" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E5846BC98FEE4ED2AF738331822C7E23" config_id="E5846BC98FEE4ED2AF738331822C7E23">
+  <property __name="label" en="M" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="15347F0EAC6B40D2A003431F3FFE4627" config_id="15347F0EAC6B40D2A003431F3FFE4627">
+  <property __name="label" en="" zc="SolidWorks" />
+ </Item>
+ <Item type="Value" keyed_name="30273EC4934C482A99BCF2CA38AD9ECB" config_id="30273EC4934C482A99BCF2CA38AD9ECB">
+  <property __name="label" en="" zc="CATIA" />
+ </Item>
+ <Item type="Value" keyed_name="35ECDC1E379E45DA8650B7D2477E51A3" config_id="35ECDC1E379E45DA8650B7D2477E51A3">
+  <property __name="label" en="" zc="NX" />
+ </Item>
+ <Item type="Value" keyed_name="7F125DA89CBA488C851F7CCA0171ECD5" config_id="7F125DA89CBA488C851F7CCA0171ECD5">
+  <property __name="label" en="" zc="Creo" />
+ </Item>
+ <Item type="Value" keyed_name="701C3E117529481F8C04FBF4C40FE0AA" config_id="701C3E117529481F8C04FBF4C40FE0AA">
+  <property __name="label" en="" zc="PDF" />
+ </Item>
+ <Item type="Value" keyed_name="B4A2A47DC74B48EEA0BE57B116F2DCF1" config_id="B4A2A47DC74B48EEA0BE57B116F2DCF1">
+  <property __name="label" en="" zc="HTML" />
+ </Item>
+ <Item type="Value" keyed_name="378731F8522A4DA48F0BBC14909C347D" config_id="378731F8522A4DA48F0BBC14909C347D">
+  <property __name="label" en="Ascending" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FFAD3974CA4A4539B77D69B8561CE083" config_id="FFAD3974CA4A4539B77D69B8561CE083">
+  <property __name="label" en="Descending" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="12478B8D52EE4ED6A4348951C98D167B" config_id="12478B8D52EE4ED6A4348951C98D167B">
+  <property __name="label" en="" zc="数量" />
+ </Item>
+ <Item type="Value" keyed_name="1D85B4FF12A748F198A7D0B72776FC20" config_id="1D85B4FF12A748F198A7D0B72776FC20">
+  <property __name="label" en="" zc="零件编码" />
+ </Item>
+ <Item type="Value" keyed_name="994E32C4B54143ACA3D9445B8CF8EB6D" config_id="994E32C4B54143ACA3D9445B8CF8EB6D">
+  <property __name="label" en="" zc="忽略" />
+ </Item>
+ <Item type="Value" keyed_name="0AFD1129501F4031A0EEC0764A53E130" config_id="0AFD1129501F4031A0EEC0764A53E130">
+  <property __name="label" en="Tree Grid" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="58569A7633CE44E1B1B2F55BB5B967C6" config_id="58569A7633CE44E1B1B2F55BB5B967C6">
+  <property __name="label" en="" zc="HTML" />
+ </Item>
+ <Item type="Value" keyed_name="C0ABF3D7774046BA89C92C2B9F913485" config_id="C0ABF3D7774046BA89C92C2B9F913485">
+  <property __name="label" en="" zc="New Item" />
+ </Item>
+ <Item type="Value" keyed_name="C64DC02CBA444BAAA741AC811003045A" config_id="C64DC02CBA444BAAA741AC811003045A">
+  <property __name="label" en="Grid" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C9DE93270D8643C4A83EF5E3B8CC0C77" config_id="C9DE93270D8643C4A83EF5E3B8CC0C77">
+  <property __name="label" en="Report" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4DA98C4E80D34EBFB25EF4C5238A47DC" config_id="4DA98C4E80D34EBFB25EF4C5238A47DC">
+  <property __name="label" en="" zc="Production" />
+ </Item>
+ <Item type="Value" keyed_name="9AC1116B3C4941739DF5BE730C7A5DD4" config_id="9AC1116B3C4941739DF5BE730C7A5DD4">
+  <property __name="label" en="" zc="Incoming" />
+ </Item>
+ <Item type="Value" keyed_name="E7B820FDEA1C4C89832E2A8C9336FE85" config_id="E7B820FDEA1C4C89832E2A8C9336FE85">
+  <property __name="label" en="" zc="Purchasing" />
+ </Item>
+ <Item type="Value" keyed_name="B01F7DA26E044DAC88C168A335985E56" config_id="B01F7DA26E044DAC88C168A335985E56">
+  <property __name="label" en="Item" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D48B48484E154E37BC09FF1050015682" config_id="D48B48484E154E37BC09FF1050015682">
+  <property __name="label" en="Text" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E61961F67C2F42A1B6714C809E3A43CA" config_id="E61961F67C2F42A1B6714C809E3A43CA">
+  <property __name="label" en="Integer" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="308F14B1188540938EA4D2554916738E" config_id="308F14B1188540938EA4D2554916738E">
+  <property __name="label" en="" zc="Manufacturing" />
+ </Item>
+ <Item type="Value" keyed_name="46CA99A348254190ABC4070CC24E6792" config_id="46CA99A348254190ABC4070CC24E6792">
+  <property __name="label" en="" zc="Design" />
+ </Item>
+ <Item type="Value" keyed_name="9D627578E60740D4B5D6710193F1D1E9" config_id="9D627578E60740D4B5D6710193F1D1E9">
+  <property __name="label" en="" zc="Purchasing" />
+ </Item>
+ <Item type="Value" keyed_name="E3F0AE32A8C24095B88FE2E4635821F6" config_id="E3F0AE32A8C24095B88FE2E4635821F6">
+  <property __name="label" en="" zc="Supplier" />
+ </Item>
+ <Item type="Value" keyed_name="Database Table" config_id="82A544443FD6446D863543C01DA5EC0A">
+  <property __name="label" en="Database Table" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Jabber Client" config_id="AEF56B57262C479E961102913F86ADAF">
+  <property __name="label" en="Jabber Client" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Log File" config_id="BA587359D27247B389CAE2FBB49F2144">
+  <property __name="label" en="Log File" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="783AE3F8ACC540E38515BCADBB142AAD" config_id="783AE3F8ACC540E38515BCADBB142AAD">
+  <property __name="label" en="Link to Server" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="ECC58049A6694C139EC38254DBF7B91D" config_id="ECC58049A6694C139EC38254DBF7B91D">
+  <property __name="label" en="Include with Export" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0813B1B40A9A435385AE44DAD77E48C4" config_id="0813B1B40A9A435385AE44DAD77E48C4">
+  <property __name="label" en="Advanced" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="1C128F503AC44BC493BABACEB3B56BEA" config_id="1C128F503AC44BC493BABACEB3B56BEA">
+  <property __name="label" en="NoUI" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9646C8C0F6FD45B2852FF36F4C3B324B" config_id="9646C8C0F6FD45B2852FF36F4C3B324B">
+  <property __name="label" en="Simple" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FA057ED433734E09918B4412D5AF7A8F" config_id="FA057ED433734E09918B4412D5AF7A8F">
+  <property __name="label" en="AML" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2FE2F4160EFC401EA9006FC42CD49EC8" config_id="2FE2F4160EFC401EA9006FC42CD49EC8">
+  <property __name="label" en="Manual" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7D28524A73BF4896A00E6C4BAA09EB7F" config_id="7D28524A73BF4896A00E6C4BAA09EB7F">
+  <property __name="label" en="Scheduled" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C209271D86CC4FEBB3357232ED2EB2B7" config_id="C209271D86CC4FEBB3357232ED2EB2B7">
+  <property __name="label" en="Delayed" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FA5BB40048D847BF9B1EB1C44718599E" config_id="FA5BB40048D847BF9B1EB1C44718599E">
+  <property __name="label" en="Immediate" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="06675F2E153640A49B3E4BE9E33D3E8A" config_id="06675F2E153640A49B3E4BE9E33D3E8A">
+  <property __name="label" en="Discarded" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="759A5FB247A64F87B236CB1CEEF2D490" config_id="759A5FB247A64F87B236CB1CEEF2D490">
+  <property __name="label" en="In Progress" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="78AD01BDAF3A4892926FD12D3A479956" config_id="78AD01BDAF3A4892926FD12D3A479956">
+  <property __name="label" en="Not Started" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CE8232F7B9304A93B81A10F050033639" config_id="CE8232F7B9304A93B81A10F050033639">
+  <property __name="label" en="Failed" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="ED4FFC648E8A4E12AAABF795BA837DA9" config_id="ED4FFC648E8A4E12AAABF795BA837DA9">
+  <property __name="label" en="Succeeded" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5685CE4F4DA34FCC97968BFB674A1E32" config_id="5685CE4F4DA34FCC97968BFB674A1E32">
+  <property __name="label" en="Medium" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="DE21AE23C4854CEF8E4ABC64CAF0A6F4" config_id="DE21AE23C4854CEF8E4ABC64CAF0A6F4">
+  <property __name="label" en="High" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FE3D4A0A4E8849AF9C909F933F177A44" config_id="FE3D4A0A4E8849AF9C909F933F177A44">
+  <property __name="label" en="Low" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B9EF119D89FC4D349663CF9902FA5F4F" config_id="B9EF119D89FC4D349663CF9902FA5F4F">
+  <property __name="label" en="Rework" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C39AF150E14B497EB7C5C3AAD1508453" config_id="C39AF150E14B497EB7C5C3AAD1508453">
+  <property __name="label" en="Stop Ship" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CD1B0DD17260447CB6197480B8E28869" config_id="CD1B0DD17260447CB6197480B8E28869">
+  <property __name="label" en="Phase In" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="01F2E0A41AFA4A7C84A376ECF4ECFA90" config_id="01F2E0A41AFA4A7C84A376ECF4ECFA90">
+  <property __name="label" en="Multiple" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="27DA5253933D4F8E8624B12F8596B7A7" config_id="27DA5253933D4F8E8624B12F8596B7A7">
+  <property __name="label" en="Empty" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="81D48A030E0042A6899E86335C18CE97" config_id="81D48A030E0042A6899E86335C18CE97">
+  <property __name="label" en="Unknown" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A5AAE999FD3D4E5DBB8A12EB8BCB63D5" config_id="A5AAE999FD3D4E5DBB8A12EB8BCB63D5">
+  <property __name="label" en="Single" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="16 Byte" config_id="8A6166C692EF4EC3AAF2AFD264BC7160">
+  <property __name="label" en="16 Byte" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4 Byte" config_id="24F89A48CCD7423C8387FCA41460309A">
+  <property __name="label" en="4 Byte" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8 Byte" config_id="AD7C5E0EFABC4C81AC16C50752D5AC5F">
+  <property __name="label" en="8 Byte" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Method" config_id="2D4E407DCE8D4E358A2E7D1ED1BE26C0">
+  <property __name="label" en="Method" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="407AEE92740E45B5842673571378E4BA" config_id="407AEE92740E45B5842673571378E4BA">
+  <property __name="label" en="Waived" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="DCDBA9020D55443398B396FD5A394532" config_id="DCDBA9020D55443398B396FD5A394532">
+  <property __name="label" en="Approved" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3F12AF618199446A9882BA1C507ED1D0" config_id="3F12AF618199446A9882BA1C507ED1D0">
+  <property __name="label" en="none" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5ABE933B0F8747609FE33A608E6A340F" config_id="5ABE933B0F8747609FE33A608E6A340F">
+  <property __name="label" en="underline" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0077FEEA703646858B5C7F1FE7194636" config_id="0077FEEA703646858B5C7F1FE7194636">
+  <property __name="label" en="Maintenance" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2E8CF28A86964793994D2D8FDC7B1A88" config_id="2E8CF28A86964793994D2D8FDC7B1A88">
+  <property __name="label" en="Sustainment" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="89A3A2811CB9434199041787BEF27107" config_id="89A3A2811CB9434199041787BEF27107">
+  <property __name="label" en="Mechanical" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A662FA4FA73C4BF3AF2B84DBBE93ECE1" config_id="A662FA4FA73C4BF3AF2B84DBBE93ECE1">
+  <property __name="label" en="Electronics" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A67C55F7F58B4A00B9C8CD7865D3842A" config_id="A67C55F7F58B4A00B9C8CD7865D3842A">
+  <property __name="label" en="Design" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B61D02B2ED45444FBBA2711E8A7C6482" config_id="B61D02B2ED45444FBBA2711E8A7C6482">
+  <property __name="label" en="System" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B850403EF7CD4F9A894BBD6B5E9D7107" config_id="B850403EF7CD4F9A894BBD6B5E9D7107">
+  <property __name="label" en="Manufacturing" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C860824C62BC47D2ACB101F53EDF5B5E" config_id="C860824C62BC47D2ACB101F53EDF5B5E">
+  <property __name="label" en="Operation" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CB30B15B1FDD4C72A01292B08013342A" config_id="CB30B15B1FDD4C72A01292B08013342A">
+  <property __name="label" en="Functional" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D9F58353BB0C42B880580CDFF6BAA353" config_id="D9F58353BB0C42B880580CDFF6BAA353">
+  <property __name="label" en="Software" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E6B0B13017504428BD9AD88706905A00" config_id="E6B0B13017504428BD9AD88706905A00">
+  <property __name="label" en="Electrical" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0F64C64896574A9B9C0C3A699AAFFAEA" config_id="0F64C64896574A9B9C0C3A699AAFFAEA">
+  <property __name="label" en="" zc="HTML" />
+ </Item>
+ <Item type="Value" keyed_name="281BD76DE56F471EA69EA8E32387229E" config_id="281BD76DE56F471EA69EA8E32387229E">
+  <property __name="label" en="Cost" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="50FBE356BFFA4D889159F0AA3E6D0EDF" config_id="50FBE356BFFA4D889159F0AA3E6D0EDF">
+  <property __name="label" en="Weight" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="1365B7EF959C413390138FD7D33F83C2" config_id="1365B7EF959C413390138FD7D33F83C2">
+  <property __name="label" en="Material" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="974AFD2B04C94CA5B62CE37D0EDF72AF" config_id="974AFD2B04C94CA5B62CE37D0EDF72AF">
+  <property __name="label" en="Functional" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Friday" config_id="AA2E404B54664940A9E8E0030BE0E01A">
+  <property __name="label" en="Friday" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Monday" config_id="A2C38DC4A1BB4AA4BEEA7EA0E0024933">
+  <property __name="label" en="Monday" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Saturday" config_id="0BE3E48D0DA54DADAD35DDDCDC10D09C">
+  <property __name="label" en="Saturday" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Sunday" config_id="CA65C3CAFA4549FB805A7E298A000D45">
+  <property __name="label" en="Sunday" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Thursday" config_id="A8F8AAC8C81B4113A1DB128146F385B1">
+  <property __name="label" en="Thursday" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Tuesday" config_id="2D65F02A3B3444F8975B5F06C6F1CC60">
+  <property __name="label" en="Tuesday" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Wednesday" config_id="48672D79D3B74C9893076C0F8556E4C3">
+  <property __name="label" en="Wednesday" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Bold" config_id="305A782CA86049489188035CF8E0AB44">
+  <property __name="label" en="Bold" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Normal" config_id="834FFA8D70B74CF1A208E40C94B2BA67">
+  <property __name="label" en="Normal" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="117D52C5D469477BAB82FFCBAC1AD5CF" config_id="117D52C5D469477BAB82FFCBAC1AD5CF">
+  <property __name="label" en="This Item Only" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C2149E96E79E420B8ED7437448B6E59E" config_id="C2149E96E79E420B8ED7437448B6E59E">
+  <property __name="label" en="All" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2A86AD0E002A43E196BE6A238169CA7F" config_id="2A86AD0E002A43E196BE6A238169CA7F">
+  <property __name="label" en="onBeforePrint" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3C4A1C05AABD4D1FB270D84E030080CF" config_id="3C4A1C05AABD4D1FB270D84E030080CF">
+  <property __name="label" en="onUnload" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4E0C9ADDD2B449B5BAB9C86216A8A1A7" config_id="4E0C9ADDD2B449B5BAB9C86216A8A1A7">
+  <property __name="label" en="onMouseMove" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="60FCBC28F24545E39539F0A816E35C21" config_id="60FCBC28F24545E39539F0A816E35C21">
+  <property __name="label" en="onResize" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6ED03B6EF9C14660BA91210D6FA81049" config_id="6ED03B6EF9C14660BA91210D6FA81049">
+  <property __name="label" en="onFormPopulated" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7B0250BD7B8C44DFA9D83378A76214FC" config_id="7B0250BD7B8C44DFA9D83378A76214FC">
+  <property __name="label" en="onLoad" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="96F12475BC1D4FDFB69D2CEC2469D09E" config_id="96F12475BC1D4FDFB69D2CEC2469D09E">
+  <property __name="label" en="onMouseDown" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B494121E9AB44B49A793365C5CC0E8F3" config_id="B494121E9AB44B49A793365C5CC0E8F3">
+  <property __name="label" en="onAfterPrint" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C493CA8A7C5F41B3A5133ECE7C863675" config_id="C493CA8A7C5F41B3A5133ECE7C863675">
+  <property __name="label" en="onBeforeUnload" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C8447B0EEFA448BB80ACE63A743C0261" config_id="C8447B0EEFA448BB80ACE63A743C0261">
+  <property __name="label" en="onMouseOver" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CBF96297E88D432C8F9953D14613172D" config_id="CBF96297E88D432C8F9953D14613172D">
+  <property __name="label" en="onContextMenu" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D79CF1C7BA4A40F486FB0834A5AED53C" config_id="D79CF1C7BA4A40F486FB0834A5AED53C">
+  <property __name="label" en="onKeyUp" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E2CF27359DD44B45A1876B468EB34527" config_id="E2CF27359DD44B45A1876B468EB34527">
+  <property __name="label" en="onMouseUp" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EA41FC3BA9A84C449E86F32F3DAB7581" config_id="EA41FC3BA9A84C449E86F32F3DAB7581">
+  <property __name="label" en="onKeyDown" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="322F1E957E0E4E48955DD1476F998AD3" config_id="322F1E957E0E4E48955DD1476F998AD3">
+  <property __name="label" en="Use Existing" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8799285A21864CD7A5BB019F8857FC38" config_id="8799285A21864CD7A5BB019F8857FC38">
+  <property __name="label" en="Scrap" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BAABD65C57CD4ADCBC69AD9E45252D9B" config_id="BAABD65C57CD4ADCBC69AD9E45252D9B">
+  <property __name="label" en="Rework" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2A261C7CAF6C40E2AF2FF21567355274" config_id="2A261C7CAF6C40E2AF2FF21567355274">
+  <property __name="label" en="Review" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="382002D272884B7CBA5FAF1E27488378" config_id="382002D272884B7CBA5FAF1E27488378">
+  <property __name="label" en="Obsolete" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="76B8EFFF3A8A411582EBCBCD398766F6" config_id="76B8EFFF3A8A411582EBCBCD398766F6">
+  <property __name="label" en="None" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="964E8B7A7DE948AF8C718693A08ED090" config_id="964E8B7A7DE948AF8C718693A08ED090">
+  <property __name="label" en="Release" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9CF8F83B1AF747F69316F7585997BCAB" config_id="9CF8F83B1AF747F69316F7585997BCAB">
+  <property __name="label" en="Renumber" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F53E7B3D437E40A0BFA571816C44C56B" config_id="F53E7B3D437E40A0BFA571816C44C56B">
+  <property __name="label" en="Revise" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F9C0360F30FC409FB3B7C579960DC957" config_id="F9C0360F30FC409FB3B7C579960DC957">
+  <property __name="label" en="Supersede" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7F4D12C5750C42639E977A4A026761C6" config_id="7F4D12C5750C42639E977A4A026761C6">
+  <property __name="label" en="OnMenuClick" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8A2D05001A3A4D8D9BAC307894397F88" config_id="8A2D05001A3A4D8D9BAC307894397F88">
+  <property __name="label" en="OnPaste" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8E0159DBA05F43639147BA67A7F3C393" config_id="8E0159DBA05F43639147BA67A7F3C393">
+  <property __name="label" en="OnCopy" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B8E563294C3B4A0386458219DB27D14C" config_id="B8E563294C3B4A0386458219DB27D14C">
+  <property __name="label" en="OnMenuInit" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CB19599E48354468BBA8BDB37EF4180E" config_id="CB19599E48354468BBA8BDB37EF4180E">
+  <property __name="label" en="Out" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="DAFDFC53DED04F9491FC8E58D70B49D7" config_id="DAFDFC53DED04F9491FC8E58D70B49D7">
+  <property __name="label" en="In" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="595E29277BA04133ABC510BDC170BCA5" config_id="595E29277BA04133ABC510BDC170BCA5">
+  <property __name="label" en="Target" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6B6F8442C0D04CF996E3D1F8B5A95C6A" config_id="6B6F8442C0D04CF996E3D1F8B5A95C6A">
+  <property __name="label" en="Actual" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6D41846C62D840EBA5707CB0104836EA" config_id="6D41846C62D840EBA5707CB0104836EA">
+  <property __name="label" en="Estimated" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CDE21FC64A4A4F558C8BFA3EC8741E13" config_id="CDE21FC64A4A4F558C8BFA3EC8741E13">
+  <property __name="label" en="Calculated" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="144C62109606463682C6978346075604" config_id="144C62109606463682C6978346075604">
+  <property __name="label" en="Pick Only" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4022E10A7CBF45A5AAA7DC14D329102D" config_id="4022E10A7CBF45A5AAA7DC14D329102D">
+  <property __name="label" en="Create Only" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A61B04C8F45845E1B4A054ACBCCB6DAA" config_id="A61B04C8F45845E1B4A054ACBCCB6DAA">
+  <property __name="label" en="Pick Or Create" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="DDDF4A7108EB45EE9150E75136977C79" config_id="DDDF4A7108EB45EE9150E75136977C79">
+  <property __name="label" en="FileExchange" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0213561B43804DA49E6A0AF2E5C94F31" config_id="0213561B43804DA49E6A0AF2E5C94F31">
+  <property __name="label" en="Show in browser" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7B804B0BD5774E8BA6AB4A6C33415C02" config_id="7B804B0BD5774E8BA6AB4A6C33415C02">
+  <property __name="label" en="Save into file" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="12A7AFA46A4641DDA7CE5EAE5A5E6692" config_id="12A7AFA46A4641DDA7CE5EAE5A5E6692">
+  <property __name="label" en="Once" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="AADC8ED5448D4CDF9E12F363BD65A82D" config_id="AADC8ED5448D4CDF9E12F363BD65A82D">
+  <property __name="label" en="Always" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5BC98290791442FDA499F026C5EDAA4B" config_id="5BC98290791442FDA499F026C5EDAA4B">
+  <property __name="label" en="Properties" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8834ED1117564A90AB0AF685D797B4CA" config_id="8834ED1117564A90AB0AF685D797B4CA">
+  <property __name="label" en="Off" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BAEC6E175E2E43B98137C839821A2201" config_id="BAEC6E175E2E43B98137C839821A2201">
+  <property __name="label" en="Form" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="45AD971328CF47F7B13D49801BEF0FA6" config_id="45AD971328CF47F7B13D49801BEF0FA6">
+  <property __name="label" en="Non Check Constraint" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="71FBC8B1E84E45B1BF6F6091BE57E37D" config_id="71FBC8B1E84E45B1BF6F6091BE57E37D">
+  <property __name="label" en="Check Constraint" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CB0F0251FAFC4E8E9413535055FA8AC5" config_id="CB0F0251FAFC4E8E9413535055FA8AC5">
+  <property __name="label" en="Delete Row" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="21A2A2CE0B774A46889BFF8AC79BC3C6" config_id="21A2A2CE0B774A46889BFF8AC79BC3C6">
+  <property __name="label" en="ItemType" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C07843A8A3354346960F603B2D2B3E27" config_id="C07843A8A3354346960F603B2D2B3E27">
+  <property __name="label" en="Generic" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E2E28EF52AEE4B5697ED9FBDC32F4167" config_id="E2E28EF52AEE4B5697ED9FBDC32F4167">
+  <property __name="label" en="Item" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="073D1CEF3F67441281A65C9BD0B4F77C" config_id="073D1CEF3F67441281A65C9BD0B4F77C">
+  <property __name="label" en="3" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2405F0B03D3142CE87BCA3E6DD1E057B" config_id="2405F0B03D3142CE87BCA3E6DD1E057B">
+  <property __name="label" en="2" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="49EF48E279C542068D96C33BC43EC12E" config_id="49EF48E279C542068D96C33BC43EC12E">
+  <property __name="label" en="4" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6B0D6F97FAB341EAABAEFAE1EA2427DF" config_id="6B0D6F97FAB341EAABAEFAE1EA2427DF">
+  <property __name="label" en="1" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0DEED32718914A0FA88E982F886153AD" config_id="0DEED32718914A0FA88E982F886153AD">
+  <property __name="label" en="Video Comments Only" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="144054C27D8D4921BF475C0C1BEA287F" config_id="144054C27D8D4921BF475C0C1BEA287F">
+  <property __name="label" en="All" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="379504FCFC2841D2AB028265C25D51FB" config_id="379504FCFC2841D2AB028265C25D51FB">
+  <property __name="label" en="Snapshot Comments Only" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9053CDC117FA4087BBFDD362DE31F697" config_id="9053CDC117FA4087BBFDD362DE31F697">
+  <property __name="label" en="Text Comments Only" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="931B4D676C0A47B89573014890D89288" config_id="931B4D676C0A47B89573014890D89288">
+  <property __name="label" en="Audio Comments Only" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9B673DCD5538461382718DF3D1E5281B" config_id="9B673DCD5538461382718DF3D1E5281B">
+  <property __name="label" en="All Comments" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F99EB7B437A1494E9123EED03A172CE6" config_id="F99EB7B437A1494E9123EED03A172CE6">
+  <property __name="label" en="Automated Messages Only" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="1CA5E9CF369D4C6E8AE9C55B43E1F6AF" config_id="1CA5E9CF369D4C6E8AE9C55B43E1F6AF">
+  <property __name="label" en="Change" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="32D9CD7E1130498298073DF2C1D1F84B" config_id="32D9CD7E1130498298073DF2C1D1F84B">
+  <property __name="label" en="Delete" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="922F6A8BFFD84167872BBFE325CEBD9D" config_id="922F6A8BFFD84167872BBFE325CEBD9D">
+  <property __name="label" en="Add" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3D6E3ECA42F94C00979D635C75AFF9A3" config_id="3D6E3ECA42F94C00979D635C75AFF9A3">
+  <property __name="label" en="CRB B" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6040CE3A63674438B8255B868CDDBBAA" config_id="6040CE3A63674438B8255B868CDDBBAA">
+  <property __name="label" en="CRB A" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="65C62FB8DAFD46DB95250802342973A2" config_id="65C62FB8DAFD46DB95250802342973A2">
+  <property __name="label" en="Forward" zc="向前" />
+ </Item>
+ <Item type="Value" keyed_name="97C1B5DE9696404387C81A439FE29205" config_id="97C1B5DE9696404387C81A439FE29205">
+  <property __name="label" en="Backward" zc="向后" />
+ </Item>
+ <Item type="Value" keyed_name="21F2B1AA91E6418B97C60A486AD7AB7D" config_id="21F2B1AA91E6418B97C60A486AD7AB7D">
+  <property __name="label" en="pt" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5550A39F80B6477C8EFCD7F4240C13E3" config_id="5550A39F80B6477C8EFCD7F4240C13E3">
+  <property __name="label" en="em" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6EC636092B854BBC9D89AE3E04DE4C39" config_id="6EC636092B854BBC9D89AE3E04DE4C39">
+  <property __name="label" en="px" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="738950E1DEC3475E8184A91B5BDE8F99" config_id="738950E1DEC3475E8184A91B5BDE8F99">
+  <property __name="label" en="pc" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9856DFD34BB64BCDB497F3DD38944532" config_id="9856DFD34BB64BCDB497F3DD38944532">
+  <property __name="label" en="cm" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="AACF3B72E0E749BDB8071E93C06F7278" config_id="AACF3B72E0E749BDB8071E93C06F7278">
+  <property __name="label" en="ex" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B744CCC064B642C788AEE1CE8AB5FFBB" config_id="B744CCC064B642C788AEE1CE8AB5FFBB">
+  <property __name="label" en="%" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F17531A2D9C14C378FCF49A235D21668" config_id="F17531A2D9C14C378FCF49A235D21668">
+  <property __name="label" en="mm" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F2D83684D0504A60A555B80A5B26B660" config_id="F2D83684D0504A60A555B80A5B26B660">
+  <property __name="label" en="in" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="496C7C3D5A8F4052AEABA9FEA6F940D0" config_id="496C7C3D5A8F4052AEABA9FEA6F940D0">
+  <property __name="label" en="normal" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="95734E014FB94481BD5E0925E8BC936B" config_id="95734E014FB94481BD5E0925E8BC936B">
+  <property __name="label" en="bold" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2F718F77213349B0BB90D8F2ABE41FF0" config_id="2F718F77213349B0BB90D8F2ABE41FF0">
+  <property __name="label" en="Ignore Differences" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5BBB0F6CC5744928A890A4ED14D50D90" config_id="5BBB0F6CC5744928A890A4ED14D50D90">
+  <property __name="label" en="Hard Ignore Differences" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7621B772FB0749D6B4DDFAA1453754FF" config_id="7621B772FB0749D6B4DDFAA1453754FF">
+  <property __name="label" en="Show Differences" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="79D64F02BB7D4337AD7F2D590543D34A" config_id="79D64F02BB7D4337AD7F2D590543D34A">
+  <property __name="label" en="Hard Show Differences" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="On Activate" config_id="C5868B94D22F487E900545296C2376C5">
+  <property __name="label" en="On Activate" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="On Assign" config_id="31AA5B7838A74902AB5047C0EBE73DC8">
+  <property __name="label" en="On Assign" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="On Close" config_id="7ED547CCA7E84295B93CC5C10ED044F7">
+  <property __name="label" en="On Close" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="On Delegate" config_id="EE32C5FEBDF44533A0BE667B265B52E1">
+  <property __name="label" en="On Delegate" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="On Due" config_id="303429B534254412B68D83AD968350B0">
+  <property __name="label" en="On Due" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="On Escalate" config_id="E12413534522482DA08EB42E9A99FC7C">
+  <property __name="label" en="On Escalate" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="On Refuse" config_id="2C6E9C02EE0E4E63B2AE79510981D170">
+  <property __name="label" en="On Refuse" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="On Remind" config_id="D239F8D807C84F08A2FC51DF183EA93C">
+  <property __name="label" en="On Remind" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="On Vote" config_id="01AEDED489F04686B37C9EF408FA277F">
+  <property __name="label" en="On Vote" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="240905263D7C434F81850BC443299395" config_id="240905263D7C434F81850BC443299395">
+  <property __name="label" en="Edit" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="79598E6CE3494955AC124DC45D2D3769" config_id="79598E6CE3494955AC124DC45D2D3769">
+  <property __name="label" en="Add" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="79E3A4DF18844C04B8B7BB187C0957DF" config_id="79E3A4DF18844C04B8B7BB187C0957DF">
+  <property __name="label" en="Default" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8ED95E7575C84228838CB699B5C84F7B" config_id="8ED95E7575C84228838CB699B5C84F7B">
+  <property __name="label" en="Complete" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C47E38CB4C474BF987D8D14BCA9BE06D" config_id="C47E38CB4C474BF987D8D14BCA9BE06D">
+  <property __name="label" en="View" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C85D86F6C79A433E89C0652713F443F8" config_id="C85D86F6C79A433E89C0652713F443F8">
+  <property __name="label" en="Print" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="DB1C7689BE284BEE871278CD27D0FBD3" config_id="DB1C7689BE284BEE871278CD27D0FBD3">
+  <property __name="label" en="Preview" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0E9C11688F5F40CDA5A166683730F29D" config_id="0E9C11688F5F40CDA5A166683730F29D">
+  <property __name="label" en="OnEdit" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5FB24C2D5FB7411788B2974968589E49" config_id="5FB24C2D5FB7411788B2974968589E49">
+  <property __name="label" en="OnSearchDialog" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="68F66466516E4C53A5128DE3FE064796" config_id="68F66466516E4C53A5128DE3FE064796">
+  <property __name="label" en="Default Search" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6AB6BB4E79194B2CB7DE46ED0AE57206" config_id="6AB6BB4E79194B2CB7DE46ED0AE57206">
+  <property __name="label" en="Change" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7814D84AF4B2AED41E4F13EB0D8C4B3F" config_id="7814D84AF4B2AED41E4F13EB0D8C4B3F">
+  <property __name="label" en="Validate" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E164453396BA409592FC134F9334F448" config_id="E164453396BA409592FC134F9334F448">
+  <property __name="label" en="OnEditFinish" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F8B25A77BF8E4D9BA83731623F96A170" config_id="F8B25A77BF8E4D9BA83731623F96A170">
+  <property __name="label" en="OnEditStart" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FD238295D24E471687206BAFB44020B1" config_id="FD238295D24E471687206BAFB44020B1">
+  <property __name="label" en="OnChangeCell" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Both" config_id="F55C1415004F4C2FA52BAD192629F5D7">
+  <property __name="label" en="Both" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Structure" config_id="F784EAA902F148C9A946DA2586E4C04A">
+  <property __name="label" en="Structure" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Where Used" config_id="4E3912D681ED4F149A06D1E577AF217E">
+  <property __name="label" en="Where Used" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2FB06227CD96479483BDE81CC955733F" config_id="2FB06227CD96479483BDE81CC955733F">
+  <property __name="label" en="" zc="1 - High" />
+ </Item>
+ <Item type="Value" keyed_name="9EC3DC76AE624D7090C024E76CCEC39D" config_id="9EC3DC76AE624D7090C024E76CCEC39D">
+  <property __name="label" en="" zc="3 - Low" />
+ </Item>
+ <Item type="Value" keyed_name="CA1253D5EB2A43878F4602E0914B16C2" config_id="CA1253D5EB2A43878F4602E0914B16C2">
+  <property __name="label" en="" zc="2 - Moderate" />
+ </Item>
+ <Item type="Value" keyed_name="256A3B792F4943AE8510765D1774B7A0" config_id="256A3B792F4943AE8510765D1774B7A0">
+  <property __name="label" en="" zc="Comfort/Convenience (Customer very disatisfied)" />
+ </Item>
+ <Item type="Value" keyed_name="4E8909B5FCB448DE8C4445FE4BED2053" config_id="4E8909B5FCB448DE8C4445FE4BED2053">
+  <property __name="label" en="" zc="Comfort/Convenience (Customer somewhat dissatisfied)" />
+ </Item>
+ <Item type="Value" keyed_name="604AB6827DD242D28BB7CD1905A04BC4" config_id="604AB6827DD242D28BB7CD1905A04BC4">
+  <property __name="label" en="" zc="Fit and finish (Noticed by 25% customers)" />
+ </Item>
+ <Item type="Value" keyed_name="6DF06C9D204A466582939C0560065729" config_id="6DF06C9D204A466582939C0560065729">
+  <property __name="label" en="" zc="No discernable effect" />
+ </Item>
+ <Item type="Value" keyed_name="7B55B7BF67A64E2482A7BF1D65797B4F" config_id="7B55B7BF67A64E2482A7BF1D65797B4F">
+  <property __name="label" en="" zc="Fit and finish (Noticed by 50% customers)" />
+ </Item>
+ <Item type="Value" keyed_name="8461D80C130A495C93EA1614EFB27756" config_id="8461D80C130A495C93EA1614EFB27756">
+  <property __name="label" en="" zc="Comfort/Convenience (Customer disatisfied)" />
+ </Item>
+ <Item type="Value" keyed_name="9865D12368B64C2597E8CBDA5EE53218" config_id="9865D12368B64C2597E8CBDA5EE53218">
+  <property __name="label" en="" zc="Hazardous (with warning)" />
+ </Item>
+ <Item type="Value" keyed_name="9CA0DBCD08B54D40BC950F24604D2025" config_id="9CA0DBCD08B54D40BC950F24604D2025">
+  <property __name="label" en="" zc="Hazardous (without warning)" />
+ </Item>
+ <Item type="Value" keyed_name="A0B1F44D85D94D37BC9183F0D2713EDA" config_id="A0B1F44D85D94D37BC9183F0D2713EDA">
+  <property __name="label" en="" zc="Fit and finish (Noticed by 75% customers)" />
+ </Item>
+ <Item type="Value" keyed_name="E6335AED0A9341F8A30B690094D07CFC" config_id="E6335AED0A9341F8A30B690094D07CFC">
+  <property __name="label" en="" zc="Item loss of primary function" />
+ </Item>
+ <Item type="Value" keyed_name="OnDeleteRow" config_id="9400C118FA2B48B7A4591BD6FF77079F">
+  <property __name="label" en="OnDeleteRow" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="OnInsertRow" config_id="EC494BDCB776491790F00713C6A218F6">
+  <property __name="label" en="OnInsertRow" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="OnSelectRow" config_id="F4CD642855B1479FAC84D15B32FE033A">
+  <property __name="label" en="OnSelectRow" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Bottom" config_id="D7148D11E3E94938A086B3FEAD4E0298">
+  <property __name="label" en="Bottom" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Left" config_id="9FF2F65D26F84D47A8A7E36A8C47C0BF">
+  <property __name="label" en="Left" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Right" config_id="B01ACDE5600F4DB3B8DCC10475E1FC5F">
+  <property __name="label" en="Right" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Top" config_id="54D3987417BD4FFA871972CA85576975">
+  <property __name="label" en="Top" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="37C653DAFBDE4AA3AF2C1D740988D296" config_id="37C653DAFBDE4AA3AF2C1D740988D296">
+  <property __name="label" en="2" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="47DC3FA4196041F7A696279BD3527DAA" config_id="47DC3FA4196041F7A696279BD3527DAA">
+  <property __name="label" en="6" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4AA706C17ADA4A4D8ABF5547CDD54E6E" config_id="4AA706C17ADA4A4D8ABF5547CDD54E6E">
+  <property __name="label" en="7" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5B42ABDDBB9B42D3B65C215C4CD476CF" config_id="5B42ABDDBB9B42D3B65C215C4CD476CF">
+  <property __name="label" en="4" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="770D1192D8FA42F99C24525D3C1CC5C0" config_id="770D1192D8FA42F99C24525D3C1CC5C0">
+  <property __name="label" en="1" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7CD55CD7EC6640868F1B8B9A7E9950BF" config_id="7CD55CD7EC6640868F1B8B9A7E9950BF">
+  <property __name="label" en="9 - High" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A84CBF044E2B456F9CFFE3FFCF436682" config_id="A84CBF044E2B456F9CFFE3FFCF436682">
+  <property __name="label" en="0 - Low" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BA5190B3374F4959ABC514B35C027804" config_id="BA5190B3374F4959ABC514B35C027804">
+  <property __name="label" en="8" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BCBE44F5BCDE41E89F287E305821023C" config_id="BCBE44F5BCDE41E89F287E305821023C">
+  <property __name="label" en="5" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D63B4E52EAFC4C329A35F6AF586177BD" config_id="D63B4E52EAFC4C329A35F6AF586177BD">
+  <property __name="label" en="3" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Always" config_id="F0A79DFDA91D4CD4988480271FA42F4E">
+  <property __name="label" en="Always" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Never" config_id="AB50AAEA936941DD8E1FA66EDC02740E">
+  <property __name="label" en="Never" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="When Populated" config_id="DDFB16FFD43D421B80650461C006945E">
+  <property __name="label" en="When Populated" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="52B3E0ACD06A41E5B0B0220A68A3DD20" config_id="52B3E0ACD06A41E5B0B0220A68A3DD20">
+  <property __name="label" en="Tab Container Control" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5D5DDC61991C4525AD1CBD6237638229" config_id="5D5DDC61991C4525AD1CBD6237638229">
+  <property __name="label" en="Accordion Element Control" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="67B4684518B943D49DF3D3BDEFE92E5F" config_id="67B4684518B943D49DF3D3BDEFE92E5F">
+  <property __name="label" en="TDF Editor" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6E3B913DCEB048F7B9067D91A9759940" config_id="6E3B913DCEB048F7B9067D91A9759940">
+  <property __name="label" en="Tab Element Control" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="70DF5E0A7C744EE6B76AE57280984818" config_id="70DF5E0A7C744EE6B76AE57280984818">
+  <property __name="label" en="Form Control" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7BAC438A770C40DE860326B330EDA022" config_id="7BAC438A770C40DE860326B330EDA022">
+  <property __name="label" en="Toolbar Control" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B21B93646E1E44E3A3903BAFE84B3647" config_id="B21B93646E1E44E3A3903BAFE84B3647">
+  <property __name="label" en="Shortcuts Control" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D528561E24FB421A8571EBDDE40036B6" config_id="D528561E24FB421A8571EBDDE40036B6">
+  <property __name="label" en="TDF Tree" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Auto" config_id="9C2E04AC88044F1597B1255E4CB6AF6D">
+  <property __name="label" en="Auto" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="No" config_id="1CCF8E8212A44EAF94E12FE6298A90F4">
+  <property __name="label" en="No" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Yes" config_id="6402E0A09DEF403D9364FA07F2F4071E">
+  <property __name="label" en="Yes" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4E5CE60A4EC54C9EA9CC3F954741E207" config_id="4E5CE60A4EC54C9EA9CC3F954741E207">
+  <property __name="label" en="Serial" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D62D0482509A4AF38D01EF3E86844FC2" config_id="D62D0482509A4AF38D01EF3E86844FC2">
+  <property __name="label" en="Lot / Batch" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E26043A90E69480E97BC171C267D38A4" config_id="E26043A90E69480E97BC171C267D38A4">
+  <property __name="label" en="No Control" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Boolean" config_id="90FC9657B9F140B097CAD4FAACA130E1">
+  <property __name="label" en="Boolean" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Float" config_id="8959F516AFB74AB7AB5C5A9D5C9E4C32">
+  <property __name="label" en="Float" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Integer" config_id="86DCED37AEB64C2AA9CCCB2A17A280E6">
+  <property __name="label" en="Integer" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="List" config_id="25857EBC5A8F4D20AD2A15F3172093EC">
+  <property __name="label" en="List" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="String" config_id="6DC1EFF875AE4E1DAED70CCF4BAC490F">
+  <property __name="label" en="String" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="224309DC31A3420AB6E51016B74F7AB3" config_id="224309DC31A3420AB6E51016B74F7AB3">
+  <property __name="label" en="Configuration" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="77339C26CC674BFB98BEF5A159609A3F" config_id="77339C26CC674BFB98BEF5A159609A3F">
+  <property __name="label" en="Facilities" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8AD8F4BEB6244D84B3274E2D286E65DD" config_id="8AD8F4BEB6244D84B3274E2D286E65DD">
+  <property __name="label" en="Security and Safety" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="94AB1F83049D4BF68460EEB89C6BFB4E" config_id="94AB1F83049D4BF68460EEB89C6BFB4E">
+  <property __name="label" en="Monitoring" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A0C06888B152438B81D880ACC1632498" config_id="A0C06888B152438B81D880ACC1632498">
+  <property __name="label" en="Operations" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="AA4EBCA66A89459BAF7494872072ADE9" config_id="AA4EBCA66A89459BAF7494872072ADE9">
+  <property __name="label" en="Maintenance" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CC0AD7C6D34A4669B0C7494DCCA9696F" config_id="CC0AD7C6D34A4669B0C7494DCCA9696F">
+  <property __name="label" en="Documentation" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D192CF270FB244F5A1A947140284D03D" config_id="D192CF270FB244F5A1A947140284D03D">
+  <property __name="label" en="Support" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EB94752CC5DC46A8BAC721F7979EF15D" config_id="EB94752CC5DC46A8BAC721F7979EF15D">
+  <property __name="label" en="Interface" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="227C60FE437B42EE851DBBF4DCE74BFD" config_id="227C60FE437B42EE851DBBF4DCE74BFD">
+  <property __name="label" en="Consultant" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B75044407FC1476099C0D3E1E77298D4" config_id="B75044407FC1476099C0D3E1E77298D4">
+  <property __name="label" en="Supplier" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D6240238F52A493D8106344ED25A208B" config_id="D6240238F52A493D8106344ED25A208B">
+  <property __name="label" en="Customer" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="02BB234D4A1748D0AEFDFD845026155D" config_id="02BB234D4A1748D0AEFDFD845026155D">
+  <property __name="label" en="" zc="High" />
+ </Item>
+ <Item type="Value" keyed_name="0EA127953A2148438EFFB791AEE9FFC7" config_id="0EA127953A2148438EFFB791AEE9FFC7">
+  <property __name="label" en="" zc="Moderate" />
+ </Item>
+ <Item type="Value" keyed_name="14806A1D436845279B5E25ED8C7B8212" config_id="14806A1D436845279B5E25ED8C7B8212">
+  <property __name="label" en="" zc="Remote" />
+ </Item>
+ <Item type="Value" keyed_name="1708A9BA9CDB4A70951B9717CCCC6AEC" config_id="1708A9BA9CDB4A70951B9717CCCC6AEC">
+  <property __name="label" en="" zc="Almost certain" />
+ </Item>
+ <Item type="Value" keyed_name="56A79FDEB3CD4D27B4EC374E44FA42B4" config_id="56A79FDEB3CD4D27B4EC374E44FA42B4">
+  <property __name="label" en="" zc="Moderately high" />
+ </Item>
+ <Item type="Value" keyed_name="9202C385F0664C218ED9C1868862B52B" config_id="9202C385F0664C218ED9C1868862B52B">
+  <property __name="label" en="" zc="Absolute uncertainty" />
+ </Item>
+ <Item type="Value" keyed_name="BB1511F7320F404F9A4CB892C6CA7933" config_id="BB1511F7320F404F9A4CB892C6CA7933">
+  <property __name="label" en="" zc="Very low" />
+ </Item>
+ <Item type="Value" keyed_name="BB9D1EE26A25421F87206036E57EA49B" config_id="BB9D1EE26A25421F87206036E57EA49B">
+  <property __name="label" en="" zc="Very remote" />
+ </Item>
+ <Item type="Value" keyed_name="CB2C7F7EEB50409AB0597E4450CEA1C0" config_id="CB2C7F7EEB50409AB0597E4450CEA1C0">
+  <property __name="label" en="" zc="Very high" />
+ </Item>
+ <Item type="Value" keyed_name="CCCF272C1F65489AB12719E558AD67B8" config_id="CCCF272C1F65489AB12719E558AD67B8">
+  <property __name="label" en="" zc="Low" />
+ </Item>
+ <Item type="Value" keyed_name="Client" config_id="9C168AC668DD49E4BDCA32E7F5C92007">
+  <property __name="label" en="Client" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Server" config_id="40A3CEFC17464F74B12F77388FD59E65">
+  <property __name="label" en="Server" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="60BDFCF110864DB49166DBA8D6E226FD" config_id="60BDFCF110864DB49166DBA8D6E226FD">
+  <property __name="label" en="Skip" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="642D98B9EDB34E68A3F40FFCFE3F19B5" config_id="642D98B9EDB34E68A3F40FFCFE3F19B5">
+  <property __name="label" en="Separate" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="ED0949BCB3A04CA18095EFCC891DDF93" config_id="ED0949BCB3A04CA18095EFCC891DDF93">
+  <property __name="label" en="Join" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="27ACBFF4E68C409F9B3FCA97B8B1C6DB" config_id="27ACBFF4E68C409F9B3FCA97B8B1C6DB">
+  <property __name="label" en="Mil" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="AC8DCA5A686F42118533624EC2FC03D0" config_id="AC8DCA5A686F42118533624EC2FC03D0">
+  <property __name="label" en="Wbs" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F5F2EE990A574063B54DAA41AE9A7653" config_id="F5F2EE990A574063B54DAA41AE9A7653">
+  <property __name="label" en="Act" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="381E3FBA002E449BA1844739C74253A3" config_id="381E3FBA002E449BA1844739C74253A3">
+  <property __name="label" en="" zc="right((属性字段，变量1)" />
+ </Item>
+ <Item type="Value" keyed_name="5F5503A4F25944D8BC23EBBB7FCC6BE4" config_id="5F5503A4F25944D8BC23EBBB7FCC6BE4">
+  <property __name="label" en="" zc="seq(变数1)" />
+ </Item>
+ <Item type="Value" keyed_name="A984FA3ECFD54BD29BFCA5350FCCCE84" config_id="A984FA3ECFD54BD29BFCA5350FCCCE84">
+  <property __name="label" en="" zc="var(变数1)" />
+ </Item>
+ <Item type="Value" keyed_name="AD7B9701E42C4229BA19AC0F03EF8D05" config_id="AD7B9701E42C4229BA19AC0F03EF8D05">
+  <property __name="label" en="" zc="mid((属性字段，变量1，变量2)" />
+ </Item>
+ <Item type="Value" keyed_name="AE29324F99344A979956EBED2317EE24" config_id="AE29324F99344A979956EBED2317EE24">
+  <property __name="label" en="" zc="pro(属性字段)" />
+ </Item>
+ <Item type="Value" keyed_name="B970A48D30B74A488CBB31B48E340B96" config_id="B970A48D30B74A488CBB31B48E340B96">
+  <property __name="label" en="" zc="split(属性字段，变量1，变量2)" />
+ </Item>
+ <Item type="Value" keyed_name="EB3BC7C8425D494CACB95CA7AB720663" config_id="EB3BC7C8425D494CACB95CA7AB720663">
+  <property __name="label" en="" zc="left(属性字段，变量1)" />
+ </Item>
+ <Item type="Value" keyed_name="0576BC056FDD4BE9A0C34BDFFB495898" config_id="0576BC056FDD4BE9A0C34BDFFB495898">
+  <property __name="label" en="Discussion Panel On" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F45F34E5B0F24DD6825B592E7A09962A" config_id="F45F34E5B0F24DD6825B592E7A09962A">
+  <property __name="label" en="Discussion Panel Off" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B741ECDA676844B88E6406A205B9C94E" config_id="B741ECDA676844B88E6406A205B9C94E">
+  <property __name="label" en="OnBeforeExecute" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="11C12DC40BD14855B88895AAF365C104" config_id="11C12DC40BD14855B88895AAF365C104">
+  <property __name="label" en="Current" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="36408C36BEB147C6AD0844816242F044" config_id="36408C36BEB147C6AD0844816242F044">
+  <property __name="label" en="As Saved" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3A1948C04B3541ED97E7E2BC2A63C8EC" config_id="3A1948C04B3541ED97E7E2BC2A63C8EC">
+  <property __name="label" en="Hard Current" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8CB52079D0DA43ABBBDDB7AE7BDA3ADF" config_id="8CB52079D0DA43ABBBDDB7AE7BDA3ADF">
+  <property __name="label" en="Hard As Saved" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="244D2A4543494310AD949F1EF77970FA" config_id="244D2A4543494310AD949F1EF77970FA">
+  <property __name="label" en="Manual" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="DAD7140446B54AB4B1E3C4F0E9E6F192" config_id="DAD7140446B54AB4B1E3C4F0E9E6F192">
+  <property __name="label" en="Immediate" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="1DFAD1548FBB45FFB1349AA54C7175A8" config_id="1DFAD1548FBB45FFB1349AA54C7175A8">
+  <property __name="label" en="center" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B0CE51E6B7B54D08908393D0F3EBFDB9" config_id="B0CE51E6B7B54D08908393D0F3EBFDB9">
+  <property __name="label" en="right" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E3EE4E47A11547B58005B56161E54F46" config_id="E3EE4E47A11547B58005B56161E54F46">
+  <property __name="label" en="left" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0A66C993F5DE4CF9BD53D77CE35E60E8" config_id="0A66C993F5DE4CF9BD53D77CE35E60E8">
+  <property __name="label" en="Foreign" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2F4AB546A7D949E99E2F27E7A2D365DC" config_id="2F4AB546A7D949E99E2F27E7A2D365DC">
+  <property __name="label" en="Formatted Text" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="321FA833BC2C4BACAA1354516F2B3366" config_id="321FA833BC2C4BACAA1354516F2B3366">
+  <property __name="label" en="Item" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3D8CDF9D000C4AC5945971C5FA1F9BA9" config_id="3D8CDF9D000C4AC5945971C5FA1F9BA9">
+  <property __name="label" en="List" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4B5C78AEB5864B1BA6ABD876EDFE1B77" config_id="4B5C78AEB5864B1BA6ABD876EDFE1B77">
+  <property __name="label" en="Filter List" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="507D9A40266049DBB00279534040DEAB" config_id="507D9A40266049DBB00279534040DEAB">
+  <property __name="label" en="Sequence" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="535BEE9C59D94D28865FACE983A75C7F" config_id="535BEE9C59D94D28865FACE983A75C7F">
+  <property __name="label" en="Color" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="54478FCC92604379BFC45A52876BB396" config_id="54478FCC92604379BFC45A52876BB396">
+  <property __name="label" en="Color List" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5AF25C12A4934DD29D46B34F54C80FCA" config_id="5AF25C12A4934DD29D46B34F54C80FCA">
+  <property __name="label" en="Boolean" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="71C5B53A381E48708E3EE6980CDE58B2" config_id="71C5B53A381E48708E3EE6980CDE58B2">
+  <property __name="label" en="Image" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7AC3E94E149C4C0DB4EE78E49A3B4458" config_id="7AC3E94E149C4C0DB4EE78E49A3B4458">
+  <property __name="label" en="Global Version" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="84210C001B3D4EDCA74D2731094A8FEE" config_id="84210C001B3D4EDCA74D2731094A8FEE">
+  <property __name="label" en="MD5" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="929E8F3E2169434FBC8FAF60C1BF9C1C" config_id="929E8F3E2169434FBC8FAF60C1BF9C1C">
+  <property __name="label" en="Text" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9312101AB6E640CDBC69DA465D924C81" config_id="9312101AB6E640CDBC69DA465D924C81">
+  <property __name="label" en="Date" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9B9CFB8812C244C4B111062B2FEE2872" config_id="9B9CFB8812C244C4B111062B2FEE2872">
+  <property __name="label" en="String" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="ABE871B3F31E4763971ADFD0EF315347" config_id="ABE871B3F31E4763971ADFD0EF315347">
+  <property __name="label" en="Multi Value List" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C7FD20D38D6D488490652A0C6D8E65BC" config_id="C7FD20D38D6D488490652A0C6D8E65BC">
+  <property __name="label" en="Multilingual String" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D5270B3C305B4C2BB018F4ACB4B6446F" config_id="D5270B3C305B4C2BB018F4ACB4B6446F">
+  <property __name="label" en="Integer" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EB10DCE7C2E24233B573C0EDBA7474AD" config_id="EB10DCE7C2E24233B573C0EDBA7474AD">
+  <property __name="label" en="Decimal" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="ED54DD27482740D1A74123EE566B8D5E" config_id="ED54DD27482740D1A74123EE566B8D5E">
+  <property __name="label" en="Unsigned BigInt" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FB874DE22C8B444F931008C15733B0C9" config_id="FB874DE22C8B444F931008C15733B0C9">
+  <property __name="label" en="Float" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Create Only" config_id="3FFCF7A4F5C74E878A430492AF893802">
+  <property __name="label" en="Create Only" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Pick &amp; Create" config_id="1DB1A510504C4D6F918CAD8BE5D91CA4">
+  <property __name="label" en="Pick &amp; Create" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Pick Only" config_id="7D07AA94D72A4F6FAE8607C8960CFF4B">
+  <property __name="label" en="Pick Only" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="03A4A34B4D714A75AA198321D76C6CA0" config_id="03A4A34B4D714A75AA198321D76C6CA0">
+  <property __name="label" en="Join" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="DD93719867CB497894F81B728308C52B" config_id="DD93719867CB497894F81B728308C52B">
+  <property __name="label" en="Child" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2DE173DB65D2453FAE0115D55D99A6A6" config_id="2DE173DB65D2453FAE0115D55D99A6A6">
+  <property __name="label" en="Non-Persistent" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EFB9A480EDC5483389148F72FB531138" config_id="EFB9A480EDC5483389148F72FB531138">
+  <property __name="label" en="Persistent" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="31ACBEB82ADD44768D724188D70DC9BD" config_id="31ACBEB82ADD44768D724188D70DC9BD">
+  <property __name="label" en="" zc="Repair" />
+ </Item>
+ <Item type="Value" keyed_name="B2EDEBB740084879AB47AD4EC6F38C63" config_id="B2EDEBB740084879AB47AD4EC6F38C63">
+  <property __name="label" en="" zc="Scrap" />
+ </Item>
+ <Item type="Value" keyed_name="B3B6920B0A294EF592F33F6BA9417C4C" config_id="B3B6920B0A294EF592F33F6BA9417C4C">
+  <property __name="label" en="" zc="Use as-is" />
+ </Item>
+ <Item type="Value" keyed_name="C05D527EC1D444998C9B21AED2EB87AE" config_id="C05D527EC1D444998C9B21AED2EB87AE">
+  <property __name="label" en="" zc="Rework" />
+ </Item>
+ <Item type="Value" keyed_name="F2866900F87A4484AFEE948D914F6206" config_id="F2866900F87A4484AFEE948D914F6206">
+  <property __name="label" en="" zc="Return to supplier" />
+ </Item>
+ <Item type="Value" keyed_name="70697D2F96AD4D81A3B5F22835AA3148" config_id="70697D2F96AD4D81A3B5F22835AA3148">
+  <property __name="label" en="Methodology" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B6E905D337E84F3F8D5F9DB6A8D4F45F" config_id="B6E905D337E84F3F8D5F9DB6A8D4F45F">
+  <property __name="label" en="System" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BE1B4F4374FB479E8DF110E7BCAD487D" config_id="BE1B4F4374FB479E8DF110E7BCAD487D">
+  <property __name="label" en="Specification" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CB649BFC2F9B4CAFA21E4B7C1CF8FFF5" config_id="CB649BFC2F9B4CAFA21E4B7C1CF8FFF5">
+  <property __name="label" en="Component" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="DF1D51755BBA466FBF94017C875DB403" config_id="DF1D51755BBA466FBF94017C875DB403">
+  <property __name="label" en="Sub-System" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="85EF2A93151A48EEB68AA8CC3FA2659A" config_id="85EF2A93151A48EEB68AA8CC3FA2659A">
+  <property __name="label" en="Custom" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="91F5AECB1DA240E1AAE2FDC80DD725FD" config_id="91F5AECB1DA240E1AAE2FDC80DD725FD">
+  <property __name="label" en="Alphabetical" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="48B2846712154DF085308898CFD31894" config_id="48B2846712154DF085308898CFD31894">
+  <property __name="label" en="Remove" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="64AFF7197D1A4B85B6939C26291EE98C" config_id="64AFF7197D1A4B85B6939C26291EE98C">
+  <property __name="label" en="Clear All" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C36BC93352EA457F838C48F781050BC5" config_id="C36BC93352EA457F838C48F781050BC5">
+  <property __name="label" en="Add" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EF03224C82A04E5CB1C3305441B2051F" config_id="EF03224C82A04E5CB1C3305441B2051F">
+  <property __name="label" en="Replace" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="1F6088319A914991913BE8C2B2383645" config_id="1F6088319A914991913BE8C2B2383645">
+  <property __name="label" en="" zc="Very low (1 in 150,000)" />
+ </Item>
+ <Item type="Value" keyed_name="35FB97D1AEAC4995A38077184C9374FA" config_id="35FB97D1AEAC4995A38077184C9374FA">
+  <property __name="label" en="" zc="Moderate (1 in 2,000)" />
+ </Item>
+ <Item type="Value" keyed_name="3DA1A7B151754DFAA6D6AE6F16589F42" config_id="3DA1A7B151754DFAA6D6AE6F16589F42">
+  <property __name="label" en="" zc="Very high (1 in 3)" />
+ </Item>
+ <Item type="Value" keyed_name="3F92AE996ADE44E7965034F354D368A5" config_id="3F92AE996ADE44E7965034F354D368A5">
+  <property __name="label" en="" zc="Moderate (1 in 80)" />
+ </Item>
+ <Item type="Value" keyed_name="4036A481E6DA47448D060DADE44D9C49" config_id="4036A481E6DA47448D060DADE44D9C49">
+  <property __name="label" en="" zc="High (1 in 8)" />
+ </Item>
+ <Item type="Value" keyed_name="94243F4FEFD443F083A7CD20E83414C5" config_id="94243F4FEFD443F083A7CD20E83414C5">
+  <property __name="label" en="" zc="Low (1 in 15,000)" />
+ </Item>
+ <Item type="Value" keyed_name="AEDC9AF7E73C476187F961C96CD3B6B4" config_id="AEDC9AF7E73C476187F961C96CD3B6B4">
+  <property __name="label" en="" zc="Moderate (1 in 400)" />
+ </Item>
+ <Item type="Value" keyed_name="C27F5B3043F5417BB3309E60F6A0EEEC" config_id="C27F5B3043F5417BB3309E60F6A0EEEC">
+  <property __name="label" en="" zc="Very high (1 in 2)" />
+ </Item>
+ <Item type="Value" keyed_name="D2342C940D26430C98E66A21C229E49C" config_id="D2342C940D26430C98E66A21C229E49C">
+  <property __name="label" en="" zc="Remote (1 in 1.5M)" />
+ </Item>
+ <Item type="Value" keyed_name="DF6C33D9662F4A48A2197DD5E491F981" config_id="DF6C33D9662F4A48A2197DD5E491F981">
+  <property __name="label" en="" zc="High (1 in 20)" />
+ </Item>
+ <Item type="Value" keyed_name="0E9CA18286964630A07E5C50E2F74475" config_id="0E9CA18286964630A07E5C50E2F74475">
+  <property __name="label" en="10px" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2877992CF5AC4EC2B4EE78DB544E9811" config_id="2877992CF5AC4EC2B4EE78DB544E9811">
+  <property __name="label" en="8px" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="70A7DE900C3D4C66ABCB6719977AE5F7" config_id="70A7DE900C3D4C66ABCB6719977AE5F7">
+  <property __name="label" en="26px" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="79ECA3BCCF024B91B3A570094815E0DF" config_id="79ECA3BCCF024B91B3A570094815E0DF">
+  <property __name="label" en="22px" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7A2FFE58A4124097AA56182B5F6FFF3B" config_id="7A2FFE58A4124097AA56182B5F6FFF3B">
+  <property __name="label" en="18px" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8F26CCD88A3145199430258A435B23DD" config_id="8F26CCD88A3145199430258A435B23DD">
+  <property __name="label" en="16px" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="957DA2FAF0624E8E887CE5B464E5BDE1" config_id="957DA2FAF0624E8E887CE5B464E5BDE1">
+  <property __name="label" en="14px" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A69EDCBBBCC649CCBF5F627BC2B764DE" config_id="A69EDCBBBCC649CCBF5F627BC2B764DE">
+  <property __name="label" en="11px" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FFFB7C3D188B4DC89311A5805347D815" config_id="FFFB7C3D188B4DC89311A5805347D815">
+  <property __name="label" en="12px" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6309223096224F33841A8D5A380A5474" config_id="6309223096224F33841A8D5A380A5474">
+  <property __name="label" en="Long Date" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8EDAB3E1673642658BAE00C4FC7658BD" config_id="8EDAB3E1673642658BAE00C4FC7658BD">
+  <property __name="label" en="Short Date" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A154EFFA819F42FC9FD1FAB9B3924DE1" config_id="A154EFFA819F42FC9FD1FAB9B3924DE1">
+  <property __name="label" en="Long Date Time" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B364900C8E3446CE914F283F14FAE126" config_id="B364900C8E3446CE914F283F14FAE126">
+  <property __name="label" en="Short Date Time" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="155C5621905543749153D97EE122C219" config_id="155C5621905543749153D97EE122C219">
+  <property __name="label" en="Today" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="28BA7214481443479E0B84B43F588A73" config_id="28BA7214481443479E0B84B43F588A73">
+  <property __name="label" en="Date Ls" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="39BAA523851D4AB282DE3A79CD5A000A" config_id="39BAA523851D4AB282DE3A79CD5A000A">
+  <property __name="label" en="Date Due Act" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="453C01798CAD4B46B0D86C4D74C5052E" config_id="453C01798CAD4B46B0D86C4D74C5052E">
+  <property __name="label" en="Date Lf" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6A198781B6BB4B4DB9FB15FBFEFB15F7" config_id="6A198781B6BB4B4DB9FB15FBFEFB15F7">
+  <property __name="label" en="Date Due Sched" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="71C69F14C14944E5A4CB3B4496CB7960" config_id="71C69F14C14944E5A4CB3B4496CB7960">
+  <property __name="label" en="Date Start Sched" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="758D92E1B5FA4FE58AC52F72E0CDCDC9" config_id="758D92E1B5FA4FE58AC52F72E0CDCDC9">
+  <property __name="label" en="Date Es" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D26ADF20996E4D4796F99515A01584A8" config_id="D26ADF20996E4D4796F99515A01584A8">
+  <property __name="label" en="Date Start Act" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="DD2D976E705D44FD971CFAD8E480EA0D" config_id="DD2D976E705D44FD971CFAD8E480EA0D">
+  <property __name="label" en="Date Activated" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E333ED93AD3946D0BECC28DC69CF2035" config_id="E333ED93AD3946D0BECC28DC69CF2035">
+  <property __name="label" en="Date Ef" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EE7EA373A1DB4985B94D59663CAAFF7F" config_id="EE7EA373A1DB4985B94D59663CAAFF7F">
+  <property __name="label" en="Date Due Original" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FFD7749E7C0E41F587EBCBA33F4E2152" config_id="FFD7749E7C0E41F587EBCBA33F4E2152">
+  <property __name="label" en="Est. Completion Date" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BC42E09021FB40B6B00D32E41FC01E88" config_id="BC42E09021FB40B6B00D32E41FC01E88">
+  <property __name="label" en="Medium" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F681B5E49C2A40D38E9AC3548741F48B" config_id="F681B5E49C2A40D38E9AC3548741F48B">
+  <property __name="label" en="High" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FA6E47679580444BAF81B31F94AF4934" config_id="FA6E47679580444BAF81B31F94AF4934">
+  <property __name="label" en="Low" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Daily" config_id="04CCBCF6461A45558AE489578309F3A3">
+  <property __name="label" en="Daily" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Hourly" config_id="F4FF1F585BC249DB9AC5B319CD457D44">
+  <property __name="label" en="Hourly" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Weekly" config_id="5F54FC0348E641A49F0869BF1F67044E">
+  <property __name="label" en="Weekly" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0D414CBA91E948D689E0FCE793F51AF2" config_id="0D414CBA91E948D689E0FCE793F51AF2">
+  <property __name="label" en="" zc="院负责人员" />
+ </Item>
+ <Item type="Value" keyed_name="56E0A23B46E2413B93C24A6977F21CFB" config_id="56E0A23B46E2413B93C24A6977F21CFB">
+  <property __name="label" en="" zc="部负责人员" />
+ </Item>
+ <Item type="Value" keyed_name="C05A90F3D65B4E4A85FFB8BBF295E5CD" config_id="C05A90F3D65B4E4A85FFB8BBF295E5CD">
+  <property __name="label" en="" zc="设计人员" />
+ </Item>
+ <Item type="Value" keyed_name="6AE94C6806EF43D1BD6E87F0A95F2F63" config_id="6AE94C6806EF43D1BD6E87F0A95F2F63">
+  <property __name="label" en="JavaScript Method" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="DFB7EFE09846473D85740AB23E798DD7" config_id="DFB7EFE09846473D85740AB23E798DD7">
+  <property __name="label" en="Relationship Tab" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3F6483E84D2A4EA9B56ACE3BE2950BF8" config_id="3F6483E84D2A4EA9B56ACE3BE2950BF8">
+  <property __name="label" en="None" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="67AE8D9BB68F4106A3FE43FDB9DF3703" config_id="67AE8D9BB68F4106A3FE43FDB9DF3703">
+  <property __name="label" en="Any" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="153E9E19AF4A4446BC43F8257D09EE0A" config_id="153E9E19AF4A4446BC43F8257D09EE0A">
+  <property __name="label" en="Failed" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="576CDC9C9BD74B0E86EC69E8A325B8F0" config_id="576CDC9C9BD74B0E86EC69E8A325B8F0">
+  <property __name="label" en="Canceled" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="72152670F77848A8B07E400504BD75BB" config_id="72152670F77848A8B07E400504BD75BB">
+  <property __name="label" en="In Progress" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D3109829BE3F44789A222036D18B2CFE" config_id="D3109829BE3F44789A222036D18B2CFE">
+  <property __name="label" en="Successful" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="73D6F5F75BC840DB9A645F1D35999DB2" config_id="73D6F5F75BC840DB9A645F1D35999DB2">
+  <property __name="label" en="URL" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7511D5C0088C4C4F801F151D17FEC858" config_id="7511D5C0088C4C4F801F151D17FEC858">
+  <property __name="label" en="External Document" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C4C9C2BC176A4D7EBB76849495E09525" config_id="C4C9C2BC176A4D7EBB76849495E09525">
+  <property __name="label" en="Discussion" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F358E8153D174532A4F86A6D5A18993C" config_id="F358E8153D174532A4F86A6D5A18993C">
+  <property __name="label" en="Board" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="683B066F6F8C41B9820AEEBFB2F67A26" config_id="683B066F6F8C41B9820AEEBFB2F67A26">
+  <property __name="label" en="OnBeforePersistRelationships" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="82C9DCF964434E1DAA58D85E70E4DCC5" config_id="82C9DCF964434E1DAA58D85E70E4DCC5">
+  <property __name="label" en="OnAfterPersistRelationships" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Center" config_id="776EF2F46ACF4C6FB636EB3086EB64E5">
+  <property __name="label" en="Center" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Left" config_id="28D59199B30F4FCB90A7E49159A00020">
+  <property __name="label" en="Left" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Right" config_id="6FDF2229BD3648C1A60308ABE628BC47">
+  <property __name="label" en="Right" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="93BF20E49DC047E1A368F5DAD9A575BD" config_id="93BF20E49DC047E1A368F5DAD9A575BD">
+  <property __name="label" en="Popup" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="97197A3A2C7744C5AEEA54916B61FD42" config_id="97197A3A2C7744C5AEEA54916B61FD42">
+  <property __name="label" en="Standard" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9FB106C20E6F4A9EACE91B8E2F9CC12B" config_id="9FB106C20E6F4A9EACE91B8E2F9CC12B">
+  <property __name="label" en="OnShowItem" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="OnAfterNew" config_id="47FD5CE93C4F41D3BF23B9BAA241CBBC">
+  <property __name="label" en="OnAfterNew" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="OnBeforeNew" config_id="1108645A82EB485CA463C39F3AF9E64B">
+  <property __name="label" en="OnBeforeNew" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="OnNew" config_id="6D8C094553884F4280068A93EA69CBF7">
+  <property __name="label" en="OnNew" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2903A3CA2A574551BC198594EFAFD74F" config_id="2903A3CA2A574551BC198594EFAFD74F">
+  <property __name="label" en="Line" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="49D5575F4FE44F84977D9A403B0A96C5" config_id="49D5575F4FE44F84977D9A403B0A96C5">
+  <property __name="label" en="Pie" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9C43EA55D4B0493FBE62B58F964A210F" config_id="9C43EA55D4B0493FBE62B58F964A210F">
+  <property __name="label" en="Bar" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BA06765E14754153A18212687E293E45" config_id="BA06765E14754153A18212687E293E45">
+  <property __name="label" en="Stacked Bar" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="39F663A112A54019953BF3A55374EDB6" config_id="39F663A112A54019953BF3A55374EDB6">
+  <property __name="label" en="" zc="Internal" />
+ </Item>
+ <Item type="Value" keyed_name="D9C570855BAE4F7F8A8ADA612AA1ACA1" config_id="D9C570855BAE4F7F8A8ADA612AA1ACA1">
+  <property __name="label" en="" zc="External" />
+ </Item>
+ <Item type="Value" keyed_name="No" config_id="8F111626CCFE498D93430024F64D35BA">
+  <property __name="label" en="No" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Yes" config_id="B005262CFE4640B5989BBDDA39EC2457">
+  <property __name="label" en="Yes" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="524BDCAEB6BB47798AB46ACCF2EA2864" config_id="524BDCAEB6BB47798AB46ACCF2EA2864">
+  <property __name="label" en="" zc="比对更新" />
+ </Item>
+ <Item type="Value" keyed_name="A3A2B160B7F24DEDB93F9273C260D6D7" config_id="A3A2B160B7F24DEDB93F9273C260D6D7">
+  <property __name="label" en="" zc="删除重建" />
+ </Item>
+ <Item type="Value" keyed_name="33FB2C295FA0419C9B3C3C05A5A71EC9" config_id="33FB2C295FA0419C9B3C3C05A5A71EC9">
+  <property __name="label" en="Bottom" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F7D97DBC7F1C4D6E8737C8D154CFCDCB" config_id="F7D97DBC7F1C4D6E8737C8D154CFCDCB">
+  <property __name="label" en="Top" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="1C46BCB66CE04B59ABAB656B6B16246A" config_id="1C46BCB66CE04B59ABAB656B6B16246A">
+  <property __name="label" en="Not Started" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="26A23C38DBBD40288DFAB29D2801DE42" config_id="26A23C38DBBD40288DFAB29D2801DE42">
+  <property __name="label" en="Succeeded" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="57C0287BB9864AA5BCDCD0BF556C6CE4" config_id="57C0287BB9864AA5BCDCD0BF556C6CE4">
+  <property __name="label" en="Failed" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C51F72417A51413098E85D9181F3EAB7" config_id="C51F72417A51413098E85D9181F3EAB7">
+  <property __name="label" en="In Progress" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0565DB9DB64044E69DD59792200C52A1" config_id="0565DB9DB64044E69DD59792200C52A1">
+  <property __name="label" en="Level 2" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8FEEAA12931A44B3A61CBEE28F830ABC" config_id="8FEEAA12931A44B3A61CBEE28F830ABC">
+  <property __name="label" en="Level 3" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="991418519D6047D784226D341E5E7309" config_id="991418519D6047D784226D341E5E7309">
+  <property __name="label" en="Level 5" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9B886B21F5244D11BD1DBABA0DD03E00" config_id="9B886B21F5244D11BD1DBABA0DD03E00">
+  <property __name="label" en="Level 1" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FE695F2297214851B5C9F30D48245CE2" config_id="FE695F2297214851B5C9F30D48245CE2">
+  <property __name="label" en="Level 4" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="34C0DEF2C5A74BDCB1DE4F1627D5B4A3" config_id="34C0DEF2C5A74BDCB1DE4F1627D5B4A3">
+  <property __name="label" en="Finish To Start" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7A43D46EC6484D2C91594585ABE7B5F2" config_id="7A43D46EC6484D2C91594585ABE7B5F2">
+  <property __name="label" en="Start To Start" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A59A705BEE34430EBAEE5701600F3E29" config_id="A59A705BEE34430EBAEE5701600F3E29">
+  <property __name="label" en="Finish To Finish" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E910D28EB1F74D61B18D8C5262FF1047" config_id="E910D28EB1F74D61B18D8C5262FF1047">
+  <property __name="label" en="Start To Finish" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Bound Multi-Select" config_id="B847F422C3DD4ABCA37D7AD10FAB6836">
+  <property __name="label" en="Bound Multi-Select" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Bound Select" config_id="B7FBE2C28C024F26BD010B263C0B9D09">
+  <property __name="label" en="Bound Select" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Default" config_id="14D0F11E0A5A4F1CAC613987DB0899BE">
+  <property __name="label" en="Default" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Dependent" config_id="32FC97FA3DEE4D2688E66EAE666444A4">
+  <property __name="label" en="Dependent" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Federated" config_id="62C4DEA7AFD14713890090F826B25646">
+  <property __name="label" en="Federated" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Sort" config_id="C21F6AF2755C436CB5172AEC27721A38">
+  <property __name="label" en="Sort" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Text" config_id="055C09300B534E1F84EBB44842C7D01C">
+  <property __name="label" en="Text" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Unbound Multi-Select" config_id="D1816F376FCF415E8F98E468338E3E14">
+  <property __name="label" en="Unbound Multi-Select" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Unbound Select" config_id="2102E8D64FD942CDA4F8B6E7D77AA613">
+  <property __name="label" en="Unbound Select" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9053004FB55744EB8AEABB61A36D2E9F" config_id="9053004FB55744EB8AEABB61A36D2E9F">
+  <property __name="label" en="Item Window" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B2CF2481CF16432B987BE245766FABCF" config_id="B2CF2481CF16432B987BE245766FABCF">
+  <property __name="label" en="Main Window" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EFC04D620BCD4991BCABBF7D7C52B030" config_id="EFC04D620BCD4991BCABBF7D7C52B030">
+  <property __name="label" en="Classification Dialog" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6B921C59E707429D8D8166D08F64A642" config_id="6B921C59E707429D8D8166D08F64A642">
+  <property __name="label" en="Requestor Solution" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CB1EC0F2851B46598C9AE54B887E4329" config_id="CB1EC0F2851B46598C9AE54B887E4329">
+  <property __name="label" en="Another Solution" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5EB93BAD16C84A0AB7668BAE37FB71D6" config_id="5EB93BAD16C84A0AB7668BAE37FB71D6">
+  <property __name="label" en="Main Grid" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FF4628A64FE84310A58751E725EF7160" config_id="FF4628A64FE84310A58751E725EF7160">
+  <property __name="label" en="Relationships Grid" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="012111FBA7904DB293232A8F55024F21" config_id="012111FBA7904DB293232A8F55024F21">
+  <property __name="label" en="onChange" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5CE1826855564DE2BB97A88F8312FE06" config_id="5CE1826855564DE2BB97A88F8312FE06">
+  <property __name="label" en="onEvent" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A2132BA47E8849A5812A4B3F30778611" config_id="A2132BA47E8849A5812A4B3F30778611">
+  <property __name="label" en="onDemand" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="21BAF510ACC8474D9B118BEC170E6C5C" config_id="21BAF510ACC8474D9B118BEC170E6C5C">
+  <property __name="label" en="UserFavoriteMessages" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="437F7E1BCAF7458AAF2526EEEE471749" config_id="437F7E1BCAF7458AAF2526EEEE471749">
+  <property __name="label" en="Custom" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D91CD48759804AB4BCC5A568291D74AC" config_id="D91CD48759804AB4BCC5A568291D74AC">
+  <property __name="label" en="UserMessages" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4E7E607FDCF6477CB516C4FE51B63F76" config_id="4E7E607FDCF6477CB516C4FE51B63F76">
+  <property __name="label" en="Block" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="61C9273554464C82B32BBC1807B204C6" config_id="61C9273554464C82B32BBC1807B204C6">
+  <property __name="label" en="Table" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6291AE28DBAC4CF888F5E90B557DB8C6" config_id="6291AE28DBAC4CF888F5E90B557DB8C6">
+  <property __name="label" en="View" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6B36C4E12A8040298E0BF31CC9F120BB" config_id="6B36C4E12A8040298E0BF31CC9F120BB">
+  <property __name="label" en="Trigger" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B6580E6AF5DD41A2877BB1ACBE420673" config_id="B6580E6AF5DD41A2877BB1ACBE420673">
+  <property __name="label" en="Index" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B871B4173D974FACB415E314020F68DB" config_id="B871B4173D974FACB415E314020F68DB">
+  <property __name="label" en="Function" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E105ECAB2F0A48BF991784B1EC01842F" config_id="E105ECAB2F0A48BF991784B1EC01842F">
+  <property __name="label" en="Procedure" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0218EAF4814646C08612289C52F8D4BA" config_id="0218EAF4814646C08612289C52F8D4BA">
+  <property __name="label" en="India" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="023A46F9F61245F9BDEDFE3076204DF6" config_id="023A46F9F61245F9BDEDFE3076204DF6">
+  <property __name="label" en="Colombia" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="095CE71D860E4F83A3E1944BE5353D9C" config_id="095CE71D860E4F83A3E1944BE5353D9C">
+  <property __name="label" en="Portugal" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0B0FC9FBFD93486294A895365D528B77" config_id="0B0FC9FBFD93486294A895365D528B77">
+  <property __name="label" en="Israel" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="115D527491A94FBE8AB7D2A4FE85D8AE" config_id="115D527491A94FBE8AB7D2A4FE85D8AE">
+  <property __name="label" en="Luxemborg" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="1394732153FB43E1BB7FB3BE1F9ACA06" config_id="1394732153FB43E1BB7FB3BE1F9ACA06">
+  <property __name="label" en="Argentina" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="13FD9D8EEA8141CC9E490AD0522920EA" config_id="13FD9D8EEA8141CC9E490AD0522920EA">
+  <property __name="label" en="Philippines" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="19D471654D8944DE880890B1B0D48733" config_id="19D471654D8944DE880890B1B0D48733">
+  <property __name="label" en="Turkey" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="1C3B43EE076C4D11BEEF3B9E24A170B8" config_id="1C3B43EE076C4D11BEEF3B9E24A170B8">
+  <property __name="label" en="Chile" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="227DC4846A724729A719AAA0614AFAB8" config_id="227DC4846A724729A719AAA0614AFAB8">
+  <property __name="label" en="Brazil" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="26D2CE2AB6C44596BB09651BC2242F67" config_id="26D2CE2AB6C44596BB09651BC2242F67">
+  <property __name="label" en="Albania" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2FCDB886BE4D4FD589952A22EAAF0FC6" config_id="2FCDB886BE4D4FD589952A22EAAF0FC6">
+  <property __name="label" en="France" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="37ED4FE3860A44CE80F87D96E11749BA" config_id="37ED4FE3860A44CE80F87D96E11749BA">
+  <property __name="label" en="Bulgaria" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3A457DB88E654BA29BC2D7196918ECB7" config_id="3A457DB88E654BA29BC2D7196918ECB7">
+  <property __name="label" en="Poland" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3A772AB807CA46F69C5548A283DE11CE" config_id="3A772AB807CA46F69C5548A283DE11CE">
+  <property __name="label" en="Spain" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4304EAB3CAB54460A2FF0EB384BE1F74" config_id="4304EAB3CAB54460A2FF0EB384BE1F74">
+  <property __name="label" en="Hungary" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="44CC7C9ABF19483096AB4D2C6DBDB55E" config_id="44CC7C9ABF19483096AB4D2C6DBDB55E">
+  <property __name="label" en="United Kingdom" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="46D5BC1A737C42D794D4AF7E087E1252" config_id="46D5BC1A737C42D794D4AF7E087E1252">
+  <property __name="label" en="Sweden" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="492A29CD45E441668278AD0DCD38FB4D" config_id="492A29CD45E441668278AD0DCD38FB4D">
+  <property __name="label" en="Venezuela" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4D30267567654551922221A32E1C20BE" config_id="4D30267567654551922221A32E1C20BE">
+  <property __name="label" en="Canada" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4E36886E0E9E447EB9EF0ECBF247DC06" config_id="4E36886E0E9E447EB9EF0ECBF247DC06">
+  <property __name="label" en="Lebanon" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4EE29C79EADD40EB81C34C0096E858A7" config_id="4EE29C79EADD40EB81C34C0096E858A7">
+  <property __name="label" en="Germany" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4FA57B4ADD9240EC8DBCCD0B59DC01F1" config_id="4FA57B4ADD9240EC8DBCCD0B59DC01F1">
+  <property __name="label" en="China" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="509B7184635F440499D09161579A1CA0" config_id="509B7184635F440499D09161579A1CA0">
+  <property __name="label" en="Costa Rica" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="530907B03AA54B4EB3047468A2081332" config_id="530907B03AA54B4EB3047468A2081332">
+  <property __name="label" en="Yugoslavia" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5AD725B559D241598D9B28ED34A1E319" config_id="5AD725B559D241598D9B28ED34A1E319">
+  <property __name="label" en="Guam" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="664E9F6BCE054202987F1365EE842EFE" config_id="664E9F6BCE054202987F1365EE842EFE">
+  <property __name="label" en="South Africa" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="66BDB6D7B5EC426EBA19AC74679FA106" config_id="66BDB6D7B5EC426EBA19AC74679FA106">
+  <property __name="label" en="Ireland" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="67D9A11F3C18434A9602FCAF86CA8BA1" config_id="67D9A11F3C18434A9602FCAF86CA8BA1">
+  <property __name="label" en="Egypt" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7240D917EE94433FBC05CD5D65746800" config_id="7240D917EE94433FBC05CD5D65746800">
+  <property __name="label" en="Singapore" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="74811CF898F640A6BE69FBBC06071962" config_id="74811CF898F640A6BE69FBBC06071962">
+  <property __name="label" en="Greenland" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="75550A2CD19947EB86AD167FE7286817" config_id="75550A2CD19947EB86AD167FE7286817">
+  <property __name="label" en="Russian Federation" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="76AF1CB08B6F476D96E92B75ACC96903" config_id="76AF1CB08B6F476D96E92B75ACC96903">
+  <property __name="label" en="Ecuador" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="76CFABFF3C6B4033A88ACAF2CD4734AF" config_id="76CFABFF3C6B4033A88ACAF2CD4734AF">
+  <property __name="label" en="Guatemala" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7CC496C47634491ABA0DE64620FEE302" config_id="7CC496C47634491ABA0DE64620FEE302">
+  <property __name="label" en="United States" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7D8612D505D44DB4B9DE7A3A5EE4A0D0" config_id="7D8612D505D44DB4B9DE7A3A5EE4A0D0">
+  <property __name="label" en="Paraguay" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7F74207A9D2D49ECBC9755539280723E" config_id="7F74207A9D2D49ECBC9755539280723E">
+  <property __name="label" en="Hong Kong" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8177EFE890AB4A99BC13B559878C8B3E" config_id="8177EFE890AB4A99BC13B559878C8B3E">
+  <property __name="label" en="Panama" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="854A1FEF474344EEA99C689D011CFA82" config_id="854A1FEF474344EEA99C689D011CFA82">
+  <property __name="label" en="Bolivia" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="85B1FD5271E9485BB5123D558C4118A9" config_id="85B1FD5271E9485BB5123D558C4118A9">
+  <property __name="label" en="Iceland" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="88DAB4BBEECE46439368F71B6ACCA869" config_id="88DAB4BBEECE46439368F71B6ACCA869">
+  <property __name="label" en="Switzerland" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8DC49265405C40C1937D07AE8057E68F" config_id="8DC49265405C40C1937D07AE8057E68F">
+  <property __name="label" en="Thailand" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9214DBBD78EA4EA9B24D39EB12AEADF5" config_id="9214DBBD78EA4EA9B24D39EB12AEADF5">
+  <property __name="label" en="Taiwan" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="97C595B1FCA04ACBB75191F05BDA5F58" config_id="97C595B1FCA04ACBB75191F05BDA5F58">
+  <property __name="label" en="Nicaragua" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="99C12F17482E4B43B3EF3C422BEF4194" config_id="99C12F17482E4B43B3EF3C422BEF4194">
+  <property __name="label" en="Netherlands" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A08487821C9F4DCAB89973FE441F6490" config_id="A08487821C9F4DCAB89973FE441F6490">
+  <property __name="label" en="Malaysia" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A18C6763C5FA4819AF9EBEA6DAEEF338" config_id="A18C6763C5FA4819AF9EBEA6DAEEF338">
+  <property __name="label" en="Honduras" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B3A827272B364C438296BD32CC1F2DCF" config_id="B3A827272B364C438296BD32CC1F2DCF">
+  <property __name="label" en="Congo" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B5F14F94AF1A46B482933A9F255C7695" config_id="B5F14F94AF1A46B482933A9F255C7695">
+  <property __name="label" en="Belgium" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B9FCE51B483844D4ACED2BE4E3EA260D" config_id="B9FCE51B483844D4ACED2BE4E3EA260D">
+  <property __name="label" en="Mexico" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BA82C1820C114A9981F4FF6381F36A7C" config_id="BA82C1820C114A9981F4FF6381F36A7C">
+  <property __name="label" en="Puerto Rico" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BB37427DC44946138071D38376CA0AB1" config_id="BB37427DC44946138071D38376CA0AB1">
+  <property __name="label" en="El Salvador" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BC612764FF6C4E72B97143C1F0F95DAE" config_id="BC612764FF6C4E72B97143C1F0F95DAE">
+  <property __name="label" en="Australia" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C3145D7DE11348F7AB8E93BCB1A7E49A" config_id="C3145D7DE11348F7AB8E93BCB1A7E49A">
+  <property __name="label" en="Italy" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C4E357A4FE974E19A139458478BF3CDA" config_id="C4E357A4FE974E19A139458478BF3CDA">
+  <property __name="label" en="Greece" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C5A76F7C19094D569990399B5C491D3F" config_id="C5A76F7C19094D569990399B5C491D3F">
+  <property __name="label" en="Liberia" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C5CAA1A123474517A2493C9EC177B529" config_id="C5CAA1A123474517A2493C9EC177B529">
+  <property __name="label" en="Finland" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C6A6A58B8651459B98365456F069BB1F" config_id="C6A6A58B8651459B98365456F069BB1F">
+  <property __name="label" en="Cyprus" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C880A8B9AEEE4F53831E9E93F2580BB5" config_id="C880A8B9AEEE4F53831E9E93F2580BB5">
+  <property __name="label" en="Bahamas" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CC14231545144CF2B7A1C82F583815FC" config_id="CC14231545144CF2B7A1C82F583815FC">
+  <property __name="label" en="Japan" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CD50C755FA844832AD727153BC7527AE" config_id="CD50C755FA844832AD727153BC7527AE">
+  <property __name="label" en="New Zealand" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D97166C49E254256A9D4EF472EC71459" config_id="D97166C49E254256A9D4EF472EC71459">
+  <property __name="label" en="Romania" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D97DB05DAA8B45BE9F46CD23F6B9A863" config_id="D97DB05DAA8B45BE9F46CD23F6B9A863">
+  <property __name="label" en="Jamaica" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="DB72742EE12149C183A0D2D042141F05" config_id="DB72742EE12149C183A0D2D042141F05">
+  <property __name="label" en="Peru" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="DD8FC96D031C433D93289F4BCEDE4CAE" config_id="DD8FC96D031C433D93289F4BCEDE4CAE">
+  <property __name="label" en="Kenya" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E1EB925476AB47A19CBDF52587655633" config_id="E1EB925476AB47A19CBDF52587655633">
+  <property __name="label" en="Norway" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E47FEB3510684D64AC87F365546C1D62" config_id="E47FEB3510684D64AC87F365546C1D62">
+  <property __name="label" en="Indonesia" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E69A41BB74BA48D2839BD86234877016" config_id="E69A41BB74BA48D2839BD86234877016">
+  <property __name="label" en="Denmark" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E78CDD5C76C144A99F435D499ADB0CC8" config_id="E78CDD5C76C144A99F435D499ADB0CC8">
+  <property __name="label" en="Austria" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E83788E936D54CDDAF95261C2DAF889E" config_id="E83788E936D54CDDAF95261C2DAF889E">
+  <property __name="label" en="Uruguay" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E8CC9F174676460C94449D52B1EB186F" config_id="E8CC9F174676460C94449D52B1EB186F">
+  <property __name="label" en="Armenia" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EC39079DF6464A7E99EF2782B0939A33" config_id="EC39079DF6464A7E99EF2782B0939A33">
+  <property __name="label" en="Czech Republic" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EF5C9EEDE9124ABCA24470D43B511E9F" config_id="EF5C9EEDE9124ABCA24470D43B511E9F">
+  <property __name="label" en="Lithuania" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F06C30BE7AF942CDBCFCC256028B2508" config_id="F06C30BE7AF942CDBCFCC256028B2508">
+  <property __name="label" en="Estonia" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F1040718F92C4E6FB5DC9350FAA7BA95" config_id="F1040718F92C4E6FB5DC9350FAA7BA95">
+  <property __name="label" en="Nigeria" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F8EB5236F74A48E0ABE9665300A83751" config_id="F8EB5236F74A48E0ABE9665300A83751">
+  <property __name="label" en="Ukraine" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FE8684C97EED4DC8AF685E3C97885071" config_id="FE8684C97EED4DC8AF685E3C97885071">
+  <property __name="label" en="South Korea" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="496B04FEF3C147859C8AB1D057969E0D" config_id="496B04FEF3C147859C8AB1D057969E0D">
+  <property __name="label" en="Relative" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9A7CF7EA52684CF49B89D8B5B4940A2D" config_id="9A7CF7EA52684CF49B89D8B5B4940A2D">
+  <property __name="label" en="Static" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A7A3466FF3884A3C85BBE29724B654CB" config_id="A7A3466FF3884A3C85BBE29724B654CB">
+  <property __name="label" en="Absolute" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="511FE7C25A2143D793AC71ECCA12F87B" config_id="511FE7C25A2143D793AC71ECCA12F87B">
+  <property __name="label" en="Standard" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="86C6B1C15DCB45D6993AE03BC711CFFF" config_id="86C6B1C15DCB45D6993AE03BC711CFFF">
+  <property __name="label" en="Review" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="1267821EB75C4A1AABC595BD3A68A1AE" config_id="1267821EB75C4A1AABC595BD3A68A1AE">
+  <property __name="label" en="None" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="32C905D979334942805FB4848B14249C" config_id="32C905D979334942805FB4848B14249C">
+  <property __name="label" en="Quarterly" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5F78A3E4F74544A09F0433C19EED170F" config_id="5F78A3E4F74544A09F0433C19EED170F">
+  <property __name="label" en="Monthly" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B8FB63FA9EC64DA6BAD6CAA515313D09" config_id="B8FB63FA9EC64DA6BAD6CAA515313D09">
+  <property __name="label" en="Weekly" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3DCBD9E8D3304EB58E0CD374BC727488" config_id="3DCBD9E8D3304EB58E0CD374BC727488">
+  <property __name="label" en="Application Requirements" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="44B66B84FCED44509960C44F7DD3ABD2" config_id="44B66B84FCED44509960C44F7DD3ABD2">
+  <property __name="label" en="Process Standards" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7F03391F88B04C238330030689DF1616" config_id="7F03391F88B04C238330030689DF1616">
+  <property __name="label" en="Testing" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="80415800906F4058820B6CE8FDE031C7" config_id="80415800906F4058820B6CE8FDE031C7">
+  <property __name="label" en="Design Basis" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9B1EEFC51FC24E26A96C52774F54658C" config_id="9B1EEFC51FC24E26A96C52774F54658C">
+  <property __name="label" en="Detailed Design" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C6148BA2D3004114B7F8B014862D22AA" config_id="C6148BA2D3004114B7F8B014862D22AA">
+  <property __name="label" en="Hierarchy" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="DB62525C27AA4A6395250A3106DFF6E5" config_id="DB62525C27AA4A6395250A3106DFF6E5">
+  <property __name="label" en="Build Cycle" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F7752E0160EE479EBA2C01657BBDEB0D" config_id="F7752E0160EE479EBA2C01657BBDEB0D">
+  <property __name="label" en="Item Unique Processes" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FF23B4D55BDE423F9246501E7E1C2C68" config_id="FF23B4D55BDE423F9246501E7E1C2C68">
+  <property __name="label" en="In-Service" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Main" config_id="26D21EBF369543E0828F8F0AB289B408">
+  <property __name="label" en="Main" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="None" config_id="29940E31A9174F2093FA37607E94FB60">
+  <property __name="label" en="None" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="One Window" config_id="1EB252328B384397BB01E0EF43709F7D">
+  <property __name="label" en="One Window" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Window" config_id="0BCF7DD632A34BF582CD6B401589256C">
+  <property __name="label" en="Window" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="50BB2974C2BB4B589ADFAA24A21A1832" config_id="50BB2974C2BB4B589ADFAA24A21A1832">
+  <property __name="label" en="Poly Item" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5660B04D542D430782D8BEDF6DF2BCC3" config_id="5660B04D542D430782D8BEDF6DF2BCC3">
+  <property __name="label" en="Single Item" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8C3A8A4834EE4CAA89E82D2C927125EF" config_id="8C3A8A4834EE4CAA89E82D2C927125EF">
+  <property __name="label" en="Federated Item" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2737D2D83727425CB11108C292A29D98" config_id="2737D2D83727425CB11108C292A29D98">
+  <property __name="label" en="onAfterPromote" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="29FD964A633A45FC8C742946AC1A4DFC" config_id="29FD964A633A45FC8C742946AC1A4DFC">
+  <property __name="label" en="onBeforeGet" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2BD7B070DB0A452DA114095FBD09F61B" config_id="2BD7B070DB0A452DA114095FBD09F61B">
+  <property __name="label" en="onBeforeLock" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="31AD52F4A8434542AE34D0187B3C261F" config_id="31AD52F4A8434542AE34D0187B3C261F">
+  <property __name="label" en="onPromote" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="38C053C9A2924C73AA8119BAA0D49788" config_id="38C053C9A2924C73AA8119BAA0D49788">
+  <property __name="label" en="onAfterSyncAdd" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3CFD668DAD4449C383C948AD3B061815" config_id="3CFD668DAD4449C383C948AD3B061815">
+  <property __name="label" en="onAfterDelete" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="46B0AB7477F245CC987D84D43213ED0E" config_id="46B0AB7477F245CC987D84D43213ED0E">
+  <property __name="label" en="onBeforeSyncPurge" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="47655840751A4FCB8F738A2BDBCE1148" config_id="47655840751A4FCB8F738A2BDBCE1148">
+  <property __name="label" en="onDelete" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4D62EB44228042BC8544C9F13B04760C" config_id="4D62EB44228042BC8544C9F13B04760C">
+  <property __name="label" en="GetKeyedName" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="562C543A77F54B9E952C111983C017A3" config_id="562C543A77F54B9E952C111983C017A3">
+  <property __name="label" en="onAfterAdd" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5983AA22733E4885B087B6895DE2DFC3" config_id="5983AA22733E4885B087B6895DE2DFC3">
+  <property __name="label" en="onBeforeUpdate" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5CBB63291456444282335318511BAE43" config_id="5CBB63291456444282335318511BAE43">
+  <property __name="label" en="onBeforeSyncAdd" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5F6DDB11362E4DA49260A4FAD3848513" config_id="5F6DDB11362E4DA49260A4FAD3848513">
+  <property __name="label" en="onBeforePromote" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8A90BA96F47742F8BB46AA45FC309912" config_id="8A90BA96F47742F8BB46AA45FC309912">
+  <property __name="label" en="onAfterSyncPurge" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="942F292935D14BD3A3BC6C0219E96F6A" config_id="942F292935D14BD3A3BC6C0219E96F6A">
+  <property __name="label" en="onBeforeCopy" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9FCC92E5F90444A799169C4644440D81" config_id="9FCC92E5F90444A799169C4644440D81">
+  <property __name="label" en="onAfterCopy" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A57619C5E0D44D2798B74551AAD2528F" config_id="A57619C5E0D44D2798B74551AAD2528F">
+  <property __name="label" en="onAfterSyncUpdate" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A911C00CE1C84D2DA2EBC32277A06501" config_id="A911C00CE1C84D2DA2EBC32277A06501">
+  <property __name="label" en="onAfterLock" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A95AFDC5F45E494AB875D146FE954F0F" config_id="A95AFDC5F45E494AB875D146FE954F0F">
+  <property __name="label" en="onAfterUnlock" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B030772DE32C40CB81BC6F95713E2C30" config_id="B030772DE32C40CB81BC6F95713E2C30">
+  <property __name="label" en="onBeforeUnlock" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B3826C8D046245CBB407CC69F8A897B5" config_id="B3826C8D046245CBB407CC69F8A897B5">
+  <property __name="label" en="onBeforeDelete" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B9B31AB17B3C4744B5F9555D5EA4EF14" config_id="B9B31AB17B3C4744B5F9555D5EA4EF14">
+  <property __name="label" en="onBeforeVersion" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C738B6B739CA4878B3520E7338822168" config_id="C738B6B739CA4878B3520E7338822168">
+  <property __name="label" en="onBeforeAdd" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D0C2CADCD3614A26B4A05C35D777A540" config_id="D0C2CADCD3614A26B4A05C35D777A540">
+  <property __name="label" en="onAfterMethod" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D35917942CA54AA5A221CD4C903F23FA" config_id="D35917942CA54AA5A221CD4C903F23FA">
+  <property __name="label" en="onAfterUpdate" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D70D6EB5659948C18080B6A9BDBF05CC" config_id="D70D6EB5659948C18080B6A9BDBF05CC">
+  <property __name="label" en="onBeforeSyncUpdate" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E24B306E69DD48D094094D2F599B6CD6" config_id="E24B306E69DD48D094094D2F599B6CD6">
+  <property __name="label" en="onAfterGet" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E270A2419DA6490F82328B8CA0B2EA89" config_id="E270A2419DA6490F82328B8CA0B2EA89">
+  <property __name="label" en="onAdd" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E4723A44556146EE9B6C2400F7E675E5" config_id="E4723A44556146EE9B6C2400F7E675E5">
+  <property __name="label" en="onGet" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E7631045C9994D20B8F4E0EBCB825F4A" config_id="E7631045C9994D20B8F4E0EBCB825F4A">
+  <property __name="label" en="onUpdate" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E76BC7DAFDEA482D9A7F2576BC4BEBFC" config_id="E76BC7DAFDEA482D9A7F2576BC4BEBFC">
+  <property __name="label" en="onAfterVersion" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F39FBACF901E44DF9BE3D0C6DF6F9515" config_id="F39FBACF901E44DF9BE3D0C6DF6F9515">
+  <property __name="label" en="onBeforeMethod" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="1264AE959D41427291D4407C29B20C23" config_id="1264AE959D41427291D4407C29B20C23">
+  <property __name="label" en="Configuration" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="135EADD2470B4B36A8B556E91417F80A" config_id="135EADD2470B4B36A8B556E91417F80A">
+  <property __name="label" en="Support" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="297DF5B1F8F3456FAAAD5BCE7B7266F1" config_id="297DF5B1F8F3456FAAAD5BCE7B7266F1">
+  <property __name="label" en="Performance" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2E8E6A83921C43DEB6FDB6CE9A75EBF0" config_id="2E8E6A83921C43DEB6FDB6CE9A75EBF0">
+  <property __name="label" en="Monitoring" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="36520938545A4B97A591112192EF19C0" config_id="36520938545A4B97A591112192EF19C0">
+  <property __name="label" en="Non-Functional" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4B4ED971F41A448A8A898279F32DB598" config_id="4B4ED971F41A448A8A898279F32DB598">
+  <property __name="label" en="Interface" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="85FB535DCAB84E08A595BA9A17627BA8" config_id="85FB535DCAB84E08A595BA9A17627BA8">
+  <property __name="label" en="Maintenance" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="AE6CE6120B77475DA1A04823CA1AD1B3" config_id="AE6CE6120B77475DA1A04823CA1AD1B3">
+  <property __name="label" en="Documentation" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CF2FAA2EDF9F4E999DFDC21722BB1BBF" config_id="CF2FAA2EDF9F4E999DFDC21722BB1BBF">
+  <property __name="label" en="Security and Safety" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E4EA470E4FEC435DAA5ED6F72BFF2A48" config_id="E4EA470E4FEC435DAA5ED6F72BFF2A48">
+  <property __name="label" en="Facilities" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E9A57F7B98FD4B36AE74DA2DE9F7AEDF" config_id="E9A57F7B98FD4B36AE74DA2DE9F7AEDF">
+  <property __name="label" en="Functional" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F9A393AAF21E4EDC82DB238EE0429E73" config_id="F9A393AAF21E4EDC82DB238EE0429E73">
+  <property __name="label" en="Operations" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C0291AEED74249B09C1915F1F5DBC9C7" config_id="C0291AEED74249B09C1915F1F5DBC9C7">
+  <property __name="label" en="No Check" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D27CEC36BDA9469A97D924266A892BD7" config_id="D27CEC36BDA9469A97D924266A892BD7">
+  <property __name="label" en="Check" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="199B77D6AE61402AA8AA78FBC8D68DE6" config_id="199B77D6AE61402AA8AA78FBC8D68DE6">
+  <property __name="label" en="From Document" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="74F00D0CA8E640D289A1EEE93BC603A4" config_id="74F00D0CA8E640D289A1EEE93BC603A4">
+  <property __name="label" en="Two Way" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="87DC52DEB86B4F418EF50362F90B8D4C" config_id="87DC52DEB86B4F418EF50362F90B8D4C">
+  <property __name="label" en="From Item" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="26DF2D0CD2554DA4A2A52BC74C8D3768" config_id="26DF2D0CD2554DA4A2A52BC74C8D3768">
+  <property __name="label" en="Relationships Grid" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="AE9471AC6438418C8059DC1FEF8351D5" config_id="AE9471AC6438418C8059DC1FEF8351D5">
+  <property __name="label" en="Search Dialog" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BEB8188BA74B4BF1B27E9AAA7F38DD20" config_id="BEB8188BA74B4BF1B27E9AAA7F38DD20">
+  <property __name="label" en="ProjectTree" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EBEC010FA365424A89FBD3F0F3B0DAC5" config_id="EBEC010FA365424A89FBD3F0F3B0DAC5">
+  <property __name="label" en="Main Grid" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4D3FAC22B32749FD8A122D8794575346" config_id="4D3FAC22B32749FD8A122D8794575346">
+  <property __name="label" en="" zc="看板" />
+ </Item>
+ <Item type="Value" keyed_name="7F4A11CF21FF49DCAEFF334A801F25E1" config_id="7F4A11CF21FF49DCAEFF334A801F25E1">
+  <property __name="label" en="My Inbasket" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B9BF7EF7ED4E4F48B5A8312C732A314E" config_id="B9BF7EF7ED4E4F48B5A8312C732A314E">
+  <property __name="label" en="My Reports" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C07CBB90CFD641659B570CC5EAE63240" config_id="C07CBB90CFD641659B570CC5EAE63240">
+  <property __name="label" en="Configurable InBasket" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E36D91D565B84562A80ECB4BA67C8E7A" config_id="E36D91D565B84562A80ECB4BA67C8E7A">
+  <property __name="label" en="My Discussion" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="313BC21AD51B4270AACD22235AF7A1A8" config_id="313BC21AD51B4270AACD22235AF7A1A8">
+  <property __name="label" en="" zc="转换失败" />
+ </Item>
+ <Item type="Value" keyed_name="A8D029C68C354AE9BDDC9B194601652D" config_id="A8D029C68C354AE9BDDC9B194601652D">
+  <property __name="label" en="" zc="未转换" />
+ </Item>
+ <Item type="Value" keyed_name="BEBE2BEF246C4C218110F816B56095FC" config_id="BEBE2BEF246C4C218110F816B56095FC">
+  <property __name="label" en="" zc="已转换" />
+ </Item>
+ <Item type="Value" keyed_name="27CAD27C468747DBA5390861DB9A6103" config_id="27CAD27C468747DBA5390861DB9A6103">
+  <property __name="label" en="Administrative Hierarchy" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5D7639F9F50143E8AF1775E24E5BF645" config_id="5D7639F9F50143E8AF1775E24E5BF645">
+  <property __name="label" en="Physical Hierarchy" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4E3F7E0E6FE843CCA9A17609E00489C3" config_id="4E3F7E0E6FE843CCA9A17609E00489C3">
+  <property __name="label" en="C" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7FE70D09E7D24F25868C934D13481369" config_id="7FE70D09E7D24F25868C934D13481369">
+  <property __name="label" en="D" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="87E91232F01C4A819D378E017C554BC5" config_id="87E91232F01C4A819D378E017C554BC5">
+  <property __name="label" en="B" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="96E69E8683C04BE09F5C543B85FC22CA" config_id="96E69E8683C04BE09F5C543B85FC22CA">
+  <property __name="label" en="A" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FBF28E938DCF41E79072028501C48F2C" config_id="FBF28E938DCF41E79072028501C48F2C">
+  <property __name="label" en="E" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="onBlur" config_id="C89FACF7FF5048AD9FEA3A2D4D8DCBEA">
+  <property __name="label" en="onBlur" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="onChange" config_id="AAA86CE6E85C481DA05052A2A31D816D">
+  <property __name="label" en="onChange" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="onClick" config_id="5FD58F0CDB534CAFAFC9859A833D7738">
+  <property __name="label" en="onClick" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="OnDblClick" config_id="7FF909240FD44B0B9284B4BAF3BFCFD7">
+  <property __name="label" en="OnDblClick" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="onFocus" config_id="6636F9374A12463599CE284EA65EC747">
+  <property __name="label" en="onFocus" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="onSelect" config_id="BC703D0E40F54A9794C860A2C7BBBCA2">
+  <property __name="label" en="onSelect" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="16984F9AF8764F80B3A2E934C5AF8EF9" config_id="16984F9AF8764F80B3A2E934C5AF8EF9">
+  <property __name="label" en="Boolean" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2B64B75DB2074CD5A4E8E5C09D30BF14" config_id="2B64B75DB2074CD5A4E8E5C09D30BF14">
+  <property __name="label" en="Color" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="357B9AD4F55B4C42BF63C371B1C13503" config_id="357B9AD4F55B4C42BF63C371B1C13503">
+  <property __name="label" en="List" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4C2D6EFDD35C44B48F27330FA6286FBB" config_id="4C2D6EFDD35C44B48F27330FA6286FBB">
+  <property __name="label" en="Date" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4D398317F5C141BEBB8F069D9CFF5E85" config_id="4D398317F5C141BEBB8F069D9CFF5E85">
+  <property __name="label" en="Multi Value List" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="620E150AE66242CE9F4B27AC6809F3E1" config_id="620E150AE66242CE9F4B27AC6809F3E1">
+  <property __name="label" en="Decimal" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="67B74D60C3BC47FEBE6B967464AE4E98" config_id="67B74D60C3BC47FEBE6B967464AE4E98">
+  <property __name="label" en="Text" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B7F3838A14A1480D92C7DF0923184A1F" config_id="B7F3838A14A1480D92C7DF0923184A1F">
+  <property __name="label" en="Item" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D645AAAC66084D3F95EF763326401AE0" config_id="D645AAAC66084D3F95EF763326401AE0">
+  <property __name="label" en="Float" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D979A8C2C1F84B9DA312D61E9034BCB3" config_id="D979A8C2C1F84B9DA312D61E9034BCB3">
+  <property __name="label" en="Integer" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E13A4D907ADD40789CB691E3BAC2558E" config_id="E13A4D907ADD40789CB691E3BAC2558E">
+  <property __name="label" en="Color List" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F071009DCF7B43338FDAC17D24695313" config_id="F071009DCF7B43338FDAC17D24695313">
+  <property __name="label" en="String" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2B2487015D2941FAB04FFFE58E14F500" config_id="2B2487015D2941FAB04FFFE58E14F500">
+  <property __name="label" en="Attach" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7BF583DCC555472990F6ED8200B69070" config_id="7BF583DCC555472990F6ED8200B69070">
+  <property __name="label" en="Remove" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A1F7F7BEF7734BD8B85F330C39138CEA" config_id="A1F7F7BEF7734BD8B85F330C39138CEA">
+  <property __name="label" en="Modify" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="38FC5B8214CD446E9DE7A9D0F9B780F0" config_id="38FC5B8214CD446E9DE7A9D0F9B780F0">
+  <property __name="label" en="" zc="Low" />
+ </Item>
+ <Item type="Value" keyed_name="412FF66A638D4678BF451B2D3EF31544" config_id="412FF66A638D4678BF451B2D3EF31544">
+  <property __name="label" en="" zc="Almost impossible" />
+ </Item>
+ <Item type="Value" keyed_name="41752A2D69F041269AB3546643A95087" config_id="41752A2D69F041269AB3546643A95087">
+  <property __name="label" en="" zc="Remote" />
+ </Item>
+ <Item type="Value" keyed_name="688895E9B2BF480A9449D6AC7AEA8956" config_id="688895E9B2BF480A9449D6AC7AEA8956">
+  <property __name="label" en="" zc="Very low" />
+ </Item>
+ <Item type="Value" keyed_name="6C8B2280B8C84300BB035649EA121B61" config_id="6C8B2280B8C84300BB035649EA121B61">
+  <property __name="label" en="" zc="Very remote" />
+ </Item>
+ <Item type="Value" keyed_name="773835CC530C42148EB4E4FC9F28FB0D" config_id="773835CC530C42148EB4E4FC9F28FB0D">
+  <property __name="label" en="" zc="High" />
+ </Item>
+ <Item type="Value" keyed_name="88750F90739D487782B3E4F11A6C4B9B" config_id="88750F90739D487782B3E4F11A6C4B9B">
+  <property __name="label" en="" zc="Very high" />
+ </Item>
+ <Item type="Value" keyed_name="CE2151B066484F3496FFA39307E010F7" config_id="CE2151B066484F3496FFA39307E010F7">
+  <property __name="label" en="" zc="Almost certain" />
+ </Item>
+ <Item type="Value" keyed_name="CEA2AFE2BB554E4F85C3C697F8F079ED" config_id="CEA2AFE2BB554E4F85C3C697F8F079ED">
+  <property __name="label" en="" zc="Moderately high" />
+ </Item>
+ <Item type="Value" keyed_name="EBD9EA96466F4BD8A130F3436D2C1A11" config_id="EBD9EA96466F4BD8A130F3436D2C1A11">
+  <property __name="label" en="" zc="Moderate" />
+ </Item>
+ <Item type="Value" keyed_name="Horizontal" config_id="5528C3DC22FC4D01AE94BACC2215B1FC">
+  <property __name="label" en="Horizontal" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Vertical" config_id="C5F987FD5B364B8D8A2DCABAB55C39A7">
+  <property __name="label" en="Vertical" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="245C590C1E4D45FF93731E5BD8DB3902" config_id="245C590C1E4D45FF93731E5BD8DB3902">
+  <property __name="label" en="Technical Document" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9BE6FE386DFB4D6881B00F0A50D9DDB8" config_id="9BE6FE386DFB4D6881B00F0A50D9DDB8">
+  <property __name="label" en="RE: Requirement" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0E1F3E53D5514DA9A276AB98DCC31CB8" config_id="0E1F3E53D5514DA9A276AB98DCC31CB8">
+  <property __name="label" en="Decimal" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4B87710E85DA4BFEB2F9D9AC7BF046B3" config_id="4B87710E85DA4BFEB2F9D9AC7BF046B3">
+  <property __name="label" en="Float" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4E9A4298C2E54E33BB62A63D19532A8F" config_id="4E9A4298C2E54E33BB62A63D19532A8F">
+  <property __name="label" en="Item" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="61ACE963A8ED47A6B24E3A580514F05E" config_id="61ACE963A8ED47A6B24E3A580514F05E">
+  <property __name="label" en="Text" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9BCB137FA3D14C3F8CDAFCD357FF6154" config_id="9BCB137FA3D14C3F8CDAFCD357FF6154">
+  <property __name="label" en="Boolean" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="AAC602841D934EFD9004A3EAD23508D7" config_id="AAC602841D934EFD9004A3EAD23508D7">
+  <property __name="label" en="Color" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BD74A0F07BA446FBA6CD1E424035F144" config_id="BD74A0F07BA446FBA6CD1E424035F144">
+  <property __name="label" en="Integer" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CB917570F1BA4B4B8E492E1143EFCD04" config_id="CB917570F1BA4B4B8E492E1143EFCD04">
+  <property __name="label" en="List" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F296BBB019B54088A815421486B36097" config_id="F296BBB019B54088A815421486B36097">
+  <property __name="label" en="Date" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2D614D33315849B9B412EE8AC79997D1" config_id="2D614D33315849B9B412EE8AC79997D1">
+  <property __name="label" en="Level 4" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="41DC98BFB6F14FABA596859592FDF3DE" config_id="41DC98BFB6F14FABA596859592FDF3DE">
+  <property __name="label" en="Level 1" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="52ED2A521DEB453094805B341467A527" config_id="52ED2A521DEB453094805B341467A527">
+  <property __name="label" en="Level 3" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8E76B9A172704B9F8E10E870ECC18581" config_id="8E76B9A172704B9F8E10E870ECC18581">
+  <property __name="label" en="Level 5" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="DDEB481B8BC1450391E266AB150BA897" config_id="DDEB481B8BC1450391E266AB150BA897">
+  <property __name="label" en="Level 2" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="42298F7C17D841F38E3744004C09AE7B" config_id="42298F7C17D841F38E3744004C09AE7B">
+  <property __name="label" en="Component" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="63455EA99846472D901021488F9143CE" config_id="63455EA99846472D901021488F9143CE">
+  <property __name="label" en="System" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6640CD66C3E04FC18C271B7824BFADB7" config_id="6640CD66C3E04FC18C271B7824BFADB7">
+  <property __name="label" en="Methodology" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D3FB87E654CA429AA68624788764D781" config_id="D3FB87E654CA429AA68624788764D781">
+  <property __name="label" en="Sub-System" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F0AC08841E484122882080345A486563" config_id="F0AC08841E484122882080345A486563">
+  <property __name="label" en="Specification" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BE21C558032F4B2299AA891C0E4545F5" config_id="BE21C558032F4B2299AA891C0E4545F5">
+  <property __name="label" en="Custom Message" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C3768C0970604B528BEFF4AAE71B08C2" config_id="C3768C0970604B528BEFF4AAE71B08C2">
+  <property __name="label" en="Standard Message" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="43C1101331504B7D986C200417065A64" config_id="43C1101331504B7D986C200417065A64">
+  <property __name="label" en="Tabs Min" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="57C08786DA44490880776630A0EBE4AB" config_id="57C08786DA44490880776630A0EBE4AB">
+  <property __name="label" en="Tabs Off" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9801EC4DCD60483F84367F8A9D488F65" config_id="9801EC4DCD60483F84367F8A9D488F65">
+  <property __name="label" en="Tabs On" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FC61051A36B740A9B7391DBDE2DDFBE9" config_id="FC61051A36B740A9B7391DBDE2DDFBE9">
+  <property __name="label" en="Tabs Max" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="1862A4C87D354B2D847D47C786267896" config_id="1862A4C87D354B2D847D47C786267896">
+  <property __name="label" en="" zc="Microsoft PowerPoint" />
+ </Item>
+ <Item type="Value" keyed_name="538727A82BF54651839BE372F50FB036" config_id="538727A82BF54651839BE372F50FB036">
+  <property __name="label" en="" zc="Microsoft Excel" />
+ </Item>
+ <Item type="Value" keyed_name="E883A169CE4F42BF898CAAEDC6BB1B41" config_id="E883A169CE4F42BF898CAAEDC6BB1B41">
+  <property __name="label" en="" zc="Microsoft Word" />
+ </Item>
+ <Item type="Value" keyed_name="5DE3F13AF8444A12AFFA81BEEB15663D" config_id="5DE3F13AF8444A12AFFA81BEEB15663D">
+  <property __name="label" en="" zc="Picture" />
+ </Item>
+ <Item type="Value" keyed_name="A5EBE5551B864C329CF63E3A7D1B36B0" config_id="A5EBE5551B864C329CF63E3A7D1B36B0">
+  <property __name="label" en="" zc="Text" />
+ </Item>
+ <Item type="Value" keyed_name="145CD52707A741DE82EFE1934724E82B" config_id="145CD52707A741DE82EFE1934724E82B">
+  <property __name="label" en="Download" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BDE2D78208E44D08AEF61A1EEA12068F" config_id="BDE2D78208E44D08AEF61A1EEA12068F">
+  <property __name="label" en="Upload" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3044401B7F7743779A5E5D0C4701ACFA" config_id="3044401B7F7743779A5E5D0C4701ACFA">
+  <property __name="label" en="Approved" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5494061E7116499C84D2790B99619FB5" config_id="5494061E7116499C84D2790B99619FB5">
+  <property __name="label" en="Other" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="912DBD6CED1F48789272DBD9D987EE8D" config_id="912DBD6CED1F48789272DBD9D987EE8D">
+  <property __name="label" en="Rejected" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0F1F2CEBF6F249BDBC79B678BDD72EC1" config_id="0F1F2CEBF6F249BDBC79B678BDD72EC1">
+  <property __name="label" en="" zc="Very high (1 in 3)" />
+ </Item>
+ <Item type="Value" keyed_name="28273D429C194B9A99541A1F01930FAF" config_id="28273D429C194B9A99541A1F01930FAF">
+  <property __name="label" en="" zc="Moderate (1 in 2,000)" />
+ </Item>
+ <Item type="Value" keyed_name="61169EED153A41CEBEE97FEC576F5558" config_id="61169EED153A41CEBEE97FEC576F5558">
+  <property __name="label" en="" zc="Low (1 in 15,000)" />
+ </Item>
+ <Item type="Value" keyed_name="69CD7C0319194370BD894CF42FE5C384" config_id="69CD7C0319194370BD894CF42FE5C384">
+  <property __name="label" en="" zc="Moderate (1 in 400)" />
+ </Item>
+ <Item type="Value" keyed_name="72011D3C794245D4843169FF394037AE" config_id="72011D3C794245D4843169FF394037AE">
+  <property __name="label" en="" zc="High (1 in 20)" />
+ </Item>
+ <Item type="Value" keyed_name="A688045D396844C19C1FFDC54D9B2806" config_id="A688045D396844C19C1FFDC54D9B2806">
+  <property __name="label" en="" zc="Remote (Less than 1 in 1.5M)" />
+ </Item>
+ <Item type="Value" keyed_name="B62DF92ACB7E49E1898984B4F30F97A0" config_id="B62DF92ACB7E49E1898984B4F30F97A0">
+  <property __name="label" en="" zc="Very low (1 in 150,000)" />
+ </Item>
+ <Item type="Value" keyed_name="E1EB9D6C83624D208A3D5DDC23B5B459" config_id="E1EB9D6C83624D208A3D5DDC23B5B459">
+  <property __name="label" en="" zc="Very high (1 in 2)" />
+ </Item>
+ <Item type="Value" keyed_name="E99078A6A0574FEE917CD3099F7389C5" config_id="E99078A6A0574FEE917CD3099F7389C5">
+  <property __name="label" en="" zc="Moderate (1 in 80)" />
+ </Item>
+ <Item type="Value" keyed_name="EE1B7059E2A14248A085C55A6AC5A731" config_id="EE1B7059E2A14248A085C55A6AC5A731">
+  <property __name="label" en="" zc="High (1 in 8)" />
+ </Item>
+ <Item type="Value" keyed_name="A5CED70DAE134C68A7296148E9E56954" config_id="A5CED70DAE134C68A7296148E9E56954">
+  <property __name="label" en="" zc="版本差异" />
+ </Item>
+ <Item type="Value" keyed_name="F35325F3416C4E6493A2D07D305A7266" config_id="F35325F3416C4E6493A2D07D305A7266">
+  <property __name="label" en="" zc="数量差异" />
+ </Item>
+ <Item type="Value" keyed_name="800BD53EA21242E891654EFD1D45B444" config_id="800BD53EA21242E891654EFD1D45B444">
+  <property __name="label" en="Always" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A1477C929FD24BE6BA0413CF0297E7BC" config_id="A1477C929FD24BE6BA0413CF0297E7BC">
+  <property __name="label" en="Item Type" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0681F3A6D77B48CDA5483A699E16DE2C" config_id="0681F3A6D77B48CDA5483A699E16DE2C">
+  <property __name="label" en="Product Improvement" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D22C2A9E2A6B4D25B5FF64D2F7A6EFBC" config_id="D22C2A9E2A6B4D25B5FF64D2F7A6EFBC">
+  <property __name="label" en="Corrective Action" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="1CC6AF3975E5491CBB733C77A817406B" config_id="1CC6AF3975E5491CBB733C77A817406B">
+  <property __name="label" en="Latest Released" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="353AD29E1A2E42D5A913D3AFDFF1467C" config_id="353AD29E1A2E42D5A913D3AFDFF1467C">
+  <property __name="label" en="Latest" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E033BCA5E22A4C3A8FA8BA01DE2C59C0" config_id="E033BCA5E22A4C3A8FA8BA01DE2C59C0">
+  <property __name="label" en="Default" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EA4558677014460DBE51B01132D8B2FB" config_id="EA4558677014460DBE51B01132D8B2FB">
+  <property __name="label" en="Latest Released Or Latest" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0B2CBF57327749939B07A4A843544462" config_id="0B2CBF57327749939B07A4A843544462">
+  <property __name="label" en="View Only" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="21FFDF8B0F3F490E957AE3972AAF90DD" config_id="21FFDF8B0F3F490E957AE3972AAF90DD">
+  <property __name="label" en="Full" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2E8239290938444A9F53BB97467B778E" config_id="2E8239290938444A9F53BB97467B778E">
+  <property __name="label" en="Locked" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F79439E0FD49416F964000BEA0DB78FD" config_id="F79439E0FD49416F964000BEA0DB78FD">
+  <property __name="label" en="Read Only" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="07890419FF994B1C87F318BD9ABEF443" config_id="07890419FF994B1C87F318BD9ABEF443">
+  <property __name="label" en="Listbox Multi Select" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="25840082FC7E4C5880E6DD2FE112C8CA" config_id="25840082FC7E4C5880E6DD2FE112C8CA">
+  <property __name="label" en="Image" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="32D42C30C9CA4AE9B601151E1D7EF40F" config_id="32D42C30C9CA4AE9B601151E1D7EF40F">
+  <property __name="label" en="Radio Button List" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3D1822306A654CD5B02E7E783E4C85C6" config_id="3D1822306A654CD5B02E7E783E4C85C6">
+  <property __name="label" en="Group Box" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3E15F45F5D214F50A7A5297BC463EC07" config_id="3E15F45F5D214F50A7A5297BC463EC07">
+  <property __name="label" en="Text Area" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="424E445BA551463E93EB5F6EE3368619" config_id="424E445BA551463E93EB5F6EE3368619">
+  <property __name="label" en="Nested Form" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="55449A154B9F43AEAEB10F69B284D6B5" config_id="55449A154B9F43AEAEB10F69B284D6B5">
+  <property __name="label" en="HTML" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5817F826A2714D21B0017EB77F9FC459" config_id="5817F826A2714D21B0017EB77F9FC459">
+  <property __name="label" en="Password" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5FAF523AA6624C3C9F32E86FCD90A272" config_id="5FAF523AA6624C3C9F32E86FCD90A272">
+  <property __name="label" en="Label" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6EEE0687A8E6415EA0B1A6F3603852A2" config_id="6EEE0687A8E6415EA0B1A6F3603852A2">
+  <property __name="label" en="FormattedText" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="70C03C4290C741038D11E2719EB99F52" config_id="70C03C4290C741038D11E2719EB99F52">
+  <property __name="label" en="Color List" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="88251A5EDEFC40E5AFBEB0A576711CC3" config_id="88251A5EDEFC40E5AFBEB0A576711CC3">
+  <property __name="label" en="Multilingual String" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8D3DA5A0DDF7470185EB5F6B415C41D9" config_id="8D3DA5A0DDF7470185EB5F6B415C41D9">
+  <property __name="label" en="Class Structure" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="906353107B9547338C764992139C10B7" config_id="906353107B9547338C764992139C10B7">
+  <property __name="label" en="Dropdown" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B8C404BEEEDE48B3B0FF7BB2C2D99F3A" config_id="B8C404BEEEDE48B3B0FF7BB2C2D99F3A">
+  <property __name="label" en="File Item" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BCEF0F94AEC34C82B54B8ACD60A191C5" config_id="BCEF0F94AEC34C82B54B8ACD60A191C5">
+  <property __name="label" en="Color" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="CD198F03AF9E4066A53EB991B4804EF2" config_id="CD198F03AF9E4066A53EB991B4804EF2">
+  <property __name="label" en="Text" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D023F410B9FD473AB634D278C64F6365" config_id="D023F410B9FD473AB634D278C64F6365">
+  <property __name="label" en="Listbox Single Select" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D5148174B5AE43A7A4F2966393E832C8" config_id="D5148174B5AE43A7A4F2966393E832C8">
+  <property __name="label" en="Checkbox List" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D6CE7DA3D557436A8F1545BE50DC6A2D" config_id="D6CE7DA3D557436A8F1545BE50DC6A2D">
+  <property __name="label" en="Checkbox" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E520F197ABE9487988F484B11AB5FF3C" config_id="E520F197ABE9487988F484B11AB5FF3C">
+  <property __name="label" en="Button" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EBFFE09E186842BB92E5631164E7CEA7" config_id="EBFFE09E186842BB92E5631164E7CEA7">
+  <property __name="label" en="Item" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EF77FCCD3B2A4A72BD45D63B3FF43933" config_id="EF77FCCD3B2A4A72BD45D63B3FF43933">
+  <property __name="label" en="Date" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="17133758CAEC47B590F545BDB22067F8" config_id="17133758CAEC47B590F545BDB22067F8">
+  <property __name="label" en="Center" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2CAC47C894B74FB7B225AF8D5BB1450E" config_id="2CAC47C894B74FB7B225AF8D5BB1450E">
+  <property __name="label" en="Right" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9B17A5B9B9FF4158B359A2EA00C9D868" config_id="9B17A5B9B9FF4158B359A2EA00C9D868">
+  <property __name="label" en="Left" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="06E72C23943544E1835428612111FE8B" config_id="06E72C23943544E1835428612111FE8B">
+  <property __name="label" en="Process" zc="生产工程师" />
+ </Item>
+ <Item type="Value" keyed_name="2B6FC55B279E426181FF0FD5B7DACFB8" config_id="2B6FC55B279E426181FF0FD5B7DACFB8">
+  <property __name="label" en="Design" zc="设计工程师" />
+ </Item>
+ <Item type="Value" keyed_name="306B46157B774138A88832621670722B" config_id="306B46157B774138A88832621670722B">
+  <property __name="label" en="" zc="仿真工程师" />
+ </Item>
+ <Item type="Value" keyed_name="6A5E75FDDB454657B7DAC2A3B5693B07" config_id="6A5E75FDDB454657B7DAC2A3B5693B07">
+  <property __name="label" en="" zc="产品工程师" />
+ </Item>
+ <Item type="Value" keyed_name="7C6FD7233AB14D2F8365A74AAD410C94" config_id="7C6FD7233AB14D2F8365A74AAD410C94">
+  <property __name="label" en="Quality" zc="质量工程师" />
+ </Item>
+ <Item type="Value" keyed_name="97D811C68BF14883B2FCE2D5C86D9585" config_id="97D811C68BF14883B2FCE2D5C86D9585">
+  <property __name="label" en="" zc="产品经理" />
+ </Item>
+ <Item type="Value" keyed_name="9E95646B7F9941E189DD71FA84D41304" config_id="9E95646B7F9941E189DD71FA84D41304">
+  <property __name="label" en="Manager" zc="项目经理" />
+ </Item>
+ <Item type="Value" keyed_name="A97152DD3E3E47F1ABAE83CF5F8037A9" config_id="A97152DD3E3E47F1ABAE83CF5F8037A9">
+  <property __name="label" en="" zc="市场调研员" />
+ </Item>
+ <Item type="Value" keyed_name="FC2E1A158E6A4B1184031CF655701348" config_id="FC2E1A158E6A4B1184031CF655701348">
+  <property __name="label" en="" zc="测试工程师" />
+ </Item>
+ <Item type="Value" keyed_name="292B87681C82478C98DBBF3A461D3F8F" config_id="292B87681C82478C98DBBF3A461D3F8F">
+  <property __name="label" en="Confidential" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4B88D1E27E424B719D709032FFDDCF22" config_id="4B88D1E27E424B719D709032FFDDCF22">
+  <property __name="label" en="In Review" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6160463360FF4FF7A4B856055CEF5D5B" config_id="6160463360FF4FF7A4B856055CEF5D5B">
+  <property __name="label" en="Released" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8799964BA4394892BAD97B9F87B68D3E" config_id="8799964BA4394892BAD97B9F87B68D3E">
+  <property __name="label" en="In Change" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A2299A9D18C5405CADB6BCA497FCB806" config_id="A2299A9D18C5405CADB6BCA497FCB806">
+  <property __name="label" en="Superseded" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="47B9E5C8BFAE4C29BB9CEA36DCE50818" config_id="47B9E5C8BFAE4C29BB9CEA36DCE50818">
+  <property __name="label" en="Both" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="AF44B7D198C142BBBD8B233CA0D0BE98" config_id="AF44B7D198C142BBBD8B233CA0D0BE98">
+  <property __name="label" en="User" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EC1177996CF743C4AFA5B1BE5DB95A4B" config_id="EC1177996CF743C4AFA5B1BE5DB95A4B">
+  <property __name="label" en="Site" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="166EAAA6DA5D49528CD095DF4BE29B73" config_id="166EAAA6DA5D49528CD095DF4BE29B73">
+  <property __name="label" en="Sub Supplier" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="1B1A4450DB13496F951F7E46E154CED4" config_id="1B1A4450DB13496F951F7E46E154CED4">
+  <property __name="label" en="Additional Location" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="26414C96672E49A49B7B7BB4DC3A0E07" config_id="26414C96672E49A49B7B7BB4DC3A0E07">
+  <property __name="label" en="Change Constr" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="60708DBD078843A68A78BDB1B2AA5618" config_id="60708DBD078843A68A78BDB1B2AA5618">
+  <property __name="label" en="Tooling Inactive" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="60FE22A55C714148AC3549934AD96A10" config_id="60FE22A55C714148AC3549934AD96A10">
+  <property __name="label" en="Change Processing" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="64094B2487CB4D1EBAA771C35CE13335" config_id="64094B2487CB4D1EBAA771C35CE13335">
+  <property __name="label" en="Tooling Change" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="661DA7D7029441A0A647AA4C90360D96" config_id="661DA7D7029441A0A647AA4C90360D96">
+  <property __name="label" en="Correction" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="69CF5F9FA47C442BAA0F4AA89A0937C1" config_id="69CF5F9FA47C442BAA0F4AA89A0937C1">
+  <property __name="label" en="Other" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BABE8BD779DF4091A7B3C00341B9D8C7" config_id="BABE8BD779DF4091A7B3C00341B9D8C7">
+  <property __name="label" en="Engineering Change" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="DCF24F8259C84413AA540F3288D719EA" config_id="DCF24F8259C84413AA540F3288D719EA">
+  <property __name="label" en="Initial Submission" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="03E64D67D4EC4420B4DD1E3D32AB7744" config_id="03E64D67D4EC4420B4DD1E3D32AB7744">
+  <property __name="label" en="South Carolina" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="046C6A27563D46BDA4637E17DAC2F2F5" config_id="046C6A27563D46BDA4637E17DAC2F2F5">
+  <property __name="label" en="Idaho" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="04E5ABF3E6BE45F6A349B74A69324C0A" config_id="04E5ABF3E6BE45F6A349B74A69324C0A">
+  <property __name="label" en="Oregon" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0524BF1A66364AC18084E560B55ABDA4" config_id="0524BF1A66364AC18084E560B55ABDA4">
+  <property __name="label" en="Yukon Territory" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0A50601F710B423E99D92935F52E4AD6" config_id="0A50601F710B423E99D92935F52E4AD6">
+  <property __name="label" en="Ontario" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0BA1471450FB4E01BB9AEF7F74BB207B" config_id="0BA1471450FB4E01BB9AEF7F74BB207B">
+  <property __name="label" en="Georgia" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="0CA4391BAEBD46029D0E3A948BA44642" config_id="0CA4391BAEBD46029D0E3A948BA44642">
+  <property __name="label" en="Connecticut" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="1D96102261A94DD78A273D0C90F15E1B" config_id="1D96102261A94DD78A273D0C90F15E1B">
+  <property __name="label" en="North Dakota" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="27E893A9DDBB488891982D1120948441" config_id="27E893A9DDBB488891982D1120948441">
+  <property __name="label" en="Northwest Territories" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2B441843F1A942F3985AA66F89FC2468" config_id="2B441843F1A942F3985AA66F89FC2468">
+  <property __name="label" en="Alabama" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="30B900340FC8454AAAFBF6178C68803A" config_id="30B900340FC8454AAAFBF6178C68803A">
+  <property __name="label" en="District Of Columbia" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="32A2A18C0871411C87CA3BE4181835AA" config_id="32A2A18C0871411C87CA3BE4181835AA">
+  <property __name="label" en="Alberta" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="36154370576B416A801E6394A2BDE7D5" config_id="36154370576B416A801E6394A2BDE7D5">
+  <property __name="label" en="Virginia" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="37B920855FAC406F8EF1F236D19A1CA3" config_id="37B920855FAC406F8EF1F236D19A1CA3">
+  <property __name="label" en="Massachusetts" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3E888EBC8FFA4813BD2BC3720E7E12D5" config_id="3E888EBC8FFA4813BD2BC3720E7E12D5">
+  <property __name="label" en="Texas" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="456EC304D3AD42E4A59B1957B9E7C35F" config_id="456EC304D3AD42E4A59B1957B9E7C35F">
+  <property __name="label" en="Hawaii" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4C9BA908095948E7B3F0DA140A690339" config_id="4C9BA908095948E7B3F0DA140A690339">
+  <property __name="label" en="Ohio" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4E857BA37F084E8E98931498409A15A9" config_id="4E857BA37F084E8E98931498409A15A9">
+  <property __name="label" en="California" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4ECA52CE285A480884B45C256F9DF3F2" config_id="4ECA52CE285A480884B45C256F9DF3F2">
+  <property __name="label" en="British Columbia" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="560C5AAA417044298AAB6463B76D55D8" config_id="560C5AAA417044298AAB6463B76D55D8">
+  <property __name="label" en="Rhode Island" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="567F37D2251745808CE0E13C5F129ABF" config_id="567F37D2251745808CE0E13C5F129ABF">
+  <property __name="label" en="Missouri" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5A8E1A4C63DD45A6A0E1C1F56C74BAC9" config_id="5A8E1A4C63DD45A6A0E1C1F56C74BAC9">
+  <property __name="label" en="Wyoming" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5DE7524F50C8428FBBBCB88F7745E6A6" config_id="5DE7524F50C8428FBBBCB88F7745E6A6">
+  <property __name="label" en="Kansas" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6021A27D01BA4DFC98EF3F749AF99FCA" config_id="6021A27D01BA4DFC98EF3F749AF99FCA">
+  <property __name="label" en="Iowa" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="67DEB413FA154E969F72004723199AF0" config_id="67DEB413FA154E969F72004723199AF0">
+  <property __name="label" en="Nebraska" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6C0EA0B53DBE43A8A7EBF8DA2E231993" config_id="6C0EA0B53DBE43A8A7EBF8DA2E231993">
+  <property __name="label" en="New Brunswick" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6E7E49A299D64E82A22FA8A26AE24183" config_id="6E7E49A299D64E82A22FA8A26AE24183">
+  <property __name="label" en="Tennessee" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="720F3B3B80ED4735A7018957E747904F" config_id="720F3B3B80ED4735A7018957E747904F">
+  <property __name="label" en="Manitoba" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="72FD0F5C3F1B4745AEFE9E8B8D12CA4F" config_id="72FD0F5C3F1B4745AEFE9E8B8D12CA4F">
+  <property __name="label" en="Florida" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="73A165E896F24D01B1676A955753D463" config_id="73A165E896F24D01B1676A955753D463">
+  <property __name="label" en="Utah" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7AC45DF9BCA74656954DEE5A9A3C4FF1" config_id="7AC45DF9BCA74656954DEE5A9A3C4FF1">
+  <property __name="label" en="Pennsylvania" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7CA64EDE194C428C837CC6E2A6F87A45" config_id="7CA64EDE194C428C837CC6E2A6F87A45">
+  <property __name="label" en="New Jersey" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="81CC025A2DF44F2BB2D391FA6FC5D5C5" config_id="81CC025A2DF44F2BB2D391FA6FC5D5C5">
+  <property __name="label" en="Prince Edward Island" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="82FA551F05F24DDA98B07CB1ED7EF4B3" config_id="82FA551F05F24DDA98B07CB1ED7EF4B3">
+  <property __name="label" en="Kentucky" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="83FCA222BF964FB5B735188112EF49B9" config_id="83FCA222BF964FB5B735188112EF49B9">
+  <property __name="label" en="Nunavut" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="85FB9E3C2EC543FBA84E513D04DC4B67" config_id="85FB9E3C2EC543FBA84E513D04DC4B67">
+  <property __name="label" en="Newfoundland" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8DD3B1B3409C4F1382EA322AC15D742A" config_id="8DD3B1B3409C4F1382EA322AC15D742A">
+  <property __name="label" en="Arkansas" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8E0D0D5A45AB4464A3E3F78CF7FC6C43" config_id="8E0D0D5A45AB4464A3E3F78CF7FC6C43">
+  <property __name="label" en="Virgin Islands" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8EA64FADC851460D9070DF85AA041B25" config_id="8EA64FADC851460D9070DF85AA041B25">
+  <property __name="label" en="Michigan" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="96C300155FC04278AA3348677D9994A5" config_id="96C300155FC04278AA3348677D9994A5">
+  <property __name="label" en="Wisconsin" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9809CF2422C841CAAD023F26C6F3D98D" config_id="9809CF2422C841CAAD023F26C6F3D98D">
+  <property __name="label" en="Montana" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9B9E8608CBE54081862D8F3BB5B9A492" config_id="9B9E8608CBE54081862D8F3BB5B9A492">
+  <property __name="label" en="Vermont" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9C923CC461304ABCA19B58A1BCA5940B" config_id="9C923CC461304ABCA19B58A1BCA5940B">
+  <property __name="label" en="North Carolina" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9C94C22D0C3B4D17955A6C917E3D85F7" config_id="9C94C22D0C3B4D17955A6C917E3D85F7">
+  <property __name="label" en="New York" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9E18F6144BA4417DAE62A6C2FA9E0123" config_id="9E18F6144BA4417DAE62A6C2FA9E0123">
+  <property __name="label" en="Delaware" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A1B766282C2E46E28A86C7070970253B" config_id="A1B766282C2E46E28A86C7070970253B">
+  <property __name="label" en="Indiana" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A36750C8C5BF4F869E33FB8BF44B9B0B" config_id="A36750C8C5BF4F869E33FB8BF44B9B0B">
+  <property __name="label" en="Minnesota" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A6500140667E4C32AD014EEACAA866F7" config_id="A6500140667E4C32AD014EEACAA866F7">
+  <property __name="label" en="West Virginia" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="ACBB196DEC004A92968678100807002B" config_id="ACBB196DEC004A92968678100807002B">
+  <property __name="label" en="New Mexico" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="ACEAE4C478F54B0085D2FB2F90F0541D" config_id="ACEAE4C478F54B0085D2FB2F90F0541D">
+  <property __name="label" en="Colorado" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B397EF9354AF40AC806A21D1AD29D75D" config_id="B397EF9354AF40AC806A21D1AD29D75D">
+  <property __name="label" en="Louisiana" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BAB0F1228C5C4B79A38D511D0A286A72" config_id="BAB0F1228C5C4B79A38D511D0A286A72">
+  <property __name="label" en="Nevada" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C129680B220F4037B589848B2D4B315D" config_id="C129680B220F4037B589848B2D4B315D">
+  <property __name="label" en="Alaska" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D2ACE73DBA3F4B9EBF4473376FC00B65" config_id="D2ACE73DBA3F4B9EBF4473376FC00B65">
+  <property __name="label" en="Oklahoma" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D4BD8ECD4DC4435CA3999673DF96C4D5" config_id="D4BD8ECD4DC4435CA3999673DF96C4D5">
+  <property __name="label" en="South Dakota" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D6BA7E14B9D04EF5BBB8115FAAF204C8" config_id="D6BA7E14B9D04EF5BBB8115FAAF204C8">
+  <property __name="label" en="Quebec" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="DF94F136A7024896A609ACEBB1DE65E9" config_id="DF94F136A7024896A609ACEBB1DE65E9">
+  <property __name="label" en="Illinois" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E055E1EDDD594274988CD1B85C585EE7" config_id="E055E1EDDD594274988CD1B85C585EE7">
+  <property __name="label" en="Maryland" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="E3D51E0F688D4BD48071CA59FE021F02" config_id="E3D51E0F688D4BD48071CA59FE021F02">
+  <property __name="label" en="Maine" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EB3059A6030A4BD6BD7630C4AC4D9A98" config_id="EB3059A6030A4BD6BD7630C4AC4D9A98">
+  <property __name="label" en="Nova Scotia" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="ED58426D0EE04EED9DCE7BDDF94A3FAB" config_id="ED58426D0EE04EED9DCE7BDDF94A3FAB">
+  <property __name="label" en="Arizona" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F287270BF6A040019682437128672B16" config_id="F287270BF6A040019682437128672B16">
+  <property __name="label" en="Mississippi" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F722776DA3C9479D93620B2435A39BF8" config_id="F722776DA3C9479D93620B2435A39BF8">
+  <property __name="label" en="Saskatchewan" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FEA0ED821A224AF68E0681F8490333C5" config_id="FEA0ED821A224AF68E0681F8490333C5">
+  <property __name="label" en="New Hampshire" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FFA502710D53484B8C31725E571DEFF8" config_id="FFA502710D53484B8C31725E571DEFF8">
+  <property __name="label" en="Washington" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2FD31602A91B4D588C9FE186B3C3CBA5" config_id="2FD31602A91B4D588C9FE186B3C3CBA5">
+  <property __name="label" en="Underlay" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7D72A58C92124A52BFE08A480CF03988" config_id="7D72A58C92124A52BFE08A480CF03988">
+  <property __name="label" en="Overlay" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="62FAC8C97D8347A497C7EBF6BD0E03DC" config_id="62FAC8C97D8347A497C7EBF6BD0E03DC">
+  <property __name="label" en="Customer" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="7D318F4BC89148B6B3D3316D0B29ADF6" config_id="7D318F4BC89148B6B3D3316D0B29ADF6">
+  <property __name="label" en="Supplier" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="AC5A5D84BDE44EBABD60695415EE32C9" config_id="AC5A5D84BDE44EBABD60695415EE32C9">
+  <property __name="label" en="Internal" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="05DD594A6E50442C8A4B539B30792DAC" config_id="05DD594A6E50442C8A4B539B30792DAC">
+  <property __name="label" en="" zc="Major disruption of product line" />
+ </Item>
+ <Item type="Value" keyed_name="3E73C565451540C49AF3A2B2406CB199" config_id="3E73C565451540C49AF3A2B2406CB199">
+  <property __name="label" en="" zc="Minor disruption of prodcut line (High)" />
+ </Item>
+ <Item type="Value" keyed_name="7A722F1B7832425EBF121A62D102F4BE" config_id="7A722F1B7832425EBF121A62D102F4BE">
+  <property __name="label" en="" zc="Minor disruption of product line (Low)" />
+ </Item>
+ <Item type="Value" keyed_name="807D6608B9DA464AB3600DBE372FBB97" config_id="807D6608B9DA464AB3600DBE372FBB97">
+  <property __name="label" en="" zc="Minor disruption of product line (Pot. rework/scrap)" />
+ </Item>
+ <Item type="Value" keyed_name="879B030492204D03BCACCB6DFF591D12" config_id="879B030492204D03BCACCB6DFF591D12">
+  <property __name="label" en="" zc="Minor disruption of product line (Pot. rework/no scrap)" />
+ </Item>
+ <Item type="Value" keyed_name="8FCE9B1CA2E24B789920DC1251F8ED08" config_id="8FCE9B1CA2E24B789920DC1251F8ED08">
+  <property __name="label" en="" zc="Minor disruption of product line (Very low)" />
+ </Item>
+ <Item type="Value" keyed_name="A183F1BCA19C47ECBD6112608AEFA058" config_id="A183F1BCA19C47ECBD6112608AEFA058">
+  <property __name="label" en="" zc="Slight inconvenience" />
+ </Item>
+ <Item type="Value" keyed_name="C6799F012B9E45878CFAE5D3BB722E55" config_id="C6799F012B9E45878CFAE5D3BB722E55">
+  <property __name="label" en="" zc="May endanger operator without warning" />
+ </Item>
+ <Item type="Value" keyed_name="D99A68BFCE5D455AB1A2A2F26068E4DA" config_id="D99A68BFCE5D455AB1A2A2F26068E4DA">
+  <property __name="label" en="" zc="Minor disruption of product line (Moderate)" />
+ </Item>
+ <Item type="Value" keyed_name="FD6D380DD8B34A49B36E45CB167F5642" config_id="FD6D380DD8B34A49B36E45CB167F5642">
+  <property __name="label" en="" zc="May endanger operator with warning" />
+ </Item>
+ <Item type="Value" keyed_name="Fixed" config_id="735FDBDBCB2F4E408278A8B95C4F54E7">
+  <property __name="label" en="Fixed" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Scroll" config_id="10D8C628FE184FE480DA39D6E3B29C5F">
+  <property __name="label" en="Scroll" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2AF03AFE74EA43B293324519928DA187" config_id="2AF03AFE74EA43B293324519928DA187">
+  <property __name="label" en="Yellow" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="37FEB3C9506643489978CC414D55690B" config_id="37FEB3C9506643489978CC414D55690B">
+  <property __name="label" en="Green" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="522C3921B5944C1BA6775134B375802A" config_id="522C3921B5944C1BA6775134B375802A">
+  <property __name="label" en="White" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BED4A9C862A44AA187F128BCF9CF74FF" config_id="BED4A9C862A44AA187F128BCF9CF74FF">
+  <property __name="label" en="Red" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3CAF419DAD4144A5A485FA8496EE0991" config_id="3CAF419DAD4144A5A485FA8496EE0991">
+  <property __name="label" en="Part" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6F3D18C3F4A74371A62D379F4DFF8B91" config_id="6F3D18C3F4A74371A62D379F4DFF8B91">
+  <property __name="label" en="Document" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B9A3FC93CC074AFD8EBF3CBF6F2C3DAD" config_id="B9A3FC93CC074AFD8EBF3CBF6F2C3DAD">
+  <property __name="label" en="Java (OBSOLETE)" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BE090EBC7C72465EB1B45BC0B58091C0" config_id="BE090EBC7C72465EB1B45BC0B58091C0">
+  <property __name="label" en="JavaScript" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EFE8CFDAA09843B7B1BC12CF76BB1A60" config_id="EFE8CFDAA09843B7B1BC12CF76BB1A60">
+  <property __name="label" en="ActiveX (OBSOLETE)" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="2DB4BFE05394404988268A3CF894D0A8" config_id="2DB4BFE05394404988268A3CF894D0A8">
+  <property __name="label" en="Odd Pages" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3950F630F9EF4E2199A6573E9AF1C92C" config_id="3950F630F9EF4E2199A6573E9AF1C92C">
+  <property __name="label" en="Middle Pages" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="4EA03EBC217B45428CF928F9CDF38C4C" config_id="4EA03EBC217B45428CF928F9CDF38C4C">
+  <property __name="label" en="All Pages" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8A6D54A802814D2D840ADD2CE424D4EA" config_id="8A6D54A802814D2D840ADD2CE424D4EA">
+  <property __name="label" en="Last Page" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D1D0916CF08A4F57AAD3916F263E3F90" config_id="D1D0916CF08A4F57AAD3916F263E3F90">
+  <property __name="label" en="First Page" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D6CD45F8010E4E68BC70399E337A4C67" config_id="D6CD45F8010E4E68BC70399E337A4C67">
+  <property __name="label" en="Even Pages" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="06B411D346914EFC89D2ACF44A8D3366" config_id="06B411D346914EFC89D2ACF44A8D3366">
+  <property __name="label" en="Select Item in Grid " zc="" />
+ </Item>
+ <Item type="Value" keyed_name="24AC17A9732046A48642D5573A3AC4F1" config_id="24AC17A9732046A48642D5573A3AC4F1">
+  <property __name="label" en="Update State" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="251956C3849A431FB72DE6CB8EC61C59" config_id="251956C3849A431FB72DE6CB8EC61C59">
+  <property __name="label" en="Update Notifications" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="335D3B1517174FF9ABDD66CE0D380892" config_id="335D3B1517174FF9ABDD66CE0D380892">
+  <property __name="label" en="Split Screen" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="46893BF307CD4F4185C68861F507DD3F" config_id="46893BF307CD4F4185C68861F507DD3F">
+  <property __name="label" en="Update Props" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="56361F9E534E467DB56FEE446A7198A8" config_id="56361F9E534E467DB56FEE446A7198A8">
+  <property __name="label" en="Update Preferences" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6C7859CE94FB407389211FECF43BF342" config_id="6C7859CE94FB407389211FECF43BF342">
+  <property __name="label" en="Update SSVC Files" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="935173F3C5194AB8AD1B7E967F079579" config_id="935173F3C5194AB8AD1B7E967F079579">
+  <property __name="label" en="Update TearOff Window State" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="9C9FE8DFE07147999A64E0BE92E414FA" config_id="9C9FE8DFE07147999A64E0BE92E414FA">
+  <property __name="label" en="Select Favorite" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="AD2CDEFBA6BF452CAC5BB7E73D119AA9" config_id="AD2CDEFBA6BF452CAC5BB7E73D119AA9">
+  <property __name="label" en="Search State Change" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="AD985A03BA144EC4ACC26EEB0EFDE5D9" config_id="AD985A03BA144EC4ACC26EEB0EFDE5D9">
+  <property __name="label" en="Navigation Panel Visibility" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="D11C9392D8C14D2885F6E4D339300F25" config_id="D11C9392D8C14D2885F6E4D339300F25">
+  <property __name="label" en="Select Item in TOC" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F5DEE01B826849E99974154D81979998" config_id="F5DEE01B826849E99974154D81979998">
+  <property __name="label" en="Update Favorites" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3B397D7F45B240278D308998A0EA55CE" config_id="3B397D7F45B240278D308998A0EA55CE">
+  <property __name="label" en="High" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6C5AE91403EC4CA99B9D2B53AC0BF5A2" config_id="6C5AE91403EC4CA99B9D2B53AC0BF5A2">
+  <property __name="label" en="Medium" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BD186F11E08B4EDE8D3355405E7ED17B" config_id="BD186F11E08B4EDE8D3355405E7ED17B">
+  <property __name="label" en="Low" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="FBAD665FF8E747FA8D93F28DDC31300F" config_id="FBAD665FF8E747FA8D93F28DDC31300F">
+  <property __name="label" en="Critical" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="3B4742B33B6F487EBED28B105BEFE08F" config_id="3B4742B33B6F487EBED28B105BEFE08F">
+  <property __name="label" en="" zc="High" />
+ </Item>
+ <Item type="Value" keyed_name="60E3791445264945AABECBF3625E8EE9" config_id="60E3791445264945AABECBF3625E8EE9">
+  <property __name="label" en="" zc="Low" />
+ </Item>
+ <Item type="Value" keyed_name="CB6F8604C5D4447BB069FD71E8986C76" config_id="CB6F8604C5D4447BB069FD71E8986C76">
+  <property __name="label" en="" zc="Medium" />
+ </Item>
+ <Item type="Value" keyed_name="E-signature" config_id="F22865C96C1F4E6EA2908747AFE399BD">
+  <property __name="label" en="E-signature" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="None" config_id="68B3BE4FFCE94BE2A0C9B5978DFBEE95">
+  <property __name="label" en="None" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Password" config_id="A0E04129147D4583BA6469D4451E43FE">
+  <property __name="label" en="Password" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Main" config_id="8A0B42140F314F9E91A5D26B01D693D4">
+  <property __name="label" en="Main" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="None" config_id="CCCFF363F2614271804E4F7F85CCF051">
+  <property __name="label" en="None" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="One Window" config_id="1289FF60100646F8A7230DA32EE0F9AF">
+  <property __name="label" en="One Window" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="Window" config_id="84428521D398455AA2A17B8E454BDDCE">
+  <property __name="label" en="Window" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="634C47B2AC064DDFB302C1A19507F9BC" config_id="634C47B2AC064DDFB302C1A19507F9BC">
+  <property __name="label" en="HTML" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6ED9948D989B4ADFAC7895CE02E740D2" config_id="6ED9948D989B4ADFAC7895CE02E740D2">
+  <property __name="label" en="PDF" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F121C148848E40899FA5868C5DF9A699" config_id="F121C148848E40899FA5868C5DF9A699">
+  <property __name="label" en="XML" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="869ED208DEF747D383B2347142A1C691" config_id="869ED208DEF747D383B2347142A1C691">
+  <property __name="label" en="Item" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="85584C1960784A6BB303AB70F4185754" config_id="85584C1960784A6BB303AB70F4185754">
+  <property __name="label" en="OnTaskCreating" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="8D27E0D4C4514CF98AAE033ACA16A859" config_id="8D27E0D4C4514CF98AAE033ACA16A859">
+  <property __name="label" en="OnTaskAfterCreate" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="33D4EE16B1FF4FF38422065272FB845B" config_id="33D4EE16B1FF4FF38422065272FB845B">
+  <property __name="label" en="Not Confirmed" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="45656FA8F7AF468F8D35A2E5818BCA25" config_id="45656FA8F7AF468F8D35A2E5818BCA25">
+  <property __name="label" en="Another Problem" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F89DB9911BD04AE482A72423353D4D9C" config_id="F89DB9911BD04AE482A72423353D4D9C">
+  <property __name="label" en="Confirmed" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="A48E4F7018E9484889C35539704BDFEA" config_id="A48E4F7018E9484889C35539704BDFEA">
+  <property __name="label" en="Buy" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="DE7766C4496246A5B847C998FFE6FC81" config_id="DE7766C4496246A5B847C998FFE6FC81">
+  <property __name="label" en="Make" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="54C9DB5CB5C94C8F9D0A3885CC76024A" config_id="54C9DB5CB5C94C8F9D0A3885CC76024A">
+  <property __name="label" en="Pending" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6CCF3429FDA749F6827132263D37B18A" config_id="6CCF3429FDA749F6827132263D37B18A">
+  <property __name="label" en="Failed" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="AACB4DB16E06437F905DF7DEE6822DE4" config_id="AACB4DB16E06437F905DF7DEE6822DE4">
+  <property __name="label" en="Discarded" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EFE57156FEB84A609721FE8E6C34C502" config_id="EFE57156FEB84A609721FE8E6C34C502">
+  <property __name="label" en="NotStarted" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="F9524CB306AA4EA9BE80E0114D77B006" config_id="F9524CB306AA4EA9BE80E0114D77B006">
+  <property __name="label" en="Completed" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="False" config_id="DF83AAB6B3E8467DA324A7FBC82E8C41">
+  <property __name="label" en="False" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="True" config_id="401CA89426674780848E3310C7E21F0D">
+  <property __name="label" en="True" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="1E1453E8245845169C0B3A2DF5155C01" config_id="1E1453E8245845169C0B3A2DF5155C01">
+  <property __name="label" en="Ignore Differences" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="B69F48CF26CC4F71AFD355A0E86522ED" config_id="B69F48CF26CC4F71AFD355A0E86522ED">
+  <property __name="label" en="Force Ignore Differences" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="BD611570647A4CFBB9034AE355ECDA6A" config_id="BD611570647A4CFBB9034AE355ECDA6A">
+  <property __name="label" en="Show Differences" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="C4B6924999234BB0B26B946CC34EE654" config_id="C4B6924999234BB0B26B946CC34EE654">
+  <property __name="label" en="Force Show Differences" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="6F6B79F3BC7C4A82BA2E443E68AE3D18" config_id="6F6B79F3BC7C4A82BA2E443E68AE3D18">
+  <property __name="label" en="DB Patch" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="EED622DCF6E64761B79E57C1E6D46461" config_id="EED622DCF6E64761B79E57C1E6D46461">
+  <property __name="label" en="Package Import" zc="" />
+ </Item>
+ <Item type="Value" keyed_name="5FD692869FDB46248D027E52E6D2BEB8" config_id="5FD692869FDB46248D027E52E6D2BEB8">
+  <property __name="label" en="" zc="Save to file" />
+ </Item>
+ <Item type="Value" keyed_name="71A11CAE632D411DA333E99194F288F9" config_id="71A11CAE632D411DA333E99194F288F9">
+  <property __name="label" en="" zc="Show in browser" />
+ </Item>
+ <Item type="Value" keyed_name="0595CDC423A34622A846ED3E81D2EEEC" config_id="0595CDC423A34622A846ED3E81D2EEEC">
+  <property __name="label" en="ItemType" zc="对象类" />
+ </Item>
+ <Item type="Value" keyed_name="3933685DA2584ED9A5D7D922AD0BCC99" config_id="3933685DA2584ED9A5D7D922AD0BCC99">
+  <property __name="label" en="Item" zc="对象" />
+ </Item>
+ <Item type="Value" keyed_name="79F228772C604EB09C2FD0F2F7A3D776" config_id="79F228772C604EB09C2FD0F2F7A3D776">
+  <property __name="label" en="Graph View" zc="图形视图" />
+ </Item>
+ <Item type="Value" keyed_name="830203EBBC47452CB48004170423ACD0" config_id="830203EBBC47452CB48004170423ACD0">
+  <property __name="label" en="Enterprise Search" zc="全局搜索" />
+ </Item>
+ <Item type="Value" keyed_name="D1E6667FE71245D2B7AA9C67FDD6654D" config_id="D1E6667FE71245D2B7AA9C67FDD6654D">
+  <property __name="label" en="Search" zc="搜索" />
+ </Item>
+ <Item type="Value" keyed_name="DB6B0F734CAB44208700A66189F0C98A" config_id="DB6B0F734CAB44208700A66189F0C98A">
+  <property __name="label" en="Grid Layout" zc="表格布局" />
+ </Item>
+ <Item type="Value" keyed_name="F052A659BCE74715BD2B9C1CD4041A32" config_id="F052A659BCE74715BD2B9C1CD4041A32">
+  <property __name="label" en="Tree Grid View" zc="树状网格视图" />
+ </Item>
+</export>

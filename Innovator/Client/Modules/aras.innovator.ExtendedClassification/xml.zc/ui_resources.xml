@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ui_resources>
+	<resource key="insert_placeholder" value="Insert" />
+	<resource key="apply_button" value="Apply" />
+	<resource key="toolbar_columns_label" value="Properties" />
+	<resource key="toolbar_properties_label" value="Properties of" />
+	<resource key="classEditor.tree.no_properties" value="No properties to display" />
+
+	<resource key="classEditor.grid.dnd_label" value="Drag / Drop" />
+	<resource key="classEditor.tree.dialog.insert_sub" value="Insert Sub-class" />
+	<resource key="classEditor.tree.dialog.nameRequired" value="Name is required" />
+	<resource key="classEditor.tree.context_menu.rename" value="Rename" />
+	<resource key="classEditor.tree.context_menu.delete" value="Delete" />
+	<resource key="classEditor.tree.toolbar.save" value="Save" />
+	<resource key="classEditor.tree.toolbar.cancel" value="Cancel" />
+	<resource key="classEditor.tree.select.all_extended" value="Extended" />
+	<resource key="classEditor.tree.select.all_and_extended" value="All" />
+	<resource key="classEditor.tree.select.standard" value="Standard" />
+	<resource key="classEditor.tree.select.relationship" value="Relationship" />
+	<resource key="classEditor.tree.show_all" value="Show All" />
+	<resource key="classEditor.tree.search.input_placeholder" value="Find in Tree" />
+	<resource key="classEditor.tree.search.found_of_matches" value="{0} of {1}"/>
+	<resource key="classEditor.tree.class_filtered" value="Class Filtered" />
+	<resource key="classEditor.tree.filtered" value="Filtered by Classifications" />
+
+	<resource key="xClassSearchControl" value="Classifications" />
+	<resource key="xClassSearchControl.not_found" value="xClass not Found" />
+	<resource key="xClassSearchControl.xClass.any_classification" value="Any Classification" />
+	<resource key="xClassSearchControl.filter.active_filters" value="Active Filters" />
+	<resource key="xClassSearchControl.filter.all_active" value="All Active" />
+	<resource key="xClassSearchControl.filter.active_searches" value="Active Searches" />
+	<resource key="xClassSearchControl.filter.all" value="Everything" />
+	<resource key="xClassSearchControl.filter.panel.active_filters" value="Showing Active Filters" />
+	<resource key="xClassSearchControl.filter.panel.all_active" value="Showing All Active" />
+	<resource key="xClassSearchControl.filter.panel.active_searches" value="Showing Active Searches" />
+	<resource key="xClassSearchControl.filter.panel.search_by" value="Showing Results for &quot;{0}&quot;" />
+	<resource key="xClassSearchControl.checkbox_label.default" value="May be classified as" />
+	<resource key="xClassSearchControl.checkbox_label.checked" value="Classified as" />
+	<resource key="xClassSearchControl.checkbox_label.hard_checked" value="Classified as any Subclasses" />
+	<resource key="xClassSearchControl.checkbox_label.unchecked" value="Not classified as" />
+	<resource key="xClassSearchControl.checkbox_label.hard_unchecked" value="Not classified as any Subclasses" />
+	<resource key="xClassSearchControl.xclassbar.checkbox.checked" value="{0}" />
+	<resource key="xClassSearchControl.xclassbar.checkbox.hard_checked" value="({0} OR any of its subclasses)" />
+	<resource key="xClassSearchControl.xclassbar.checkbox.unchecked" value="NOT {0}" />
+	<resource key="xClassSearchControl.xclassbar.checkbox.hard_unchecked" value="NOT ({0} OR any of its subclasses)" />
+	<resource key="xClassSearchControl.xclassbar.checkbox.all_checked" value="Any Classification" />
+	<resource key="xClassSearchControl.xclassbar.checkbox.all_unchecked" value="Not classified" />
+	<resource key="xClassSearchControl.xclassbar.checkbox.logic.AND" value="AND" />
+	<resource key="xClassSearchControl.xclassbar.checkbox.logic.OR" value="OR" />
+
+	<resource key="fieldtool.xClassesControl.already_exists" value="xClass control already exists on the form"/>
+
+	<resource key="xClassesControl.delete_class" value="Class '{0}' will be deleted on Save of the Item. Are you sure?" />
+	<resource key="xClassesControl.restore_deleted_class" value="Deleted class '{0}' will be returned to the Item. Are you sure?" />
+	<resource key="xClassesControl.classificationDialogTitle" value="Classification" />
+	<resource key="xClassesControl.dialogSearchPlaceholder" value="Search..." />
+	<resource key="xClassesControl.default_label" value="xClass" />
+	<resource key="xClassesControl.value_not_exist_for_it" value="Value entered does not exist for {0}. Edit again?"/>
+	<resource key="xClassesControl.invalid_xclass_on_item" value="Item has unknown class"/>
+	<resource key="xClassesControl.field_context_menu.reset" value="Reset"/>
+	<resource key="xClassesControl.field_context_menu.permission" value="Permissions"/>
+	<resource key="xClassesControl.field_context_menu.viewPermission" value="View"/>
+	<resource key="xClassesControl.field_context_menu.createPermission" value="Create"/>
+	<resource key="xClassesControl.field_context_menu.pickReplacePermission" value="Pick/Replace"/>
+	<resource key="xClassesControl.property_reset_confirm_message" value="Value of '{0}' property will be reset. Are you sure?"/>
+
+	<resource key="xClassesControl.edit_form.xClass_Sample_1" value="xClass Sample 1" />
+	<resource key="xClassesControl.edit_form.xClass_Sample_2" value="xClass Sample 2" />
+	<resource key="xClassesControl.edit_form.xProperty_A" value="xProperty A" />
+	<resource key="xClassesControl.edit_form.xProperty_B" value="xProperty B" />
+	<resource key="xClassesControl.edit_form.xProperty_C" value="xProperty C" />
+	<resource key="xClassesControl.edit_form.xProperty_X" value="xProperty X" />
+	<resource key="xClassesControl.edit_form.xProperty_Y" value="xProperty Y" />
+	<resource key="xClassesControl.edit_form.xProperty_Y.value" value="Sample" />
+	<resource key="xClassesControl.edit_form.xProperty_Z" value="xProperty Z" />
+</ui_resources>

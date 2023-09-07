@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ui_resources>
+	<resource key="cui_on_init_handler_error" value="Toolbar item initialization error: {0}" />
+</ui_resources>

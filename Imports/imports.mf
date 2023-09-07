@@ -1,0 +1,4 @@
+<imports>
+  <package name="com.aras.innovator.i18n" path=".\" />
+  
+</imports>

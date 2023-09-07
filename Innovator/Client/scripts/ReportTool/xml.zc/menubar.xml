@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+'
+' (c) Copyright by Aras Corporation, 2004-2007.
+'
+-->
+<menuapplet
+  on_select = "onClickItem"
+  on_check  = "onCheckMenu"
+  on_load   = "onMenuLoad"
+  show      = "menubar">
+
+  <menubar id="menubar">
+    <menu id="file_menu" name="File">
+      <item id="new" name="New" disabled="true"/>
+      <item id="save" name="Save" disabled="true"/>
+      <separator/>
+      <item id="print" name="Print"/>
+      <separator/>
+      <item id="save_unlock_close" name="Save, Unlock &amp; Close" disabled="true"/>
+      <separator/>
+      <item id="close" name="Close"/>
+    </menu>
+
+    <menu id="edit_menu" name="Edit">
+      <item id="lock" name="Lock" disabled="true"/>
+      <item id="unlock" name="Unlock" disabled="true"/>
+      <separator/>
+      <item id="undo" name="Undo changes" disabled="true"/>
+    </menu>
+	
+    <menu id="views_menu" name="Views">
+      <item id="access" name="Access" />
+      <item id="query" name="Query Form" />
+      <item id="style_tree" name="Style Navigator" />
+      <item id="textpad" name="Textpad" />
+    </menu>
+    
+  </menubar>
+</menuapplet>

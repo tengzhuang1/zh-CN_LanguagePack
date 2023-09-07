@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_click="onClickItem" on_load="onToolbarLoad" on_menu_show="onToolbarMenuShow" on_menu_click="onToolbarMenuClickItem" buttonstyle="windows" buttonsize="26,25">
+  <toolbar id="item">
+    <button image="../images/Print.svg" id="print_item" tooltip="打印" text="打印"/>
+    <button image="../images/PrintPreview.svg" id="print_preview" tooltip="打印预览..." text="打印预览"/>
+  </toolbar>
+  <toolbar id="itemsGrid">
+    <button image="../images/Print.svg" id="print_itemsGrid" tooltip="打印" text="打印" />>
+    <button image="../images/PrintPreview.svg" id="print_preview" tooltip="打印预览" text="打印预览"/>
+    <drop_down_button image="../images/Component.svg" id="setup_itemsGrid" tooltip="选项" text="选项" />
+  </toolbar>
+</toolbarapplet>

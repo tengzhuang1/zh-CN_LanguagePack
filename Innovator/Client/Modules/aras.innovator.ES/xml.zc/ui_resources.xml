@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ui_resources>
+	<!--Advertisements-->
+	<resource key="advertisement.get_subscription" value="Subscribers get Enterprise Search where users get to search across various Item Types and Files including content within Files, and more!" />
+	<resource key="advertisement.see_more" value="See More" />
+
+	<!--Tab-->
+	<resource key="tab.title" value="Search Items and Files" />
+</ui_resources>

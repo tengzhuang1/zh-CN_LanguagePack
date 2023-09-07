@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+'
+' (c) Copyright by Aras Corporation, 2004-2007.
+'
+' Purpose: This is the table tool bar for the Designer page.
+'
+-->
+<toolbarapplet
+  on_click      = "onClickItem"
+  on_load       = "onToolbarLoad"
+  buttonstyle   = "windows"
+  buttonsize    = "22,22"
+  font          = "Arial-12"
+  bottom_border = "1">
+
+  <toolbar id="normal">
+    <button image="../scripts/ReportTool/images/16x16_newTable.gif"  id="table"    tooltip="Insert Table"     >Table  </button>
+    <button image="../scripts/ReportTool/images/16x16_rowAbove.gif"  id="tr-above" tooltip="Insert Row Above" >Row Above  </button>
+    <button image="../scripts/ReportTool/images/16x16_rowBelow.gif"  id="tr-below" tooltip="Insert Row Below" >Row Below  </button>
+    <button image="../scripts/ReportTool/images/16x16_cellLeft.gif"  id="td-left"  tooltip="Insert Cell Left" >Cell Left  </button>
+    <button image="../scripts/ReportTool/images/16x16_cellRight.gif" id="td-right" tooltip="Insert Cell Right">Cell Right  </button>
+    <separator/>
+    <button image="../scripts/ReportTool/images/16x16_deleteCell.gif" id="del-cell" tooltip="Delete Cell">Delete Cell  </button>
+    <button image="../scripts/ReportTool/images/16x16_deleteRow.gif"  id="del-row"  tooltip="Delete Row" >Delete Row  </button>
+    <separator/>
+    <button image="../scripts/ReportTool/images/16x16_cssStyles.gif" id="styles"     tooltip="Styles"    >Styles  </button>
+    <button image="../scripts/ReportTool/images/16x16_cellStyle.gif" id="cell-style" tooltip="Cell Style">Style  </button>
+    <button image="../scripts/ReportTool/images/16x16_value.gif"     id="cell-value" tooltip="Cell Value">Value  </button>
+    <button image="../scripts/ReportTool/images/16x16_picture.gif"   id="image"      tooltip="Image"     >Image  </button>
+    <separator/>
+    <button image="../scripts/ReportTool/images/16x16_refresh.gif" id="refresh" tooltip="Refresh Item">Refresh  </button>
+  </toolbar>
+
+</toolbarapplet>

@@ -1,0 +1,13 @@
+<export>
+  <database
+    server="ndm\ndm"
+    db="CoreSolutions83"
+    login="innovator"
+    pwd="innovator" />
+  <languages list="en, zh" />
+  <packages list="com.aras.innovator.solution.Project" />
+  
+  <itemtype name="ItemType">
+    <properties list="label,label_plural" />
+  </itemtype>
+</export>

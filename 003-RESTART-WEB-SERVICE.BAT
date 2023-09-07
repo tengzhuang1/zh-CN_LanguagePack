@@ -1,0 +1,3 @@
+NET STOP w3svc
+NET START w3svc
+PAUSE

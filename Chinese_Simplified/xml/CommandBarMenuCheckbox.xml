@@ -1,0 +1,38 @@
+﻿<export>
+ <Item type="CommandBarMenuCheckbox" keyed_name="searchview.commandbar.default.display.preview.hide" config_id="02923A603E474DF78F9E4188AC6366BE">
+  <property __name="label" en="Hide Preview" zc="隐藏" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="searchview.commandbar.default.display.preview.properties" config_id="2F1C663BE7094CAC95E4B2AF434E47B6">
+  <property __name="label" en="Properties Preview" zc="属性" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwh_wildcards" config_id="2F96FFC6E94748DE83EFCB50ACBDD46B">
+  <property __name="label" en="Use Wildcards" zc="使用通配符" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="searchview.commandbar.layouts.default" config_id="7D7D68FED92D48ECA0C30627BF9F9069">
+  <property __name="label" en="Default" zc="" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="searchview.commandbar.default.display.preview.form" config_id="7F337FA14F3F4AFA89DB3631B63C1517">
+  <property __name="label" en="Form Preview" zc="窗体" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwh_sort_pages" config_id="946D2BD47BB340948F7201EF2EB41306">
+  <property __name="label" en="Sort Across Pages" zc="跨页面排序" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwh_debug_on_off" config_id="A4DD8E2B13544027A23ABB3385AC6DB7">
+  <property __name="label" en="Debug" zc="调试" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwh_offDState" config_id="A7AAD5E54E0643C4954FF7BDB4632DFF">
+  <property __name="label" en="Off" zc="关" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwh_onDState" config_id="B50D85607FB34FBBB4D2F1C9A9BF4A98">
+  <property __name="label" en="On" zc="开" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwh_append" config_id="D15140DFEC3549C387C8EE190019A82C">
+  <property __name="label" en="Append Results" zc="追加查询结果" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwh_defaultDState" config_id="E5BC452FA38F470BBCD02755A671E131">
+  <property __name="label" en="Default" zc="默认" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="searchview.commandbar.layouts.standard" config_id="F5EE046ECE784011ABDDB6CA4550B03E">
+  <property __name="label" en="Standard" zc="" />
+ </Item>
+</export>

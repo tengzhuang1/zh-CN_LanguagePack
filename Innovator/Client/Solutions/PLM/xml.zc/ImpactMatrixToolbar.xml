@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<toolbarapplet buttonsize="26,25">
+	<toolbar id="toolbar">
+		<button text="添加零部件" id="new" image="../images/New.svg" tooltip="添加零部件" statusmsg="Add Item" disabled="true"/>
+    		<button text="打开全部" id="expand_all" image="../images/ExpandAll.svg" tooltip="打开全部" />
+    		<button text="关闭全部" id="collapse_all" image="../images/CollapseAll.svg" tooltip="关闭全部" />
+    		<button text="刷新" id="refresh_all" image="../images/Refresh.svg" tooltip="刷新" />
+	</toolbar>
+</toolbarapplet>

@@ -1,0 +1,435 @@
+﻿<export>
+ <Item type="Activity Template" keyed_name="Review ECR" config_id="028D8BD476CD457FA74F2A43B08091A3">
+  <property __name="message" en="An ECR has been submitted, please review it" zc="An ECR has been submitted, please review it" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Update Documents" config_id="059D32A19ADC4C589494AF197D8A6423">
+  <property __name="message" en="Update Documents" zc="Update Documents" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Close Change" config_id="06E1D6B0572345F487F8C501A210725A">
+  <property __name="label" en="Close Change" zc="关闭变更" />
+  <property __name="message" en="Workflow End" zc="Workflow End" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Prepare Change" config_id="098E20E506704A37993AAE56E688F1FB">
+  <property __name="message" en="Prepare the change for submission" zc="Prepare the change for submission" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Start" config_id="0AE0620A571B46D78B4B17AAC8B1F490">
+  <property __name="label" en="Start" zc="开始" />
+  <property __name="message" en="Workflow Start" zc="Workflow Start" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Initial Review" config_id="0BD02971021D4C5FB54351796893A9CF">
+  <property __name="label" en="" zc="初审" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Initial Review" config_id="10AC4AC911A64B18A4AE34297E5A89D7">
+  <property __name="label" en="" zc="初审" />
+  <property __name="message" en="Implementation Planning" zc="请审查变更内容是否符合要求." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Replanning" config_id="10E93384DEDD4F4D82DEF95F30E29F6F">
+  <property __name="label" en="" zc="重新规划" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Final Review" config_id="11252001DEF8432E9684EAB3504AE3B4">
+  <property __name="label" en="Final Review" zc="最终审批" />
+  <property __name="message" en="Review document changes" zc="Review document changes" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Rejected" config_id="1A1410564BA74A10963BAF5B8ECA6B48">
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Start" config_id="1A2925E711504D7189652FA160C7BFB4">
+  <property __name="label" en="" zc="开始" />
+  <property __name="message" en="Workflow Start" zc="Workflow Start" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Draft Changes" config_id="1C62DA2A77BA4D78A30A4C41B9D2B4AE">
+  <property __name="label" en="Draft Changes" zc="修改草案" />
+  <property __name="message" en="Update affected items" zc="Update affected items" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Final Review" config_id="1C8C7A78FD184B2AB2F953D8F7DA71FA">
+  <property __name="label" en="" zc="复审" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Cancel" config_id="221D850EA5D74D3399A2B83B1AA4117E">
+  <property __name="label" en="" zc="取消" />
+  <property __name="message" en="Please Review..." zc="Workflow End" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Initial Review" config_id="23E1CA98056842D58B55D0D346448628">
+  <property __name="label" en="" zc="初审" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Draft Changes" config_id="2882A4C073ED4FAAAF70F17A3EBEE323">
+  <property __name="label" en="Draft Changes" zc="修改" />
+  <property __name="message" en="Update affected documents" zc="Update affected documents" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Draft Changes" config_id="29DB24C928874F3EBDA662CE7053BF05">
+  <property __name="message" en="Please implement the change" zc="Please implement the change" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Review Deviation" config_id="2A41C06E45794C638CF2DEFF5D2797E9">
+  <property __name="label" en="" zc="审批偏差" />
+  <property __name="message" en="Please Review the Deviation" zc="Please Review the Deviation" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Online CRB" config_id="2E383D87F94942B48DAE4D2692B465CF">
+  <property __name="message" en="Change Review Board" zc="Change Review Board" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Review PR" config_id="2FFDC4B9203146FEB3D6EF088001DBB9">
+  <property __name="message" en="Please Review the Problem Report" zc="Please Review the Problem Report" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Accept" config_id="310BDA5A84004F8FAC0F508E20889EB5">
+  <property __name="label" en="" zc="确定送出" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Deviation Rejected" config_id="36F29C6C5BB945E09666341BA54D1806">
+  <property __name="label" en="" zc="已拒绝" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Final Review" config_id="3EB4DDE458AF44EDBEDCDBA615956675">
+  <property __name="label" en="" zc="复审" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="End" config_id="3EF646BEB34540AFBFA2120A84CD23BE">
+  <property __name="label" en="" zc="结束" />
+  <property __name="message" en="Please Review..." zc="Flow Completed.." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Accept" config_id="428A61EDF5B644BC9D1662F70BDC0505">
+  <property __name="label" en="" zc="确定送出" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Cancel Change" config_id="459757A0806A4299B796D5B996AF9090">
+  <property __name="message" en="Change Cancelled" zc="Change Cancelled" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Approved" config_id="4702E89E805249C98E65CED6CE5D4EC9">
+  <property __name="message" en="Please Review..." zc="Workflow End" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Technical Review" config_id="49EA7943096646CB8FC2E179640D38D6">
+  <property __name="message" en="Please perform a technical review of the ECR" zc="Please perform a technical review of the ECR" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Initial Review" config_id="4A245C410B824715BA6A526A46E57816">
+  <property __name="message" en="Please perform an initial review of the change" zc="Please perform an initial review of the change" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Replanning" config_id="4B1AEA48D9D345BAAB3A3167B7837D80">
+  <property __name="label" en="" zc="重新规划" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Cancel Change" config_id="4E090ECF825E4CBCB370ED9CC440C4F9">
+  <property __name="label" en="Cancel Change" zc="取消" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="DCC approval" config_id="4E9D5E341CC341579B77CAFF3240B983">
+  <property __name="label" en="" zc="DCC发行" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Rejected" config_id="5170E18A24624B6397594C1BEF81AEBF">
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Change Review" config_id="519B14F681E8417D88CEB5C84C108C2A">
+  <property __name="label" en="Change Review" zc="更改评审" />
+  <property __name="message" en="Review changes made by the ECO" zc="Review changes made by the ECO" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Start" config_id="569384A3A9684B3FB046A47D6FAA9FF4">
+  <property __name="label" en="" zc="开始" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="ECN Planning" config_id="59E1B29C16A244B7BBB25E5E9B92CEA0">
+  <property __name="message" en="Implementation Planning" zc="Implementation Planning" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Review Waiver" config_id="5A000365698D49B7943B2DFD2375CBA7">
+  <property __name="label" en="" zc="审批豁免单" />
+  <property __name="message" en="Please Review the Waiver" zc="Please Review the Waiver" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Start" config_id="5AC0991A91A64077A1C36E12B1A5EC0E">
+  <property __name="message" en="Workflow Start" zc="Workflow Start" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Review Purge Notice" config_id="5EBDAA4F52E744298C54C5C9D174FB0D">
+  <property __name="message" en="Please Review..." zc="Please Review the Purge Notice" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Disposition ECR" config_id="5EC56FC2EE6D4011B8989E0086D84BB9">
+  <property __name="message" en="Disposition the ECR" zc="Disposition the ECR" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Submit ECR" config_id="5F2F0557E01848A39850DBEA8A3B6B50">
+  <property __name="message" en="Submit the ECR for review" zc="Submit the ECR for review" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Planning" config_id="6227E660E4B94426BA9301AB6EA1A92F">
+  <property __name="label" en="Planning" zc="计划中" />
+  <property __name="message" en="Perform ECO implementation planning" zc="Perform ECO implementation planning" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Pending Closure" config_id="64427A6FFDD241F587EF58BADB37BD84">
+  <property __name="label" en="Pending Closure" zc="即将关闭" />
+  <property __name="message" en="Subordinate EDR is complete - ready for ECO closure" zc="Subordinate EDR is complete - ready for ECO closure" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Submit Deviation" config_id="644484D8A386462AA08F92DAA8BD8191">
+  <property __name="label" en="" zc="提交偏差请求" />
+  <property __name="message" en="Please submit the Deviation" zc="Please submit the Deviation" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Waiver Rejected" config_id="65DAFF1CBD5744B193547FE9DCF4B30A">
+  <property __name="label" en="" zc="豁免被拒绝" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Rework Order Rejected" config_id="678214CFB24A49C09A8775AC4257CF3F">
+  <property __name="label" en="" zc="返工单被拒绝" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Plan Review" config_id="69CD547BC30F4031B1765F866CA2CACA">
+  <property __name="label" en="Plan Review" zc="计划审查" />
+  <property __name="message" en="Review ECO implementation plan" zc="Review ECO implementation plan" />
+ </Item>
+ <Item type="Activity Template" keyed_name="End" config_id="6F4F1FD4C1884F3D80DD19D69C81855E">
+  <property __name="label" en="" zc="结束" />
+  <property __name="message" en="Workflow End" zc="Workflow End" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Auto Verify" config_id="73E2F34629D34DB5B0B1C6F0BE7ADD9C">
+  <property __name="label" en="" zc="自动送审" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Release Change" config_id="74F49945785B4DAF9F8A3354B153CBF0">
+  <property __name="message" en="Change Released" zc="Change Released" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Submit ECO" config_id="767C27CFC3534D4C84CBF3AE42A57AB7">
+  <property __name="label" en="Submit ECO" zc="提交ECO" />
+  <property __name="message" en="Please fill out and submit the ECO" zc="Please fill out and submit the ECO" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Review Rework Order" config_id="798418AEA660428ABA827F3890CCE2A8">
+  <property __name="label" en="" zc="审批返工单" />
+  <property __name="message" en="Please review the Rework Order" zc="Please review the Rework Order" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Execute change" config_id="7B7BA5040917467E9915891CDEA2DE56">
+  <property __name="label" en="" zc="执行变更" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Start" config_id="7BC0BC6409904F66A9E5D45425F8967F">
+  <property __name="message" en="Please Review..." zc="Workflow Start" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Change Plan Review" config_id="7CBD21A7C4FB4B8ABD963A4365FFA39D">
+  <property __name="label" en="" zc="变更规划审查" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="ECR Approved" config_id="807E46949BC74F9D851D90EBCE961D8F">
+  <property __name="message" en="ECR Approved" zc="ECR Approved" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Planning" config_id="80D9277D123147BDBA5CCDB2564939CB">
+  <property __name="label" en="Planning" zc="计划中" />
+  <property __name="message" en="Perform DCO Planning" zc="Perform DCO Planning" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Start" config_id="868F24042D6D429D96D64C4D26562E2A">
+  <property __name="message" en="Please Review..." zc="Workflow Start" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Start" config_id="86ECC802774C4C72B33BB64429373BF6">
+  <property __name="message" en="Workflow Start" zc="Workflow Start" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Prepare CRB" config_id="8711D3D13FE34BD486C66CDF44420381">
+  <property __name="message" en="Prepare for CRB" zc="Prepare for CRB" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Change Plan Review" config_id="88FC318F536546A5A81A5C4002D1599E">
+  <property __name="label" en="" zc="变更规划审查" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Review Hold Notice" config_id="8A61DACB17AD40E38906075659EF426F">
+  <property __name="message" en="Please Review..." zc="Please Review the Hold Notice" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Start" config_id="8BF55BA2F58B42CE8F72C91363046E71">
+  <property __name="label" en="Start" zc="开始" />
+  <property __name="message" en="Workflow Start" zc="Workflow Start" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Draft Changes" config_id="8C959D501396469F8F1CDFD3E3D72C02">
+  <property __name="label" en="Draft Changes" zc="修改草案" />
+  <property __name="message" en="Update affected documents" zc="Update affected documents" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Approved" config_id="8EC0BE018CC942F8B1B91D90F87ADF4D">
+  <property __name="message" en="Please Review..." zc="Workflow End" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Start" config_id="8FCC68E2F27D4D0B9D6A1F3DBCA6D150">
+  <property __name="label" en="" zc="开始" />
+  <property __name="message" en="Workflow Start" zc="Workflow Start" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Accept" config_id="9063BCE98B6C49E9A0C863FDC4816752">
+  <property __name="label" en="" zc="确认送出" />
+  <property __name="message" en="Please submit the ECN" zc="确认窗体填写完整,且附挂正确变更的零部件" />
+ </Item>
+ <Item type="Activity Template" keyed_name="ECR Cancelled" config_id="93291292A18A42039D76579252DF1773">
+  <property __name="message" en="ECR Cancelled" zc="ECR Cancelled" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Review NCR" config_id="9479B14226B54B1D96D033932AB14CE9">
+  <property __name="message" en="Please Review..." zc="Please Review the non-conformance report" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Submit NCR" config_id="96BF3172B6CE4D86A3B0024EA935ACED">
+  <property __name="message" en="Please Review..." zc="Please Submit the non-conformance report" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Initial Review" config_id="9ADFF72077994D15A3740CC7251E9E47">
+  <property __name="label" en="Initial Review" zc="初始审查" />
+  <property __name="message" en="Review document changes" zc="Review document changes" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Prepare Hold Notice" config_id="9BAFE3C35A5D481EB48EC5DF25640DB5">
+  <property __name="label" en="" zc="Prepare Hold Notice" />
+  <property __name="message" en="Please Review..." zc="Please prepare the Hold Notice" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Investigate Root Cause(s)" config_id="9BC4DC7DCBDF4EA5A1CE846B965B9825">
+  <property __name="label" en="" zc="Investigate Root Cause(s)" />
+  <property __name="message" en="Please Review..." zc="Please Perform the Root Cause Analysis" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Execute change" config_id="A1714D09CCEA4BF68CA6B1C8AAC7114D">
+  <property __name="label" en="" zc="执行变更" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="DCC approval" config_id="A1FFFA04FBDB406093591DB036648AEF">
+  <property __name="label" en="" zc="DCC发行" />
+  <property __name="message" en="Review Documents" zc="完成发行作业,若有需要请在结束节点指派通知成员." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Approve PR" config_id="A4D774624F8544A1A247B6C33B1E8530">
+  <property __name="message" en="Please approve the Problem Report" zc="Please approve the Problem Report" />
+ </Item>
+ <Item type="Activity Template" keyed_name="PR Unverified" config_id="A6AC7513AB8C4E2A950EEEC832F50A70">
+  <property __name="message" en="We were not able to verify your Problem Report" zc="We were not able to verify your Problem Report" />
+ </Item>
+ <Item type="Activity Template" keyed_name="CRB Meeting" config_id="A7AAE64409194A34ACF2ED3539181DCB">
+  <property __name="message" en="Schedule and hold a CRB meeting" zc="Schedule and hold a CRB meeting" />
+ </Item>
+ <Item type="Activity Template" keyed_name="PR Pending" config_id="A7B42005E07E4BD2AAD467585D307046">
+  <property __name="message" en="Workflow End" zc="Workflow End" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Waiver Approved" config_id="A7FB39F4175246D3A77E6DA15EE33A5D">
+  <property __name="label" en="" zc="豁免批准" />
+  <property __name="message" en="Workflow End" zc="Workflow End" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Review Rejected ECR" config_id="A9DAE141CAEC4219B584AB15A8E84905">
+  <property __name="message" en="Please review the rejected ECR" zc="Please review the rejected ECR" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Start" config_id="A9EA033FED8D435CA3747ABCB5D80B30">
+  <property __name="message" en="Please Review..." zc="Workflow Start" />
+ </Item>
+ <Item type="Activity Template" keyed_name="ECR Disapproved" config_id="ABB730B981524D2CB15CE9E3FC80A071">
+  <property __name="message" en="ECR Disapproved" zc="ECR Disapproved" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Submit ECN" config_id="AEE79AF21B7F425EBB2B19CFCEEAFFAE">
+  <property __name="message" en="Please submit the ECN" zc="Please submit the ECN" />
+ </Item>
+ <Item type="Activity Template" keyed_name="DCC approval" config_id="B0CC754726EF4C0B842997B5C40A27E4">
+  <property __name="label" en="" zc="DCC发行" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Prepare Purge Notice" config_id="B151E86F6DCA484DB3445B409823D736">
+  <property __name="message" en="Please Review..." zc="Please prepare the Purge Notice" />
+ </Item>
+ <Item type="Activity Template" keyed_name="CCB Review" config_id="B3EBD53FA2FF4DFFA30E32F612B45AF2">
+  <property __name="message" en="Please perform a CCB Review" zc="Please perform a CCB Review" />
+ </Item>
+ <Item type="Activity Template" keyed_name="ECN Audit" config_id="B66441FCD1DD42368E3662B1AC7FE790">
+  <property __name="message" en="ECN Audit" zc="ECN Audit" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Start" config_id="B9DB7014B9E84AB888BB09D439526746">
+  <property __name="message" en="Please Review..." zc="Workflow Start" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Deviation Approved" config_id="BA13296DB4EC4AD0BA316FE1EFFF4D46">
+  <property __name="label" en="" zc="已批准" />
+  <property __name="message" en="Workflow End" zc="Workflow End" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Start" config_id="BD1FB71114924E93A0533F5492C31B3B">
+  <property __name="label" en="" zc="开始" />
+  <property __name="message" en="Workflow Start" zc="Workflow Start" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Cancel Change" config_id="BD478E32BF3B44979126CAFAC0ABE996">
+  <property __name="label" en="Cancel Change" zc="取消变更" />
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Approved" config_id="C1212D4B09C2406A93B6B9B5F7A35A30">
+  <property __name="message" en="Please Review..." zc="Workflow End" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Rework Order Approved" config_id="C26F8EBFA57B4BCB9710C45F9811F1F5">
+  <property __name="label" en="" zc="返工单已批准" />
+  <property __name="message" en="Workflow End" zc="Workflow End" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Initial Review" config_id="C65E1CD3A32843B5B034E3A024A9488B">
+  <property __name="label" en="Initial Review" zc="初步审批" />
+  <property __name="message" en="Review document changes" zc="Review document changes" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Route ECR" config_id="C6AD059D5D7F49A196502F1DCEB46E95">
+  <property __name="message" en="Review Technical Recommendations and Route the ECR" zc="Review Technical Recommendations and Route the ECR" />
+ </Item>
+ <Item type="Activity Template" keyed_name="ECN Released" config_id="C939A8EF25DA43E48EEC0653A76A58C4">
+  <property __name="message" en="Workflow End" zc="Workflow End" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Review Root Cause(s)" config_id="C9AA16D3DF8A4EE4AE31055234501E88">
+  <property __name="label" en="" zc="Review Root Cause(s)" />
+  <property __name="message" en="Please Review..." zc="Please Review and Sign-Off the Root Cause" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Start" config_id="CEEB8C1B77B24E7E96D860DA5E530665">
+  <property __name="message" en="Workflow Start" zc="Workflow Start" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Cancel" config_id="CF4989D8BF41463BBA5BA75D897B549B">
+  <property __name="label" en="" zc="取消" />
+  <property __name="message" en="Please Review..." zc="Workflow End" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Start" config_id="D034C3802665469BBEF9EA92356EB4DD">
+  <property __name="message" en="Please Review..." zc="Workflow Start" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Rejected" config_id="D707ADD36A524547A7E224AD58BEC582">
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="PR Rejected" config_id="DB25507BC763415C98F0DACC23424AFD">
+  <property __name="message" en="Your Problem Report has been rejected" zc="Your Problem Report has been rejected" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Review Changes" config_id="DBE076D5A2924045AC9FD236434B79B4">
+  <property __name="message" en="Please review the changes" zc="Please review the changes" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Root Cause Analysis Approved" config_id="DF0327CE4D2542FF8699699792DADBB4">
+  <property __name="label" en="" zc="Root Cause Analysis Approved" />
+  <property __name="message" en="Please Review..." zc="Workflow End" />
+ </Item>
+ <Item type="Activity Template" keyed_name="End" config_id="DFD5028BADFD444093394765E3681F05">
+  <property __name="label" en="" zc="结束" />
+  <property __name="message" en="Please Review..." zc="Flow Completed.." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Start" config_id="E00E059145C044E7B8FEB591E4233713">
+  <property __name="label" en="" zc="开始" />
+  <property __name="message" en="Workflow Start" zc="Workflow Start" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Submit Waiver" config_id="E01CF778509C4691B73221CAC1CE59DC">
+  <property __name="label" en="" zc="提交豁免单" />
+  <property __name="message" en="Please submit the Waiver" zc="Please submit the Waiver" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Review Stop Ship Notice" config_id="E1E78BB1730B47F8B8AE8353F0320BF3">
+  <property __name="message" en="Please Review..." zc="Please Review the Stop Ship Notice" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Review Documents" config_id="E2011E6437D941B7BD692A3E5EEF20BB">
+  <property __name="message" en="Review Documents" zc="Review Documents" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Final Review" config_id="E3D708582DFE40C2BED8E8262464B26B">
+  <property __name="label" en="Final Review" zc="最终审查" />
+  <property __name="message" en="Review document changes" zc="Review document changes" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Rejected" config_id="EBCEECDA64994558A6FC7624223C6403">
+  <property __name="message" en="Please Review..." zc="Please Review..." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Close Change" config_id="EF627C05C51140CDB6808DD543A88C60">
+  <property __name="label" en="Close Change" zc="关闭变更" />
+  <property __name="message" en="Workflow End" zc="Workflow End" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Approved" config_id="EFECAD78AF604DCC848B7767E9303D3B">
+  <property __name="message" en="Please Review..." zc="Workflow End" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Submit Rework Order" config_id="F266EF40CBDF40139E17B0062AA953A5">
+  <property __name="label" en="" zc="提交返工单" />
+  <property __name="message" en="Please submit the Rework Order" zc="Please submit the Rework Order" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Start" config_id="F30DFC9735A041C3955D88ECD95C6901">
+  <property __name="message" en="Start" zc="Start" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Close Change" config_id="F3A36866FCDC47FEB3E2611EE874DA75">
+  <property __name="label" en="Close Change" zc="关闭" />
+  <property __name="message" en="Workflow End" zc="Workflow End" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Audit" config_id="F4A12470178A41DEAFD5304E726A8196">
+  <property __name="label" en="" zc="审计" />
+  <property __name="message" en="ECN Audit" zc="审计" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Verify PR" config_id="F65B8C48F2F943969D1EA14F8CA91B0A">
+  <property __name="message" en="Please verify the Problem Report" zc="Please verify the Problem Report" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Prepare Stop Ship Notice" config_id="F6C8CF0F5865406E96A70540A0B8BDB7">
+  <property __name="message" en="Please Review..." zc="Please prepare the Stop Ship Notice" />
+ </Item>
+ <Item type="Activity Template" keyed_name="Review" config_id="F885CDB45AA240B98E3353B98BFC001C">
+  <property __name="label" en="" zc="复审" />
+  <property __name="message" en="Update Documents" zc="请审查变更内容是否符合要求." />
+ </Item>
+ <Item type="Activity Template" keyed_name="Start" config_id="F95A78FEFC6E44E3B0BA70DA75455939">
+  <property __name="label" en="" zc="开始" />
+  <property __name="message" en="Please Review..." zc="" />
+ </Item>
+</export>

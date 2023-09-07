@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_load="onToolbarAppletLoad" on_click="onClickItem" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="toolbar">
+	<edit id="location" tooltip="Company" label="Company:" text="" size="12"/>
+	<edit id="first_name" tooltip="First Name" label="First Name:" text="" size="12"/>
+	<edit id="last_name" tooltip="Last Name" label="Last Name:" text="" size="12"/>
+	<button image="../images/ExecuteSearch.svg" id="search" tooltip="Run search">Run search</button>
+	<button image="../images/ClearSearchCriteria.svg" id="clear" tooltip="Clear search criteria">Clear search criteria</button>
+	<separator/>
+	<button image="../images/Checkmark.svg" id="add" tooltip="Add trading partners">Add trading partners</button>
+	</toolbar>
+</toolbarapplet>
