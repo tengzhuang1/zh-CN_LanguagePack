@@ -17,7 +17,7 @@ Project | Aras
 这些是使用当前中文简体语言包和zh-cn语言环境设置机器的通用说明。
 请注意，此中文简体语言包的安装适用于大多数用户将运行中文简体Aras Innovator的系统。
 
-Step 1 - Configure the setup.
+Step 1 - 修改配置文件.
 -----------------------------
 1) 编辑 `SETUP-DEFAULTS.CMD`.
 
